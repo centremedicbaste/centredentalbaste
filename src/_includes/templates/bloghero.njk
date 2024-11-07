@@ -1,0 +1,47 @@
+<!-- bloghero.njk -->
+<section class=" inview" data-scroll-section>
+  <div class=" container-global mx-auto    height-md ptr-120 pbr-120   ">
+    <div class="row section-x  align-middle ptr-64  ">
+      <div class="col-xs-12 col-sm-7  front-text  ">
+
+        <div class="vertical-wrap mb-24">
+          <div class="vertical-inner">
+
+
+            <h3 class="fluid-9-r ttu c-accent "> 
+
+              BLOG
+
+
+            </h3> 
+            <h1 class="fluid-5-l mb-24 "> 
+
+              {% call insert.splitenpalabras( title   ) %} {% endcall %}
+
+
+            </h1> 
+
+            <h2 class="fluid-6-l "> 
+
+              {% call insert.splitenpalabras( subtitle   ) %} {% endcall %}
+
+
+            </h2> 
+          </div>
+        </div>
+
+
+
+      </div>
+      {% if not noheroimage %}
+      <div class="col-xs-12 col-sm-4 ">
+        {% if imagemini %}
+        <img class="video-cover" width="100%" height="auto" src="{{ imagemini }}" alt="{{ imageAlt }}" />
+        {% elseif image %}
+        <img class="" width="100%" height="auto" src=" {{ image }}" alt="{{ imageAlt }}" />
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,117 @@
+{
+  "base_modules": "../../../node_modules/boilerplate-modules/src/_includes/",
+  "search_console": "VJczrBeO31v4cRQZR4yNkB6NO117Ll6bUrrOMFnD3pk",
+  "c_gray": "#727272",
+  "c_primary": "#957059",
+  "c_secondary": "#1e1e1e",
+  "c_accent": "#ff0000",
+  "bg_dark": "#1D1E23",
+  "bg_light": "#f3f2f0",
+  "c_bg_light": "#2b2a28",
+  "c_bg_dark": "#f7f6f5",
+  "bg_primary": "#F8F3EF",
+  "btn_radius": "0px",
+  "padding-": "16px",
+  "title": "Centre Dental Basté",
+  "lang": "es-es",
+  "footer": "",
+  "url": "https://centredentalbaste.com",
+  "legal_nombre_titular": "Centre dental Basté S.L.",
+  "legal_nif_titular": "número de identificación fiscal",
+  "legal_direccion_titular": "dirección del titular",
+  "empresa_legal_direccion": "Riera Basté 18-20, 08830, Sant boi ",
+  "empresa_legal": "Centre dental Basté S.L.",
+  "empresa_corto": "nombre comercial",
+  "website": "www.centredentalbaste.com",
+  "whatsapp": "",
+  "direction_link": "enlace de ubicación",
+  "empresa_copyright": " © 2023 Boilerplate",
+  "author": "Manuel Ruiz",
+  "authorweb": "design-systems.es",
+  "imageDir": "/assets/static/images/",
+  "contact_img": "/assets/static/images/1.jpg",
+  "home_image": "/assets/static/images/casa2.webp",
+  "home_video": "https://res.cloudinary.com/manuel-ruiz/video/upload/v1728057848/t5njqr1oaifcqeuwognq.mp4",
+  "seo_title": "título seo",
+  "seo_description": "descripción seo",
+  "tag_manager": "",
+  "googlemaps_link": "",
+  "googlemaps_iframe": "",
+  "social_linkedin": "https://www.linkedin.com/",
+  "social_youtube": "https://www.youtube.com/",
+  "social_instagram": "https://www.instagram.com/",
+  "hero_description": "BIENVENIDO A CENTRE DENTAL BASTÉ",
+  "hero_title": "DESCUBRE ^ TU MEJOR ^ SONRISA",
+  "hero_btn": "CONTÁCTANOS",
+  "introbenefits2_subtitle": "Gestión y confianza",
+  "introbenefits2_content": "Somos una empresa inmobiliaria enfocada en la administración de comunidades de propietarios y la gestión de patrimonios en alquiler, siempre dirigiendo nuestros esfuerzos a mantener y mejorar los bienes de nuestros clientes.",
+  "introbenefits2_subcontent": "Nos enorgullece ofrecer, con la confianza que nos otorga nuestra experiencia y el presente que nos respalda, un servicio excelente que nos ha permitido obtener la mayor de las recompensas: la satisfacción de nuestros clientes.",
+  "introbenefits2_subcontent2": "Nuestra experiencia nos permite ofrecer un servicio de alta calidad, adaptado a las necesidades específicas de cada cliente, con el objetivo de garantizar su tranquilidad y la optimización de tus bienes inmuebles. Nos comprometemos a ser un aliado fiable en la gestión y mantenimiento de tus activos, generando confianza y satisfacción en cada paso.",
+  
+  
+  "service_subtitle": "Aprovechate de nuestras Ofertas",
+  "service_title": "Todo son Ventajas",
+  "services": [
+    {
+      "service_name": "Plan amigo ",
+      "service_content": "Regala 20€ de descuento a un amigo o familiar en cualquiera de nuestros tratamientos",
+      "service_img": "ventaja-1"
+    },
+    {
+      "service_name": "Financiación",
+      "service_content": "Paga cómodamente. Financiamos hasta 72 meses sin intereses para que tus tratamientos dentales no supongan un problema para ti",
+      "service_img": "ventaja-2"
+    },
+    {
+      "service_name": "Revisión Gratis",
+      "service_content": "1ª VISITA + REVISIÓN + PRESUPUESTO GRATIS",
+      "service_img": "ventaja-3"
+    }
+
+    ,
+    {
+      "service_name": "Tac de última generación",
+      "service_content": "Diágnostico inmediato y en 3D",
+      "service_img": "ventaja-4"
+    }
+  ],
+
+
+  "introbenefits_title": "Nuestros valores fundamentales",
+  "introbenefits_subtitle": "empresa especializada en servicios inmobiliarios",
+  "introbenefits_1title": "Profesionalidad",
+  "introbenefits_1description": "El sector inmobiliario se vuelve más complejo cada día. Déjalo en manos de expertos en administración de fincas y gestión de patrimonios.",
+  "introbenefits_2title": "Dedicación",
+  "introbenefits_2description": "Con cuatro generaciones de experiencia en la gestión de fincas, evolucionamos constantemente para brindarte el servicio más completo.",
+  "introbenefits_3title": "Fiabilidad",
+  "introbenefits_3description": "Siempre a tu disposición, ofreciendo respuestas proactivas a las necesidades de tu patrimonio inmobiliario.",
+
+  "whytitle1_title": "¿Quiénes somos?",
+  "whytitle1_subtitle": "NUESTRA HISTORIA",
+  "whytitle1_description": "Somos una empresa inmobiliaria dedicada a la administración de comunidades de propietarios y a la gestión de patrimonios en régimen de alquiler, enfocada en la conservación y optimización de los activos de nuestros clientes.",
+  "whytitle1_description2": "Nuestra misión es proporcionar un servicio integral y personalizado, orientado a maximizar el valor de los bienes inmobiliarios de nuestros clientes. A lo largo de nuestra trayectoria, hemos desarrollado un enfoque proactivo en la gestión de patrimonios y administración de fincas, garantizando la protección, el mantenimiento y el crecimiento de los activos bajo nuestra supervisión. ^^ Nuestro compromiso con la transparencia, la cercanía y la excelencia en cada uno de nuestros servicios nos ha permitido consolidar la mejor relación de confianza con nuestros clientes.",  
+  "box_img_title": "Paga cómodamente",
+  "box_img_description": "Financiamos hasta 72 meses sin intereses para que tus tratamientos dentales no supongan un problema para ti.",
+  "contacta_4_title": "¿Tienes alguna pregunta?",
+  "contacta_4_subtitle": "PONTE EN CONTACTO CON NOSOTROS",
+
+
+
+
+  "contacta_6_title": "¿Tienes alguna pregunta?",
+  "contacta_6_subtitle": "¡Manténgase conectado con consejos, técnicas, ofertas especiales y mucho más!",
+
+  
+  "contacta_5_title": "Visítanos",
+  "contacta_5_subtitle": "NUESTRA UBICACIÓN",
+  "contacta_map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5990.5309606852215!2d2.035658!3d41.346583!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a49b8638c8b67d%3A0xfb6c69b6643adacd!2sCentre%20Dental%20Bast%C3%A9!5e0!3m2!1ses!2sus!4v1730960266679!5m2!1ses!2sus",
+  "banner_button": "ENVIAR",
+  
+  "direction": "Carrer Riera Basté, 18, 20 bajos, 08830 Sant Boi de Llobregat, Barcelona, España",
+  "telefono": "+34 936 354 025",
+  "email": "info@centredentalbaste.com",
+  "footer_1": "Centredentalbaste.com",
+  "footer_2": "Centre Dental Basté - -",
+  "footer_3": "© centredentalbaste.com, 2024. Todos los derechos reservados.",
+  "footer_4": "Centre dental Basté"
+}

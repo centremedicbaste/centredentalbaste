@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="{{ global_index.lang }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="{{ global_index.search_console }}" />
+  <title>{{ metaTitle }} </title>
+  <meta name="robots" content="{{ metaRobots }}" />
+  <meta name="description"
+    content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}" />
+  <meta name="keywords" content="{{ metaKeywords or eleventyComputed.metaKeywords or metaKeywords.description }}" />
+  <!-- Favicon y manifest -->
+  <link rel="manifest" href="/site.webmanifest">
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:site_name"
+    content="Check - {{ metaKeywords or eleventyComputed.metaKeywords or metaKeywords.description }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ metaTitle }}" />
+  <meta property="og:description"
+    content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}" />
+  <meta property="og:url" content="{{ global_index.url }}{{ page.url | url }}" />
+  <meta property="og:image" content="{{ global_index.url }}/assets/static/images/2.webp" />
+  <meta name="twitter:card" content="{{ metaTitle }}" />
+  <meta name="twitter:title" content="{{ metaTitle }}" />
+  <meta name="twitter:description"
+    content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}" />
+  <meta name="twitter:image" content="{{ global_index.url }}/assets/static/favicons/favicon-96x96.png" />
+  <link rel="icon" type="image/png" href="{{ global_index.url }}/assets/static/favicons/favicon-32x32.png" />
+  <!-- Estilos CSS -->
+
+  <style>
+    :root {
+  --c-gray: {{global_index.c_gray}};
+  --c-primary: {{global_index.c_primary}};
+  --c-secondary: {{global_index.c_secondary}};
+  --bg-primary: {{global_index.bg_primary}};
+
+
+  --c-bg-light: {{global_index.c_bg_light}};
+  --c-bg-dark: {{global_index.c_bg_dark}};
+
+  --bg-dark: {{global_index.bg_dark}};
+  --bg-light: {{global_index.bg_light}};
+
+
+  --btn-radius: {{global_index.btn_radius}};
+  --padding-global: {{global_index.padding_global}};
+  --btn-radius: {{global_index.btn_radius}};
+  }
+</style>
+
+
+
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.css">
+  <!-- SEO y Open Graph -->
+  <link rel="canonical" href="{{ global_index.url }}{{ page.url | url }}" />
+  <!-- Google Tag Manager -->
+  {% if global_index.tag_manager %}
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', '{{ global_index.tag_manager }}');
+  </script>
+  {% endif %}
+  <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "RealEstateAgent",
+        "name": "Magna Urbis",
+        "url": "https://magnaurbis.com",
+        "logo": "https://magnaurbis.com/assets/static/favicons/favicon-96x96.png",
+        "description": "Magna Urbis, expertos en administración de fincas y gestión de patrimonios en Barcelona.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Avda. Diagonal, 416, 1-1",
+          "addressLocality": "Barcelona",
+          "postalCode": "08037",
+          "addressCountry": "ES"
+        },
+        "telephone": "+34 93 619 12 16",
+        "email": "info@magnaurbis.com",
+        "serviceOffered": [
+          {
+            "@type": "Service",
+            "serviceType": "Administración de Fincas",
+            "description": "Administramos inmuebles residenciales y Comunidades de Propietarios.",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://magnaurbis.com/servicios/administracion-de-fincas",
+              "priceCurrency": "EUR",
+              "price": "Consultar"
+            }
+          },
+          {
+            "@type": "Service",
+            "serviceType": "Gestión de Patrimonios Inmobiliarios",
+            "description": "Adaptamos la gestión de tus bienes a tus necesidades, optimizando seguridad y rentabilidad.",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://magnaurbis.com/servicios/gestion-de-patrimonios",
+              "priceCurrency": "EUR",
+              "price": "Consultar"
+            }
+          }
+        ]
+      }
+      </script>
+</head>
+<body class="contain {{ colorHeader }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
+  <!-- Google Tag Manager (noscript) -->
+  {% if global_index.tag_manager %}
+  <noscript><iframe title="googletagmanager" src="https://www.googletagmanager.com/ns.html?id={{ global_index.tag_manager }}" height="0"
+      width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {% endif %}
+  {% include 'components/header.njk' %}
+  <div data-scroll-container>
+    {{ content | safe }}
+    {% include 'onepage/footer_2.njk' %}
+  </div>
+  <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe-ui-default.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
+  <script type="module" src="/assets/js/index.js"></script>
+  <script type="module" src="/assets/js/scroll.js"></script>
+  <script type="module" src="/assets/js/inview.js"></script>
+</body>
+
+
+
+</html>

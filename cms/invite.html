@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invitación para unirse a Boilerplate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+             text-align: center;
+             color:#334552;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #334552;
+        }
+        p {
+            color: #334552;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #fe6d4e;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #fe6d4e;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Has sido invitado a Boilerplate</h2>
+
+    <p>
+        Has sido invitado a crear una cuenta de usuario en <strong>Boilerplate</strong>. Sigue este enlace para aceptar la invitación y comenzar a disfrutar de nuestros servicios:
+    </p>
+    <p style="margin-bottom:100px;"><a href="{{ .ConfirmationURL }}">Aceptar la invitación</a></p>
+
+    <p>
+        Si no esperabas esta invitación, puedes ignorar este correo electrónico con seguridad.
+    </p>
+
+    <p>
+        Saludos cordiales,<br>
+        El equipo de Boilerplate
+    </p>
+</div>
+
+</body>
+</html>

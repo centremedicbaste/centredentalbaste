@@ -1,0 +1,48 @@
+---
+layout: layout/base.njk
+permalink: /site/
+metaRobots: "noindex, nofollow"
+---
+<div class="height-sm bg-light"></div>
+<div class="container ptr-120 bg-light front-section pbr-120">
+    <div class="fluid-4-r mb-64">Seo Sitemap</div>
+
+    <ul class="list-clear">
+        {# Ordenar y listar todas las páginas por título, excluyendo las sin título #}
+        {% for page in collections.all | sort(attribute='data.metaTitle') %}
+            {% if page.data.metaTitle and page.data.metaRobots and 'noindex' not in page.data.metaRobots %}
+                <li>
+                    <a class="ttc" href="{{ page.url | url }}">{{ page.url | url }}</a>
+                </li>
+                <br>
+                <b>metaTitle:</b>
+                <span class="{% if page.data.metaTitle.length < 30 or page.data.metaTitle.length > 65 %}red-text{% endif %}">
+                    {{ page.data.metaTitle }}
+                </span>
+                <br>
+                <b>metaDescription:</b>
+                <span class="{% if page.data.metaDescription.length < 120 or page.data.metaDescription.length > 320 %}red-text{% endif %}">
+                    {{ page.data.metaDescription }}
+                </span>
+                <br>
+                <b>metaKeywords:</b>
+                <span class="{% if page.data.metaKeywords.split(',').length < 5 or page.data.metaKeywords.split(',').length > 10 %}red-text{% endif %}">
+                    {{ page.data.metaKeywords }}
+                </span>
+                <br>
+                <b>metaRobots:</b>
+                <span class="{% if page.data.metaRobots.length > 160 %}red-text{% endif %}">
+                    {{ page.data.metaRobots }}
+                </span>
+                <br>
+                <hr class="mt-32">
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+<style>
+.red-text {
+    color: red;
+}
+</style>

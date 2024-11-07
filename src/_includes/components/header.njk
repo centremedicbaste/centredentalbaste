@@ -1,0 +1,82 @@
+{% if colorHeader == 'has-light-menu' %}
+    {% set headerBackground = 'background-color: white;' %}
+{% else %}
+    {% set headerBackground = '' %}
+{% endif %}
+
+<header style="{{ headerBackground }}">
+    <div id="menu-white">
+        <div class="container-global mx-auto w-100">
+            <a class="link logo simple" href="/">
+                <div class="logo-simple">
+                    <img width="150px" src="/assets/static/images/logos/logo.png" alt="">
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div id="menu-fixed">
+        <div class="menu-fixed-inner ">
+            <button id="menu-toggle" class="btn">
+                <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect y="0.599976" width="22" height="2.2" rx="1.1" fill="#1E1E1E"/>
+                    <rect y="7.19995" width="22" height="2.2" rx="1.1" fill="#1E1E1E"/>
+                    <rect y="13.7999" width="22" height="2.2" rx="1.1" fill="#1E1E1E"/>
+                </svg>
+            </button>
+            <ul class="menu-desktop list-clear list-inline">
+                {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
+                {% for page in sortedPages %}
+                    {% if page.data.seccion %}
+                        <li>
+                            <a href="{{ page.url }}">
+                                <span>{{ page.data.seccion }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+                <li>
+                    <button class="link_a_contacta btn btn-primary">CONTACTA</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<div class="menu-mobile-wrap">
+    <button class="btn link_cierre">
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" transform="rotate(45)">
+            <rect x="9.9" width="1" height="22" fill="#1E1E1E"/>
+            <rect y="9.9" width="22" height="1" fill="#1E1E1E"/>
+        </svg>
+    </button>
+    <ul class="list-clear pl-body pr-body ptr-64">
+        {% for page in collections.pages %}
+            {% if page.data.seccion %}
+                <li>
+                    <a href="{{ page.url }}">
+                        <span>{{ page.data.seccion }}</span>
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        <li>
+            <button class="link_a_contacta btn btn-primary">CONTACTA</button>
+        </li>
+    </ul>
+</div>
+
+<div class="menu-mobile-overlay"></div>
+
+{% if global.whatsapp %}
+    <div class="bubble-whatsapp">
+        <a aria-label="link whatsapp" href="https://wa.me/{{global.whatsapp}}">
+            <svg id="bubble-whatsapp-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+                <path d="M519 454c4 2 7 10-1 31-6 16-33 29-49 29-96 0-189-113-189-167 0-26 9-39 18-48 8-9 14-10 18-10h12c4 0 9 0 13 10l19
+                44c5 11-9 25-15 31-3 3-6 7-2 13 25 39 41 51 81 71 6 3 10 1 13-2l19-24c5-6 9-4 13-2zM401 200c-110 0-199 90-199 199
+                0 68 35 113 35 113l-20 74 76-20s42 32 108 32c110 0 199-89 199-199 0-111-89-199-199-199zm0-40c133 0 239 108 239 239
+                0 132-108 239-239 239-67 0-114-29-114-29l-127 33 34-124s-32-49-32-119c0-131 108-239 239-239z"></path>
+            </svg>
+        </a>
+    </div>
+{% endif %}

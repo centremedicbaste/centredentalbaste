@@ -1,0 +1,378 @@
+{% macro comentario(empresa = '', texto = '', fecha = '',img = '') %}
+<div class="google-comment">
+  <div class="google-bubble mb-16">
+    <div class="is-flex w-100 content-sp-between mb-16">
+      <div class="google-stars">
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+      </div>
+      <div class="google-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+          <defs>
+            <path id="a"
+              d="M44.5 20H24v8.5h11.8C34.7 33.9 30.1 37 24 37c-7.2 0-13-5.8-13-13s5.8-13 13-13c3.1 0 5.9 1.1 8.1 2.9l6.4-6.4C34.6 4.1 29.6 2 24 2 11.8 2 2 11.8 2 24s9.8 22 22 22c11 0 21-8 21-22 0-1.3-.2-2.7-.5-4z" />
+          </defs>
+          <clipPath id="b">
+            <use xlink:href="#a" overflow="visible" />
+          </clipPath>
+          <path clip-path="url(#b)" fill="#FBBC05" d="M0 37V11l17 13z" />
+          <path clip-path="url(#b)" fill="#EA4335" d="M0 11l17 13 7-6.1L48 14V0H0z" />
+          <path clip-path="url(#b)" fill="#34A853" d="M0 37l30-23 7.9 1L48 0v48H0z" />
+          <path clip-path="url(#b)" fill="#4285F4" d="M48 48L17 24l-4-3 35-10z" />
+        </svg>
+      </div>
+    </div>
+    <div class="google-text p3 c-black">
+      {{ texto }}
+    </div>
+    <div class="google-seemore p3"> Leer más</div>
+  </div>
+  <div class="is-flex">
+    <div class="pr-16"> <img width="40px" src="https://lh3.googleusercontent.com/a/{{img}}" alt=""></div>
+    <div class="c-accent">
+      {{ empresa }} <br>
+      <span class="p3"> {{ fecha }} </span>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro team(foto = '', nombre = '', texto = '') %}
+<div class="card-2">
+  <div class="rat-1-1 mb-24">
+    <div class="rat-content">
+      <img src="/assets/static/colaboradores/{{foto}}.webp" alt="">
+    </div>
+  </div>
+  <div class="fluid-9-b c-primary  p-16">
+    {{nombre}}
+  </div>
+  <div class="p3 p-16 card-2-text">
+    {{texto}}
+  </div>
+</div>
+{% endmacro %}
+
+
+
+
+{% macro splitenpalabras2(frase = '', frase2 = '') %}
+{% set palabras = frase.split(" ") %}
+{% set palabras2 = frase.split(" ") %}
+<span>
+  {% for palabra in palabras %}
+  <span class="word">{{ palabra }}</span>
+  {% endfor %}
+  {% for palabra2 in palabras2 %}
+  <span class="word">{{ palabra }}</span>
+  {% endfor %}
+</span>
+{% endmacro %}
+{% macro comentario(empresa = '', texto = '', fecha = '',img = '') %}
+<div class="google-comment">
+  <div class="google-bubble mb-16">
+    <div class="is-flex w-100 content-sp-between mb-16">
+      <div class="google-stars">
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+        <svg class="svg-star" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:serif="http://www.serif.com/" width="100%" height="auto" viewBox="0 0 16 15" version="1.1"
+          xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+          <g transform="matrix(1,0,0,1,-427.432,-259.996)">
+            <g transform="matrix(1.01647,0,0,1.01647,-14.9846,-123.719)">
+              <path
+                d="M442.181,378.04C442.286,377.716 442.588,377.497 442.928,377.497C443.268,377.497 443.569,377.716 443.674,378.04L444.991,382.098C445.03,382.217 445.106,382.321 445.207,382.395C445.309,382.469 445.432,382.509 445.557,382.509L449.824,382.507C450.164,382.507 450.465,382.726 450.57,383.05C450.675,383.373 450.56,383.727 450.285,383.927L446.833,386.434C446.731,386.508 446.655,386.612 446.616,386.731C446.577,386.851 446.578,386.98 446.616,387.099L447.936,391.156C448.041,391.48 447.926,391.834 447.651,392.034C447.376,392.234 447.003,392.234 446.728,392.034L443.278,389.525C443.176,389.451 443.054,389.411 442.928,389.411C442.802,389.411 442.68,389.451 442.578,389.525L439.127,392.034C438.852,392.234 438.48,392.234 438.205,392.034C437.929,391.834 437.814,391.48 437.92,391.156L439.239,387.099C439.278,386.98 439.278,386.851 439.239,386.731C439.201,386.612 439.125,386.508 439.023,386.434L435.571,383.927C435.296,383.727 435.18,383.373 435.285,383.05C435.391,382.726 435.692,382.507 436.032,382.507L440.298,382.509C440.424,382.509 440.547,382.469 440.648,382.395C440.75,382.321 440.826,382.217 440.864,382.098L442.181,378.04Z"
+                style="fill:rgb(246,187,6);" />
+            </g>
+          </g>
+        </svg>
+      </div>
+      <div class="google-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+          <defs>
+            <path id="a"
+              d="M44.5 20H24v8.5h11.8C34.7 33.9 30.1 37 24 37c-7.2 0-13-5.8-13-13s5.8-13 13-13c3.1 0 5.9 1.1 8.1 2.9l6.4-6.4C34.6 4.1 29.6 2 24 2 11.8 2 2 11.8 2 24s9.8 22 22 22c11 0 21-8 21-22 0-1.3-.2-2.7-.5-4z" />
+          </defs>
+          <clipPath id="b">
+            <use xlink:href="#a" overflow="visible" />
+          </clipPath>
+          <path clip-path="url(#b)" fill="#FBBC05" d="M0 37V11l17 13z" />
+          <path clip-path="url(#b)" fill="#EA4335" d="M0 11l17 13 7-6.1L48 14V0H0z" />
+          <path clip-path="url(#b)" fill="#34A853" d="M0 37l30-23 7.9 1L48 0v48H0z" />
+          <path clip-path="url(#b)" fill="#4285F4" d="M48 48L17 24l-4-3 35-10z" />
+        </svg>
+      </div>
+    </div>
+    <div class="google-text p1 c-black">
+      {{ texto }}
+    </div>
+    <div class="google-seemore p1"> Leer más</div>
+  </div>
+  <div class="is-flex">
+    <div class="pr-16"> <img width="40px" src="https://lh3.googleusercontent.com/a/{{img}}" alt=""></div>
+    <div class="c-accent">
+      {{ empresa }} <br>
+      <span class="p1"> {{ fecha }} </span>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro team(foto = '', nombre = '', texto = '') %}
+<div class="card-2">
+  <div class="rat-1-1 mb-24">
+    <div class="rat-content">
+      <img src="/assets/static/colaboradores/{{foto}}.webp" alt="">
+    </div>
+  </div>
+  <div class="fluid-9-b c-primary  p-16">
+    {{nombre}}
+  </div>
+  <div class="p1 p-16 card-2-text">
+    {{texto}}
+  </div>
+</div>
+{% endmacro %}
+
+
+{% macro splitenpalabras(frase = '', type = '', animationTime='', animationDelay='' ) %}
+{% if frase %}
+  {% set palabras = frase.split(" ") %}
+  <div class="word-wrap">
+    {% for palabra in palabras %}
+      {% if palabra.startsWith('**') %}
+        <span class="word c-accent {{type}}" {% if animationDelay %} style="animation-delay: {{ animationDelay }}ms" {% endif %}>
+          {{ palabra | replace('**', '') }}
+        </span>
+      {% elseif palabra == '--' %}
+        {{ palabra | replace('--', '<br>') | safe }}
+      {% else %}
+        <span class="word {{type}}" {% if animationDelay %} style="animation-delay: {{ animationDelay }}ms" {% endif %}>
+          {{ palabra }}
+        </span>
+      {% endif %}
+      {% set animationDelay = animationDelay + animationTime %}
+    {% endfor %}
+  </div>
+{% endif %}
+{% endmacro %}
+
+
+{% macro splitenlistas(frase = '', type = '', animationTime='', animationDelay='' ) %}
+{% set palabras = frase.split(" ") %}
+{% for palabra in palabras %}
+{% if '-' in palabra %}
+<div class="word {{type}}"     {% if animationDelay %}  style="animation-delay: {{ animationDelay }}ms "      {% endif %}  > {{ palabra | replace('-', ' ') | safe }}
+</div>
+{% else %}
+<div class="word {{type}}"    {% if animationDelay %}  style="animation-delay: {{ animationDelay }}ms "   {% endif %} >{{ palabra }}</div>
+{% endif %}
+{% set animationDelay = animationDelay + animationTime %}
+{% endfor%}
+{% endmacro %}
+
+
+
+{% macro faqs(faqs1 = '', faqs2='') %}
+<div class="accordion">
+  <div class="accordion-inner">
+    <div class="accordion-header is-flex">
+      <div class="fluid-8-r mt-4">
+        {{ faqs1 }}
+      </div>
+      <div class="list-circle ml-24">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+          <title>down-arrow</title>
+          <g stroke-linecap="square" stroke-linejoin="miter" stroke-width="2" fill="none" stroke="#212121"
+            stroke-miterlimit="10">
+            <polyline points="2,7 12,17 22,7 " transform="translate(0, 0)"></polyline>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <div class="accordion-content">
+      <div class="text-14-r mt-16">
+        {{ faqs2 }}
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro timeline(año = '', nombre = '',descripcion = '', especialidad = '', imagen = '' ) %}
+<div class="column-timeline ">
+  <div class="line-w"></div>
+  <div class="mask-wrap">
+    <div class="hoverable_image" data-image-src="/assets/static/timeline/{{imagen}}_1.webp"></div>
+    <div class="hoverable_image" data-image-src="/assets/static/timeline/{{imagen}}_2.webp"></div>
+    <div class="hoverable_image" data-image-src="/assets/static/timeline/{{imagen}}_3.webp"></div>
+    <div class="hoverable_image" data-image-src="/assets/static/timeline/{{imagen}}_4.webp"></div>
+  </div>
+  <div class="column-grid">
+    <div>
+      <div class="btn btn-swipe tag-btn">
+        <span class="fluid-48-l" data-label="{{año}}"><span> {{año}}</span></span>
+      </div>
+    </div>
+    <div class="">
+      <div class="fluid-6-b mb-8">{{nombre}}</div>
+      <div class="p1">{{descripcion}}</div>
+    </div>
+    <div>
+      {% for especialidad_part in especialidad.split(',') %}
+      <div class="tag-btn"> {{especialidad_part}}</div>
+      {% endfor %}
+    </div>
+    <div class="timeline-img sm:visible">
+      <img src="/assets/static/timeline/{{imagen}}_1.webp" alt="">
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro timeline2(nombre = '',descripcion = '', imagen = '' ) %}
+<div class="column-timeline hoverable_image" data-image-src="/assets/static/timeline/{{imagen}}.webp">
+  <div class="line-w"></div>
+  <div class="is-flex flex-column pt-16 pb-16">
+    <div class="fluid-6-b mb-8">{{nombre}}</div>
+    <div class="p1">{{descripcion}}</div>
+  </div>
+</div>
+{% endmacro %}
+{% macro experiment(title = '',img = '', type = '', description = '', año = '') %}
+<div class="panel">
+  <div class="panel-img"> <img src=" /assets/static/proyectos/{{img}}" alt=""> </div>
+  <div class="panel-text">
+    <div class="p1"> 01-01</div>
+    <div class="fluid-5-b mb-64"> {{title}}</div>
+    <div class="panel-info mb-32">
+      <div>
+        <div class="p1 mb-24 o-60">
+          TYPE
+        </div>
+        <div>
+          {% for type_part in type.split(',') %}
+          <div>{{type_part}}</div>
+          {% endfor %}
+        </div>
+      </div>
+      <div>
+        <div class="p1 mb-24 o-60">
+          DESCRIPCIÓN
+        </div>
+        <div>
+          {{description}}
+        </div>
+      </div>
+      <div>
+        <div class="p1 mb-24 o-60">
+          AÑO
+        </div>
+        <div>
+          {{año}}
+        </div>
+      </div>
+    </div>
+    <div>
+      <a class="link-line c-accent" href=""> VER CASO DE ESTUDIO</a>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro comentario2(descripcion = '',imagen = '', nombre = '', puesto = '' ) %}
+<div class="p-24 bg-white border-20">
+  <div class="pb-40">{{descripcion}} </div>
+  <div class="row">
+    <div class="col-xs-3">
+      <div class="circle-img"> {{imagen}} </div>
+    </div>
+    <div class="col-xs-9">
+      <div class="p1-b"> {{nombre}}</div>
+      <div> {{puesto}}</div>
+    </div>
+  </div>
+</div>
+{% endmacro %}
+{% macro minibenefit(icono = '',titulo = '', descripcion = '' ) %}
+<div class="p-24 bg-white border-20">
+  <div class="pb-40">{{descripcion}} </div>
+  <div class="row">
+    <div class="col-xs-3">
+      <div class="circle-img"> {{imagen}} </div>
+    </div>
+    <div class="col-xs-9">
+      <div class="p1-b"> {{nombre}}</div>
+      <div> {{puesto}}</div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

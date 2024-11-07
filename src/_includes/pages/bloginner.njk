@@ -1,0 +1,44 @@
+---
+layout: layout/base.njk
+colorHeader: has-light-menu
+---
+
+{% import "macros/_insert.njk" as insert %}
+{% include "templates/bloghero.njk" %}
+
+
+{% set parent = global.blog %}
+<article class="main-article" data-scroll-section>   
+  {% set next = collections.blog | nextInCollection(page.fileSlug) %}
+  {% set previous = collections.blog | prevInCollection(page.fileSlug) %}
+
+  sgfsffgsfgd
+  <div class="container-fluid pt-32 bg-light">
+    <div class="container-global mx-auto">
+      <div class="row innermarkdown md:reverse">
+        <div class="col-xs-12 col-md-8">{{ content | safe }}</div>
+        <div class="col-xs-12 col-md-1"></div>
+        <div class="col-xs-12 col-md-3">{{ content | toc | safe }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid l-top bg-white">
+    <div class="col-xs-12">
+      {% if next or previous %}
+      <div class="pagination">
+        {% if previous %}
+        <a href="{{ previous.url }}" class="pagination-item pagination-item-prev">
+          Post anterior
+        </a>
+        {% endif %}
+        {% if next %}
+        <a href="{{ next.url }}" class="pagination-item pagination-item-next">
+          Siguiente post
+        </a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% include "components/banner.njk" %}
+</article>

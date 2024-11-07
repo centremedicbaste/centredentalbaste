@@ -1,0 +1,150 @@
+<!-- contacta_4.njk -->
+<div id="contacta_4"class="front-section" data-scroll  data-scroll-section>
+    <section class="container-global-3 mx-auto">
+        <div class="row">
+            <div class="col-xs-12 text-center ptr-120 pbr-120">
+                <div class="text-18-r mb-24 c-accent"> {{global_index.contacta_4_title}}</div>
+                <div class="fluid-4-l">{{global_index.contacta_4_subtitle}}</div>
+            </div>
+        </div>
+
+
+            <form name="contactformulario" method="POST" data-netlify="true"   netlify-honeypot="bot-field"  id="contactForm" netlify onsubmit="return validateForm()">
+                <div style="display:none;">
+                    <input type="text" name="EmailSecurizado" value="">
+                </div>
+
+                <p class="hidden">
+                    <label>
+                     <input name="bot-field" />
+                    </label>
+                  </p>
+
+
+
+            <div class="row   md:reverse">
+                <div class="col-xs-12 col-md-6 ">
+                    <p class="hidden">
+                        <label>
+                            <input name="bot-field" />
+                        </label>
+                    </p>
+                    <div class="row">
+                        <div class="col-xs-12 mb-16 ">
+                            <div class="form-input-label-2">
+                                <input id="nombre" type="text" placeholder="Nombre" class="input" name="nombre">
+                                <label for='nombre'>Nombre</label>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 mb-16 ">
+                            <div class="form-input-label-2">
+                                <input id="email" type="text" placeholder="Email" class="input" name="email" required
+                                    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+                                <label for='email'>Email</label>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 mb-16 ">
+                            <div class="form-input-label-2">
+                                <input id="telefono" type="text" placeholder="Teléfono" class="input" name="teléfono">
+                                <label for='email'>Teléfono</label>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 mb-16 ">
+                            <div class="form-input-label-2">
+                                <input id="empresa" type="text" placeholder="empresa" class="input" name="empresa">
+                                <label for='empresa'>Empresa</label>
+                            </div>
+                        </div>
+         
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-6 mb-32 ">
+               
+                        <div class="form-input-label-2">
+                            <textarea id="textarea" placeholder="Tu mensaje" class="textarea" name="mensaje"></textarea>
+                        </div>
+               
+                </div>
+
+
+                <div class="col-xs-12 col-md-6">
+
+
+           
+                        <div class="mb-32">
+                            <label >
+                                <input type="checkbox" name="politicas" required>
+                                He leído y acepto los Términos y condiciones y entiendo la información acerca del uso de
+                                mis datos personales explicada en la Política de Privacidad.
+                            </label>
+                        </div>
+
+
+      
+                        <button aria-label="enviar email" class="btn btn-primary btn--full" type="submit">
+                            {{global_index.banner_button}}  </button>
+           
+                </div>
+            </div>
+        </form>
+    </section>
+</div>
+
+
+<!-- Modal para confirmación de envío -->
+<div id="modalMensajeEnviado" style="display:none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: #97DBDD; z-index: 1000; align-items: center;">
+    <button onclick="document.getElementById('modalMensajeEnviado').style.display='none'" class="btn btn-tertiary btn-modal" id="close-menu-modal">
+        <svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M1.71973 30.6136L16.3333 16M16.3333 16L30.9468 1.38647M16.3333 16L30.9468 30.6136M16.3333 16L1.71973 1.38648" stroke="#334552" stroke-width="2.61111" stroke-linecap="round"></path>
+        </svg>
+    </button>
+    <div class="text-center" style="padding: 20px; max-width: 800px; margin: 100px auto; text-align: center; display: flex; flex-direction: column; align-items: center;">
+        <div class="fluid-4-r mb-24">¡Gracias por contactar con nosotros!</div>
+        <div class="h2 mb-24">En breves un comercial se pondrá en contacto contigo.</div>
+        <button class="btn btn-primary btn--medium" onclick="document.getElementById('modalMensajeEnviado').style.display='none'">De acuerdo</button>
+    </div>
+</div>
+
+
+<script>
+function validateForm() {
+    var EmailSecurizado = document.forms["contactformulario"]["EmailSecurizado"].value;
+    if (EmailSecurizado) {
+        return false;
+    }
+    
+    var politicasCheckbox = document.querySelector('input[name="politicas"]');
+    if (!politicasCheckbox.checked) {
+        alert("Por favor, acepta los términos y condiciones.");
+        return false;
+    }
+    
+    return true;
+}
+    
+    document.getElementById('contactForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevenir el envío normal del formulario
+        if (validateForm()) {
+            enviarFormulario();
+        }
+    });
+    
+    function enviarFormulario() {
+        var form = document.getElementById('contactForm');
+        var data = new FormData(form);
+    
+        fetch('/', {
+            method: 'POST',
+            body: data
+        }).then(response => {
+            if (response.ok) {
+                document.getElementById('modalMensajeEnviado').style.display = 'flex'; // Mostrar el modal
+                form.reset(); // Opcional: resetear el formulario
+            } else {
+                alert('Hubo un error al enviar el mensaje.');
+            }
+        }).catch(error => {
+            alert('Error al enviar el mensaje: ' + error.message);
+        });
+    }
+    </script>

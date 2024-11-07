@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{{ metaTitle }}</title>
+
+
+    <meta name="robots" content="{{ metaRobots }}" />
+    <meta name="description" content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}" />
+    <meta name="keywords" content="{{ metaKeywords or eleventyComputed.metaKeywords or metaKeywords.description }}" />
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://code.jquery.com/">
+
+
+
+
+
+    <link rel="icon" type="image/webp" href="{{ global.url }}/assets/static/favicons/favicon.png" />
+
+    <style>
+        :root {
+      --c-gray: {{global.c_gray}};
+      --c-primary: {{global.c_primary}};
+      --c-secondary: {{global.c_secondary}};
+      --bg-primary: {{global.bg_primary}};
+
+
+      --c-bg-light: {{global.c_bg_light}};
+      --c-bg-dark: {{global.c_bg_dark}};
+
+      --bg-dark: {{global.bg_dark}};
+      --bg-light: {{global.bg_light}};
+
+
+      --btn-radius: {{global.btn_radius}};
+      --padding-global: {{global.padding_global}};
+      --btn-radius: {{global.btn_radius}};
+      }
+    </style>
+
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="canonical" href="https://{{ global.url }}{{ page.url | url }}" />
+
+    <meta property="og:site_name" content="{{ global.empresa }}" />
+    <meta property="og:image" content="https://{{ global.url }}/assets/static/favicons/logocheck_512x512.png" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ global.url }}" />
+    <meta
+      property="og:description"
+      content="{{ metaKeywords or eleventyComputed.metaKeywords or metaKeywords.description }}"
+    />
+
+
+
+
+
+
+  </head>
+<body class="contain bg-cream {% if page.url == '/'%}home{% endif %}" >
+
+{% set breadcrumbs = [] %}
+
+
+
+
+    <main class=" ">
+      {{ content | safe }}
+    </main>
+
+
+  
+
+
+    <script type="module" src="/assets/js/index.js"></script>
+
+
+
+  </body>
+</html>

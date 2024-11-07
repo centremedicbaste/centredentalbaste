@@ -1,0 +1,100 @@
+<!-- introCta_3.njk -->
+<section class=" herohome inview  o-hidden   bg-hero " data-scroll-section> 
+  <div class="video-bg">
+    {% if global.home_image %}
+    {% if global.home_image.endsWith('.mp4') %}
+
+    <video poster="" autoplay="" muted="" loop="">
+      <source src="{{ global.home_image | default("Variable no encontrada")  }}" type="video/mp4" />
+    </video>
+    {% else %}
+    <img src="{{ global.home_image | default("Variable no encontrada") }}" alt="">
+    {% endif %}
+    {% endif %}
+  </div>
+  <div class=" container-global mx-auto   ">
+    <div class="row section-x height-full  align-middle  ">
+      <div class="col-xs-12 col-md-7 mb-24">
+        <div class="vertical-wrap ">
+          <div class="vertical-inner">
+            <h1 class="fluid-3-b ">
+              {% call insert.splitenpalabras(global.introCta_title | default("Variable no encontrada")) %} {% endcall %}
+            </h1>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-7 front-text ">
+        <div class="vertical-wrap-2 pb-24 ">
+          <div class="vertical-inner">
+            <h2 class="fluid-8-r mb-8">
+              {% call insert.splitenpalabras(global.introCta_description | default("Variable no encontrada")) %} {% endcall %}
+          </div>
+        </div>
+
+
+        <button type="button"
+          class="btn-primary btn--big btn mb-32">
+
+
+             EMPIEZA A GANAR
+
+
+
+
+      
+ 
+        </button>
+
+
+        <div class="content-middle mb-16">
+          <div class="fluid-9-b">Excelente</div><img width="100px" class=""
+            src="https://storage.googleapis.com/landing-strapi-v4/assets/svg/stars-giFRggf5fPfNiJXB7To2fd.svg"
+            loading="lazy" alt="estrellas de Truspilot" height="100%" width="100%"
+            srcset="https://storage.googleapis.com/landing-strapi-v4/assets/svg/stars-giFRggf5fPfNiJXB7To2fd.svg">
+        </div>
+        <div>Valoración: <span class="text-c-accent"> 4,4 </span>/ de <span class="text-c-accent">1.200 </span>reseñas en
+          Trustpilot</div>
+        {% if btn_whtasapp == 'on' %}
+        <div class="main-full">
+          <a aria-label="link whatsapp" href="https://wa.me/{{ global.whatsapp | default("Variable no encontrada") }}">
+            <button class="btn btn-social btn-wechat btn--small text-14-b">
+              <svg id="bubble-whatsapp-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+                <path d="M519 454c4 2 7 10-1 31-6 16-33 29-49 29-96 0-189-113-189-167 0-26 9-39 18-48 8-9 14-10 18-10h12c4 0 9 0 13 10l19
+      44c5 11-9 25-15 31-3 3-6 7-2 13 25 39 41 51 81 71 6 3 10 1 13-2l19-24c5-6 9-4 13-2zM401 200c-110 0-199 90-199 199
+      0 68 35 113 35 113l-20 74 76-20s42 32 108 32c110 0 199-89 199-199 0-111-89-199-199-199zm0-40c133 0 239 108 239 239
+      0 132-108 239-239 239-67 0-114-29-114-29l-127 33 34-124s-32-49-32-119c0-131 108-239 239-239z"></path>
+              </svg>
+              Solicita una visita via whatsapp
+            </button>
+          </a>
+        </div>
+        {% endif %}
+        <div class="vertical-wrap">
+          <div class="vertical-inner">
+            <span class="text-14-r">
+              {{ fecha | default("Variable no encontrada") }}
+            </span>
+          </div>
+        </div>
+      </div>
+      {% if not noheroimage %}
+      <div class="col-xs-12 col-sm-6 ">
+        {% if imagemini %}
+        <div class="rat-16-9">
+          <div class="rat-content">
+            <img class="video-cover" width="100%" height="auto" src="{{ imagemini | default("Variable no encontrada") }}" alt="{{ imageAlt | default("Variable no encontrada") }}" />
+          </div>
+        </div>
+        {% elseif image %}
+        <div class="rat-16-9">
+          <div class="rat-content">
+            <img class="video-cover" width="100%" height="auto" src=" {{ image | default("Variable no encontrada") }}" alt="{{ imageAlt | default("Variable no encontrada") }}" />
+          </div>
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  
+</section>
