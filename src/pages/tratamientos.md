@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamientos.njk
-permalink: /tratamientos.html
+permalink: /tratamientos/
 tags: ["pages"]
 
 seccion: Tratamientos

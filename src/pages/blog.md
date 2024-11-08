@@ -1,6 +1,6 @@
 ---
 layout: pages/_pageblog.njk
-permalink: /blog.html
+permalink: /blog/
 
 tags: ["pages"]
 seccion: blog

@@ -1,6 +1,6 @@
 ---
 layout: pages/_laclinica.njk
-permalink: /laclinica
+permalink: /laclinica/
 tags: ["pages"]
 seccion: la clinica
 orden: 3
