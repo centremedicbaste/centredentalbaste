@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T14:42:14+00:00
 fecha: 2016-11-21T14:42:14+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -31,7 +31,6 @@ Para ello, se fabrican unas almohadillas personalizadas que cubren la superficie
 
  
 Pasos a seguir
---------------
 
 
 Los resultados de este tratamiento son óptimos y esto se consigue con un buen diagnóstico, pronóstico, plan de tratamiento y plan de retención (posterior a la ortodoncia) a través de un programa informático en 3D.
@@ -44,7 +43,6 @@ Una vez que se ha llegado a la posición final que deben ocupar los dientes, se 
 
  
 **Ventajas y desventajas**
---------------------------
 
 
 Además de lo obvio (nadie verá que los llevas puestos), esta ortodoncia se recomienda también por otros muchos motivos:

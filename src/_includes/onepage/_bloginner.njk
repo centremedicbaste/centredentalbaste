@@ -1,0 +1,104 @@
+---
+layout: baseblog.njk
+---
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ title }}",
+    "image": [
+      "https://{{ global.url }}{{ image }}"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "check pay"
+    },
+    "datePublished": "{{ date }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://{{ global.url }}/blog"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Checkqrpay",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://checkqrpay.com/assets/static/favicons/favicon_192x192.png"
+      }
+    }
+  }
+  </script>
+{% import "macros/_insert.njk" as insert %}
+{% set parent = global.blog %}
+
+{% set next = collections.blog | nextInCollection(page.fileSlug) %}
+{% set previous = collections.blog | prevInCollection(page.fileSlug) %}
+{% set previous2 = collections.blog | prevInCollectionnext(page.fileSlug) %}
+{% set next2 = collections.blog | nextInCollectionnext(page.fileSlug) %}
+
+<div class="container-fluid">
+  <div class="row"><div class="col-xs-12 height-xs"></div></div>
+</div>
+
+<div class="container-5 mx-auto pbr-64 inview innermarkdown" data-scroll-section>
+
+
+
+  <h1 class="fluid-4-m">
+    {% call insert.splitenpalabras(title , '',10,10 ) %} {% endcall %}
+  </h1>
+  <div class="text-16-r c-accent mb-64">{{fecha}}</div>
+
+dfaafdsdeee
+
+  {% for tag in post.data.tags %}
+      <div class=" tag-info ">
+        {{ tag }}
+      </div>
+  {% endfor %}
+
+
+  <div class="mb-120">{{ content | safe | mdbr }}</div>
+
+
+
+  <div class="row appear">
+    {% if next %}
+    <div class="col-xs-4">
+      <a href="{{ next.url }} ">
+        <div class="aspect-54 border-24 p-relative o-hidden mb-24">qtteeeereewqr
+          <img class="video-cover" width="100%" src="{{ next.data.image }}" alt="">
+        </div>
+        <p class="p5">{{ next.data.title }}</p>
+      </a>
+    </div>
+    {% endif %}
+    {% if previous %}
+    <div class="col-xs-4">
+      <a href="{{ previous.url }}">
+        <div class="aspect-54 border-24 p-relative o-hidden mb-24">sss
+          <img class="video-cover" width="100%" src="{{ previous.data.image }}" alt="">
+        </div>
+        <p class="p5">{{ previous.data.title }}</p>
+      </a>
+    </div>
+    {% endif %}
+    <div class="col-xs-4">
+      {% if previous2 %}
+      <a href="{{ previous2.url }}">
+        <div class="aspect-54 border-24 p-relative o-hidden mb-24">
+          <img class="video-cover" width="100%" src="{{ previous2.data.image }}" alt="">
+        </div>
+        <p class="p5">{{ previous2.data.title }}</p>
+      </a>
+      {% elif next2 %}
+      <a href="{{ next2.url }}">
+        <div class="aspect-54 border-24 p-relative o-hidden mb-24">
+          <img class="video-cover" width="100%" src="{{ next2.data.image }}" alt="">
+        </div>
+        <p class="p5">{{ next2.data.title }}</p>
+        {% endif %}
+    </div>
+  </div>
+</div>
+{% include 'onepage/contacta_6.njk' %}

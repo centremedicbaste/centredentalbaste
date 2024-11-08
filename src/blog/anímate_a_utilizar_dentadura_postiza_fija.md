@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T15:14:44+00:00
 fecha: 2016-11-21T15:14:44+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -16,7 +16,7 @@ imageAlt:
 
 
 La dentadura postiza fija mejorará tu calidad de vida
------------------------------------------------------
+-
 
 
 Ya no existen excusas para lucir una sonrisa bonita y masticar, hablar y reír con normalidad. La **dentadura postiza fija** es un nuevo avance odontológico que ha llegado también a Sant Boi de Llobregat. Desde aquí queremos animarte a que aproveches esta información y la oportunidad de mejorar notablemente tu calidad de vida.

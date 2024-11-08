@@ -11,11 +11,10 @@ metaKeywords: endodoncia, tratamiento dental, limpieza conductos, restauración 
 metaRobots: index, follow
 
 
-introCta_title: endodoncia
-introCta_image: /assets/static/images/entrada.png
-
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introCta_title: ENDODONCIA
+introCta_image: /assets/static/images/tratamientos/seccion-endodoncia.jpg
+introtitle_title: ENDODONCIA EN BARCELONA
+introtitle_subtitle: DESCUBRE EN QUÉ CONSISTE LA ENDODONCIA, SUS OBJETIVOS Y CÓMO SE REALIZA
 
 
 

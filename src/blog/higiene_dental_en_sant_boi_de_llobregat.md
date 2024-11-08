@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-08-01T14:25:04+00:00
 fecha: 2018-08-01T14:25:04+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,7 +19,6 @@ Gracias a la higiene dental podemos eliminar el sarro por encima de las encías.
 
  
 Beneficios y ventajas de la higiene dental:
--------------------------------------------
 
 
 * Previene la **gingivitis** mediante la eliminación del sarro acumulado. La gingivitis, produce encías hinchadas, inflamadas, sangrantes y que duelen al cepillar los dientes.
@@ -35,7 +34,7 @@ Beneficios y ventajas de la higiene dental:
 
  
 Cómo cuidar los dientes con una correcta higiene dental:
---------------------------------------------------------
+----
 
 
 Los dientes sanos están limpios y no tienen caries. Las encías sanas son rosadas y firmes. Para mantener los dientes y encías sanos, deberíamos seguir estos pasos:
@@ -58,7 +57,7 @@ La limpieza profesional incluye raspado y pulido. Este procedimiento involucra e
 ![higiene dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/higiene-dental-hilo-seda-1024x600.jpg)
  
 La importancia de la higiene dental en Sant Boi de Llobregat:
--------------------------------------------------------------
+---------
 
 
 La **higiene dental** es el primer paso en muchos tratamientos (raspajes radiculares, blanqueamientos, tratamientos desensibilizantes, etc. ) y es un medio preventivo de muchas otras enfermedades.
@@ -75,20 +74,19 @@ Para lograr un **cuidado completo** de la boca es muy importante que realicemos 
 
  
 Información del protocolo de higiene dental en Sant Boi de Llobregat:
----------------------------------------------------------------------
 
 
 1. Anestesiamos con spray o inyectable si el paciente lo solicita por molestias.
-1. Utilizamos aparatos de ultrasonidos para la eliminación del tártaro o sarro.
-2. Eliminación de manchas con bicarbonato.
-3. Si quedaran restos de manchas, se utiliza un cepillo o copa de goma con pasta de profilaxis.
-4. En casos de pacientes fumadores y con muchas manchas, insistimos hasta obtener un buen resultado.
-5. Colocamos flúor durante 1 minuto en cubeta.
-6. Cuando realizamos la higiene dental, un profesional valorará el estado de sus dientes por si hubiera necesidad de tratamientos como: blanqueamiento, ortodoncia o prótesis, que puedieran servir para mejorar su estética.
-7. Damos instrucciones al paciente sobre higiene oral: técnica de cepillado apropiada y utilización de productos específicos en cada caso.
-8. Según las necesidades de cada paciente, le recomendamos el uso de productos como dentífrico, colutorio, seda dental, cepillos interproximales, tipo de cepillo, limpiadores linguales … insistiendo en el modo de empleo y la duración del tratamiento indicado.
-9. Informamos al paciente que puede que tenga un poco de sensibilidad después de la limpieza oral, si es así y no desaparece en unos días, por favor, consúltenos.
-10. Le recordamos la periodicidad de la higiene dental profesional y la importancia de las revisiones periódicas.
+2. Utilizamos aparatos de ultrasonidos para la eliminación del tártaro o sarro.
+3. Eliminación de manchas con bicarbonato.
+4. Si quedaran restos de manchas, se utiliza un cepillo o copa de goma con pasta de profilaxis.
+5. En casos de pacientes fumadores y con muchas manchas, insistimos hasta obtener un buen resultado.
+6. Colocamos flúor durante 1 minuto en cubeta.
+7. Cuando realizamos la higiene dental, un profesional valorará el estado de sus dientes por si hubiera necesidad de tratamientos como: blanqueamiento, ortodoncia o prótesis, que puedieran servir para mejorar su estética.
+8. Damos instrucciones al paciente sobre higiene oral: técnica de cepillado apropiada y utilización de productos específicos en cada caso.
+9. Según las necesidades de cada paciente, le recomendamos el uso de productos como dentífrico, colutorio, seda dental, cepillos interproximales, tipo de cepillo, limpiadores linguales … insistiendo en el modo de empleo y la duración del tratamiento indicado.
+10. Informamos al paciente que puede que tenga un poco de sensibilidad después de la limpieza oral, si es así y no desaparece en unos días, por favor, consúltenos.
+11. Le recordamos la periodicidad de la higiene dental profesional y la importancia de las revisiones periódicas.
 
  
 ### No olvide que realizarse una higiene dental en Sant Boi de Llobregat por parte de nuestros profesionales de Centre Dental Basté al menos una vez al año es vital para mantener una adecuada higiene oral que complemente a la higiene dental diaria.

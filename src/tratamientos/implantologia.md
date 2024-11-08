@@ -11,11 +11,11 @@ metaKeywords: implantes dentales, Sant Boi de Llobregat, oseointegración, denta
 metaRobots: index, follow
 
 
-introCta_title: implantologia
-introCta_image: /assets/static/images/entrada.png
+introCta_title: IMPLANTOLOGIA
+introCta_image: /assets/static/images/tratamientos/seccion-implantologia.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: DESCUBRE LAS OPCIONES DE IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT. SOLUCIONES EFECTIVAS PARA LA PÉRDIDA DE PIEZAS DENTALES
 
 
 

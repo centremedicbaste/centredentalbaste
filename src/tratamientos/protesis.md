@@ -12,10 +12,10 @@ metaRobots: index, follow
 
 
 introCta_title: PRÓTESIS
-introCta_image: /assets/static/images/entrada.png
+introCta_image: /assets/static/images/tratamientos/seccion-protesis.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: PRÓTESIS DENTALES EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: MEJORA LA ESTÉTICA Y FUNCIÓN DE TU BOCA CON NUESTRAS PRÓTESIS DENTALES
 
 
 

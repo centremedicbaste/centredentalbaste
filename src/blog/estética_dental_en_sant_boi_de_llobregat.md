@@ -1,16 +1,17 @@
 ---
 subtitle: ""
 title: "Estética dental en Sant Boi de Llobregat"
-descripcion: ""
+descripcion: "descripcion"
 metaTitle: "Estética dental en Sant Boi de Llobregat"
 metaDescription: ""
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-03-27T11:19:45+00:00
 fecha: 2018-03-27T11:19:45+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
+
 
 ---
 
@@ -23,7 +24,6 @@ En este campo odontológico, existen varios tratamientos para embellecer la sonr
 
  
 Carillas dentales:
-------------------
 
 
 
@@ -57,7 +57,6 @@ Las carillas de **composite**, en cambio, son las únicas que se hacen **a mano 
 
  
 Blanqueamiento dental
----------------------
 
 
 
@@ -71,7 +70,6 @@ En consecuencia, el blanqueamiento consiste en eliminar del esmalte, por medio d
 
  
 Prótesis de zirconio, libres de metal:
---------------------------------------
 
 
 
@@ -85,7 +83,6 @@ Ofrecen una gran estética y naturalidad, comodidad y funcionalidad, un nivel ó
 
  
 Estudio diagnóstico de estética dental en Sant Boi de Llobregat:
-----------------------------------------------------------------
 
 
 

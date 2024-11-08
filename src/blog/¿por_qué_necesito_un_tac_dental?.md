@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-10-10T15:21:25+00:00
 fecha: 2016-10-10T15:21:25+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -17,7 +17,7 @@ imageAlt:
 
 En Centre Dental Basté, somos un grupo de [dentistas en Sant Boi de Llobregat](http://centredentalbaste.com/). Un gran número de consultas de información que recibimos en la clínica dental de Sant Boi de Llobregat son dudas sobre si tienen que realizar una radiografía o un tac dental para los tratamientos de su salud bucodental. Con estas breves notas intentaremos explicar **cuáles son las diferencias entre ambas y cuándo se emplea el tac dental.**
 Tac dental: ¿Qué es?
---------------------
+
 
 
 TAC dental es la técnica radiográfica que utiliza la **exploración mediante rayos X para ofrecer al profesional una imagen tridimensional de las áreas dentomaxilares** a intervenir.
@@ -48,7 +48,6 @@ Una de los mayores avances que supone el tac dental frente a la radiografía es 
 
 ![mejor diagnositco y tratamiento](http://centredentalbaste.com/wp-content/uploads/2016/10/mejor-diagnostico-tratamiento.png)
 Tac dental: ¿Cuándo se recomienda?
-----------------------------------
 
 
 **El TAC dental que trabajamos en nuestra clínica de** Sant Boi de Llobregat (Barcelona) lo aplicamos siempre que el tratamiento exige mayor precisión en el diagnóstico. Es muy común su utilización ante tratamientos de ortodoncia.

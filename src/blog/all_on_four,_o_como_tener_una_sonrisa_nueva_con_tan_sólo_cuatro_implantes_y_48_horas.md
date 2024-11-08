@@ -8,18 +8,29 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2020-07-01T09:21:06+00:00
 fecha: 2020-07-01T09:21:06+00:00
-tags: []
-image: 
+tags: [post]
+image: /
 imageAlt: 
 
 ---
 
 El Centre Dental Basté presenta el tratamiento de implantes All-on-4. Se trata de un método rápido y eficaz de cuatro implantes que pueden soportar una prótesis de arcada completa y con carga inmediata. Este método te funcionará a la perfección. Incluso también aquellos pacientes que lo necesiten se puede hacer un All-on-6, con seis implantes. Esta técnica permite realizar implantes y colocar los dientes en 48 horas.
+
+**
+
+
 **¿Qué es la técnica All on 4?**
 Esta denominación proviene del término que define a todos los dientes apoyados en cuatro implantes. Es un proceso quirúrgico que permite una rehabilitación total de todos aquellos pacientes desdentados.
 
 Con esta técnica se reducen los tiempos de espera de los tratamientos habituales. Además, la arcada dental funciona inmediatamente desde el primer momento. Esta técnica como decimos, se materializa en tan sólo 4 implantes o en 6 en algunos casos más específicos. Se puede considerar un sistema exprés, pero más efectivo y eficaz respecto a las técnicas de implantes más tradicionales.
+
+**
+
+
 ![All on four, Centre Dental Basté](https://centredentalbaste.com/wp-content/uploads/2020/07/all-on-four-baste-1024x1024.jpg)
+**
+
+
 **Ventajas de la técnica All on 4**
 En el Centre Dental Basté te explicamos algunas de las ventajas que tiene la técnica All on 4 para tu dentadura.
 

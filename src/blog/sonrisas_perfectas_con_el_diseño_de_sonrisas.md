@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-10-10T14:55:19+00:00
 fecha: 2016-10-10T14:55:19+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,7 +19,6 @@ El **diseño de sonrisas** consiste en aplicar una serie de técnicas odontológ
 
  
 La importancia de una sonrisa
------------------------------
 
 
 La sonrisa es uno de los rasgos distintivos de la especie humana. La risa y la sonrisa son típicas de los humanos y no se producen en otras especies animales. Algunos científicos estudiosos de la evolución humana creen que el hecho de enseñar los dientes al sonreir indica que no se tiene intención de atacar.
@@ -30,7 +29,6 @@ Psicológicamente tendemos a relacionar una bonita sonrisa con una persona salud
 
 ![carillas dentales baratas precio en barcelona sant boi de llobrgat](http://centredentalbaste.com/wp-content/uploads/2016/10/carillas-dentales-barcelona-sant-boi-llobregat-barato-precio.jpg)
 Técnicas para el diseño de sonrisas
------------------------------------
 
 
 Cada persona necesita unas determinadas técnicas para un buen diseño de sonrisa. Unos pueden necesitar un blanqueamiento, unas carillas, una eliminación de calzas negras, una ortodoncia u otros tratamientos.
@@ -41,7 +39,6 @@ En Sant Boi de LLobregat tenemos la oportunidad que los profesionales de la Clí
 
  
 Consejos de nuestro odontólogo en Sant Boi
-------------------------------------------
 
 
 Con la experiencia de nuestros odontólogos vas a conseguir esa sonrisa con la que has soñado. Una sonrisa que sea el centro de tu expresión y que diga mucho de ti. Una sonrisa que no sea sólo un blanqueamiento dental, sino una serie de actuaciones para conseguir una dentadura armónica y que se integre con el resto de tu rostro.

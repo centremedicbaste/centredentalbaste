@@ -11,11 +11,11 @@ metaKeywords: odontología infantil, Sant Boi de Llobregat, cuidado dental, niñ
 metaRobots: index, follow
 
 
-introCta_title: protesis
-introCta_image: /assets/static/images/entrada.png
+introCta_title: ODONTOPEDIATRIA
+introCta_image: /assets/static/images/tratamientos/seccion-odontopediatria.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: CUIDADO DENTAL PARA NIÑOS
 
 
 

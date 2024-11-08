@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-05-31T09:00:23+00:00
 fecha: 2019-05-31T09:00:23+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -17,7 +17,6 @@ imageAlt:
 
 En **Centre Dental Basté** ofrecemos todo tipo de facilidades para que nuestros pacientes sientan plena confianza al tratarse con nuestros servicios, por eso nuestro **dentista de urgencias en Sant Boi de Llobregat** atiende todo tipo de urgencias dentales. Contamos con un horario flexible y adaptado a sus necesidades.
 ¿Que problemas dentales podrían ser considerados urgencias dentales?
---------------------------------------------------------------------
 
 
 * Sangrado continuo en la boca.

@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T15:30:55+00:00
 fecha: 2016-11-21T15:30:55+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -17,7 +17,7 @@ imageAlt:
 
 **Sant Boi de Llobregat alberga a tu profesional de la estética dental**. Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de protesis dentales: básicamente, fijas y removibles.** **Luciréis una gran sonrisa y mejoraréis vuestra función bucal, tras un tratamiento personalizado**.
 La estética y funcionalidad de tu boca, en buenas manos
--------------------------------------------------------
+---
 
 
 **Cuando pierdes uno o más de tus dientes te sientes inseguro**. Las prótesis dentales son tu solución. Tu dentista las dispondrá para restablecer tanto la estética de tu boca, como la función que desempeñan tus dientes.
@@ -26,7 +26,6 @@ La estética y funcionalidad de tu boca, en buenas manos
 
 ![protesis dental fija en sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-fija-sant-boi-llobregat.jpg)
 Prótesis fijas, un apoyo en tus dientes
----------------------------------------
 
 
 Similar a los dientes naturales, su principal característica es que **recibe el apoyo de tus dientes**. Tu odontólogo santboiano esculpirá los dientes que se emplearán como soporte. Los situará en los extremos de cada zona donde no tienes dientes. En este lugar irá pegada la prótesis.
@@ -53,7 +52,6 @@ Has de tener presente una **buena higiene para mantener tu puente dental**. Si 
 
 ![protesis dental removible sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-removible-sant-boi-llobregat.jpg)
 Prótesis removibles, de quita y pon
------------------------------------
 
 
 La comúnmente llamada **dentadura postiza**, es una solución factible y más económica, tanto si te falta algún miembro dental como si es necesario reemplazar toda la dentadura. **Existen dos subtipos bien diferenciados: parciales o totales.**

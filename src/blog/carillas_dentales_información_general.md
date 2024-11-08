@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-09-17T04:23:26+00:00
 fecha: 2016-09-17T04:23:26+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -17,7 +17,6 @@ imageAlt:
 
 El uso de carillas dentales se ha vuelto muy popular en el campo de los tratamientos dentales. Se trata de unas láminas de **material cerámico o similar cuyos fines son reforzar el esmalte de un diente** gastado, entre otros objetivos. Nosotros como [dentistas en Sant Boi de Llobregat](http://centredentalbaste.com/) te lo explicamos.
 Te contamos qué son las carillas dentales
------------------------------------------
 
 
 Podemos calificar las carillas dentales como unos tratamientos estéticos, ya que sus usos principales consisten en**devolver a los dientes desgastados las apariencias que tuvieron un día**. El material con el que están fabricadas recubre los dientes originales y da como resultado una sonrisa más atractiva y luminosa.
@@ -26,7 +25,7 @@ Como norma general, están fabricadas en cerámica. Aunque también se pueden en
 
 Cada uno de estos materiales tiene determinadas ventajas frente a los demás, por lo que te **conviene hablar con un especialista antes** de decidirte. Para fijarlas, puedes emplear un cemento especial o algún tipo de resina, dependiendo de los material y estados de los dientes. Algunas piezas agrietadas requieren un material de relleno, que fije y refuerce el esmalte para que la lámina se quede sujeta.
 Te explicamos cuáles son los usos de las carillas dentales
-----------------------------------------------------------
+------
 
 
 El listado de usos de las carillas dentales es bastante amplio. En conjunto, podemos decir que cubren cualquiera de las necesidades de un paciente con un problema en los dientes, salvo que este sea de tipo sanitario y requiera un tratamiento.
@@ -48,7 +47,6 @@ Algunos de sus **usos más comunes** son los siguientes:
 
 
 Toma nota de los tipos de carillas dentales
--------------------------------------------
 
 
 Dependiendo de la forma de fabricación, **podemos diferenciar entre 2 tipos** de carillas dentales:
@@ -63,7 +61,6 @@ El dentista **utiliza la dentadura del propio paciente** para fabricar *in situ*
 
 En cualquiera de los casos, el propósito de las carillas sigue siendo el mismo, que no es otro que dotar de una apariencia lo más natural y parecida posible a los dientes de verdad. El resultado suele ser asombroso y devuelve al paciente una sonrisa luminosa, blanca y perfecta.
 Pon atención a la duración y al precio
---------------------------------------
 
 
 Si las tratas adecuadamente, las carillas dentales te **pueden duran un largo tiempo**. Normalmente es el profesional que trata el asunto quien te puede dar un plazo aproximado de su vida útil.

@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-11-16T15:14:32+00:00
 fecha: 2017-11-16T15:14:32+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -16,6 +16,7 @@ imageAlt:
 
 
 La última tecnología en el tratamiento de implantes dentales en Sant Boi de Llobregat:
+
 ======================================================================================
 
 
@@ -23,7 +24,6 @@ La última tecnología en el tratamiento de implantes dentales en Sant Boi de Ll
 En **Centre Dental Basté** ponemos a tu alcance la última tecnolgía para realizar los trabajos de implantes con total precisión.
 
 **Cirugía maxilofacial**
-------------------------
 
 
 La cirugía oral y maxilofacial es una **especialidad quirúrgica** que incluye el diagnóstico, cirugía y tratamientos, sea cual sea la afección, relacionados con los aspectos estéticos y funcionales de la **boca**, **dientes** y **cara**.
@@ -34,7 +34,6 @@ Ponemos a su disposición un **experimentado equipo** de profesionales para dar 
 
 
 **Boca completa en 1 día**
---------------------------
 
 
 Es la técnica **implantológica de carga inmediata.**Se realizará la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes y colocamos los dientes nuevos. El paciente termina su tratamiento y sale de la clínica con sus dientes provisionales “fijos” colocados **en el mismo día**.
@@ -54,7 +53,6 @@ A continuación les mostramos técnicas de implantología específicamente dise�
 
 
 **1. Implantes cigomáticos**
-----------------------------
 
 
 Se basa en un concepto innovador que permite ofrecer un gran número de ventajas a los pacientes con poco hueso. Es una técnica avanzada que consiste en colocar unos implantes largos en el **hueso cigomático** (área del pómulo) para eliminar la necesidad de injertos óseos.
@@ -67,7 +65,6 @@ Los implantes cigomáticos son una solución que aporta seguridad, confort y est
 
 
 **2. Implantes cortos**
------------------------
 
 
 La principal ventaja del implante corto es precisamente evitar el injerto de hueso, una opción eficaz pero más invasiva para el paciente. Los **implantes dentales en Sant Boi de Llobregat:** de 6-8mm. permiten devolver piezas definitivas de manera sencilla y rápida a pacientes con una pérdida severa de hueso que hacía inviable, en una determinada zona, la utilización de implantes de 12 mm.
@@ -78,7 +75,6 @@ Otra ventaja respecto a las técnicas injertivas es el **postoperatorio**, prác
 
 
 **3. Injerto óseo**
--------------------
 
 
 El injerto óseo es un **material de relleno** (artificial o autólogo) que se coloca en los maxilares cuando, por diferentes patologías, este hueso se ha perdido y es necesario restablecerlo. Lo que se pretende con este relleno es inducir la **regeneración del hueso** existente entrando directamente en las zonas afectadas que requieren soporte para un tratamiento posterior.
@@ -87,7 +83,6 @@ El injerto óseo es un **material de relleno** (artificial o autólogo) que se c
 
 
 **4. Lateralización del nervio dentario**
------------------------------------------
 
 
 Durante muchos años, la rehabilitación **implantológica en Sant Boi de Llobregat** en la zona posterior mandibular se ha visto obstaculizada por la presencia del nervio dentario inferior, así como por la reabsorción ósea que depende en gran medida, del lapso de tiempo en que han estado ausentes los dientes, haciendo que en muchas ocasiones, se carezca de una adecuada anchura y altura para la colocación de los implantes.
@@ -98,7 +93,6 @@ En la actualidad, esta limitación ha podido ser resuelta gracias al desarrollo 
 
 
 **5. Mini-implantes**
----------------------
 
 
 Se trata de fijadores que puede usar en su dentadura postiza actual **sin cirugía** y **sin puntos**. La colocación es muy sencilla, **sin molestias postoperatorias** y con un tiempo de colocación menor a diez minutos.

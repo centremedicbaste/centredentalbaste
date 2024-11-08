@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T14:45:41+00:00
 fecha: 2017-01-24T14:45:41+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -21,12 +21,11 @@ Además, también hay que considerar que existen algunas personas que tienen una
 
 Si eres una de estas personas, tienes que saber que existe un tratamiento perfecto que te puede ayudar con la ansiedad/el estrés que puede sentir en estos casos: la **sedación consciente**.
 **¿Quién lleva a cabo la sedación consciente?**
------------------------------------------------
+---
 
 
 Para poder llevar a cabo este tipo de técnica se necesita de un médico especializado en el área de la anestesia, un anestesiólogo. En nuestra clínica odontológica tenemos a un profesional autorizado que cuenta con muchos años de experiencia a sus espaldas. Se especializa tanto en el tratamiento odontológico de cara tanto a los adultos, así como en diferentes pacientes pediátricos.
 **¿Para qué tipo de persona se recomienda la sedación consciente?**
--------------------------------------------------------------------
 
 
 En los últimos años hemos podido ver cómo la tecnología odontológica ha evolucionado a un ritmo bastante intenso, pudiéndose encontrar con un tipo de aparatología dental poco agresiva y muy funcional. Por esta razón, se han reducido mucho los casos en los que el paciente puede tener miedo a la consulta del dentista.

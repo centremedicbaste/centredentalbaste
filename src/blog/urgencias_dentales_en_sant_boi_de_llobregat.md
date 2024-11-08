@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-02-16T11:11:44+00:00
 fecha: 2018-02-16T11:11:44+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -24,7 +24,7 @@ Las mayores **solicitudes** en Sant Boi de Llobregat tienen que ver con: fuerte 
 [caption id="attachment\_465" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/02/urgencias-dentales.jpg) urgencias dentales en Sant Boi de Llobregat[/caption]
 
 ¿En qué casos debes venir de urgencias?
----------------------------------------
+
 
 
 El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar aquellas dolencias urgentes provocadas por un problema odontológico.

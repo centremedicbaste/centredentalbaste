@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-07-20T08:42:20+00:00
 fecha: 2018-07-20T08:42:20+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,7 +19,7 @@ La ortodoncia es una rama de la Odontología, que se especializa en el diagnóst
 
  
 Estudio cefalométrico previo
-----------------------------
+
 
 
 Es una técnica de gran utilidad en odontología y especialmente en la ortodoncia, ya que permite obtener **medidas del cráneo** a partir de radiografías que luego se calcan sobre un software digital. Con esta información, se establecen los puntos anatómicos más significativos y se miden las distancias y relaciones entre unos y otros (huesos, músculos, dientes, etc.) atendiendo a diferentes criterios para luego compararlos con los patrones de normalidad.
@@ -35,7 +35,6 @@ Es un **procedimiento diagnóstico fundamental** antes de iniciar cualquier trat
 
  
 Ortodoncia invisible
---------------------
 
 
 La [**ortodoncia invisible**](http://www.esacademic.com/dic.nsf/eswiki/1422415) es una **revolucionaria técnica** de ortodoncia estética que viene a sustituir a los hasta ahora habituales aparatos de metal.
@@ -45,7 +44,6 @@ Hace ya años que se vienen utilizando estos **sistemas alineadores transparente
 
  
 Ventajas de la ortodoncia invisible
------------------------------------
 
 
 * ### Estética:
@@ -100,7 +98,6 @@ Gracias al propio sistema de férulas que se van **adaptando periódicamente**, 
 
  
 **ALGUNAS PREGUNTAS FRECUENTES**
---------------------------------
 
 
 **¿Es dolorosa la ortodoncia invisible?**Algunas personas pueden sentir una pequeña molestia o presión temporal durante los primeros días al inicio de cada nueva etapa del tratamiento, al ponerse un alineador nuevo. Estas molestias desaparecen en un par de días.

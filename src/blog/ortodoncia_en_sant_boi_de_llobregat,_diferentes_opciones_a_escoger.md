@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-08-16T10:38:14+00:00
 fecha: 2019-08-16T10:38:14+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,21 +19,21 @@ Somos una de las clínicas más completas de la ciudad en caso de que necesites 
 
  
 ¿Qué es la ortodoncia?
-----------------------
+
 
 
 La ortodoncia es una especialidad de la odontología que sirve para corregir la malposición de los dientes y los maxilares. Se ocupa de la supervisión, guía y corrección del crecimiento y maduración de las estructuras dentofaciales: situaciones que requieran movimientos dentarios o corrección de relaciones óseo-esqueléticas.
 
  
 ¿Qué problemas pueden ser tratados con ortodoncia en Sant Boi de Llobregat?
----------------------------------------------------------------------------
+
 
 
 Nos podemos encontrar casos de malposición de los dientes, mucho espacio entre ellos, dientes de más o ausentes, asimetrías, labio y paladar hundido, alteraciones a la hora de masticar, etc. Son problemas que con un tratamiento de ortodoncia podemos solucionar, consiguiendo una buena oclusión, función masticatoria y también una buena sonrisa. Al mejorar la función y la sonrisa también mejora la autoestima del paciente.
 
  
 ¿Por qué he de realizarme un tratamiento de ortodoncia?
--------------------------------------------------------
+---
 
 
 Se recomienda realizar un tratamiento de ortodoncia, no sólo para mejorar la estética sino también para prevenir algunas patologías orales. Por ejemplo los dientes torcidos o mal puestos, con apiñamiento, siempre son más difíciles de cepillar, aumentando el riesgo de sufrir caries e inflamación de las encías, desarrollando enfermedades periodontales como gingivitis y periodontitits. También la maloclusión puede llevar a una mal función y derivar a dificultad en la apertura y / o masticación, dolores musculares y dolor de cabeza.
@@ -44,14 +44,12 @@ Somos una **clínica dental en Sant Boi de Llobregat** dedicada a la rehabilitac
 
  
 ¿Qué tratamiento de ortodoncia se adapta mejor a mis necesidades?
------------------------------------------------------------------
 
 
 En **Centre Dental Basté** estamos a tu servicio para solucionarte cualquier duda. Acércate a nuestra clínica dental y consulta a nuestros profesionales, te asesoraremos sobre qué tratamiento de **ortodoncia en Sant Boi de Llobregat** es mejor según tus necesidades y presupuesto.
 
  
 Brackets metálicos convencionales
----------------------------------
 
 
 Con los brackets metálicos conseguirás alinear tus dientes de forma eficaz obteniendo muy buenos resultados. Se mueven los dientes con facilidad, son económicos y útiles para personas que la estética no les preocupe durante el tratamiento (niños, adolescentes, estudiantes, etc).
@@ -64,7 +62,7 @@ Seguro que has pensado alguna vez en colocarte bien tus dientes pero lo has vist
 
  
 Brackets de zafiro
-------------------
+
 
 
 Están hechos de zafiro monocristalino puro, un material que te ayuda a mantener tu dentadura impecable. Este material tiene las propiedades físicas y técnicas idóneas para que tu tratamiento evolucione con gran precisión. En **Centre Dental Basté** te programaremos las visitas periódicamente para cambiar el arco metálico, también blanco, cuando el profesional lo considere necesario. El zafiro puro monocristalino no se desgasta y perdurará hasta la retirada final del aparato dental.
@@ -77,7 +75,6 @@ La ortodoncia con brackets estéticos te evitará las preocupaciones por el aspe
 
  
 Ortodoncia lingual
-------------------
 
 
 Es un tratamiento muy discreto ya que los brackets se fijan al diente por su cara interior, haciendo que la ortodoncia quede totalmente oculta. Es una opción muy estética para alinear los dientes dejando que nuestra sonrisa quede libre de brackets, ideal para personas adultas y jóvenes que rechazan utilizar aparatos visibles.
@@ -88,7 +85,6 @@ La **ortodoncia en Sant Boi de Llobregat** del tipo lingual se está implantando
 
  
 Ortodoncia invisible
---------------------
 
 
 La ortodoncia invisible o transparente es una revolucionaria técnica de **ortodoncia estética en Sant Boi de Llobregat** que viene a sustituir los hasta ahora habituales aparatos con arcos de metal. Gracias al desarrollo de las técnicas digitales han podido desarrollar unos alineadores, férulas hechas con un plástico transparente, que permiten el movimiento de los dientes con una gran precisión. Son muy estéticos ya que prácticamente son invisibles a los ojos de los demás y son la **ortodoncia para adulto en Sant Boi de Llobregat** más elegida.
@@ -101,7 +97,6 @@ Son alineadores extraíbles pero que sólo te sacarás para comer y cepillarte l
 
  
 Ortodoncia interceptiva para niños
-----------------------------------
 
 
 La ortodoncia interceptiva infantil es una ortodoncia temprana encaminada a corregir desviaciones del hueso maxilar y / o mandibular **durante el crecimiento**. Si el pequeño de 7 a 11 años ha desarrollado un mal hábito, como chuparse el dedo, o tiene una mala posición de los dientes de leche, también se puede colocar una ortodoncia interceptiva para corregirlo.

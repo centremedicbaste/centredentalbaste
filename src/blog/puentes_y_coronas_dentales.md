@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T14:30:01+00:00
 fecha: 2017-01-24T14:30:01+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -17,7 +17,7 @@ imageAlt:
 
 Las **coronas y los puentes dentales** son un tipo de prótesis que se coloca de manera fija, cementando directamente sobre los dientes o sobre cualquier otro implante que ya exista y que tan sólo un dentista autorizado puede encargarse de su extracción.
 **¿Qué son y cómo funcionan las coronas dentales?**
----------------------------------------------------
+-------
 
 
 La corona es utilizada con el objetivo de dar cobertura a un diente que esté deteriorado o destruido. Ayuda a mejorar el aspecto del mismo, a que se puede llegar a alinear, así como a conseguir la forma que se necesita.

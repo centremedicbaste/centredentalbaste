@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-05-21T15:05:22+00:00
 fecha: 2018-05-21T15:05:22+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -16,12 +16,10 @@ imageAlt:
 
 
 ¿Qué es la odontopediatría?
----------------------------
 
 
 La odontopediatría es la rama de la odontología encargada de **tratar a los niños**, es decir, **odontología infantil**. Nuestros odontopediatras de **Centre Dental Basté** te ayudarán a mantener la **salud dental** de tu hijo. Es muy importante controlar los dientes temporales o de leche, ya que de la correcta salud de los mismos dependerá en gran medida la salud de los dientes definitivos que utilizará el paciente el resto de su vida, es por esto que la **odontología infantil en Sant Boi de Llobregat** desempeña un papel imprescindible.
 Recomendaciones para los niños
-------------------------------
 
 
 En los niños de 2 a 4 años de edad casi 2/5 de ellos tiene, al menos, una **caries**.
@@ -34,7 +32,6 @@ En los niños de 2 a 4 años de edad casi 2/5 de ellos tiene, al menos, una **ca
 
 ![Odontología infantil en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/05/odontologia-infantil3-1024x600.jpg)
 Tratamientos más habituales de odontología infantil en Sant Boi de Llobregat
-----------------------------------------------------------------------------
 
 
 * EDUCACIÓN BUCAL: técnicas de cepillado e higiene bucal para que los niños adquieran buenos hábitos.

@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-09-26T14:41:32+00:00
 fecha: 2018-09-26T14:41:32+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -23,7 +23,6 @@ La **gingivitis** es una reacción inflamatoria de la encía y se percibe de for
 
  
 La periodontitis
-----------------
 
 
 Hoy en día sabemos que si bien todas las periodontitis se inician con una gingivitis, no todas las gingivitis progresan a una periodontitis. La periodontitis no afecta por igual a todos los dientes, tiene predilección por ciertos patrones de algunas personas (genéticos y de hábitos).
@@ -36,7 +35,6 @@ Cuando el **proceso inflamatorio** afecta a los tejidos periodontales profundos,
 
  
 La periodoncia
---------------
 
 
 La **periodoncia** es la especialidad odontológica que estudia la prevención, diagnóstico y tratamiento de las enfermedades y condiciones que afectan los tejidos que dan soporte a los órganos dentarios.
@@ -50,7 +48,6 @@ Es importante actuar lo más rápido posible.
 
  
 Preguntas frecuentes sobre los **problemas de encías en Sant Boi de Llobregat**
--------------------------------------------------------------------------------
 
 
 **¿Cúal es el pronostico de los dientes después del tratamiento?**

@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2020-05-15T10:54:42+00:00
 fecha: 2020-05-15T10:54:42+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 

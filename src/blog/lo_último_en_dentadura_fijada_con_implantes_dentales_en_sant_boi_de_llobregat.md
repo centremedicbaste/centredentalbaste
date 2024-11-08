@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-02-19T16:11:03+00:00
 fecha: 2019-02-19T16:11:03+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,8 +19,7 @@ Si necesita restaurar su dentadura completamente (1 o 2 arcadas dentales), en *
 
 ![dentadura fijada con implantes dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/02/dentadura-fijada-implantes.png)
 Le explicamos en primer lugar qué son los [implantes dentales](#):
-------------------------------------------------------------------
-
+-
 
 Los implantes dentales sustituyen las raíces naturales del diente perdido. Un implante dental es una **raíz artificial**, normalmente de titanio, que se coloca en el maxilar y permite sustituir de manera estética y funcional el diente perdido. Se puede colocar un implante por cada pieza perdida o varios implantes que sujetan una **dentadura entera**.
 
@@ -34,7 +33,6 @@ El tratamiento con implantes es necesario cuando faltan piezas dentales, ya que
 
  
 01. Dentadura completa fijada con 6/8 implantes dentales:
----------------------------------------------------------
 
 
 Si no está cómodo con su **dentadura postiza actual** y el adhesivo para dentaduras es una molestia, puede que nuestra solución de **dentadura fijada con implantes dentales en Sant Boi de Llobregat** sea la más adecuada para usted.
@@ -44,8 +42,7 @@ La dentadura fija es un tipo de [dentadura soportada](https://es.wikipedia.org/
 ![dentadura fijada con implantes dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/02/dentadura-fijada-implantes-dentales.jpg)
 
  
-02. Dentadura completa híbrida fijada con 4/6 implantes dentales:
------------------------------------------------------------------
+1.  Dentadura completa híbrida fijada con 4/6 implantes dentales:
 
 
 La segunda solución que le ofrecemos en nuestra clínica dental es la **dentadura completa híbrida fijada con 4 o 6 implantes dentales**. Suele recomendarse a pacientes que han usado **dentadura postiza** durante mucho tiempo y están ya muy acostumbrados a ella.
@@ -60,8 +57,7 @@ Por último, la **dentadura fijada con implantes dentales en Sant Boi de Llobreg
 
  
 03. Dentadura completa fijada con 4 implantes dentales especiales:
-------------------------------------------------------------------
-
+-
 
 Se trata de una técnica para reemplazar todos los dientes perdidos de un maxilar usando menos implantes que en el método tradicional, en concreto se usan **sólo 4 implantes dentales**.
 En esta técnica los **implantes traseros son especiales** porque se colocan en **ángulo** para conseguir una fuerza óptima incluso en pacientes que han sufrido pérdida ósea.
@@ -72,8 +68,7 @@ Esta técnica avanzada, como explicamos en el siguiente punto, tiene la posibili
 
  
 Y además: Implantes dentales de carga inmediata o dientes en 1 día:
--------------------------------------------------------------------
-
+--
 
 Le ofrecemos la posibilidad de realizarse su **dentadura fijada con implantes dentales en Sant Boi de Llobregat** con la técnica implantológica de **carga inmediata** o **dientes colocados en un día**, siempre según el criterio del profesional.
 Para este tratamiento se realiza la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes dentales y se colocan los dientes nuevos. El paciente termina su tratamiento y sale de la clínica dental con sus dientes provisionales “fijos” colocados en el mismo día.

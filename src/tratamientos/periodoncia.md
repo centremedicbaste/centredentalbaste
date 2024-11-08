@@ -11,11 +11,11 @@ metaKeywords: periodoncia, Sant Boi de Llobregat, encías, gingivitis, periodont
 metaRobots: index, follow
 
 
-introCta_title: periodoncia
-introCta_image: /assets/static/images/entrada.png
+introCta_title: PERIODONCIA
+introCta_image: /assets/static/images/tratamientos/seccion-periodoncia.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: PERIODONCIA EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: TRATAMIENTOS DE PERIODONCIA PARA PREVENIR Y TRATAR ENFERMEDADES DE LAS ENCÍAS
 
 
 

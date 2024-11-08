@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-10-24T14:36:27+00:00
 fecha: 2018-10-24T14:36:27+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -29,7 +29,6 @@ Cuando visites tu **clínica dental en Sant Boi de Llobregat**, encontrarás un 
  
 
 ¿Qué ofrece nuestra **clínica dental en Sant Boi de Llobregat**?
-----------------------------------------------------------------
 
 
 Cubrimos todas las especialidades, disponemos de especialistas con **buena reputación** en el mundo de la odontología y con muchos años de **experiencia** en: implantes dentales, ortodoncia, periodoncia, endodoncia, estética dental, etc. ¡Visítanos y lo comprobarás!

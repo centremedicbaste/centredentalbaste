@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-03-21T15:08:04+00:00
 fecha: 2019-03-21T15:08:04+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -16,7 +16,6 @@ imageAlt:
 
 
 ¿Cómo funciona el blanqueamiento dental?
-----------------------------------------
 
 
 Esta técnica no consiste en un blanqueamiento del diente propiamente dicho, sino en un **aclaramiento**, ya que no se altera el color propio del diente.
@@ -29,7 +28,6 @@ El color del núcleo no se altera, sin embargo, con el tiempo el **esmalte se va
 
  
 ¿Qué tipos de blanqueadores existen?
-------------------------------------
 
 
 Básicamente los blanqueadores utilizados son 2: el **peróxido de hidrógeno** y el **peróxido de carbamida**, ambos en concentración variable.
@@ -47,7 +45,6 @@ Los estudios demuestran que lo más efectivo es **combinar ambos tratamientos** 
 
  
 ¿Cuánto dura el tratamiento?
-----------------------------
 
 
 En una **primera visita** se realizan unas réplicas de la boca del paciente, a partir de las cuales se confeccionarán unos **moldes de plástico transparentes**, que se adaptarán a los dientes y albergarán el gel blanqueador.
@@ -67,7 +64,7 @@ Se concluye con un **pulido de los dientes** y una **aplicación de flúor** par
 
  
 ¿El blanqueamiento dental funciona?, ¿vale para todo el mundo?
---------------------------------------------------------------
+----------
 
 
 La **eficacia** del tratamiento es proporcional al **grado de tinción de los dientes** que han sido oscurecidos a lo largo de los años por sustancias colorantes.
@@ -76,7 +73,6 @@ El tratamiento resulta menos eficaz, e incluso inútil, en **dientes oscurecidos
 
  
 ¿Tiene algún riesgo?
---------------------
 
 
 La American Dental Association (ADA), tras un riguroso seguimiento de varios años, señalaba que **no existen efectos perjudiciales** ni para los dientes ni para la salud por el uso, incluso prolongado, de estos geles blanqueadores.
@@ -87,7 +83,7 @@ Según los expertos, la única desventaja que puede presentarse es **sensibilida
 
  
 ¿Cuánto dura?, ¿tengo que hacer algún tipo de mantenimiento?
-------------------------------------------------------------
+--------
 
 
 En cuanto a la duración del efecto del **blanqueamiento dental en Sant Boi de Llobregat**, depende en gran medida del tipo de **alimentación** que siga el paciente tras el tratamiento. Así, en una persona fumadora, que bebe vino y toma café regularmente, el efecto del blanqueamiento se perderá con más rapidez.

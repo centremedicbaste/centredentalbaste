@@ -11,11 +11,11 @@ metaKeywords: higiene dental, Sant Boi de Llobregat, limpieza dental, prevenció
 metaRobots: index, follow
 
 
-introCta_title: endodoncia
-introCta_image: /assets/static/images/entrada.png
+introCta_title: ODONTOLOGIA
+introCta_image: /assets/static/images/tratamientos/seccion-odontologia.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: HIGIENE DENTAL EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: MANTÉN UNA SONRISA SALUDABLE CON NUESTROS SERVICIOS DE HIGIENE DENTAL
 
 
 hookfraseimagen: ahfdiouhfdsaioudfhssiudo

@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T15:01:58+00:00
 fecha: 2017-01-24T15:01:58+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -19,7 +19,7 @@ Cuando hablamos de **Brackets estéticos** nos referimos a un tipo de corrector 
 
 Con este tipo de aparatología dental se utilizan brackets que tienen la particularidad de ser transparentes (como aquellos que han sido fabricados con zafiro) intentando encontrar aquellos que más se parezcan al color de nuestros clientes. De esta manera, a no ser que el resto del mundo se fije con mucho detenimiento, ni tan siquiera sabrá que los llevamos puestos.
 **Brackets estéticos vs brackets metálicos**
---------------------------------------------
+
 
 
 En el momento en el que el dentista nos recomiende la implantación de brackets para corregir algunos defectos en nuestros pacientes, se nos presentan dos opciones genéricas a considerar: o bien los clásicos brackets estéticos, o bien los más estéticos **brackets metálicos.**
@@ -28,7 +28,6 @@ A nivel de la efectividad del tratamiento, no importa cuál de las dos opciones 
 
 Sin embargo, cuando hablamos de presupuestos, es importante que sepas que los “brackets metálicos” a ser mucho más específicos y especiales tienen un coste algo más elevado. Igualmente, dentro de esta categoría también podemos encontrar diferentes técnicas o materiales, lo que puede llegar a incrementar más o menos el precio. Si tienes algún tipo de duda relacionada, desde nuestra clínica odontológica estaremos preparados para poder contestarla.
 **Principales tipos de brackets estéticos**
--------------------------------------------
 
 
 ### **Brackets estéticos de plástico**

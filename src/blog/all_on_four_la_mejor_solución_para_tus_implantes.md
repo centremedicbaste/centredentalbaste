@@ -6,9 +6,9 @@ metaTitle: "All on four: la mejor solución para tus implantes"
 metaDescription: ""
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 
-fecha: 
-tags: []
+
+fecha: September 26, 2024
+tags: [post]
 image: 
 imageAlt: 
 

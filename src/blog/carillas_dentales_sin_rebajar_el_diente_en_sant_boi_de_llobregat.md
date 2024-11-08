@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-04-24T14:05:32+00:00
 fecha: 2019-04-24T14:05:32+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -21,7 +21,6 @@ Las **carillas dentales sin rebajar el diente** en nuestra clínica **Centre De
 
  
 Principales beneficios de las carillas dentales sin rebajar el diente en Sant Boi de Llobregat:
------------------------------------------------------------------------------------------------
 
 
 * Son un tratamiento **no invasivo**, **no hay que tallar el diente**, el procedimiento es similar a colocar una uña de porcelana. Además no hay que llevar carillas provisionales.
@@ -35,7 +34,7 @@ Principales beneficios de las carillas dentales sin rebajar el diente en Sant Bo
 
  
 ¡Cambia tu sonrisa en 2 horas! Diseño de sonrisa 3D
----------------------------------------------------
+-------
 
 
 Primero se realiza un **análisis bucal** inicial tomando **radiografías** y **fotografías**. También se comienzan a tomar **medidas de ambas arcadas** para realizar los **moldes** necesarios en el laboratorio en función del tratamiento que precisa el paciente.
@@ -50,7 +49,7 @@ Por último viene la **colocación** de las **carillas dentales sin rebajar el d
 
  
 Algunas preguntas frecuentes sobre **carillas dentales sin rebajar el diente en Sant Boi de Llobregat**:
---------------------------------------------------------------------------------------------------------
+
 
 
  

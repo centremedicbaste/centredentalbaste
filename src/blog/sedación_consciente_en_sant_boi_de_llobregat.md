@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-01-17T16:20:15+00:00
 fecha: 2019-01-17T16:20:15+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -26,7 +26,6 @@ Una vez acabada la sesión se eliminan rápidamente los efectos producidos por l
 ![sedación consciente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/01/sedacion-sant-boi-de-llobregat.jpg)
 
 Indicaciones de la sedación consciente en Sant Boi de Llobregat:
-----------------------------------------------------------------
 
 
 * Está indicada en personas con **miedo o fobia** a los procedimientos dentales, en personas **ansiosas** o para todo aquel que quiera un **grado de confort extra** en su visita al dentista.
@@ -38,7 +37,6 @@ Nuestros **médicos anestesiólogos** están titulados vía MIR, tienen una exte
 ![sedación consciente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/01/sedacion-sant-boi-de-llobregat-3.jpg)
 
 Sedación consciente infantil:
------------------------------
 
 
 Los niños, igual que los adultos, son **susceptibles de sufrir miedo y ansiedad** ante la visita al dentista. Ello puede ocasionar mayor o menor dificultad para la realización de los diferentes tratamientos dentales que sus hijos necesitan para asegurar una correcta y adecuada salud dental.

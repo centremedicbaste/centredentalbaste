@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-10-31T10:48:24+00:00
 fecha: 2017-10-31T10:48:24+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -27,7 +27,6 @@ La **ortodoncia en** persigue la perfecta colocación de los dientes, con sus be
 
  
 Ortodoncia de zafiro
---------------------
 
 
 Actualmente la ortodoncia con brackets de mayor calidad. Son transparentes y no se amarillean con el tiempo, alimentos o tabaco.
@@ -36,7 +35,6 @@ Actualmente la ortodoncia con brackets de mayor calidad. Son transparentes y no 
 
  
 Ortodoncia lingual
-------------------
 
 
 Los brackets van pegados en la cara interna de los dientes. Permiten un excelente control del movimiento dental y no afectan al hablar ni interfieren en la vida diaria.
@@ -45,7 +43,6 @@ Los brackets van pegados en la cara interna de los dientes. Permiten un excelent
 
  
 Ortodoncia convencional
------------------------
 
 
 Es el tipo de ortodoncia más difundido y conocido. Se colocan los brackets en la cara visible del diente. Cada bracket color plateado se adhiere al diente en su superficie sin rodearlo.
@@ -54,7 +51,6 @@ Es el tipo de ortodoncia más difundido y conocido. Se colocan los brackets en l
 
  
 Ortodoncia estética
--------------------
 
 
 Consiste en el uso de brackets cerámicos de color similar al diente, por lo que disimulan bastante el uso de la ortodoncia, haciéndola confortable, agradable y poco visible.
@@ -63,7 +59,6 @@ Consiste en el uso de brackets cerámicos de color similar al diente, por lo que
 
  
 Ortodoncia Invisalign ®
------------------------
 
 
 Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición.
@@ -72,7 +67,6 @@ Se trata de alineadores que colocados de forma progresiva van moviendo los dient
 
  
 Ortodoncia para niños
----------------------
 
 
 Se coloca la ortodoncia convencional con la posiblidad de que el niño escoja las gomas de sujeción de los brackets de sus colores favoritos, para así hacer más llevadero el tiempo de uso de la ortodoncia.

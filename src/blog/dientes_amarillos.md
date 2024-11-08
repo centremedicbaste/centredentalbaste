@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T14:55:16+00:00
 fecha: 2017-01-24T14:55:16+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -21,7 +21,6 @@ Este problema puede estropear por completo nuestra sonrisa, no sólo tratándose
 
 Por lo general, una de las primeras causas que puede llegar a producir el problema de **dientes amarillos** es el consumo habitual del café, o bien de fumar de forma descontrolada… Sin embargo, también hay otros factores a controlar.
 **Dientes amarillos por motivos genéticos**
--------------------------------------------
 
 
 Lo cierto es que el color de los clientes depende de cada individuo en particular. Existen algunas enfermedades congénitas (como la amelogéneis con la dentinogenésis), que pueden provocar una serie de característicos defectos en la dentina o en el esmalte, haciendo que nuestros clientes pueden tornarse de un color amarillo que, incluso en casos más graves, podrían llegar a ser de color marrón.

@@ -11,11 +11,12 @@ metaKeywords: ortodoncia, Sant Boi de Llobregat, brackets, alineadores, sonrisa
 metaRobots: index, follow
 
 
-introCta_title: ortodoncia
-introCta_image: /assets/static/images/entrada.png
+introCta_title: ORTODONCIA
+introCta_image: /assets/static/images/tratamientos/seccion-ortodoncia.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+
+introtitle_title: ORTODONCIA EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: SOLUCIONES DE ORTODONCIA PARA UNA SONRISA ALINEADA Y SALUDABLE
 
 
 

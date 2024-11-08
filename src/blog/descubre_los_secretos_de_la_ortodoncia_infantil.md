@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T14:18:58+00:00
 fecha: 2016-11-21T14:18:58+00:00
-tags: []
+tags: [post]
 image: 
 imageAlt: 
 
@@ -23,7 +23,6 @@ Es todo un arte. En esta etapa es recomendable realizarla, pues los huesos se en
 
 
 Un buen diagnóstico
--------------------
 
 
 **Es aconsejable que acudas a tu dentista en Sant Boi de Llobregat sin esperar a que a tu hijo le desaparezcan los dientes de leche**. La Sociedad Española de Ortodoncia (SEPO) recomienda una revisión por el ortodoncista a los **seis años**. Es cuando empiezan a salir los primeros dientes definitivos.
@@ -52,7 +51,6 @@ En concreto, algunos hábitos de tu hijo pueden provocar dichas malformaciones:
 
 
 La ortodoncia de tu pequeño, todo un arte
------------------------------------------
 
 
 **Los santboianos contáis con especialistas que hacen de la ortodoncia un arte**. Lo primero que hará el ortodoncista será indagar cómo encajan entre sí las piezas dentales, los maxilares y la cara de tu niño. **La ortodoncia infantil se encamina así a lograr una armonía entre ellos.**
@@ -80,7 +78,6 @@ Por ello, insistimos en la importancia de la visita a tu ortodoncista a estas ed
 
 
 Aparatos removibles y fijos para tus hijos
-------------------------------------------
 
 
 Tu ortodoncista trabajará, básicamente, con dos tipos de aparatos para la corrección dental de tus niños: **removibles o fijos.**

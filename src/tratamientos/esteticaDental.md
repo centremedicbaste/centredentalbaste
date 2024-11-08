@@ -11,11 +11,11 @@ metaKeywords: estética dental, Sant Boi de Llobregat, blanqueamiento dental, ca
 metaRobots: index, follow
 
 
-introCta_title: estetica-dental
-introCta_image: /assets/static/images/entrada.png
+introCta_title: ESTETICA DENTAL
+introCta_image: /assets/static/images/tratamientos/seccion-estetica_dental.jpg
 
-introtitle_title: TITULAR
-introtitle_subtitle: SUBTITULAR
+introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: LOGRA UNA SONRISA RADIANTE CON NUESTROS TRATAMIENTOS DE BLANQUEAMIENTO, CARILLAS Y MÁS.
 
 
 
