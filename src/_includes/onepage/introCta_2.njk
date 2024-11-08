@@ -3,13 +3,13 @@
   data-scroll-section>
   <div class="video-bg2">
     {% if global_index.home_image %}
-    {% if global_index.home_video %}
-    <video data-scroll data-scroll-speed="-3" autoplay muted loop playsinline>
-      <source src="{{ global_index.home_video }}" type="video/mp4" />
-    </video>
-    {% else %}
-    <img class="parallax-image" data-scroll data-scroll-speed="-3" src="/assets/static/images/casa2.webp" alt="">
-    {% endif %}
+      {% if global_index.home_video %}
+        <video data-scroll data-scroll-speed="-3" autoplay muted loop playsinline>
+          <source src="{{ global_index.home_video }}" type="video/mp4" />
+        </video>
+      {% else %}
+        <img class="parallax-image" data-scroll data-scroll-speed="-2" src="/assets/static/images/{{ global_index.home_image }}" alt="">
+      {% endif %}
     {% endif %}
   </div>
   <div class="logo-centrado">

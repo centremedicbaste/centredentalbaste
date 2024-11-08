@@ -13,9 +13,10 @@ metaRobots: index, follow
 
 introCta_title: LA CLINICA
 introCta_description: introCta_description
-
-introCta_image: /assets/static/images/entrada.png
-
+home_image: clinica-1.jpg
+introCta_image: clinica-1.jpg
+content_1_image: clinica-3.jpg
+content_2_image: clinica-2.jpg
 
 introtitle_title: Clínica Dental Basté en Sant Boi de Llobregat
 introtitle_subtitle: Centre dental Basté es una clínica dental ubicada en Sant Boi de Llobregat (Barcelona) con más de 21 años de experiencia que ofrece las últimas técnicas en tratamientos dentales en todas las especialidades.

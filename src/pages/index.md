@@ -25,12 +25,12 @@ introtitle_subtitle: En Centre Dental Basté disponemos de la última tecnologí
 
 
 
-whytitle0_title: ¿Quiénes somos?
-whytitle0_subtitle: DESCUBRE TU MEJOR SONRISA...
-whytitle0_description: Plan Amigo
-whytitle0_img: santboi.jpg
+whytitle0_title: BIENVENIDOS A CENTRE DENTAL BASTÉ
+whytitle0_subtitle: DESCUBRE TU MEJOR SONRISA EN SANT BOI DE LLOBREGAT
+whytitle0_description: En Centre Dental Basté, nos enorgullece ofrecer tecnología avanzada y modernas instalaciones para tratamientos dentales de calidad. Nuestro equipo de profesionales está comprometido con tu salud bucodental, brindando un servicio personalizado y cercano. ¡Visítanos y transforma tu sonrisa hoy mismo!
+whytitle0_img: home-1.jpg
 
-
+content_6_image: home-2.jpg
 
 whytitle1_title: ¿Quiénes somos?
 whytitle1_subtitle: DESCUBRE TU MEJOR SONRISA...
@@ -38,7 +38,7 @@ whytitle1_description: Plan Amigo
 
 
 
-whytitle4_img: ofertas.jpg
+whytitle4_img: home-2.jpg
 
 whytitle4_title: Nuestras Ofertas
 whytitle4_subtitle: Plan Amigo
@@ -52,8 +52,8 @@ whytitle6_description: 1ª Visita + Revisión + Presupuesto Totalmente Gratis
 
 
 
-content_6_title: Dentista en Sant Boi de Llobregat
-content_6_subtitle: En pleno centro de Sant Boi
+content_6_title: DENTISTA EN SANT BOI DE LLOBREGAT
+content_6_subtitle: EN PLENO CENTRO DE SANT BOI 
 content_6_description: Nuestra clínica dental ubicada en Sant Boi de Llobregat (Barcelona) le ofrece las últimas técnicas en tratamientos dentales para todo tipo de especialidades. Para ello, disponemos de un equipo de dentistas multidisciplinar que cubre todas las ramas y especialidades dentales, así como un staff de atención al cliente altamente cualificado y profesional. Ofrecer la mejor atención y satisfacción al paciente y garantizarle el mejor tratamiento odontológico y ético son las máximas que guían el día a día de los profesionales de nuestra clínica dental en Barcelona.
 
 
