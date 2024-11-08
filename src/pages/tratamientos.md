@@ -21,7 +21,7 @@ hero_btn: kkCONTACTA CON NOSOTROS
 introCta_title: Tratamientos
 introCta_image: /assets/static/images/entrada.png
 
-tratamiento1_url: tratamientos/odontologia
+tratamiento1_url: /tratamientos/odontologia
 tratamiento1_title: Odontología
 tratamiento1_content: El equipo de dentistas de nuestro centro de Sant Boi de Llobregat (Barcelona) está formado por profesionales.
 

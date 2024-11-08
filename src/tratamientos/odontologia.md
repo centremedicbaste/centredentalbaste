@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/odontologia
+permalink: /tratamientos/odontologia/
 tags: ["tratamientos"]
 
 seccion: Odontología

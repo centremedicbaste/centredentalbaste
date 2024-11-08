@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/periodoncia
+permalink: /tratamientos/periodoncia/
 tags: ["tratamientos"]
 
 seccion: periodoncia

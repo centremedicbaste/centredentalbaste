@@ -73,7 +73,7 @@ servicios: Nuestros Tratamientos
 servicios_description: kkSERVICIOS PARA PROPIETARIOS
 
 
-tratamiento1_url: tratamientos/odontologia
+tratamiento1_url: /tratamientos/odontologia
 tratamiento1_title: Odontología
 tratamiento1_content: El equipo de dentistas de nuestro centro de Sant Boi de Llobregat (Barcelona) está formado por profesionales.
 

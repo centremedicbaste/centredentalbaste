@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: tratamientos/endodoncia
+permalink: /tratamientos/endodoncia/
 tags: ["tratamientos"]
 
 seccion: endodoncia

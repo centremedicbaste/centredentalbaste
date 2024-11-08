@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: tratamientos/implantologia
+permalink: /tratamientos/implantologia/
 tags: ["tratamientos"]
 
 seccion: implantologia

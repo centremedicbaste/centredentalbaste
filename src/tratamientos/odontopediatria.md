@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/odontologia-infantil-sant-boi-de-llobregat
+permalink: /tratamientos/odontologia-infantil-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
 seccion: Odontopediatria

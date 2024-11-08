@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/ortodoncia
+permalink: /tratamientos/ortodoncia/
 tags: ["tratamientos"]
 
 seccion: ortodoncia
