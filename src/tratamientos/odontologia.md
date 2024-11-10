@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: ODONTOLOGIA
-introCta_image: /assets/static/images/tratamientos/seccion-odontologia.jpg
+introCta_image: /tratamientos/seccion-odontologia.jpg
 
 introtitle_title: HIGIENE DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: MANTÉN UNA SONRISA SALUDABLE CON NUESTROS SERVICIOS DE HIGIENE DENTAL

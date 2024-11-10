@@ -6,8 +6,8 @@ metaTitle: "Ortodoncia en Sant Boi de Llobregat, diferentes opciones a escoger"
 metaDescription: ""
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-08-16T10:38:14+00:00
-fecha: 2019-08-16T10:38:14+00:00
+date: 2019-08-16T10
+fecha: 2019-08-16T10
 tags: [post]
 image: 3-ortodoncia-chicos.jpg
 imageAlt: 
@@ -19,7 +19,6 @@ Somos una de las clínicas más completas de la ciudad en caso de que necesites 
 
  
 ¿Qué es la ortodoncia?
-
 
 
 La ortodoncia es una especialidad de la odontología que sirve para corregir la malposición de los dientes y los maxilares. Se ocupa de la supervisión, guía y corrección del crecimiento y maduración de las estructuras dentofaciales: situaciones que requieran movimientos dentarios o corrección de relaciones óseo-esqueléticas.

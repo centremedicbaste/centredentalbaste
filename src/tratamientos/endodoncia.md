@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: ENDODONCIA
-introCta_image: /assets/static/images/tratamientos/seccion-endodoncia.jpg
+introCta_image: /tratamientos/seccion-endodoncia.jpg
 introtitle_title: ENDODONCIA EN BARCELONA
 introtitle_subtitle: DESCUBRE EN QUÉ CONSISTE LA ENDODONCIA, SUS OBJETIVOS Y CÓMO SE REALIZA
 

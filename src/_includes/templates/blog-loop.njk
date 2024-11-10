@@ -2,25 +2,36 @@
 <li class="{{ class_name }}">
   <a class="w-100" href="{{ post.url }}">
     <article class="mb-24">
+
+
       <div class="article-img rad-24 ar-16-9 bg-light align-center p-relative">
         {% if post.data.image %}
         <img class="video-cover " width="100%" height="100%"  src="/assets/static/images/blog/{{ post.data.image }}"
           alt="{{ post.data.imageAlt }}" class="h1">
         {% else %}
-        <div class="fluid-9-b">Boilerplate titulo</div>
+        <div class="fluid-9-b">CdB titulo</div>
         {% endif %}
       </div>
-      <div class="article-text mt-24">
-        <h3 class="fluid-8-r"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-        <h3 class="fluid-9-r"><a href="{{ post.url }}">{{ post.data.subtitle }}</a></h3>
-        
-        {% for tag in post.data.tags %}
-        <div class=" tag-info ">
-          {{ tag }}
+      <div class="article-text">
+
+
+        <div class="mt-16 mb-16">
+          {% for tag in post.data.tags %}
+          <div class=" tag-info ">
+            {{ tag }}
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
+
+
+        <a href="{{ post.url }}"> <h3 class="p5-m c-prima mb-16">{{ post.data.title }}</h3> </a>
+     
+        <h3 class="text-10-r ttu mb-16 "><a class="c-accent" href="{{ post.date | formatearFecha }}">{{ post.date | formatearFecha }}</a></h3>
+  
+        
+
         <p class="mb-24">{{ post.data.description }}</p>
-        <a href="{{ post.url }}" class="btn link-line">Leer más</a>
+     
       </div>
     </article>
   </a>

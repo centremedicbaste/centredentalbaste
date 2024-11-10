@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: ODONTOPEDIATRIA
-introCta_image: /assets/static/images/tratamientos/seccion-odontopediatria.jpg
+introCta_image: /tratamientos/seccion-odontopediatria.jpg
 
 introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: CUIDADO DENTAL PARA NIÑOS

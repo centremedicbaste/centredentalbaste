@@ -369,7 +369,7 @@ ul.list-clear li {
   }
 }
 .l-top {
-  border-top: 1px solid #eaeaea;
+  border-top: 0.5px solid #eaeaea;
   position: relative;
   :after {
     content: "";
@@ -383,12 +383,12 @@ ul.list-clear li {
 }
 .tag-info {
   border-radius: 50px;
-
   background-color: #fff;
   color: #8f6347;
   font-size: 11px;
-  padding: 3px 10px;
-  border: 1px solid #8f6347;
+  padding: 5px 13px 5px;
+  border: 0.5px solid #8f7463;
+
   &:hover{
     cursor: pointer;
     --tw-bg-opacity: 1;
@@ -1175,3 +1175,26 @@ background: rgba(30, 30, 30, 0.32);
   letter-spacing: 3px;
 }
 
+.container-5{
+  max-width: 950px;
+}
+.text-10-r{
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+.grid-1-2-4{
+  a{
+    color: $c-secondary;
+  }
+}
+
+a.c-accent {
+  color: var(--c-primary);
+}
+
+.innermarkdown{
+  .mt-0{
+    margin-top: 0;
+  }
+}

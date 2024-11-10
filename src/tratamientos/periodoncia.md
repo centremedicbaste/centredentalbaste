@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: PERIODONCIA
-introCta_image: /assets/static/images/tratamientos/seccion-periodoncia.jpg
+introCta_image: /tratamientos/seccion-periodoncia.jpg
 
 introtitle_title: PERIODONCIA EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: TRATAMIENTOS DE PERIODONCIA PARA PREVENIR Y TRATAR ENFERMEDADES DE LAS ENCÍAS

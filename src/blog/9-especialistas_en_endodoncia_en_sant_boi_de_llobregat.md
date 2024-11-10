@@ -67,4 +67,4 @@ El **tratamiento de endodoncia** o “matar el nervio del diente” necesitará 
 
 
 
-![clínica dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

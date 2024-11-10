@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: ESTETICA DENTAL
-introCta_image: /assets/static/images/tratamientos/seccion-estetica_dental.jpg
+introCta_image: /tratamientos/seccion-estetica_dental.jpg
 
 introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: LOGRA UNA SONRISA RADIANTE CON NUESTROS TRATAMIENTOS DE BLANQUEAMIENTO, CARILLAS Y MÁS.

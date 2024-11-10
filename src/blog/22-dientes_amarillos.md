@@ -47,7 +47,7 @@ Si tienes dientes amarillos, ponte en contacto con nuestra clínica para que te 
 
  
 
-![protesis dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+
 
  
 

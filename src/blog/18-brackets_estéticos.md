@@ -42,4 +42,4 @@ Por último, tenemos esta opción considerada la más estética ya que son compl
 
 Eso dependerá de una serie de factores como el estado de nuestros incisivos, el presupuesto que manejemos… Déjate asesorar por una clínica odontológica como la nuestra para encontrar la mejor solución.
 
-![protesis dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

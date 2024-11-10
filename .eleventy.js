@@ -122,6 +122,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
   });
+
+
+  eleventyConfig.addFilter("formatearFecha", (date) => {
+    return DateTime.fromJSDate(new Date(date)).setLocale('es').toFormat("dd 'de' MMMM 'de' yyyy");
+  });
+
   function getIndex(collection, currentSlug) {
     return collection.findIndex((page) => page.fileSlug === currentSlug);
   }

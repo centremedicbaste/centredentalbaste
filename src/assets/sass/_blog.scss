@@ -2,6 +2,8 @@
   padding-bottom: 40px;
   font-size: 18px;
   line-height: 1.4;
+
+
   .toc {
     top: 200px;
     position: sticky;
@@ -49,7 +51,9 @@
     margin-top: 20px;
     padding-left: 24px;
     margin-bottom: 16px;
-    @include fluid-text($min_width, $break-lg, 18px, 21px, 1.6);
+    li{
+      margin-bottom: 16px;
+    }
   }
 
   strong {
@@ -60,10 +64,12 @@
 
   ol {
     margin-top: 20px;
+    margin-bottom: 20px;
     >li {
       list-style: none;
       counter-increment: list;
       position: relative;
+      padding-top: 8px;
       padding-left: calc($bubble-width + 10px);
       margin-bottom: 10px;
 
@@ -199,3 +205,8 @@
     }
   }
 }
+
+.p5-m{
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 1px;}

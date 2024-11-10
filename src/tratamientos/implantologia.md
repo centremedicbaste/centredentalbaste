@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: IMPLANTOLOGIA
-introCta_image: /assets/static/images/tratamientos/seccion-implantologia.jpg
+introCta_image: /tratamientos/seccion-implantologia.jpg
 
 introtitle_title: IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: DESCUBRE LAS OPCIONES DE IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT. SOLUCIONES EFECTIVAS PARA LA PÉRDIDA DE PIEZAS DENTALES

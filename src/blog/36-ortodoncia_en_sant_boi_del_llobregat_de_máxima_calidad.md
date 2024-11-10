@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-10-31T10:48:24+00:00
 fecha: 2017-10-31T10:48:24+00:00
-tags: [post]
+tags: [post, ortodoncia, salud, estética]
 image: clinica-dental-sant-boi-llobregat-6.jpg
 imageAlt: 
 
@@ -78,4 +78,4 @@ Solicita cita para tu estudio de **ortodoncia en Sant Boi del Llobregat.**
 
 
 
-![protesis dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

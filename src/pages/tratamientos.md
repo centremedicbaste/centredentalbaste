@@ -19,7 +19,7 @@ hero_title: kkADMINISTRADORES ^ DE FINCAS ^ EN BARCELONA
 hero_btn: kkCONTACTA CON NOSOTROS
 
 introCta_title: Tratamientos
-introCta_image: /assets/static/images/entrada.png
+introCta_image: /tratamientos/tratamientos2.jpg
 
 tratamiento1_url: /tratamientos/odontologia/
 tratamiento1_title: Odontología

@@ -12,7 +12,7 @@ metaRobots: index, follow
 
 
 introCta_title: ORTODONCIA
-introCta_image: /assets/static/images/tratamientos/seccion-ortodoncia.jpg
+introCta_image: /tratamientos/seccion-ortodoncia.jpg
 
 
 introtitle_title: ORTODONCIA EN SANT BOI DE LLOBREGAT

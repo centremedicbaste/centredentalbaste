@@ -8,7 +8,7 @@ metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-01-17T16:20:15+00:00
 fecha: 2019-01-17T16:20:15+00:00
-tags: [post]
+tags: [post, ortodoncia, salud, estética]
 image: 10-sedacion-sant-boi-de-llobregat-2.jpg
 imageAlt: 
 
@@ -53,4 +53,4 @@ La **sedación consciente en Sant Boi de Llobregat** no solo está indicada si s
 
 
 
-![clínica dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

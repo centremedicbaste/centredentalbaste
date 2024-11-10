@@ -12,11 +12,13 @@ colorHeader: has-light-menu
   {% set next = collections.blog | nextInCollection(page.fileSlug) %}
   {% set previous = collections.blog | prevInCollection(page.fileSlug) %}
 
-  sgfsffgsfgd
+  
   <div class="container-fluid pt-32 bg-light">
     <div class="container-global mx-auto">
       <div class="row innermarkdown md:reverse">
-        <div class="col-xs-12 col-md-8">{{ content | safe }}</div>
+
+        {{ date | formatearFecha }} dfsdfsfddsfds
+        <div class="col-xs-12 col-md-8">{{ content | safe  }} fdasdfffdsas </div>
         <div class="col-xs-12 col-md-1"></div>
         <div class="col-xs-12 col-md-3">{{ content | toc | safe }}</div>
       </div>

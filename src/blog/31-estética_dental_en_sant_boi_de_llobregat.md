@@ -93,4 +93,4 @@ Comentarte que en Centre Dental Basté ponemos a tu disposición un **equipo in
 [caption id="attachment\_531" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/sonrisa-digital-1024x600.jpg) estudio digital de sonrisa[/caption]
 
  
-![clínica dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

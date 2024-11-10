@@ -13,7 +13,7 @@ metaRobots: index, follow
 introCta_title: Contacta
 introCta_description: introCta_description
 
-introCta_image: /assets/static/images/entrada.png
+introCta_image: entrada.png
 
 
 introtitle_title: Clínica Dental Basté en Sant Boi de Llobregat

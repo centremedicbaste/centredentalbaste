@@ -75,4 +75,4 @@ El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar
 
  
 
-![clínica dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+

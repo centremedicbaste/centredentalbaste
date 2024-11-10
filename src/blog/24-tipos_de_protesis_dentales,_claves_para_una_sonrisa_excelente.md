@@ -67,5 +67,5 @@ Estas prótesis se denominan **flexibles**, por su carácter más cómodo y fá
 
 Permanece asida a tu boca por la labor conjunta de lo que te queda del hueso alveolar, de tu lengua y de los músculos de tu cara. En la prótesis superior, actúa el efecto vacío que se produce entre la superficie interna de la prótesis y el paladar.
 
-![protesis dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+
 **Si enfrentamos a la prótesis fija y a la removible, la primera cuenta con más ventajas**. Por el contrario, la segunda, aunque es más económica, posee menor duración y el peligro de la pérdida de más dientes en un corto espacio de tiempo. Podemos valorarla como una solución temporal, a corto plazo.

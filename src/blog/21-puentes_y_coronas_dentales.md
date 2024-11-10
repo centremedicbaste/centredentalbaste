@@ -59,4 +59,4 @@ Siempre y cuando se acuda a un dentista de calidad, tanto las coronas, como los 
 
 Ante cualquier duda relacionada, debes de saber que te puedes poner en contacto con nuestra clínica odontológica especializada.
 
-![protesis dental sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-sant-boi-llobregat.png)
+
