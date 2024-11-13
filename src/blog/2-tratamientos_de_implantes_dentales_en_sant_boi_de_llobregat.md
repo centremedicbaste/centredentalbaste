@@ -26,18 +26,17 @@ Ponemos a su disposición un **experimentado equipo** de profesionales para dar 
 ![implantes dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/10/implantes-dentales-cirugia.jpg)
 
  
-**Boca completa en 1 día**
+## **Boca completa en 1 día**
 
 
-Es la técnica **[implantológica de carga inmediata](https://es.wikipedia.org/wiki/Carga_inmediata_(implante)).**Se realizará la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes y colocamos los dientes nuevos. El paciente termina su tratamiento y sale de la clínica con sus dientes provisionales “fijos” colocados **en el mismo día**.
+Es la técnica **[implantológica de carga inmediata](https://es.wikipedia.org/wiki/Carga_inmediata_(implante))** Se realizará la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes y colocamos los dientes nuevos. El paciente termina su tratamiento y sale de la clínica con sus dientes provisionales “fijos” colocados **en el mismo día**.
 
 Para poder realizar este tratamiento en 1 solo día, es necesario que el paciente se realice un [**TAC 3D**](https://es.wikipedia.org/wiki/Tomografía_axial_computarizada) previamente, ya que esta información se usará en el software para guiar la la cirugía y crear las prótesis dentales a medida.
 
 ![implantes dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/10/implantes-dentales-1dia.jpg)
 
  
-5 soluciones en **implantes dentales en Sant Boi de Llobregat** para personas con poco hueso:
-=============================================================================================
+## 5 soluciones en **implantes dentales en Sant Boi de Llobregat** para personas con poco hueso:
 
 
 La existencia de poco hueso maxilar, dificulta la colocación de implantes de forma convencional.

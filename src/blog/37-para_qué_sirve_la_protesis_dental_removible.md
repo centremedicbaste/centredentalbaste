@@ -12,9 +12,13 @@ tags: [post]
 image: 30-implantes-removibles-baratos-sant-boi-llobregat-barcelona.jpg
 imageAlt: 
 ---
+
 Barcelona es una ciudad cosmopolita y moderna. Nosotros, como [dentistas en Sant Boi de Llobregat](http://centredentalbaste.com/), notamos su influencia en las calles, los edificios y la cultura. La estética es también muy importante para sus habitantes. En este artículo, animamos a los vecinos de Sant Boi de Llobregat a considerar el uso de una **prótesis dental removible**. Aquí les ofrecemos toda la información necesaria.
-¿Qué es la prótesis dental removible? Todo lo que debes saber
----------
+
+![prótesis dental removible sant boi de llobregat](https://centredentalbaste.com/wp-content/uploads/2016/10/implantes-removibles-baratos-sant-boi-llobregat-barcelona-1200x480.jpg)
+
+### ¿Qué es la prótesis dental removible? Todo lo que debes saber
+
 La **prótesis dental removible** es comúnmente conocida como dentadura postiza. El paciente puede ponérsela y quitársela cuando lo desee, sin problema. Son las llamadas “de quita y pon”. Existen dos tipos de prótesis: la dentadura postiza y la sobredentadura implantosoportada. El especialista evaluará cuál es la más indicada para tu caso.
 ### Ventajas e inconvenientes de la prótesis dental removible
 Entre las ventajas principales:
@@ -32,7 +36,8 @@ Entre las ventajas principales:
 * Al inicio, pueden producirse molestias y daños menores que, a su vez, pueden causar dificultades en el habla, la masticación o incluso dolores.
 * Si las prótesis no están bien ajustadas, pueden provocar que los alimentos queden entre los aparatos y la encía, lo que puede ocasionar incomodidad al paciente y mal aliento.
 * Puede causar rechinamiento en personas con problemas de mordida.
-Algunos consejos para tu prótesis dental
+
+## Algunos consejos para tu prótesis dental
 ---
 * Retira siempre la prótesis por la noche para dormir.
 * Lava muy bien la prótesis todos los días con un cepillo de cerdas naturales. Utiliza hilo dental especial para la prótesis.
@@ -42,4 +47,5 @@ Algunos consejos para tu prótesis dental
 * Mantén tu dentadura fuera del alcance de mascotas y niños.
 * Si tu dentadura se agrieta o se afloja, consulta cuanto antes con el especialista.
 * Cuando no tengas la prótesis puesta, es bueno realizar masajes en las encías para mejorar el riego sanguíneo y procurar que la reabsorción de los tejidos sea menor.
+
 Sin duda, una **prótesis dental removible** es una muy buena opción. Animamos a todos los vecinos de Sant Boi de Llobregat a que visiten una clínica y se informen. Les alegrará mucho haber elegido esta opción.

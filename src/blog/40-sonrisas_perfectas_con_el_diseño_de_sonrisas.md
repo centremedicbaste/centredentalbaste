@@ -18,7 +18,7 @@ imageAlt:
 El **diseño de sonrisas** consiste en aplicar una serie de técnicas odontológicas actuales para mejorar nuestra sonrisa. Somos un grupo de [dentistas en sant Boi de Llobregat](http://centredentalbaste.com/) y hacemos posible el **cambio el aspecto de nuestro rostro y eliminar una sonrisa antiestética**. Sólo hay que ponerse en manos de buenos profesionales para conseguirlo.
 
  
-La importancia de una sonrisa
+## La importancia de una sonrisa
 
 
 La sonrisa es uno de los rasgos distintivos de la especie humana. La risa y la sonrisa son típicas de los humanos y no se producen en otras especies animales. Algunos científicos estudiosos de la evolución humana creen que el hecho de enseñar los dientes al sonreir indica que no se tiene intención de atacar.
@@ -38,7 +38,7 @@ Para esto hace falta un buen odontólogo profesional que tenga experiencia y que
 En Sant Boi de LLobregat tenemos la oportunidad que los profesionales de la Clínica Propdental nos hagan un esquema de tratamiento a medida.
 
  
-Consejos de nuestro odontólogo en Sant Boi
+## Consejos de nuestro odontólogo en Sant Boi
 
 
 Con la experiencia de nuestros odontólogos vas a conseguir esa sonrisa con la que has soñado. Una sonrisa que sea el centro de tu expresión y que diga mucho de ti. Una sonrisa que no sea sólo un blanqueamiento dental, sino una serie de actuaciones para conseguir una dentadura armónica y que se integre con el resto de tu rostro.

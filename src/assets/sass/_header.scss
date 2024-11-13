@@ -16,7 +16,7 @@ $header-desktop: 200px;
 }
 #menu-toggle {
   display: block;
-  @media (min-width: $break-md) {
+  @media (min-width: $break-lg) {
     display: none;
   }
 }
@@ -28,6 +28,9 @@ $header-desktop: 200px;
   z-index: 100;
   a {
     color: $c-white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 12px;
   }
 }
 .menu-fixed-inner {
@@ -42,7 +45,7 @@ $header-desktop: 200px;
 }
 .menu-desktop {
   display: none;
-  @media (min-width: $break-md) {
+  @media (min-width: $break-lg) {
     display: flex;
     align-items: center;
   }
@@ -54,7 +57,8 @@ $header-desktop: 200px;
   }
   #menu-fixed {
     a {
-      color: $c-primary;
+      color: $c-secondary;
+
     }
   }
 }

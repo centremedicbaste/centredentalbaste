@@ -22,8 +22,8 @@ Cuando los dientes y huesos de la boca no están bien colocados, vamos a necesit
 
 Hay varias opciones para hacerse un tratamiento de ortodoncia y saber cuál es la mejor dependerá de **varios factores**: la edad del paciente, la gravedad y complejidad del caso, la importancia que cada persona dé a la estética y, por supuesto, el presupuesto del que disponga.
 
-A grandes rasgos, existen**2 tipos** de aparatos dentales:
-* **Fijos*:*** son los más habituales, ya que dan solución a los problemas bucales más comunes al alinear las piezas dentales.
+### A grandes rasgos, existen **2 tipos** de aparatos dentales:
+* **Fijos*:** son los más habituales, ya que dan solución a los problemas bucales más comunes al alinear las piezas dentales.
 * **Removibles:** utilizados en los casos de mala oclusión menos graves.
 
 
