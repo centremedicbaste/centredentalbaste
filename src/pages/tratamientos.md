@@ -14,9 +14,9 @@ metaRobots: index, follow
 
 
 
-hero_description: kkBIENVENIDOS A MAGNA URBIS
-hero_title: kkADMINISTRADORES ^ DE FINCAS ^ EN BARCELONA
-hero_btn: kkCONTACTA CON NOSOTROS
+hero_description: CENTRE DENTAL BASTÉ
+hero_title: ADMINISTRADORES
+hero_btn: CONTACTA
 
 introCta_title: Tratamientos
 introCta_image: /tratamientos/tratamientos2.jpg
