@@ -14481,7 +14481,7 @@ svg {
 
 .scrolled rect,
 .seccion-interior rect {
-  fill: var(--c-primary);
+  fill: #1e1e1e;
 }
 .scrolled #menu-white,
 .seccion-interior #menu-white {
