@@ -22,7 +22,13 @@ $header-desktop: 200px;
     height:  100px;
   }
 }
+
+
+
+
+
 #menu-toggle {
+  mix-blend-mode: multiply;
   display: block;
   @media (min-width: $break-lg) {
     display: none;
@@ -68,6 +74,11 @@ $header-desktop: 200px;
 }
 .scrolled,
 .seccion-interior {
+
+  rect{
+    fill: $c-primary;
+  }
+
   #menu-white {
     transform: translateY(0);
   }
@@ -101,8 +112,8 @@ $header-desktop: 200px;
 }
 .link_cierre {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 10px;
+  right: 16px;
 }
 .menu-open {
   .menu-mobile-wrap {

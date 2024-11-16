@@ -14424,6 +14424,7 @@ svg {
 }
 
 #menu-toggle {
+  mix-blend-mode: multiply;
   display: block;
 }
 @media (min-width: 1280px) {
@@ -14478,6 +14479,10 @@ svg {
   }
 }
 
+.scrolled rect,
+.seccion-interior rect {
+  fill: var(--c-primary);
+}
 .scrolled #menu-white,
 .seccion-interior #menu-white {
   transform: translateY(0);
@@ -14512,8 +14517,8 @@ svg {
 
 .link_cierre {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 10px;
+  right: 16px;
 }
 
 .menu-open .menu-mobile-wrap {
