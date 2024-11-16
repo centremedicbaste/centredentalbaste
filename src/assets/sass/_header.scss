@@ -7,12 +7,20 @@ $header-desktop: 200px;
   right: 0;
   width: 100%;
   z-index: 100;
-  height: $header-mobile;
+  height:  60px;
   transition: all ease 0.3s;
   transform: translateY(-100%);
   background: rgba(255, 255, 255, 0.52);
   backdrop-filter: blur(12.15px);
+
+
+
+  
   /* Note: backdrop-filter has minimal browser support */
+
+  @media (min-width: $break-sm) {
+    height:  100px;
+  }
 }
 #menu-toggle {
   display: block;
@@ -26,6 +34,10 @@ $header-desktop: 200px;
   top: 0;
   right: 0;
   z-index: 100;
+
+    @media (min-width: $break-sm) {
+      top: 20px;
+  }
   a {
     color: $c-white;
     text-transform: uppercase;
@@ -35,13 +47,17 @@ $header-desktop: 200px;
 }
 .menu-fixed-inner {
   display: flex;
-  height: 90px;
+  height: 60px;
   transition: all ease 0.3s;
   align-content: center;
   align-items: center;
-  padding-right: 4rem;
-  padding-left: 4rem;
+  padding-right: 16px;
+  padding-left: 16px;
   justify-content: flex-end;
+  @media (min-width: $break-lg) {
+    padding-right: 4rem;
+    padding-left: 4rem;
+  }
 }
 .menu-desktop {
   display: none;

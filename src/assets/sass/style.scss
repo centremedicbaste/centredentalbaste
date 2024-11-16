@@ -1198,3 +1198,22 @@ a.c-accent {
     margin-top: 0;
   }
 }
+
+
+
+.herohome{
+  min-height: 40vh;
+  position: relative;
+  @media (min-width: $break-sm) {
+    min-height: 70vh;
+  }
+}
+
+.image-bg img{
+height: 100%;
+  width:initial;
+  @media (min-width: $break-sm) {
+    height: initial;
+    width:100%;
+  }
+}

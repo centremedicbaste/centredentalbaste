@@ -27,7 +27,7 @@
             <ul class="menu-desktop list-clear list-inline">
                 {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
                 {% for page in sortedPages %}
-                    {% if page.data.seccion %}
+                    {% if page.data.seccion and page.data.seccion != 'home' %}
                         <li>
                             <a href="{{ page.url }}">
                                 <span>{{ page.data.seccion }}</span>
