@@ -100,7 +100,7 @@ $header-desktop: 200px;
   display: none;
 }
 .menu-mobile-wrap {
-  width: 500px;
+  max-width: 500px;
   background-color: #fff;
   height: 100vh;
   position: fixed;
