@@ -41,7 +41,8 @@ ___
 
 # ¿Qué es la ortodoncia?
 
-![parallax background](#)
+
+![ortodoncia](/assets/static/images/ortodoncia.jpg)
 
 La ortodoncia es la rama de la odontología que se encarga del estudio, prevención diagnóstico y tratamiento de los problemas de alineación de los dientes y mordida, así como del desarrollo de los maxilares buscando un equilibrio entre el correcto funcionamiento bucal y una estética ideal del rostro.
 

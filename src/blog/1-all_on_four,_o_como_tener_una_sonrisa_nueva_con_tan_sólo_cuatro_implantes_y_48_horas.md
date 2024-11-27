@@ -25,7 +25,7 @@ Esta denominación proviene del término que define a todos los dientes apoyados
 Con esta técnica se reducen los tiempos de espera de los tratamientos habituales. Además, la arcada dental funciona inmediatamente desde el primer momento. Esta técnica como decimos, se materializa en tan sólo 4 implantes o en 6 en algunos casos más específicos. Se puede considerar un sistema exprés, pero más efectivo y eficaz respecto a las técnicas de implantes más tradicionales.
 
 
-![All on four, Centre Dental Basté](https://centredentalbaste.com/wp-content/uploads/2020/07/all-on-four-baste-1024x1024.jpg)
+![All on four, Centre Dental Basté](/assets/static/images/blog/blog-inner/all-on-four-baste-1024x1024.jpg)
 **
 
 

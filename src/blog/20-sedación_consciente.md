@@ -34,7 +34,7 @@ Sin embargo, en el caso de que estemos hablando de tratamientos dentales muy lar
 
 Este tipo de sedación también suele ser muy requerida por los padres de aquellos pacientes que pueden experimentar cierta discapacidad. Gracias a la técnica de la sedación se le puede tratar sin que la situación se puede dejar a agravar.
 
-![especialista en sedacion consciente en sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2017/01/especialista-sedacion-consciente-sant-boi-llobregat.png)
+![especialista en sedacion consciente en sant boi de llobregat](/assets/static/images/blog/blog-inner/especialista-sedacion-consciente-sant-boi-llobregat.png)
 ### **Algunas consideraciones previas sobre la sedación consciente**
 
 

@@ -20,7 +20,7 @@ La **estética dental**, como su nombre lo sugiere, cubre todo aquello que tenga
 
 En este campo odontológico, existen varios tratamientos para embellecer la sonrisa, de entre los cuales destacan tres: **carillas dentales**, **blanqueamiento dental** y **fundas o coronas de zirconio**.
 
-[caption id="attachment\_530" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/estetica-dental-1024x653.jpg) sonrisa perfecta[/caption]
+[caption id="attachment\_530" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg) sonrisa perfecta[/caption]
 
  
 Carillas dentales:
@@ -45,7 +45,7 @@ Algunas de las **ventajas más destacadas** de las carillas dentales son:
 
 
 
-[caption id="attachment\_529" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/carillas-1024x600.jpg) carillas de porcelana[/caption]
+[caption id="attachment\_529" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/carillas-1024x600.jpg) carillas de porcelana[/caption]
 
 Algunos tipos de carillas dentales, según su material, debido a la alta densidad de los cristales de la matriz de vidrio, ofrecen unas **excelentes propiedades mecánicas** y una elevada resistencia junto a unas propiedades ópticas excepcionales, así tu sonrisa lucirá más **natural**.
 
@@ -66,7 +66,7 @@ El color del núcleo no se altera, sin embargo, con el tiempo el esmalte se va t
 
 En consecuencia, el blanqueamiento consiste en eliminar del esmalte, por medio de **sustancias químicas**, todas aquellas partículas que alteran su color original, consiguiendo así, una **estética dental en Sant Boi de Llobregat** de alta calidad.
 
-[caption id="attachment\_528" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/blanqueamiento-1024x600.jpg) blanqueamiento[/caption]
+[caption id="attachment\_528" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-1024x600.jpg) blanqueamiento[/caption]
 
  
 Prótesis de zirconio, libres de metal:
@@ -79,7 +79,7 @@ También sirven para **reemplazar antiguas prótesis** que dejan ver la parte me
 
 Ofrecen una gran estética y naturalidad, comodidad y funcionalidad, un nivel óptimo de translucidez y son muy resistentes al desgaste.
 
-[caption id="attachment\_532" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/zirconio-1024x600.jpg) coronas de zirconio translúcido[/caption]
+[caption id="attachment\_532" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/zirconio-1024x600.jpg) coronas de zirconio translúcido[/caption]
 
  
 Estudio diagnóstico de estética dental en Sant Boi de Llobregat:
@@ -90,7 +90,7 @@ Para **diagnosticar** los posibles problemas de **estética dental en Sant Bo
 
 Comentarte que en Centre Dental Basté ponemos a tu disposición un **equipo integral de estética** compuesto por **especialistas** en estética dental, ortodoncistas, prostodoncistas, periodoncistas, etc. , así como la **última tecnología** en odontología y software digital 3D.
 
-[caption id="attachment\_531" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/03/sonrisa-digital-1024x600.jpg) estudio digital de sonrisa[/caption]
+[caption id="attachment\_531" align="alignnone" width="1024"]![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sonrisa-digital-1024x600.jpg) estudio digital de sonrisa[/caption]
 
  
 

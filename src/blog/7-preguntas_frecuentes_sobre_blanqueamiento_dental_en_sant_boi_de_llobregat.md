@@ -24,7 +24,7 @@ El color de un diente viene determinado, desde que nacemos, por la **tonalidad d
 
 El color del núcleo no se altera, sin embargo, con el tiempo el **esmalte se va tiñendo** a base de **sustancias colorantes** como pueden ser el tabaco, los pintalabios, el café, el té, el tomate, pigmentos químicos, bebidas de cola, uso de determinados medicamentos, etc. En consecuencia, el **blanqueamiento dental en Sant Boi de Llobregat** consiste en eliminar del esmalte, por medio de sustancias químicas, todas aquellas partículas que alteran su color original.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-antes-despues.jpg)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-antes-despues.jpg)
 
  
 ¿Qué tipos de blanqueadores existen?
@@ -41,7 +41,7 @@ El tratamiento en la clínica es eficaz a priori, pero su efecto es temporal, ya
 
 Los estudios demuestran que lo más efectivo es **combinar ambos tratamientos** y aplicar dosis de refuerzo cada 2 o 3 años para mantener el resultado. En Centre Dental Basté le explicaremos detenidamente el proceso de **blanqueamiento en Sant Boi de Llobregat** para que pueda tratar los dientes amarillos, oscuros o manchados y conseguir una sonrisa más blanca.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-gel.jpg)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-gel.jpg)
 
  
 ¿Cuánto dura el tratamiento?
@@ -54,13 +54,13 @@ Una vez hechos los moldes, el **blanqueamiento dental en Sant Boi de Llobregat**
 El blanqueamiento dental con una **lámpara de luz fría** activa las moléculas de este **gel blanqueador**, que se aplica sobre los dientes del paciente. La luz fría de la lámpara acelera la liberación de las moléculas blanqueadoras del peróxido de hidrógeno. Esto produce un **aclaramiento** inicial importante.
 Si el **blanqueamiento dental en Sant Boi de Llobregat** realizado en la clínica se combina con el **blanqueamiento en casa**, los resultados serán mejores, ya que está comprobado que un **blanqueamiento dental mixto** puede aclarar hasta diez tonos el color de los dientes del paciente.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-luz.jpg)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-luz.jpg)
 
  
 **FASE 2:** El mismo día se entrega al paciente el **molde de plástico de sus dientes** y un pack de jeringas con gel de **peróxido de carbamida** (3-10%). A partir de este momento el tratamiento continúa en casa. El paciente debe aplicar el gel en el molde y colocarlo en los dientes. Se recomienda llevarlo **unas 2 horas al día** durante 7-10 días. Al finalizar el tratamiento se **revisa el estado y el color** de los dientes, **comparándolo** con fotografías y una guía de colores de dientes para ver el resultado obtenido.
 Se concluye con un **pulido de los dientes** y una **aplicación de flúor** para reforzar el esmalte.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-casa.jpg)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-casa.jpg)
 
  
 ¿El blanqueamiento dental funciona?, ¿vale para todo el mundo?
@@ -79,7 +79,7 @@ La American Dental Association (ADA), tras un riguroso seguimiento de varios añ
 
 Según los expertos, la única desventaja que puede presentarse es **sensibilidad** en las encías durante los primeros días.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-guia.jpg)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-guia.jpg)
 
  
 ¿Cuánto dura?, ¿tengo que hacer algún tipo de mantenimiento?
@@ -91,4 +91,4 @@ De acuerdo con la American Dental Association (ADA), al cabo de **5 años** sól
 
 No obstante, los primeros días tras el tratamiento hay que seguir una “**dieta blanca**”, que consiste en tomar alimentos sin colorantes, como leche, yogures naturales, arroz, pasta, pescado, … y eliminar radicalmente todos los que “**tiñen**” (café, bebidas de cola, remolacha, chocolate, tomate, zanahoria, …). Una vez al año conviene hacer un **tratamiento de recuerdo en casa** para mantener el resultado, es decir, volver a aplicar el gel en el molde durante 2 o 3 días.
 
-![blanqueamiento dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/03/blanqueamiento-dieta.png)
+![blanqueamiento dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-dieta.png)

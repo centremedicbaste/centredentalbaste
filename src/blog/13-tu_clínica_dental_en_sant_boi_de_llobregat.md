@@ -18,7 +18,7 @@ imageAlt:
 
 Si buscas una **clínica dental en Sant Boi de Llobregat**, **Centre Dental Basté** es la solución que estabas buscando. Somos una clínica dental con todos los especialistas y cubrimos todos los tratamientos **en el mismo centro**.
 
-![clínica dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/01/clinica-dental-sant-boi-llobregat-6-1024x600.jpg) exterior[/caption]
+![clínica dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/clinica-dental-sant-boi-llobregat-6-1024x600.jpg) exterior[/caption]
 
 
 

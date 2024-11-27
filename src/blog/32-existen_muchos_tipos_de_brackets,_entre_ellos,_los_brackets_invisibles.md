@@ -24,7 +24,7 @@ Tipos de brackets por su tamaño
 
 Si te estás planteando acudir al dentista para colocar brackets en tus dientes, **debes saber que existen de varios tamaños: estándar y mini.** Más allá del tamaño de los brackets, la principal diferencia existente entre ambos es que el bracket mini es más cómodo para el paciente, aunque tiene una desventaja respecto a los de tamaño estándar: la capacidad de control de los dientes es inferior, por lo que el tiempo de duración del tratamiento podría alargarse.
 
-![ortodoncia mini bracket barcelona](http://centredentalbaste.com/wp-content/uploads/2016/10/ortodoncia-mini-bracket-barcelona-barata.jpg)
+![ortodoncia mini bracket barcelona](/assets/static/images/blog/blog-inner/ortodoncia-mini-bracket-barcelona-barata.jpg)
 Según su tipo
 
 
@@ -36,7 +36,7 @@ Apreciarás los beneficios de utilizar este sistema desde el principio. Para emp
 
  
 
-![invisalign barcelona barato](http://centredentalbaste.com/wp-content/uploads/2016/10/invisalign-barcelona-barato.jpg)
+![invisalign barcelona barato](/assets/static/images/blog/blog-inner/invisalign-barcelona-barato.jpg)
 Ven a vernos
 
 

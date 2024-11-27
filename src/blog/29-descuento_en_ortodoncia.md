@@ -15,4 +15,4 @@ imageAlt:
 ---
 
 
-![](https://centredentalbaste.com/wp-content/uploads/2021/10/10-dto-Ortodoncia-Octubre-300x300.jpg)
+![](/assets/static/images/blog/blog-inner/10-dto-Ortodoncia-Octubre-300x300.jpg)

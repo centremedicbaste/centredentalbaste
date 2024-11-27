@@ -47,7 +47,7 @@ Por medio de unos instrumentos especiales se limpia el interior del diente dejá
 
 La endodoncia pretende limpiar cada conducto y dejar el diente apto para su posterior restauración.
 
-![parallax background](#)
+![endodoncia](/assets/static/images/endodoncia.jpg)
 
 ## ¿Cuál es el objetivo de la endodoncia?
 

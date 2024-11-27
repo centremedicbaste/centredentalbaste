@@ -17,7 +17,7 @@ imageAlt:
 
 Las **carillas dentales sin rebajar el diente** en nuestra clínica **Centre Dental Basté**, son la manera más eficaz de solucionar problemas de estética dental. Están especialmente indicadas para personas que buscan **tratamientos muy poco agresivos** y en **una sola sesión**. Para tener éxito en el resultado, **Centre Dental Basté** **personaliza el tratamiento** a sus necesidades, es decir, se trata de un tratamiento que no se puede aplicar igual a todas las personas, por lo que es imprescindible un **diagnóstico previo** para ver cuál es el procedimiento más adecuado en cada caso.
 
-![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/04/carillas-antes-despues.png)
+![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/carillas-antes-despues.png)
 
  
 Principales beneficios de las carillas dentales sin rebajar el diente en Sant Boi de Llobregat:
@@ -30,7 +30,7 @@ Principales beneficios de las carillas dentales sin rebajar el diente en Sant Bo
 * Al realizarse en **esmalte** se evitan problemas posteriores de **caries** debajo de la carilla.
 
 
-![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/04/molde-carillas.jpg)
+![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/molde-carillas.jpg)
 
  
 ¡Cambia tu sonrisa en 2 horas! Diseño de sonrisa 3D
@@ -45,7 +45,7 @@ Después te haremos el **diseño 3D** y **colorimetría dental**: fusionaremos l
 
 Por último viene la **colocación** de las **carillas dentales sin rebajar el diente:** finalmente pasaremos el molde de resina a porcelana y procederemos a la colocación de las carillas para que puedas comenzar a lucir tu **nueva sonrisa**.
 
-![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/04/diseno-sonrisa-3d.jpg)
+![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/diseno-sonrisa-3d.jpg)
 
  
 Algunas preguntas frecuentes sobre **carillas dentales sin rebajar el diente en Sant Boi de Llobregat**:

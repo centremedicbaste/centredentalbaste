@@ -27,7 +27,7 @@ Es un sistema adaptado completamente a la superficial lingual, donde **los brack
 
 Para ello, se fabrican unas almohadillas personalizadas que cubren la superficie lingual del diente (por la cara trasera de la corona) y, a estas, se unen brackets de bajo perfil, tal y como se aprecia en la imagen.
 
-![presupuesto ortodoncia lingual sant boi llobregat barcelona](http://centredentalbaste.com/wp-content/uploads/2016/11/presupuesto-ortodoncia-lingual-sant-boi-llobregat-barcelona.jpg)
+![presupuesto ortodoncia lingual sant boi llobregat barcelona](/assets/static/images/blog/blog-inner/presupuesto-ortodoncia-lingual-sant-boi-llobregat-barcelona.jpg)
 
  
 Pasos a seguir
@@ -81,7 +81,7 @@ Aunque la mayor parte de los clientes son adultos, también está recomendado pa
 
 En cuanto al pago, la clínica ofrece la **posibilidad del pago a plazos** y/o financiación. En una primera consulta, el dentista realizará un presupuesto que se adapte a las necesidades de cada paciente.
 
-![presupuesto ortodoncia lingual sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/presupuesto-ortodoncia-lingual-sant-boi-llobregat.png)
+![presupuesto ortodoncia lingual sant boi de llobregat](/assets/static/images/blog/blog-inner/presupuesto-ortodoncia-lingual-sant-boi-llobregat.png)
 ### **Cuidados posteriores**
 
 

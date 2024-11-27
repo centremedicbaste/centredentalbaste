@@ -21,7 +21,7 @@ Nuestra clínica dental, con unas instalaciones de última generación, le ofrec
 
 Las mayores **solicitudes** en Sant Boi de Llobregat tienen que ver con: fuerte dolor, infección aguda, muelas del juicio, fracturas dentales, aftas bucales y sangrado de encías. Para todos estos casos disponemos de los mejores profesionales en cada especialidad.
 
-[caption id="attachment\_465" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/02/urgencias-dentales.jpg) urgencias dentales en Sant Boi de Llobregat[/caption]
+[caption id="attachment\_465" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-dentales.jpg) urgencias dentales en Sant Boi de Llobregat[/caption]
 
 ¿En qué casos debes venir de urgencias?
 
@@ -49,7 +49,7 @@ El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar
 
 
 
-[caption id="attachment\_467" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/02/urgencias-inflamacion.jpg) urgencias dentales por infecciones[/caption]
+[caption id="attachment\_467" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-inflamacion.jpg) urgencias dentales por infecciones[/caption]
 
  
 ### **Urgencias por traumatismo:**
@@ -67,7 +67,7 @@ El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar
 * **Luxación mandibular**, debido a una excesiva apertura bucal o por un impacto, puede haber daños en la articulación temporomandibular (ATM). Esto puede provocar dolor, debilidad e incluso desviación o aumento del volumen facial.
 
 
-[caption id="attachment\_468" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/02/urgencias-traumatismos.jpg) urgencias dentales por traumatismos[/caption]
+[caption id="attachment\_468" align="alignnone" width="1024"]![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-traumatismos.jpg) urgencias dentales por traumatismos[/caption]
 
 ### No lo olvides, si en algún momento tienes alguna situación de urgencia dental, contacta con Centre Dental Basté, nuestro servicio de **urgencias dentales en Sant Boi de Llobregat**.
 

@@ -26,7 +26,7 @@ La corona se puede colocar también sobre un determinado implante para hacer que
 
 También existen otros materiales como aleaciones metálicas, cerámicas, acrílicas o incluso, el propio oro, que ayudan a conseguir una resistencia mucho más característica a la hora de implantar una corona dental… Pero también entraña el hecho de que el coste de la intervención sea más elevada.
 
-![implantes barcelona](http://centredentalbaste.com/wp-content/uploads/2017/01/implantes-barcelona.png)
+![implantes barcelona](/assets/static/images/blog/blog-inner/implantes-barcelona.png)
 ### **¿Cuándo te recomendará nuestro dentista una corona dental?**
 
 

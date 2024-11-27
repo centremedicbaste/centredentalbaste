@@ -24,7 +24,7 @@ La estética y funcionalidad de tu boca, en buenas manos
 
 **Existen dos tipos básicos de prótesis dentales: fijas y removibles**. Tu dentista en Sant Boi de Llobregat hará un diagnóstico personalizado y te brindará la que mejor se adapte a tu situación y necesidades.
 
-![protesis dental fija en sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-fija-sant-boi-llobregat.jpg)
+![protesis dental fija en sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-fija-sant-boi-llobregat.jpg)
 Prótesis fijas, un apoyo en tus dientes
 
 
@@ -50,7 +50,7 @@ Sus ventajas pasan por una **mayor durabilidad** (puede coexistir hasta 30 años
 
 Has de tener presente una **buena higiene para mantener tu puente dental**. Si no lo haces, puede traerte problemas de gingivitis. Esta, si no se trata, conllevará la pérdida de tus piezas dentales.
 
-![protesis dental removible sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/protesis-dental-removible-sant-boi-llobregat.jpg)
+![protesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-removible-sant-boi-llobregat.jpg)
 Prótesis removibles, de quita y pon
 
 

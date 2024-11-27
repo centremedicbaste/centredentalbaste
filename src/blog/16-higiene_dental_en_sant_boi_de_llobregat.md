@@ -54,7 +54,7 @@ Una limpieza regular de los dientes practicada en nuestra clínica dental remuev
 La limpieza profesional incluye raspado y pulido. Este procedimiento involucra el uso de varios instrumentos para aflojar y remover los depósitos de sarro de los dientes. En nuestra **clínica dental en Sant Boi de Llobregat** podremos detectar los problemas a tiempo, de manera que no se vuelvan más serios y costosos de solucionar.
 
 
-![higiene dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/higiene-dental-hilo-seda-1024x600.jpg)
+![higiene dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/higiene-dental-hilo-seda-1024x600.jpg)
  
 La importancia de la higiene dental en Sant Boi de Llobregat:
 ---------
@@ -64,13 +64,13 @@ La **higiene dental** es el primer paso en muchos tratamientos (raspajes radicul
 
 En realidad la higiene dental diaria, meticulosa y constante de los dientes y mucosas es el mejor tratamiento preventivo para la mayoría de las patologías bucales, y se debe hacer por parte del paciente.
 
-![higiene dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/higiene-dental-cepillo2-1024x600.jpg)
+![higiene dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/higiene-dental-cepillo2-1024x600.jpg)
 
 Pero a pesar de tener una correcta **higiene dental diaria**, con el paso del tiempo la placa y el sarro pueden acumularse en las encías y éstas se vuelven rojas e inflamadas. Al realizarse la **higiene dental en Sant Boi de Llobregat** por parte de un profesional, volvemos a recuperar la salud gingival.
 
 Para lograr un **cuidado completo** de la boca es muy importante que realicemos una **higiene dental profesional** por lo menos una vez al año.
 
-![higiene dental en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/higiene-dental-ultrasonidos-1024x600.jpg)
+![higiene dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/higiene-dental-ultrasonidos-1024x600.jpg)
 
  
 Información del protocolo de higiene dental en Sant Boi de Llobregat:

@@ -23,7 +23,7 @@ Mediante la **sedación consciente en Centre Dental Basté** se elimina la ansi
 
 Una vez acabada la sesión se eliminan rápidamente los efectos producidos por la sedación.
 
-![sedación consciente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/01/sedacion-sant-boi-de-llobregat.jpg)
+![sedación consciente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sedacion-sant-boi-de-llobregat.jpg)
 
 Indicaciones de la sedación consciente en Sant Boi de Llobregat:
 
@@ -34,7 +34,7 @@ Indicaciones de la sedación consciente en Sant Boi de Llobregat:
 
 Nuestros **médicos anestesiólogos** están titulados vía MIR, tienen una extensa experiencia profesional, son expertos en anestesia dental, siendo especialistas en el tratamiento y erradicación de la ansiedad, expertos en el manejo de la vía aérea del paciente y expertos en reanimación cardiopulmonar. En Centre Dental Basté le ofrecemos un **equipo multidisciplinar** que podrá realizar sedaciones en niños, en adultos y en pacientes con discapacidades leves-moderadas o con limitaciones del comportamiento.
 
-![sedación consciente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/01/sedacion-sant-boi-de-llobregat-3.jpg)
+![sedación consciente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sedacion-sant-boi-de-llobregat-3.jpg)
 
 Sedación consciente infantil:
 
@@ -47,7 +47,7 @@ Los **padres** son los que conocen mejor que nadie cómo manejan sus hijos la an
 
 La **sedación consciente en Sant Boi de Llobregat** no solo está indicada si su hijo tiene **miedo o nervios** al venir al dentista, también es una opción a tener en cuenta en **tratamientos de larga duración**, que requieran por ello de múltiples visitas, ya que esto puede hacer que el niño se canse antes de finalizar todo el tratamiento y aún habiendo sido **colaborador** con anterioridad, no lo sea en las próximas visitas.
 
-![sedación consciente en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/01/sedacion-consciente-infantil.jpg)
+![sedación consciente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sedacion-consciente-infantil.jpg)
 
 ### No dude en preguntarnos cualquier duda sobre la **técnica de sedación consciente en Sant Boi de Llobregat**, estaremos encantados de resolverla.
 

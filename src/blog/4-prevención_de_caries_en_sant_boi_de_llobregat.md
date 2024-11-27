@@ -27,7 +27,7 @@ En el desarrollo de la **caries** influyen tres factores de riesgo:
 
 Además, se necesita la colaboración de un cuarto factor, el tiempo, que es indispensable para que los otros tres actúen.
 
-![Prevención de caries en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/caries.jpg)
+![Prevención de caries en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/caries.jpg)
 
  
 Cómo realizar una eficaz prevención de caries en Sant Boi de Llobregat.
@@ -46,7 +46,7 @@ Las medidas a aplicar incluyen:
 * Promover la ingesta de alimentos ricos en fibra (manzana, zanahoria, etc.).
 
 
-![Prevención de caries en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/comida.jpg)
+![Prevención de caries en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/comida.jpg)
 
  
 ### 2. Higiene dental diaria, imprescindible para la prevención de caries en Sant Boi de Llobregat:
@@ -59,7 +59,7 @@ Para la higiene dental diaria se emplearán dos técnicas básicas:
 * **Hilo dental:**Es muy útil para eliminar la placa bacteriana interdental y ayuda en gran medida a la prevención de caries que puede aparecer entre los dientes.
 
 
-![Prevención de caries en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/higiene-dental.jpg)
+![Prevención de caries en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/higiene-dental.jpg)
 
  
 ### 3. Fluoración:
@@ -79,7 +79,7 @@ El flúor se administra de dos formas:
  El flúor local o tópico es compatible con suplementos fluorados a partir de los 5-6 años de edad. Además de los dentífricos fluorados, se dispone de colutorios para uso diario o semanal. Dado que existen múltiples formas de administrar flúor a los niños, es conveniente consultar con el pediatra cuál debe ser la mejor opción para cada niño. Para los adultos es igualmente un excelente sistema de **prevención de caries en Sant Boi de Llobregat**, ya que refuerza periódicamente el esmalte dental, poniéndoselo difícil a las bacterias que acceden a través de él y que van destruyendo las estructuras dentales.
 
 
-![Prevención de caries en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/fluor.jpg)
+![Prevención de caries en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/fluor.jpg)
 
  
 ### Recuerde que su odontólogo le puede dar varios consejos sobre prevención de caries en Sant Boi de Llobregat que le ahorrarán molestas caries y visitas al dentista.

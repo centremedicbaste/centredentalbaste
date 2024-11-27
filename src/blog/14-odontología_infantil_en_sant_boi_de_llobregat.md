@@ -30,7 +30,7 @@ En los niños de 2 a 4 años de edad casi 2/5 de ellos tiene, al menos, una **ca
 * A partir del primer año y hasta los 8 años, se recomienda un mínimo de 2 cepillados al día supervisados por el papá o la mamá.
 
 
-![Odontología infantil en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/05/odontologia-infantil3-1024x600.jpg)
+![Odontología infantil en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/odontologia-infantil3-1024x600.jpg)
 Tratamientos más habituales de odontología infantil en Sant Boi de Llobregat
 
 
@@ -42,7 +42,7 @@ Tratamientos más habituales de odontología infantil en Sant Boi de Llobregat
 * PROTECTOR BUCAL DEPORTIVO: previene golpes y lesiones dentales durante las actividades deportivas.
 
 
-![Odontología infantil en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/05/odontologia-infantil-1024x600.jpg)
+![Odontología infantil en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/odontologia-infantil-1024x600.jpg)
 ### Desde Centre Dental Basté animamos a padres y madres a visitarnos con sus hijos, les ofrecemos una odontología infantil en Sant Boi de Llobregat de calidad y con el mejor equipo especializado.
 
 

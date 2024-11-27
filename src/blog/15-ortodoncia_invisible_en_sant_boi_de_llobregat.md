@@ -26,7 +26,7 @@ Es una técnica de gran utilidad en odontología y especialmente en la ortodonci
 
 Es un **procedimiento diagnóstico fundamental** antes de iniciar cualquier tratamiento ortodóntico, ya que permite determinar las **anomalías morfológicas**, de colocación y de crecimiento de los dientes, para así establecer el objetivo del tratamiento y poder realizar el adecuado seguimiento del mismo.
 
-![ortodoncia invisible en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/ortodoncia-estudio-1024x600.jpg)
+![ortodoncia invisible en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estudio-1024x600.jpg)
 
  
 ### Hoy en día existen numerosas técnicas de ortodoncia con resultados más o menos similares pero son cada vez más personas las que optan por **soluciones estéticas** que no les interfieran con su vida laboral o social. Una de estas soluciones que te ofrecemos en Centre Dental Basté es la **ortodoncia invisible en Sant Boi de Llobregat**.
@@ -40,7 +40,7 @@ Ortodoncia invisible
 La [**ortodoncia invisible**](http://www.esacademic.com/dic.nsf/eswiki/1422415) es una **revolucionaria técnica** de ortodoncia estética que viene a sustituir a los hasta ahora habituales aparatos de metal.
 Hace ya años que se vienen utilizando estos **sistemas alineadores transparentes**, totalmente estéticos y prácticamente **invisibles** a los ojos de los demás. Su diseño en formato compacto y fabricación en un material similar al plástico o la silicona, permite a los pacientes **quitárselos y ponérselos** a su antojo para acudir a reuniones, eventos importantes, citas o simplemente para salir a tomar algo con amigos, lo que resulta tremendamente práctico.
 
-![ortodoncia invisible en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/07/ortodoncia-invisible-1024x600.jpg)
+![ortodoncia invisible en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisible-1024x600.jpg)
 
  
 Ventajas de la ortodoncia invisible

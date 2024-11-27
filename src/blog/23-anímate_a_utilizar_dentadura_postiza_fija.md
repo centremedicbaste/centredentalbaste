@@ -45,7 +45,7 @@ Es una técnica indolora, ya que se emplea anestesia local.
 
 Se obtienen los *beneficios en* un periodo de *tiempo corto*, ya que la intervención dura no más de 2 horas, y en 1 o 2 días se realiza el implante del "puente fijo provisional", que al cabo de los 6 meses-1 año, cuando ya está completamente consolidado, se reemplaza por el definitivo.
 
-![dentadura postiza sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/dentadura-postiza-sant-boi-llobregat-barcelona.jpg)
+![dentadura postiza sant boi de llobregat](/assets/static/images/blog/blog-inner/dentadura-postiza-sant-boi-llobregat-barcelona.jpg)
 ### Ventajas e inconvenientes de la dentadura postiza fija
 
 
@@ -73,7 +73,7 @@ Sin lugar a dudas, los beneficios superan con creces a los posibles inconvenient
 
 Sin lugar a dudas, es la opción acertada si quieres olvidarte definitivamente de los problemas y molestias dentales.
 
-![presupuesto dentadura postiza sant boi de llobregat](http://centredentalbaste.com/wp-content/uploads/2016/11/presupuesto-dentadura-postiza-sant-boi-llobregat-barcelona.png)
+![presupuesto dentadura postiza sant boi de llobregat](/assets/static/images/blog/blog-inner/presupuesto-dentadura-postiza-sant-boi-llobregat-barcelona.png)
 **Más que inconvenientes, la dentadura postiza fija tiene ciertas contraindicaciones:**
 
 1. No está indicada en personas con *osteoporosis*, ya que no podemos garantizar el correcto anclaje de los implantes si los huesos no están sanos y fuertes.

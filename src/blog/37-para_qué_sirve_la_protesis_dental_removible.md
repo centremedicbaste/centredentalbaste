@@ -15,7 +15,7 @@ imageAlt:
 
 Barcelona es una ciudad cosmopolita y moderna. Nosotros, como [dentistas en Sant Boi de Llobregat](http://centredentalbaste.com/), notamos su influencia en las calles, los edificios y la cultura. La estética es también muy importante para sus habitantes. En este artículo, animamos a los vecinos de Sant Boi de Llobregat a considerar el uso de una **prótesis dental removible**. Aquí les ofrecemos toda la información necesaria.
 
-![prótesis dental removible sant boi de llobregat](https://centredentalbaste.com/wp-content/uploads/2016/10/implantes-removibles-baratos-sant-boi-llobregat-barcelona-1200x480.jpg)
+![prótesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/implantes-removibles-baratos-sant-boi-llobregat-barcelona-1200x480.jpg)
 
 ### ¿Qué es la prótesis dental removible? Todo lo que debes saber
 

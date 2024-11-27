@@ -24,7 +24,7 @@ En **Centre Dental Basté**, contamos con profesionales **especialistas en endod
 
 Existen varias causas por las que un paciente puede necesitar el tratamiento de una **endodoncia en Sant Boi de Llobregat**, los más comunes son **caries profundas** que llegan al nervio y **grandes fracturas** de dientes que afectan al tejido interno.
 
-![endodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/12/endodoncia-1.jpg)
+![endodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/endodoncia-1.jpg)
 
  
 ### Endodoncia por caries dental
@@ -36,7 +36,7 @@ Existen varias causas por las que un paciente puede necesitar el tratamiento de 
 * Los síntomas suelen ser molestia al masticar y también una sensación de punzadas alrededor del diente. Ante los primeros síntomas de la infección, el paciente tiene que venir al dentista inmediatamente.
 
 
-![endodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/12/endodoncia-caries.jpg)
+![endodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/endodoncia-caries.jpg)
 
  
 ### Endodoncia por fractura del diente
@@ -47,7 +47,7 @@ Existen varias causas por las que un paciente puede necesitar el tratamiento de 
 * Las fracturas también se pueden producir por golpes fortuitos, bien sea por accidentes, por masticar algo demasiado duro o por golpes recibidos en la cara. Si se produce exposición del nervio, y por tanto, dolor intenso sin tocar el diente, un dolor espontáneo o dolor sólo porque entre el aire a la boca, venga a nuestra **clínica dental en Sant Boi de Llobregat** y será tratado por el **dentista especialista en endodoncia en Sant Boi de Llobregat**, mediante el tratamiento de endodoncia adecuado para usted.
 
 
-![endodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/12/endodoncia-fractura.jpg)
+![endodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/endodoncia-fractura.jpg)
 
  
 Pasos de una endodoncia en Sant Boi de Llobregat
@@ -61,7 +61,7 @@ El **tratamiento de endodoncia** o “matar el nervio del diente” necesitará 
 4. **Obturación** de los conductos radiculares. Una vez que el diente ya está completamente limpio y preparado, el dentista procede a rellenar los espacios. Este es el paso más importante para el éxito del tratamiento de endodoncia. Tras “matar el nervio”, el diente debe ser sellado con una restauración o empaste o con una corona de porcelana, según sea el caso, para asegurar que el diente no se rompa en muchos años.
 
 
-![endodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2018/12/endodoncia-pasos.png)
+![endodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/endodoncia-pasos.png)
  
 ### No lo dude, si tiene la sospecha de tener una caries profunda o si se fractura un diente, acuda inmediatamente al **especialista en endodoncia en Sant Boi de Llobregat**.
 

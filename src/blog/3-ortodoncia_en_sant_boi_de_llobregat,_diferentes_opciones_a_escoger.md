@@ -39,7 +39,7 @@ Se recomienda realizar un tratamiento de ortodoncia, no sólo para mejorar la es
 
 Somos una **clínica dental en Sant Boi de Llobregat** dedicada a la rehabilitación oral y por lo tanto la ortodoncia del adulto forma parte de muchos de nuestros tratamientos. El primer paso siempre es sanear la boca con los tratamientos para caries, encías (enfermedad periodontal), ... y luego nos planteamos la correcta posición de los dientes para poder proceder a la reposición de dientes perdidos o ausentes.
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-chicos.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-chicos.jpg)
 
  
 ¿Qué tratamiento de ortodoncia se adapta mejor a mis necesidades?
@@ -55,7 +55,7 @@ Con los brackets metálicos conseguirás alinear tus dientes de forma eficaz obt
 
 Constan de un bracket, botón metálico pegado al diente, y un arco metálico que hace la fuerza que mueve los dientes y se activa en general una vez al mes.
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-convencional.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-convencional.jpg)
 
 Seguro que has pensado alguna vez en colocarte bien tus dientes pero lo has visto como un problema a nivel estético, ahora te podemos ofrecer opciones de **ortodoncia estética en Sant Boi de Llobregat** como son los brackets de zafiro, la ortodoncia lingual o la más innovadora ortodoncia invisible Invisalign®.
 
@@ -70,7 +70,7 @@ Con esta ortodoncia estética deberás llevar una higiene diaria bucal igual que
 
 La ortodoncia con brackets estéticos te evitará las preocupaciones por el aspecto facial que provocan los brackets de metal.
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-zafiro.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-zafiro.jpg)
 
  
 Ortodoncia lingual
@@ -80,7 +80,7 @@ Es un tratamiento muy discreto ya que los brackets se fijan al diente por su car
 
 La **ortodoncia en Sant Boi de Llobregat** del tipo lingual se está implantando muy bien en los tratamientos de ortodoncia ya que el resultado obtenido en el alineamiento de los dientes es el mismo que con la ortodoncia convencional. Su desventaja es que tiene un coste más alto ya que se utilizan unos brackets especiales, hechos a medida y que se adhieren a la cara interna de los dientes, y que la lengua debe adaptarse a la presencia del bracket y del arco.
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-lingual.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-lingual.jpg)
 
  
 Ortodoncia invisible
@@ -92,7 +92,7 @@ En nuestra clínica dental en Sant Boi de Llobregat utilizamos la **ortodoncia e
 
 Son alineadores extraíbles pero que sólo te sacarás para comer y cepillarte los dientes y donde es muy importante tu responsabilidad en ponértelos 22 horas al día. Son mucho más cómodos que los sistemas de ortodoncia fija y al no llevar brackets ni arcos de metal, se reducen las urgencias y las llagas en la mucosa oral. Es un sistema de movimientos muy rápido que reduce las visitas a la clínica, ya que te entregamos varias férulas, y por tanto no es necesario venir cada mes a la consulta, siendo ideales para personas que viajan mucho y / o disponen de poco tiempo .
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-invisible.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisible.jpg)
 
  
 Ortodoncia interceptiva para niños
@@ -102,7 +102,7 @@ La ortodoncia interceptiva infantil es una ortodoncia temprana encaminada a corr
 
 Este tipo de ortodoncia sirve para corregir un crecimiento craneofacial incorrecto y maloclusiones, por tanto la **ortodoncia en Sant Boi de Llobregat** interceptiva, actúa en los dientes y en el conjunto maxilo-mandibular. Un ejemplo de ello son los aparatos para ensanchar el paladar que si se ponen entre los 7-10 años pueden evitar ortodoncias posteriores o acortar su duración.
 
-![ortodoncia en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/07/ortodoncia-infantil.jpg)
+![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-infantil.jpg)
 
  
 ### Recuerda que en **Centre Dental Basté** estaremos encantados de asesorarte para que elijas el mejor tratamiento de **ortodoncia en Sant Boi de Llobregat**, siempre de la mano de nuestros especialistas.

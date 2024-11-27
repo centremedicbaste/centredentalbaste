@@ -19,4 +19,4 @@ imageAlt:
 
  
 
-![implantes dentales en Sant Boi de Llobregat](https://centredentalbaste.com/wp-content/uploads/2019/10/implantes-dentales-1dia-300x176.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-1dia-300x176.jpg)
