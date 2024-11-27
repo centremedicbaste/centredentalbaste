@@ -1,0 +1,36 @@
+.blog-intro {
+  overflow: auto;
+  height: 380px;
+  @media (min-width: $break-md) {
+    overflow: initial;
+    height: auto;
+  }
+  .blog-intro-inner {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: -10px;
+    flex-wrap: nowrap;
+    width: max-content;
+    li {
+      width: 45vw;
+      padding: 16px;
+
+    }
+    @media (min-width: $break-md) {
+      flex-wrap: wrap;
+      width: 100%;
+      li {
+        width: 33.3333%;
+        padding: 16px;
+      }
+    }
+    .tag-info {
+      display: none;
+    }
+    h3 {
+      min-height: 50px;
+    }
+  }
+}

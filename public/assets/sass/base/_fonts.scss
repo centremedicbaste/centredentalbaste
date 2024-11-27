@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "font-light";
+  src: url("/assets/fonts/electra/electra-webfont.woff2") format("woff2"), url("/assets/fonts/electra/electra-webfont.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "font-regular";
+  src: url("/assets/fonts/satoshi/Satoshi-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "font-bold";
+  src: url("/assets/fonts/neutrif/font-bold.woff2") format("woff2"),
+    url("/assets/fonts/futura/font-bold.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "hunter";
+  src: url("/assets/fonts/electra/hunter.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "electra";
+  src: url("/assets/fonts/electra/electra-webfont.woff2") format("woff2"),
+    url("/assets/fonts/electra/electra-webfont.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "golden";
+  src: url("/assets/fonts/goldenlight/goldenbook_light.woff2") format("woff2"),
+    url("/assets/fonts/goldenlight/goldenbook_light.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "golden-regular";
+  src: url("/assets/fonts/goldenlight/Goldenbook-Regular.woff2") format("woff2"),
+    url("/assets/fonts/goldenlight/Goldenbook-Regular.woff") format("woff");
+  font-display: swap;
+}
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');

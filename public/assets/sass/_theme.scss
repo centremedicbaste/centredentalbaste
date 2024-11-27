@@ -1,0 +1,180 @@
+.btn-primary {
+  color: $c-white;
+  background-color: $c-primary;
+  border: 1px solid $c-primary ;
+}
+.c-accent {
+  color: $c-primary;
+}
+b {
+  @include font-bold;
+}
+strong {
+  color: $c-secondary;
+}
+b {
+  color: $c-secondary;
+}
+.bold {
+  background-color: $c-primary;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 200 !important;
+}
+.btn.btn--icon {
+  width: 300px;
+  height: 80px;
+  background-color: $c-white;
+  border-color: $c-white;
+  &:hover {
+    opacity: 1;
+    background-color: $c-white;
+    border-color: $c-white;
+    .btn__circle {
+      -webkit-clip-path: inset(0 round 4.25rem);
+      clip-path: inset(0 round 4.25rem);
+    }
+  }
+  .btn--icon-text {
+    position: absolute;
+    left: 32px;
+    top: 32px;
+    line-height: 1;
+  }
+}
+.has-light {
+  .btn-primary {
+    color: $c-white;
+    border: 1px solid $c-accent;
+    background-color: $c-accent;
+  }
+  a {
+    color: white;
+  }
+  b {
+    color: white;
+  }
+  .menu-toogle-bars {
+    span {
+      background-color: $c-white;
+    }
+  }
+  .scrolled & {
+    .menu-toogle-bars {
+      span {
+        background-color: #000;
+      }
+    }
+  }
+  .menu-open & {
+    .menu-toogle-bars {
+      span {
+        background-color: #000;
+      }
+    }
+  }
+}
+svg {
+  fill: transparent !important;
+}
+.btn.btn--big {
+  font-size: 12px;
+  @media (min-width: $break-md) {
+    font-size: 14px;
+  }
+}
+.logo-simple {
+  width: 96px;
+  margin-top: 12px;
+  img{
+    width:100%;
+  }
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+  @media (min-width: $break-md) {
+
+    margin-top: 20px;
+
+    width: 152px;
+  }
+}
+.watermark {
+  position: absolute;
+  width: 50%;
+  @media (min-width: $break-md) {
+    width: 50%;
+  }
+}
+.form-input-label-2 {
+  .input,
+  .textarea,
+  .select select {
+    border: 1px solid #DCDCDC;
+    border-color: #DCDCDC;
+    border-width: 1px;
+    padding-inline: 16px;
+  }
+}
+.form-input-label-2>input,
+.form-input-label-2>label,
+.form-input-label-2>textarea,
+.error-zone>input,
+.error-zone>label {
+  padding-left: 16px;
+  font-weight: normal;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.swiper-slide {
+  background-image: red;
+  img {
+    opacity: 0.6;
+  }
+}
+.slide-link {
+  .swiper-slide-info {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 16px;
+    bottom: 0px;
+    position: absolute;
+    min-height: 160px;
+    width: calc(100% - 32px);
+    margin: 16px;
+    z-index: 100;
+  }
+}
+.full-logo {
+  svg {
+    width: 100%;
+    height: 100%;
+    margin-top: -4px;
+  }
+}
+.border-b {
+  border-bottom: 1px solid #A1A1A1;
+}
+.c-direction-block_item {
+  font-size: 10vw;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+  span {
+    background-color: #fff;
+    display: block;
+    padding: 0;
+    white-space: nowrap;
+  }
+}
+.form-input-label-2>input,
+.form-input-label-2>label,
+.form-input-label-2>textarea,
+.error-zone>input,
+.error-zone>label {
+  text-transform: initial !important;
+}

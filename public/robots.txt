@@ -1,0 +1,10 @@
+
+User-agent: *
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /private/
+Disallow: /legal/
+Disallow: /site/
+Disallow: /home/
+
+Sitemap: https://centredentalbaste.com/sitemap.xml
