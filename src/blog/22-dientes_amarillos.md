@@ -1,6 +1,7 @@
 ---
 subtitle: ""
-title: "Dientes amarillos"
+title: "Dientes amarillos"  
+permalink: /blog/Dientes-amarillos/
 descripcion: ""
 metaTitle: "Dientes amarillos"
 metaDescription: ""

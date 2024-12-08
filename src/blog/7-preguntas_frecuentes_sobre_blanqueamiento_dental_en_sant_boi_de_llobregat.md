@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llobregat"
+permalink: /blog/Preguntas-frecuentes-sobre-blanqueamiento-dental-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llobregat"
 metaDescription: ""

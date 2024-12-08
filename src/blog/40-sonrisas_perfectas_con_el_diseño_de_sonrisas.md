@@ -1,6 +1,7 @@
 ---
 subtitle: ""
-title: "Sonrisas perfectas con el diseño de sonrisas"
+title: "Sonrisas perfectas con el diseño de sonrisas"   
+permalink: /blog/sonrisas-perfectas-con-el-diseño-de-sonrisas/
 descripcion: ""
 metaTitle: "Sonrisas perfectas con el diseño de sonrisas"
 metaDescription: ""

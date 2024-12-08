@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Estética dental en Sant Boi de Llobregat"
+permalink: /blog/estetica-dental-en-sant-boi-de-llobregat/
 descripcion: "descripcion"
 metaTitle: "Estética dental en Sant Boi de Llobregat"
 metaDescription: ""

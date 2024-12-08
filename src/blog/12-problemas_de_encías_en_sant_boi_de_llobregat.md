@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Problemas de encías en Sant Boi de Llobregat"
+permalink: /blog/Problemas-de-encias-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Problemas de encías en Sant Boi de Llobregat"
 metaDescription: ""

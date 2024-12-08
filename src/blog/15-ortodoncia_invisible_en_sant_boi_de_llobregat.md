@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Ortodoncia invisible en Sant Boi de Llobregat"
+permalink: /blog/Ortodoncia-invisible-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Ortodoncia invisible en Sant Boi de Llobregat"
 metaDescription: ""

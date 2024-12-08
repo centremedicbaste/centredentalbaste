@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Ortodoncia en Sant Boi del Llobregat de máxima calidad"
+permalink: /blog/ortodoncia-en-Sant-Boi-del-Llobregat-de-maxima-calidad/
 descripcion: ""
 metaTitle: "Ortodoncia en Sant Boi del Llobregat de máxima calidad"
 metaDescription: ""

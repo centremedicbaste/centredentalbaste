@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Especialistas en endodoncia en Sant Boi de Llobregat"
+permalink: /blog/Especialistas-en-endodoncia-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Especialistas en endodoncia en Sant Boi de Llobregat"
 metaDescription: ""

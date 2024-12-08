@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "¿Por qué necesito un tac dental?"
+permalink: /blog/por-que-necesito-un-tac-dental/
 descripcion: ""
 metaTitle: "¿Por qué necesito un tac dental?"
 metaDescription: ""

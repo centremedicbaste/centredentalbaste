@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Anímate a utilizar dentadura postiza fija"
+permalink: /blog/animate-utilizar-dentadura-postiza-fija/
 descripcion: ""
 metaTitle: "Anímate a utilizar dentadura postiza fija"
 metaDescription: ""

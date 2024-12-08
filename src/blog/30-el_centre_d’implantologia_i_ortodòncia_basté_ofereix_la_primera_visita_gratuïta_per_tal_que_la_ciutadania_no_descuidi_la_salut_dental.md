@@ -1,7 +1,8 @@
 ---
 subtitle: ""
 title: "El Centre d’Implantologia i Ortodòncia Basté ofereix la primera visita gratuïta per tal que la ciutadania no descuidi la salut dental"
-descripcion: ""
+permalink: /blog/el-centre-dimplantologia-i-ortodòncia-basté-ofereix-la-primera-visita-gratuïta-per-tal-que-la-ciutadania-no-descuidi-la-salut-dental/
+descripcion: ""     
 metaTitle: "El Centre d’Implantologia i Ortodòncia Basté ofereix la primera visita gratuïta per tal que la ciutadania no descuidi la salut dental"
 metaDescription: ""
 metaKeywords: ""

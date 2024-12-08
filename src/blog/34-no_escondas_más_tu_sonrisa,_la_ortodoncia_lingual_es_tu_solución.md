@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "No escondas más tu sonrisa, la ortodoncia lingual es tu solución"
+permalink: /blog/no-escondas-mas-tu-sonrisa,-la-ortodoncia-lingual-es-tu-solucion/
 descripcion: ""
 metaTitle: "No escondas más tu sonrisa, la ortodoncia lingual es tu solución"
 metaDescription: ""

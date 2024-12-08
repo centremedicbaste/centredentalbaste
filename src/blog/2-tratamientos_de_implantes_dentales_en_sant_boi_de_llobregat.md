@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Tratamientos de implantes dentales en Sant Boi de Llobregat"
+permalink: /blog/Tratamientos-de-implantes-dentales-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Tratamientos de implantes dentales en Sant Boi de Llobregat"
 metaDescription: ""

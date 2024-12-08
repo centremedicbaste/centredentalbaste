@@ -1,6 +1,7 @@
 ---
 subtitle: ""
 title: "Las claves en el precio de los implantes dentales"
+permalink: /blog/las-claves-en-el-precio-de-los-implantes-dentales/
 descripcion: ""
 metaTitle: "Las claves en el precio de los implantes dentales"
 metaDescription: ""

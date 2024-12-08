@@ -1,6 +1,7 @@
 ---
 subtitle: ""
-title: "Última tecnología para implantes dentales en Sant Boi de Llobregat"
+title: "Última tecnología para implantes dentales en Sant Boi de Llobregat" 
+permalink: /blog/Ultima-tecnologia-para-implantes-dentales-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Última tecnología para implantes dentales en Sant Boi de Llobregat"
 metaDescription: ""

@@ -1,6 +1,7 @@
 ---
 subtitle: ""
-title: "Qué son los aparatos dentales y cómo elegirlos"
+title: "Qué son los aparatos dentales y cómo elegirlos" 
+permalink: /blog/que-son-los-aparatos-dentales-y-como-elegirlos/
 descripcion: ""
 metaTitle: "Qué son los aparatos dentales y cómo elegirlos"
 metaDescription: ""

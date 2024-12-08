@@ -1,5 +1,6 @@
 ---
 subtitle: ""
+permalink: /blog/all-on-four/
 title: "All on four, o como tener una sonrisa nueva con tan sólo cuatro implantes y 48 horas"
 descripcion: ""
 metaTitle: "All on four, o como tener una sonrisa nueva con tan sólo cuatro implantes y 48 horas"
