@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Turismo dental en Barcelona"    
-permalink: /blog/turismo-dental-en-barcelona/
+permalink: /turismo-dental-en-barcelona/
 descripcion: ""
 metaTitle: "Turismo dental en Barcelona"
 metaDescription: ""

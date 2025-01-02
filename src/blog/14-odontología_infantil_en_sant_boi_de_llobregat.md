@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Odontología infantil en Sant Boi de Llobregat"
-permalink: /blog/Odontologia-infantil-en-Sant-Boi-de-Llobregat/
+permalink: /Odontologia-infantil-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Odontología infantil en Sant Boi de Llobregat"
 metaDescription: ""

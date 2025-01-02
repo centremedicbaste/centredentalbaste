@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Brackets estéticos"
-permalink: /blog/Brackets-esteticos/
+permalink: /Brackets-esteticos/
 descripcion: ""
 metaTitle: "Brackets estéticos"
 metaDescription: ""

@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Existen muchos tipos de brackets, entre ellos, los brackets invisibles"
-permalink: /blog/existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/
+permalink: /existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/
 descripcion: "" 
 metaTitle: "Existen muchos tipos de brackets, entre ellos, los brackets invisibles"
 metaDescription: ""

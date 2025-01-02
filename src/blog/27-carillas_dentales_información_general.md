@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Carillas dentales: información general"
-permalink: /blog/carillas-dentales-informacion-general/
+permalink: /carillas-dentales-informacion-general/
 descripcion: ""
 metaTitle: "Carillas dentales: información general"
 metaDescription: ""

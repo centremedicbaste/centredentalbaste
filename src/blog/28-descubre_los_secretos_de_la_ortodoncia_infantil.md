@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Descubre los secretos de la ortodoncia infantil"
-permalink: /blog/descubre-los-secretos-de-la-ortodoncia-infantil/
+permalink: /descubre-los-secretos-de-la-ortodoncia-infantil/
 descripcion: ""
 metaTitle: "Descubre los secretos de la ortodoncia infantil"
 metaDescription: ""

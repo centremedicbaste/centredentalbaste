@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Sedación consciente"
-permalink: /blog/Sedacion-consciente/
+permalink: /Sedacion-consciente/
 descripcion: ""
 metaTitle: "Sedación consciente"
 metaDescription: ""

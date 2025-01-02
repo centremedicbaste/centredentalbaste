@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Puentes y coronas dentales"
-permalink: /blog/Puentes-y-coronas-dentales/
+permalink: /Puentes-y-coronas-dentales/
 descripcion: ""
 metaTitle: "Puentes y coronas dentales"
 metaDescription: ""

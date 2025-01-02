@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Tipos de protesis dentales, claves para una sonrisa excelente"
-permalink: /blog/Tipos-de-protesis-dentales/
+permalink: /Tipos-de-protesis-dentales/
 descripcion: ""
 metaTitle: "Tipos de protesis dentales, claves para una sonrisa excelente"
 metaDescription: ""

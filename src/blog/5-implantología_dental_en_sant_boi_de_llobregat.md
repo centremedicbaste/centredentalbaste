@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Implantología dental en Sant Boi de Llobregat"
-permalink: /blog/Implantologia-dental-en-Sant-Boi-de-Llobregat/
+permalink: /Implantologia-dental-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Implantología dental en Sant Boi de Llobregat"
 metaDescription: ""

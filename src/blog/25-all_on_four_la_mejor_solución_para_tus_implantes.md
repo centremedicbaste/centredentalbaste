@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "All on four: la mejor solución para tus implantes"
-permalink: /blog/all-on-four-la-mejor-solucion-para-tus-implantes/
+permalink: /all-on-four-la-mejor-solucion-para-tus-implantes/
 descripcion: ""
 metaTitle: "All on four: la mejor solución para tus implantes"
 metaDescription: ""

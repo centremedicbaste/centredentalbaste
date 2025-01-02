@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Tu clínica dental en Sant Boi de Llobregat"
-permalink: /blog/Tu-clinica-dental-en-Sant-Boi-de-Llobregat/
+permalink: /Tu-clinica-dental-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Tu clínica dental en Sant Boi de Llobregat"
 metaDescription: ""

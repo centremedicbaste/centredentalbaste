@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Lo último en dentadura fijada con implantes dentales en Sant Boi de Llobregat"
-permalink: /blog/Lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-Sant-Boi-de-Llobregat/
+permalink: /Lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-Sant-Boi-de-Llobregat/
 
 descripcion: ""
 metaTitle: "Lo último en dentadura fijada con implantes dentales en Sant Boi de Llobregat"

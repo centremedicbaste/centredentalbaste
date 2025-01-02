@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Descuento en ortodoncia"
-permalink: /blog/descuento-en-ortodoncia/
+permalink: /descuento-en-ortodoncia/
 descripcion: ""
 metaTitle: "Descuento en ortodoncia"
 metaDescription: ""

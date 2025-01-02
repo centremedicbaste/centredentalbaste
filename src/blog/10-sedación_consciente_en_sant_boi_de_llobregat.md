@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Sedación consciente en Sant Boi de Llobregat"
-permalink: /blog/Sedacion-consciente-en-Sant-Boi-de-Llobregat/
+permalink: /Sedacion-consciente-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Sedación consciente en Sant Boi de Llobregat"
 metaDescription: ""

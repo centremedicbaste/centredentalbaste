@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "¿Para qué sirve la prótesis dental removible?"
-permalink: /blog/para-que-sirve-la-protesis-dental-removible/
+permalink: /para-que-sirve-la-protesis-dental-removible/
 descripcion: ""
 metaTitle: "¿Para qué sirve la prótesis dental removible?"
 metaDescription: ""

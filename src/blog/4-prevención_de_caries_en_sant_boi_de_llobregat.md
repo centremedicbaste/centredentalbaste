@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Prevención de caries en Sant Boi de Llobregat"
-permalink: /blog/prevencion-de-caries-en-sant-boi-de-llobregat/
+permalink: /prevencion-de-caries-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Prevención de caries en Sant Boi de Llobregat"
 metaDescription: ""

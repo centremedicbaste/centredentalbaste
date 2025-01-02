@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Urgencias dentales en Sant Boi de Llobregat"
-permalink: /blog/Urgencias-dentales-en-Sant-Boi-de-Llobregat/
+permalink: /Urgencias-dentales-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Urgencias dentales en Sant Boi de Llobregat"
 metaDescription: ""
