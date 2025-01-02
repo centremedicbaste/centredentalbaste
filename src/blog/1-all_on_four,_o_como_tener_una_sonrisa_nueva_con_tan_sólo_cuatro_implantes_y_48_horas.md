@@ -4,8 +4,8 @@ permalink: /all-on-four/
 title: "All on four, o como tener una sonrisa nueva con tan sólo cuatro implantes y 48 horas"
 descripcion: ""
 metaTitle: "All on four, o como tener una sonrisa nueva con tan sólo cuatro implantes y 48 horas"
-metaDescription: ""
-metaKeywords: ""
+metaDescription: "Descubre cómo el tratamiento All-on-4, apoyado en cuatro implantes con carga inmediata, reduce tiempos de espera y garantiza resultados óptimos. Conoce sus ventajas y por qué en Centre Dental Basté somos tu referencia en implantología en Sant Boi de Llobregat."
+metaKeywords: "All on four, implantes dentales, Centre Dental Basté, rehabilitación oral, sonrisa nueva, carga inmediata, Sant Boi de Llobregat, implantología"
 metaRobots: "index, follow"
 date: 2020-07-01T09:21:06+00:00
 fecha: 2020-07-01T09:21:06+00:00

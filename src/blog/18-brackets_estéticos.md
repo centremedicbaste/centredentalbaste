@@ -3,9 +3,9 @@ subtitle: ""
 title: "Brackets estéticos"
 permalink: /Brackets-esteticos/
 descripcion: ""
-metaTitle: "Brackets estéticos"
-metaDescription: ""
-metaKeywords: ""
+metaTitle: "Brackets estéticos | la mejor opción para corregir tu sonrisa con un look discreto"
+metaDescription: "Conoce los diferentes tipos de brackets estéticos (plástico, cerámica y zafiro), sus ventajas, y cómo elegir la mejor opción para alinear tu sonrisa sin sacrificar la estética."
+metaKeywords: "Brackets estéticos, ortodoncia, zafiro, cerámica, plástico, corrección dental, estética dental, tipos de brackets"
 metaRobots: "index, follow"
 date: 2017-01-24T15:01:58+00:00
 fecha: 2017-01-24T15:01:58+00:00

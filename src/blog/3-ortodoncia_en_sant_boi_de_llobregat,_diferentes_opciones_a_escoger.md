@@ -1,6 +1,6 @@
 ---
 subtitle: ""
-permalink: /Ortodoncia-en-Sant-Boi-de-Llobregat,-diferentes-opciones-a-escoger
+permalink: /Ortodoncia-en-Sant-Boi-de-Llobregat/
 title: "3-Ortodoncia en Sant Boi de Llobregat, diferentes opciones a escoger"
 descripcion: ""
 metaTitle: "Ortodoncia en Sant Boi de Llobregat, diferentes opciones a escoger"
