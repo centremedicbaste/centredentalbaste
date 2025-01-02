@@ -1,6 +1,6 @@
 ---
 layout: pages/_contacta.njk
-permalink: /contacta/
+permalink: /contacto/
 tags: ["pages"]
 seccion: Contacta
 orden: 6
