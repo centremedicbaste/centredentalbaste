@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/estetica-dental/
+permalink: /tratamientos/estetica-dental-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
 seccion: estetica-dental
