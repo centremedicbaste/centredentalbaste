@@ -1,13 +1,13 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/implantologia/
+permalink: /tratamientos/implantes-dentales-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
 seccion: implantologia
 
-metaTitle: Implantes Dentales en Sant Boi de Llobregat - Soluciones Efectivas
-metaDescription: Descubre las opciones de implantes dentales en Sant Boi de Llobregat. Soluciones efectivas para la pérdida de piezas dentales.
-metaKeywords: implantes dentales, Sant Boi de Llobregat, oseointegración, dentadura fija, dentadura extraíble
+metaTitle: IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT | Centre Dental Baste
+metaDescription: En Centre Dental Basté te ofrecemos diferentes opciones para implantes dentales en Sant Boi de Llobregat, de modo que seguro encontrarás la tuya.
+
 metaRobots: index, follow
 
 
