@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-permalink: /tratamientos/protesis/
+permalink: /tratamientos/protesis-implantes/
 tags: ["tratamientos"]
 
 seccion: protesis
