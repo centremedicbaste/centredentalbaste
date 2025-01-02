@@ -74,7 +74,11 @@ Sin lugar a dudas, los beneficios superan con creces a los posibles inconvenient
 
 Sin lugar a dudas, es la opción acertada si quieres olvidarte definitivamente de los problemas y molestias dentales.
 
-![presupuesto dentadura postiza sant boi de llobregat](/assets/static/images/blog/blog-inner/presupuesto-dentadura-postiza-sant-boi-llobregat-barcelona.png)
+
+>¿Necesita más información?
+>info@centredentalbaste.com
+> T. 93 635 40 25
+> 
 **Más que inconvenientes, la dentadura postiza fija tiene ciertas contraindicaciones:**
 
 1. No está indicada en personas con *osteoporosis*, ya que no podemos garantizar el correcto anclaje de los implantes si los huesos no están sanos y fuertes.
