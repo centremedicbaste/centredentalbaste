@@ -5,7 +5,7 @@ permalink: /suresmile/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
 metaTitle: "SureSmile | Centre Dental Baste y la ortodoncia invisible"
 metaDescription: "Durante este mes de octubre ofrecemos un 10% de #descuento en todos nuestros tratamientos de #ortodoncia 🤩. ¡La primera visita es gratuíta!" 
-metaKeywords: ""
+metaKeywords: "alineadores transparentes, ortodoncia invisible y SureSmile"
 metaRobots: "index, follow"
 date: 2019-05-31T09:00:23+00:00
 fecha: 2019-05-31T09:00:23+00:00
@@ -56,7 +56,3 @@ Puedes confiar en que este planeamiento personalizado está completamente adapta
 Consulta a tu dentista acerca de los alineadores **SureSmile® Aligner** hoy mismo y descubre cómo puedes **transformar tu sonrisa** con un tratamiento efectivo, cómodo y poco invasivo.
 
 ![Pareja sonriendo al aire libre](/assets/static/images/blog/blog-inner/Folleto-Alineadores-SureSmile-Paciente-2-1536x1125.png "Ortodoncia invisible para una sonrisa perfecta")
-
-> **Consejo SEO:**  
-> - Incluye palabras clave como *alineadores transparentes*, *ortodoncia invisible* y *SureSmile® Aligner* en tu contenido y metaetiquetas para mejorar la visibilidad en buscadores.  
-> - Asegúrate de usar títulos y descripciones claras para ayudar a Google y otros motores de búsqueda a indexar correctamente tu información.
