@@ -3,7 +3,7 @@ subtitle: ""
 title: "Dentista de urgencias en Sant Boi de Llobregat"
 permalink: /dentista-urgencias-sant-boi-de-llobregat/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
-metaTitle: "Dentista de urgencias en Sant Boi de Llobregat | Centre Dental Baste"
+metaTitle: "Dentista de urgencias en Sant Boi de Llobregat , Centre Dental Baste"
 metaDescription: "En Centre Dental Basté disponemos de un dentista de urgencias en Sant Boi de Llobregat que atiende todo tipo de urgencias dentales." 
 metaKeywords: "alineadores transparentes, ortodoncia invisible , dentista, santboi"
 metaRobots: "index, follow"

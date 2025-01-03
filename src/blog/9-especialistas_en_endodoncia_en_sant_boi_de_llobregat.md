@@ -4,7 +4,7 @@ title: "Especialistas en endodoncia en Sant Boi de Llobregat"
 permalink: /Especialistas-en-endodoncia-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Especialistas en endodoncia en Sant Boi de Llobregat"
-metaDescription: ""
+metaDescription: "Descubre los tratamientos especializados en endodoncia en Sant Boi de Llobregat en Centre Dental Basté. Elimina el dolor dental y recupera tu sonrisa con nuestros expertos en desvitalización y restauración dental. ¡Visítanos y mejora tu salud bucal hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-12-18T12:45:40+00:00

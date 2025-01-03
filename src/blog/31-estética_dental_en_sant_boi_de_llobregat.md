@@ -3,8 +3,8 @@ subtitle: ""
 title: "Estética dental en Sant Boi de Llobregat"
 permalink: /estetica-dental-en-sant-boi-de-llobregat/
 descripcion: "descripcion"
-metaTitle: "Estética dental en Sant Boi de Llobregat"
-metaDescription: ""
+metaTitle: "Estética dental | Carillas, blanqueamiento y coronas en Sant Boi de Llobregat"
+metaDescription: "Descubre los mejores tratamientos de estética dental en Sant Boi de Llobregat. Carillas dentales, blanqueamiento y coronas de zirconio para una sonrisa perfecta. ¡Visítanos y transforma tu sonrisa hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-03-27T11:19:45+00:00

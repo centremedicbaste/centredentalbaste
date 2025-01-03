@@ -3,8 +3,8 @@ subtitle: ""
 title: "No escondas más tu sonrisa, la ortodoncia lingual es tu solución"
 permalink: /no-escondas-mas-tu-sonrisa,-la-ortodoncia-lingual-es-tu-solucion/
 descripcion: ""
-metaTitle: "No escondas más tu sonrisa, la ortodoncia lingual es tu solución"
-metaDescription: ""
+metaTitle: "Ortodoncia lingual | La solución invisible para tu sonrisa | Sant Boi de Llobregat"
+metaDescription: "Descubre la ortodoncia lingual en Sant Boi de Llobregat | Un método invisible y eficaz para alinear tus dientes sin que nadie lo note | Ideal para corregir mordidas y maloclusiones con comodidad y estética | ¡Transforma tu sonrisa hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T14:42:14+00:00

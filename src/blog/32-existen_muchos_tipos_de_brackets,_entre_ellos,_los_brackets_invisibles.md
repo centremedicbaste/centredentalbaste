@@ -3,8 +3,8 @@ subtitle: ""
 title: "Existen muchos tipos de brackets, entre ellos, los brackets invisibles"
 permalink: /existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/
 descripcion: "" 
-metaTitle: "Existen muchos tipos de brackets, entre ellos, los brackets invisibles"
-metaDescription: ""
+metaTitle: "Tipos de brackets | Brackets invisibles y más en Sant Boi de Llobregat"
+metaDescription: "Descubre los diferentes tipos de brackets, incluyendo los brackets invisibles, en Sant Boi de Llobregat. Aprende cómo funcionan y elige el mejor para ti. ¡Visítanos y consigue la sonrisa perfecta!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-10-10T15:13:46+00:00

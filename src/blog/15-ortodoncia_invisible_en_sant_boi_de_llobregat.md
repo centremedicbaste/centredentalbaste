@@ -4,7 +4,7 @@ title: "Ortodoncia invisible en Sant Boi de Llobregat"
 permalink: /Ortodoncia-invisible-en-Sant-Boi-de-Llobregat/
 descripcion: ""
 metaTitle: "Ortodoncia invisible en Sant Boi de Llobregat"
-metaDescription: ""
+metaDescription: "Descubre la ortodoncia invisible en Sant Boi de Llobregat en Centre Dental Basté. Obtén una sonrisa perfecta con alineadores transparentes, cómodos y estéticos. Ideal para quienes buscan una solución discreta y efectiva para corregir sus dientes. ¡Visítanos y mejora tu sonrisa hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2018-07-20T08:42:20+00:00

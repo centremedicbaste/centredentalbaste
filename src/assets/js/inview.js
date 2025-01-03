@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   const gsapAnimate = (target, y, opacity, duration, delay, stagger = 0) => {
-    console.log(`Animando con retraso: ${delay}`, target); // Consola de depuración
     gsap.timeline({ delay })
       .to(target, {
         y, opacity, duration, ease: 'power2.out', stagger
@@ -26,26 +25,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const animateOnScrollCallback = entries => handleIntersect(entries, animateOnScrollObserver, target => {
     const delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación al desplazar: ${delay}`, target); // Consola de depuración
     gsapAnimate(target.querySelector('.inner-content'), 0, 1, 1, delay);
   });
 
   const animateWordsCallback = entries => handleIntersect(entries, animateWordsObserver, target => {
     const delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación de palabras: ${delay}`, target); // Consola de depuración
     const words = target.querySelectorAll('.term');
     gsapAnimate(words, 0, 1, 1, delay, 0.1);
   });
 
   const animateBoxCallback = entries => handleIntersect(entries, animateBoxObserver, target => {
     const delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación de caja: ${delay}`, target); // Consola de depuración
     gsapAnimate(target, 0, 1, 1, delay);
   });
 
   const animateBox2Callback = entries => handleIntersect(entries, animateBox2Observer, target => {
     let delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación de caja2: ${delay}`, target); // Consola de depuración
 
     let wrapper = target.querySelector('.inner-wrapper');
     if (!wrapper) {
@@ -66,14 +61,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const animateListCallback = entries => handleIntersect(entries, animateListObserver, target => {
     const delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación de lista: ${delay}`, target); // Consola de depuración
     const items = target.querySelectorAll('li');
     gsapAnimate(items, 0, 1, 1, delay, 0.1);
   });
 
   const animateLettersCallback = entries => handleIntersect(entries, animateLettersObserver, target => {
     const delay = parseFloat(target.dataset.delay || 0);
-    console.log(`Retraso de animación de letras: ${delay}`, target); // Consola de depuración
     const letters = target.querySelectorAll('.letter');
     gsapAnimate(letters, 0, 1, 1, delay, 0.05);
   });
@@ -159,7 +152,6 @@ document.addEventListener("DOMContentLoaded", function () {
     element.style.overflow = 'hidden';  // Inicializa la opacidad
 
     const delay = parseFloat(element.dataset.delay || 0);
-    console.log(`Preparar animate-box2 con retraso: ${delay}`, wrapper); // Consola de depuración
     animateBox2Observer.observe(element);
   });
 

@@ -3,8 +3,8 @@ subtitle: ""
 title: "Descubre los secretos de la ortodoncia infantil"
 permalink: /descubre-los-secretos-de-la-ortodoncia-infantil/
 descripcion: ""
-metaTitle: "Descubre los secretos de la ortodoncia infantil"
-metaDescription: ""
+metaTitle: "Ortodoncia infantil | Descubre los secretos para una sonrisa perfecta en Sant Boi de Llobregat"
+metaDescription: "Aprende sobre la importancia de la ortodoncia infantil y cómo un diagnóstico temprano puede corregir malformaciones dentales en niños. Descubre los beneficios de la ortodoncia en Sant Boi de Llobregat y cómo mejorar la salud dental de tus hijos con nuestros expertos."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T14:18:58+00:00

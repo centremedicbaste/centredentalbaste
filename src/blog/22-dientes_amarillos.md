@@ -3,8 +3,8 @@ subtitle: ""
 title: "Dientes amarillos"  
 permalink: /Dientes-amarillos/
 descripcion: ""
-metaTitle: "Dientes amarillos"
-metaDescription: ""
+metaTitle: "Dientes amarillos | Soluciones para una sonrisa perfecta"
+metaDescription: "Descubre las causas de los dientes amarillos y cómo prevenirlos. Aprende sobre los factores genéticos, hábitos alimenticios y medicamentos que afectan el color de tus dientes. ¡Recupera tu sonrisa con nuestros consejos y tratamientos en Sant Boi de Llobregat!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T14:55:16+00:00

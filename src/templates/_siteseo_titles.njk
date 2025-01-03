@@ -3,47 +3,71 @@ layout: layout/base.njk
 permalink: /site/
 metaRobots: "noindex, nofollow"
 ---
-
-<div class="container ptr-120 bg-light front-section pbr-120"  data-scroll-section>  
-    <div class="fluid-4-r mb-64">Seo Sitemap</div>
-
+<div class="container ptr-120 bg-light front-section pbr-120" data-scroll-section>
+    <div class="fluid-4-r mb-64">Seo Sitemap </div>
+    {% set redTextCount = 0 %} <!-- Inicializar el contador -->
     <ul class="list-clear">
         {# Ordenar y listar todas las páginas por título, excluyendo las sin título #}
         {% for page in collections.all | sort(attribute='data.metaTitle') %}
         {% if page.data.metaTitle and page.data.metaRobots and 'noindex' not in page.data.metaRobots %}
-            <li>
-                <span>{{ loop.index }}.</span> <!-- Numeración -->
-                <a class="ttc" href="{{ page.url | url }}">{{ page.url | url }}</a>
-            </li>
-            <br>
-            <b>metaTitle:</b>
-            <span class="{% if page.data.metaTitle.length < 30 or page.data.metaTitle.length > 65 %}red-text{% endif %}">
-                {{ page.data.metaTitle }}
+        <li>
+            <span>{{ loop.index }}.</span> <!-- Numeración -->
+            <a class="ttc" href="{{ page.url | url }}">{{ page.url | url }}</a>
+        </li>
+        <br>
+        <b>metaTitle:</b>
+        {% set titleClass = '' %}
+        {% if page.data.metaTitle.length < 30 or page.data.metaTitle.length> 65 %}
+            {% set titleClass = 'red-text' %}
+            {% set redTextCount = redTextCount + 1 %}
+            {% endif %}
+            <span class="{{ titleClass }}">
+                {% if page.data.metaTitle.length < 30 %} {{ page.data.metaTitle }} (menos de 30) {% elseif
+                    page.data.metaTitle.length> 65 %}
+                    {{ page.data.metaTitle }} (más de 65)
+                    {% else %}
+                    {{ page.data.metaTitle }}
+                    {% endif %}
             </span>
             <br>
             <b>metaDescription:</b>
-            <span class="{% if page.data.metaDescription.length < 120 or page.data.metaDescription.length > 320 %}red-text{% endif %}">
-                {{ page.data.metaDescription }}
-            </span>
-            <br>
-            <b>metaKeywords:</b>
-            <span class="{% if page.data.metaKeywords.split(',').length < 5 or page.data.metaKeywords.split(',').length > 10 %}red-text{% endif %}">
-                {{ page.data.metaKeywords }}
-            </span>
-            <br>
-            <b>metaRobots:</b>
-            <span class="{% if page.data.metaRobots.length > 160 %}red-text{% endif %}">
-                {{ page.data.metaRobots }}
-            </span>
-            <br>
-            <hr class="mt-32">
-        {% endif %}
-    {% endfor %}
+            {% set descriptionClass = '' %}
+            {% if page.data.metaDescription.length < 120 or page.data.metaDescription.length> 320 %}
+                {% set descriptionClass = 'red-text' %}
+                {% set redTextCount = redTextCount + 1 %}
+                {% endif %}
+                <span class="{{ descriptionClass }}">
+                    {{ page.data.metaDescription }}
+                </span>
+                <br>
+                <b>metaKeywords:</b>
+                {% set keywordsClass = '' %}
+                {% if page.data.metaKeywords.split(',').length < 5 or page.data.metaKeywords.split(',').length> 10 %}
+                    {% set keywordsClass = 'red-text' %}
+                    {% set redTextCount = redTextCount + 1 %}
+                    {% endif %}
+                    <span class="{{ keywordsClass }}">
+                        {{ page.data.metaKeywords }}
+                    </span>
+                    <br>
+                    <b>metaRobots:</b>
+                    {% set robotsClass = '' %}
+                    {% if page.data.metaRobots.length > 160 %}
+                    {% set robotsClass = 'red-text' %}
+                    {% set redTextCount = redTextCount + 1 %}
+                    {% endif %}
+                    <span class="{{ robotsClass }}">
+                        {{ page.data.metaRobots }}
+                    </span>
+                    <br>
+                    <hr class="mt-32">
+                    {% endif %}
+                    {% endfor %}
     </ul>
+    <p>Total de elementos con clase <code>red-text</code>: {{ redTextCount }}</p>
 </div>
-
 <style>
-.red-text {
-    color: red;
-}
+    .red-text {
+        color: red;
+    }
 </style>

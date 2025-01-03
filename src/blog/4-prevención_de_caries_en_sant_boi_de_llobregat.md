@@ -4,7 +4,7 @@ title: "Prevención de caries en Sant Boi de Llobregat"
 permalink: /prevencion-de-caries-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Prevención de caries en Sant Boi de Llobregat"
-metaDescription: ""
+metaDescription: "Descubre cómo prevenir la caries en Sant Boi de Llobregat con consejos dietéticos y de higiene dental. Aprende a evitar los azúcares y a mantener una correcta higiene bucal para proteger tus dientes y los de tus hijos de esta enfermedad destructiva."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2019-07-24T10:29:36+00:00

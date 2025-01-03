@@ -3,8 +3,8 @@ subtitle: ""
 title: "Carillas dentales: información general"
 permalink: /carillas-dentales-informacion-general/
 descripcion: ""
-metaTitle: "Carillas dentales: información general"
-metaDescription: ""
+metaTitle: "Carillas dentales | Información general y usos "
+metaDescription: "Descubre todo sobre las carillas dentales, sus usos, materiales y beneficios. Aprende cómo pueden mejorar tu sonrisa y reforzar el esmalte dental. Consulta a nuestros especialistas en Sant Boi de Llobregat para obtener la mejor solución estética para tus dientes."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-09-17T04:23:26+00:00

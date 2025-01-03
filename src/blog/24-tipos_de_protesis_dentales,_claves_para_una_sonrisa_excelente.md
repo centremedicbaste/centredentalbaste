@@ -3,8 +3,8 @@ subtitle: ""
 title: "Tipos de protesis dentales, claves para una sonrisa excelente"
 permalink: /Tipos-de-protesis-dentales/
 descripcion: ""
-metaTitle: "Tipos de protesis dentales, claves para una sonrisa excelente"
-metaDescription: ""
+metaTitle: "Tipos de prótesis dentales | Claves para una sonrisa excelente | Sant Boi de Llobregat"
+metaDescription: "Descubre los diferentes tipos de prótesis dentales fijas y removibles en Sant Boi de Llobregat. Mejora tu estética y función bucal con tratamientos personalizados por expertos dentales. ¡Recupera tu confianza y luce una sonrisa perfecta!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-11-21T15:30:55+00:00

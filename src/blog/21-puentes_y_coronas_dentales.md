@@ -3,8 +3,8 @@ subtitle: ""
 title: "Puentes y coronas dentales"
 permalink: /puentes-coronas-dentales/
 descripcion: ""
-metaTitle: "Puentes y coronas dentales"
-metaDescription: ""
+metaTitle: "Puentes y coronas dentales | Mejora tu sonrisa y salud bucal"
+metaDescription: "Descubre cómo las coronas y puentes dentales pueden mejorar tu sonrisa y salud bucal. Aprende sobre sus beneficios, materiales y cuándo son recomendados por nuestros expertos dentistas en Centre Dental Basté. ¡Recupera la funcionalidad y estética de tus dientes hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2017-01-24T14:30:01+00:00
@@ -17,6 +17,7 @@ imageAlt:
 
 
 Las **coronas y los puentes dentales** son un tipo de prótesis que se coloca de manera fija, cementando directamente sobre los dientes o sobre cualquier otro implante que ya exista y que tan sólo un dentista autorizado puede encargarse de su extracción.
+
 **¿Qué son y cómo funcionan las coronas dentales?**
 -------
 

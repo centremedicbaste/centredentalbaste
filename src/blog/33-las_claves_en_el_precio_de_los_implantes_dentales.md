@@ -3,8 +3,8 @@ subtitle: ""
 title: "Las claves en el precio de los implantes dentales"
 permalink: /las-claves-en-el-precio-de-los-implantes-dentales/
 descripcion: ""
-metaTitle: "Las claves en el precio de los implantes dentales"
-metaDescription: ""
+metaTitle: "Implantes dentales | Factores que influyen en el precio | Sant Boi de Llobregat"
+metaDescription: "Descubre los factores que influyen en el precio de los implantes dentales en Sant Boi de Llobregat. Aprende sobre la calidad de los materiales, la pieza dental y cómo evitar ofertas engañosas. ¡Infórmate y toma la mejor decisión para tu salud dental!"
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2016-09-17T04:20:21+00:00
