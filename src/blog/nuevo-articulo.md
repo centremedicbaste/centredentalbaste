@@ -9,7 +9,7 @@ metaKeywords: "tratamientos dentales, ortodoncia invisible, carillas estéticas,
 metaRobots: "index, follow"
 date: 2023-10-10T09:00:23+00:00
 fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
+
 image: tratamientos-dentales-sant-boi.jpg
 imageAlt: "Tratamientos dentales en Sant Boi de Llobregat"
 

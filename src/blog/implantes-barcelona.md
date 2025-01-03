@@ -9,7 +9,7 @@ metaKeywords: "implantes dentales, calidad, confianza, Barcelona"
 metaRobots: "index, follow"
 date: 2023-10-10T09:00:23+00:00
 fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
+
 image: implantes-dentales-barcelona.jpg
 imageAlt: "Implantes dentales en Barcelona"
 
@@ -17,4 +17,6 @@ imageAlt: "Implantes dentales en Barcelona"
 
 En Centre Dental Basté, ofrecemos implantes dentales de alta calidad en Barcelona, diseñados para proporcionar una solución duradera y confiable para la pérdida de dientes. Nuestros implantes están hechos a medida para garantizar comodidad y funcionalidad.
 
-Para más información, visita nuestro artículo sobre [implantes dentales](https://centredentalbaste.com/puentes-coronas-dentales/implantes-barcelona/). 
+>¿Necesita más información?
+>info@centredentalbaste.com
+> T. 93 635 40 25

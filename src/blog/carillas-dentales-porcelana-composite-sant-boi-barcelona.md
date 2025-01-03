@@ -9,7 +9,7 @@ metaKeywords: "carillas dentales, porcelana, composite, Sant Boi de Llobregat, B
 metaRobots: "index, follow"
 date: 2023-10-10T09:00:23+00:00
 fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
+
 image: carillas-porcelana-composite-sant-boi.jpg
 imageAlt: "Carillas dentales de porcelana y composite en Sant Boi de Llobregat, Barcelona"
 
@@ -17,4 +17,6 @@ imageAlt: "Carillas dentales de porcelana y composite en Sant Boi de Llobregat, 
 
 Las carillas dentales de porcelana y composite son una excelente opción para quienes desean mejorar la estética de su sonrisa. En Centre Dental Basté, ofrecemos estas carillas en Sant Boi de Llobregat, Barcelona, diseñadas para proporcionar una apariencia natural y atractiva.
 
-Para más información, visita nuestro artículo sobre [carillas dentales de porcelana y composite](https://centredentalbaste.com/tratamientos/carillas-dentales/carillas-dentales-porcelana-composite-sant-boi-barcelona/). 
+>¿Necesita más información?
+>info@centredentalbaste.com
+> T. 93 635 40 25

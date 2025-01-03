@@ -9,7 +9,7 @@ metaKeywords: "Invisalign, Barcelona, asequible"
 metaRobots: "index, follow"
 date: 2023-10-10T09:00:23+00:00
 fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
+
 image: invisalign-barcelona-barato.jpg
 imageAlt: "Invisalign en Barcelona a precios asequibles"
 
@@ -17,4 +17,6 @@ imageAlt: "Invisalign en Barcelona a precios asequibles"
 
 En Centre Dental Basté, ofrecemos Invisalign en Barcelona a precios asequibles, asegurando que puedas disfrutar de un tratamiento de calidad sin comprometer tu presupuesto. Nuestros alineadores invisibles están diseñados para ofrecer comodidad y resultados efectivos.
 
-Para más detalles, visita nuestro artículo sobre [Invisalign en Barcelona](https://centredentalbaste.com/existen-muchos-tipos-brackets-los-brackets-invisibles/invisalign-barcelona-barato/). 
+>¿Necesita más información?
+>info@centredentalbaste.com
+> T. 93 635 40 25
