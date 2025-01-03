@@ -49,7 +49,7 @@ Nuestro objetivo es ayudarte a que te sientas cómodo/a con tu boca, para conseg
 
 Con nuestro servicio de blanqueamiento dental nos encargaremos de la eliminación de cualquier tipo de mancha que puedas presentar en el esmalte de los dientes, para conseguir el color del tono natural de los mismos. Se trata de un procedimiento muy simple que se usa con técnicas no invasivas e indoloras: la última tecnología en luz fría LED al servicio de la estética dental en Sant Boi de Llobregat. De esta manera, es la solución para cualquier tipo de cliente.
 
-[Más información sobre blanqueamiento dental](#)
+[Más información sobre blanqueamiento dental](https://centredentalbaste.com/tratamientos/blanqueamiento-dental/)
 
 ## Tratamiento de encías
 
@@ -57,7 +57,7 @@ Nuestro equipo profesional se encargará de revisar tus encías para determinar 
 
 Algunos pacientes nos preguntan por la estética de sus encías. Problemas de periodontitis o gingivitis a parte, hay pacientes a quienes les preocupan las irregularidades o imperfecciones de sus encías, que hacen, por ejemplo, que los dientes se vean más cortos o asimétricos. En Centre Dental Basté disponemos de las técnicas de corrección gingival para solucionarlo, son tratamientos indoloros de estética dental en Sant Boi de Llobregat.
 
-[Más información sobre tratamiento de encías](#)
+[Más información sobre tratamiento de encías](https://centredentalbaste.com/tratamientos/tratamiento-encias/)
 
 ## Carillas dentales
 
@@ -67,7 +67,7 @@ Nos especializamos en tratamientos de carillas de porcelana o de carillas compos
 
 Con las carillas dentales se consigue dar respuesta a las demandas, cada vez mayores, de diseño digital de una nueva sonrisa, en el campo de la estética dental en Sant Boi de Llobregat.
 
-[Más información sobre carillas dentales](#)
+[Más información sobre carillas dentales](https://centredentalbaste.com/tratamientos/carillas-dentales/)
 
 ## Fundas y coronas de zirconio
 

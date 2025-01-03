@@ -21,7 +21,6 @@ introtitle_subtitle: MANTÉN UNA SONRISA SALUDABLE CON NUESTROS SERVICIOS DE HIG
 hookfraseimagen: ahfdiouhfdsaioudfhssiudo
 ---
 
-___
 
 # La higiene dental
 

@@ -55,7 +55,7 @@ La Gingivitis es la inflamación de la encía que rodea el diente con aumento de
 
 La Periodontitis es una patología más compleja porque aquí si hay destrucción de los tejidos de soporte (aquí estriba la diferencia fundamental entre las dos) y además hay varios grados de gravedad y existen muchos factores coadyuvantes (bacterias, tabaco, hábitos de higiene, predisposición genética, herencia…).
 
-[Más información sobre periodontitis](#)
+[Más información sobre periodontitis](https://centredentalbaste.com/tratamientos/periodoncia/)
 
 ## ¿Qué tratamientos existen?
 
@@ -63,7 +63,7 @@ La Periodontitis es una patología más compleja porque aquí si hay destrucció
 
 Es el raspado de diente o curetaje dental es un tipo de técnica dental que se ejecuta como un tratamiento para combatir la enfermedad de la periodontitis.
 
-[Más información sobre raspado de diente o curetaje dental](#)
+[Más información sobre raspado de diente o curetaje dental](https://centredentalbaste.com/tratamientos/raspado-diente-curetaje-dental/)
 
 ### 2. Injerto de encía:
 
@@ -75,10 +75,10 @@ Se trata de una intervención quirúrgica con anestesia local utilizando técnic
 
 En los casos más avanzados con más pérdida ósea debemos manipular la encía, acceder debajo de la misma, y así descontaminar las raíces dentales donde se ha depositado, en forma de cálculos endurecidos, la flora bacteriana bucal.
 
-[Más información sobre microcirugía periodontal](#)
+[Más información sobre microcirugía periodontal](https://centredentalbaste.com/tratamientos/microcirugia-periodontal/)
 
 ### 4. Regeneración ósea periodontal:
 
 Se pueden aplicar técnicas de regeneración ósea para recuperar parte del hueso perdido.
 
-[Más información sobre regeneración ósea periodontal](#)
+[Más información sobre regeneración ósea periodontal](https://centredentalbaste.com/tratamientos/regeneracion-osea-periodontal/)

@@ -41,7 +41,6 @@ ___
 
 ## ¿Qué son los implantes dentales?
 
-![parallax background](#)
 
 Los implantes dentales son la solución más eficaz ante la pérdida de una o varias piezas dentales. Los implantes dentales por definición son raíces artificiales de titanio que pueden sustituir una, varias o incluso todas las piezas dentales.
 
@@ -55,19 +54,20 @@ El éxito de la oseointegración, depende en gran parte de una correcta realizac
 
 ### Implantes unitarios:
 
-![implantes dentales en Sant Boi de Llobregat](#)
+
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-unitario.jpg)
 
 Raíz artificial de titanio que sustituye las raíces naturales de los dientes. Se inserta en el hueso maxilar y, pasado el tiempo de osteointegración, se coloca la corona o prótesis, imitando nuestro diente perdido.
 
 ### Dentadura fija:
 
-![implantes dentales en Sant Boi de Llobregat](#)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.jpg)
 
 Dentadura completa fijada totalmente con 4, 6 u 8 implantes dentales. Con este sistema se evita la movilidad de las antiguas dentaduras postizas. Gran estética y naturalidad.
 
 ### Dentadura extraíble:
 
-![implantes dentales en Sant Boi de Llobregat](#)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales.jpg)
 
 Dentadura completa fijada con 2, 4 o 6 implantes dentales. Se puede extraer para su limpieza o reparación. Sistema sencillo y económico.
 
