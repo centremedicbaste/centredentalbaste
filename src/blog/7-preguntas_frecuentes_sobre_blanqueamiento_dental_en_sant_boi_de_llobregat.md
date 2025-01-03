@@ -7,8 +7,8 @@ metaTitle: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llob
 metaDescription: "Descubre las respuestas a las preguntas más frecuentes sobre el blanqueamiento dental en Sant Boi de Llobregat. Aprende cómo funciona, los tipos de blanqueadores y la duración del tratamiento para conseguir una sonrisa más blanca y brillante."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-03-21T15:08:04+00:00
-fecha: 2019-03-21T15:08:04+00:00
+date: 2022-03-21T15:08:04+00:00
+fecha: 2022-03-21T15:08:04+00:00
 tags: [post]
 image: 7-blanqueamiento-guia.jpg
 imageAlt: 

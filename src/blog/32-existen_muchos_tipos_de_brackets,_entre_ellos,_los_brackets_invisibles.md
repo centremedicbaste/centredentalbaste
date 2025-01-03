@@ -7,8 +7,8 @@ metaTitle: "Tipos de brackets | Brackets invisibles y más en Sant Boi de Llobre
 metaDescription: "Descubre los diferentes tipos de brackets, incluyendo los brackets invisibles, en Sant Boi de Llobregat. Aprende cómo funcionan y elige el mejor para ti. ¡Visítanos y consigue la sonrisa perfecta!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-10-10T15:13:46+00:00
-fecha: 2016-10-10T15:13:46+00:00
+date: 2021-10-10T15:13:46+00:00
+fecha: 2021-10-10T15:13:46+00:00
 tags: [post]
 image: 32-brackets-esteticos-sant-boi-llobregat-barcelona.jpg
 imageAlt: 

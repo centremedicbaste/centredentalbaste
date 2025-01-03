@@ -7,8 +7,8 @@ metaTitle: "SureSmile | Centre Dental Baste y la ortodoncia invisible"
 metaDescription: "Durante este mes de octubre ofrecemos un 10% de #descuento en todos nuestros tratamientos de #ortodoncia 🤩. ¡La primera visita es gratuíta!" 
 metaKeywords: "alineadores transparentes, ortodoncia invisible y SureSmile"
 metaRobots: "index, follow"
-date: 2019-05-31T09:00:23+00:00
-fecha: 2019-05-31T09:00:23+00:00
+date: 2022-05-31T09:00:23+00:00
+fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
 image: 6-dentista-urgencias-clinica.jpg
 imageAlt: 

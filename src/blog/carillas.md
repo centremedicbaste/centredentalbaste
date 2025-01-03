@@ -7,11 +7,10 @@ metaTitle: "Carillas Dentales en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Conoce las carillas dentales en Sant Boi de Llobregat, una solución estética para mejorar tu sonrisa."
 metaKeywords: "carillas dentales, Sant Boi de Llobregat, estética dental"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
 
-image: carillas-dentales-sant-boi.jpg
-imageAlt: "Carillas dentales en Sant Boi de Llobregat"
 
 ---
 

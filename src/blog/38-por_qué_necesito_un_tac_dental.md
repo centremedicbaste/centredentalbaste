@@ -7,8 +7,8 @@ metaDescription: "Descubre por qué necesitas un TAC dental en Sant Boi de Llobr
 metaTitle: "¿Por qué necesito un TAC dental? | Ventajas y aplicaciones"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-10-10T15:21:25+00:00
-fecha: 2016-10-10T15:21:25+00:00
+date: 2021-10-10T15:21:25+00:00
+fecha: 2021-10-10T15:21:25+00:00
 tags: [post]
 image: 38-tac-dental-barcelona.jpg
 imageAlt: 

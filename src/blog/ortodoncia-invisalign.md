@@ -7,11 +7,10 @@ metaTitle: "Ortodoncia Invisalign en Sant Boi de Llobregat | Centre Dental Bast�
 metaDescription: "Explora la ortodoncia Invisalign en Sant Boi de Llobregat, la opción invisible y cómoda para mejorar tu sonrisa."
 metaKeywords: "ortodoncia Invisalign, Sant Boi de Llobregat, alineadores invisibles"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
-image: ortodoncia-invisalign-sant-boi.jpg
-imageAlt: "Ortodoncia Invisalign en Sant Boi de Llobregat"
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
+
 
 ---
 

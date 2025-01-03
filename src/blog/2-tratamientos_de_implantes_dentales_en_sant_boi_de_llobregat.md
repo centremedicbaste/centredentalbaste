@@ -7,8 +7,8 @@ metaTitle: "Tratamientos de implantes dentales en Sant Boi de Llobregat"
 metaDescription: "Descubre los tratamientos de implantes dentales en Sant Boi de Llobregat con la última tecnología y técnicas avanzadas. En Centre Dental Basté ofrecemos soluciones para personas con poco hueso y cirugía maxilofacial para una sonrisa perfecta en un solo día."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-10-04T10:43:37+00:00
-fecha: 2019-10-04T10:43:37+00:00
+date: 2022-10-04T10:43:37+00:00
+fecha: 2022-10-04T10:43:37+00:00
 tags: [post]
 image: 2-implantes-dentales.jpg
 imageAlt: 

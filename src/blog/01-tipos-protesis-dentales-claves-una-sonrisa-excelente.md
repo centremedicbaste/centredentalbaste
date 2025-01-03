@@ -7,8 +7,8 @@ metaTitle: "Tipos de protesis dentales, claves para una sonrisa excelente | Cent
 metaDescription: "Descubre los diferentes tipos de prótesis dentales, fijas y removibles, y cómo pueden ayudarte a recuperar la estética y funcionalidad de tu sonrisa en Sant Boi de Llobregat. Aprende sobre sus ventajas, usos y cuidados para una sonrisa excelente."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-05-31T09:00:23+00:00
-fecha: 2019-05-31T09:00:23+00:00
+date: 2022-05-31T09:00:23+00:00
+fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
 image: 6-dentista-urgencias-clinica.jpg
 imageAlt: 

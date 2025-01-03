@@ -7,8 +7,8 @@ metaTitle: "Tipos de prótesis dentales | Claves para una sonrisa excelente | Sa
 metaDescription: "Descubre los diferentes tipos de prótesis dentales fijas y removibles en Sant Boi de Llobregat. Mejora tu estética y función bucal con tratamientos personalizados por expertos dentales. ¡Recupera tu confianza y luce una sonrisa perfecta!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-11-21T15:30:55+00:00
-fecha: 2016-11-21T15:30:55+00:00
+date: 2021-11-21T15:30:55+00:00
+fecha: 2021-11-21T15:30:55+00:00
 tags: [post]
 image: 24-tipos-ortodoncia-clinica-dental-sant-boi-llobregat.jpg
 imageAlt: 

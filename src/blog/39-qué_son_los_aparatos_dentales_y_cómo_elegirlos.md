@@ -7,8 +7,8 @@ metaTitle: "Qué son los aparatos dentales y cómo elegirlos"
 metaDescription: "Descubre los diferentes tipos de aparatos dentales, sus beneficios e inconvenientes, y cómo elegir el mejor para ti en función de tu edad, gravedad del caso, estética y presupuesto. Información detallada sobre brackets metálicos, estéticos, linguales e Invisalign."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-09-17T04:25:21+00:00
-fecha: 2016-09-17T04:25:21+00:00
+date: 2021-09-17T04:25:21+00:00
+fecha: 2021-09-17T04:25:21+00:00
 tags: [post]
 image: 32-ortodoncia.jpg
 imageAlt: 

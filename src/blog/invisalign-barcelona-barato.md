@@ -7,11 +7,10 @@ metaTitle: "Invisalign en Barcelona a Precios Asequibles | Centre Dental Basté"
 metaDescription: "Explora las opciones de Invisalign en Barcelona, combinando calidad y asequibilidad para tu tratamiento dental."
 metaKeywords: "Invisalign, Barcelona, asequible"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
 
-image: invisalign-barcelona-barato.jpg
-imageAlt: "Invisalign en Barcelona a precios asequibles"
 
 ---
 

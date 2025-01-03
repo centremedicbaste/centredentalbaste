@@ -7,11 +7,10 @@ metaTitle: "Carillas Dentales de Porcelana y Composite en Sant Boi de Llobregat 
 metaDescription: "Conoce las carillas dentales de porcelana y composite en Sant Boi de Llobregat, Barcelona, para una sonrisa perfecta."
 metaKeywords: "carillas dentales, porcelana, composite, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
 
-image: carillas-porcelana-composite-sant-boi.jpg
-imageAlt: "Carillas dentales de porcelana y composite en Sant Boi de Llobregat, Barcelona"
 
 ---
 

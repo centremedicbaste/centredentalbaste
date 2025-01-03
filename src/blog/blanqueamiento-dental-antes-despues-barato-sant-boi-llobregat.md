@@ -7,8 +7,8 @@ metaTitle: "Blanqueamiento Dental en Sant Boi de Llobregat | Centre Dental Bast�
 metaDescription: "Explora los resultados del blanqueamiento dental en Sant Boi de Llobregat, antes y después, para una sonrisa más brillante."
 metaKeywords: "blanqueamiento dental, antes y después, Sant Boi de Llobregat"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
 tags: [post]
 image: blanqueamiento-dental-sant-boi.jpg
 imageAlt: "Blanqueamiento dental en Sant Boi de Llobregat"

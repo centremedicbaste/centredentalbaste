@@ -7,9 +7,9 @@ metaTitle: "Tu clínica dental en Sant Boi de Llobregat"
 metaDescription: "Descubre Centre Dental Basté, tu clínica dental en Sant Boi de Llobregat. Ofrecemos tratamientos de estética dental, implantes, ortodoncia y más, con la última tecnología y un equipo de especialistas con amplia experiencia. ¡Visítanos y consigue la sonrisa que siempre has deseado!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2018-10-24T14:36:27+00:00
-fecha: 2018-10-24T14:36:27+00:00
-tags: [post]
+date: 2022-10-24T14:36:27+00:00
+fecha: 2022-10-24T14:36:27+00:00
+tags: [empty]
 image: 13-sant-boi-llobregat.jpg
 imageAlt: 
 

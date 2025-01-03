@@ -7,8 +7,8 @@ metaTitle: "Puentes y coronas dentales | Mejora tu sonrisa y salud bucal"
 metaDescription: "Descubre cómo las coronas y puentes dentales pueden mejorar tu sonrisa y salud bucal. Aprende sobre sus beneficios, materiales y cuándo son recomendados por nuestros expertos dentistas en Centre Dental Basté. ¡Recupera la funcionalidad y estética de tus dientes hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2017-01-24T14:30:01+00:00
-fecha: 2017-01-24T14:30:01+00:00
+date: 2021-01-24T14:30:01+00:00
+fecha: 2021-01-24T14:30:01+00:00
 tags: [post]
 image: puente-dental.jpg
 imageAlt: 

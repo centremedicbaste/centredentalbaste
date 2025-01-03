@@ -7,8 +7,8 @@ metaTitle: "Turismo dental en Barcelona | Tratamientos dentales y turismo en la 
 metaDescription: "Descubre el turismo dental en Barcelona y aprovecha tu visita para realizar tratamientos dentales de calidad mientras disfrutas de la oferta cultural y gastronómica de la ciudad. Clínicas avanzadas y profesionales cualificados te esperan."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-09-17T04:21:49+00:00
-fecha: 2016-09-17T04:21:49+00:00
+date: 2021-09-17T04:21:49+00:00
+fecha: 2021-09-17T04:21:49+00:00
 tags: [post]
 image: 42-turismo-dental-barcelona.jpg
 imageAlt: 

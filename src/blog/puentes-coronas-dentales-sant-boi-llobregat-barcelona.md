@@ -7,11 +7,10 @@ metaTitle: "Puentes y Coronas Dentales en Sant Boi de Llobregat | Centre Dental 
 metaDescription: "Descubre cómo los puentes y coronas dentales pueden mejorar tu salud bucal en Sant Boi de Llobregat, Barcelona."
 metaKeywords: "puentes dentales, coronas dentales, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
-image: puentes-coronas-dentales-sant-boi.jpg
-imageAlt: "Puentes y coronas dentales en Sant Boi de Llobregat"
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
+
 
 ---
 

@@ -7,8 +7,8 @@ metaTitle: "Ortodoncia en Sant Boi de Llobregat, diferentes opciones a escoger"
 metaDescription: "Descubre las opciones de ortodoncia en Sant Boi de Llobregat para corregir la malposición dental y mejorar tu sonrisa. En Centre Dental Basté ofrecemos tratamientos personalizados para todas las edades, asegurando una buena oclusión y salud bucal. ¡Visítanos y mejora tu autoestima!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-08-16T10
-fecha: 2019-08-16T10
+date: 2022-08-16T10
+fecha: 2022-08-16T10
 tags: [post]
 image: 3-ortodoncia-chicos.jpg
 imageAlt: 

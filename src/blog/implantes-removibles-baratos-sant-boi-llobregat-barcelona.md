@@ -7,11 +7,10 @@ metaTitle: "Implantes Removibles en Sant Boi de Llobregat | Centre Dental Basté
 metaDescription: "Conoce las opciones asequibles de implantes removibles en Sant Boi de Llobregat, Barcelona, para una sonrisa renovada."
 metaKeywords: "implantes removibles, asequibles, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
 
-image: implantes-removibles-sant-boi.jpg
-imageAlt: "Implantes removibles en Sant Boi de Llobregat, Barcelona"
 
 ---
 

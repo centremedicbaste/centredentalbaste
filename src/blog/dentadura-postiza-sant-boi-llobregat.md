@@ -7,11 +7,10 @@ metaTitle: "Dentadura Postiza en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Conoce las soluciones de dentadura postiza fija en Sant Boi de Llobregat, diseñadas para mejorar tu calidad de vida."
 metaKeywords: "dentadura postiza, fija, Sant Boi de Llobregat"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
 
-image: dentadura-postiza-sant-boi.jpg
-imageAlt: "Dentadura postiza en Sant Boi de Llobregat"
 
 ---
 

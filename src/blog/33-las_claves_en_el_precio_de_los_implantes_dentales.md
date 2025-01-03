@@ -7,8 +7,8 @@ metaTitle: "Implantes dentales | Factores que influyen en el precio | Sant Boi d
 metaDescription: "Descubre los factores que influyen en el precio de los implantes dentales en Sant Boi de Llobregat. Aprende sobre la calidad de los materiales, la pieza dental y cómo evitar ofertas engañosas. ¡Infórmate y toma la mejor decisión para tu salud dental!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-09-17T04:20:21+00:00
-fecha: 2016-09-17T04:20:21+00:00
+date: 2021-09-17T04:20:21+00:00
+fecha: 2021-09-17T04:20:21+00:00
 tags: [post]
 image: 33-precio-implantes-dentales-en-barcelona-sant-boi-de-llobregat.jpg
 imageAlt: 

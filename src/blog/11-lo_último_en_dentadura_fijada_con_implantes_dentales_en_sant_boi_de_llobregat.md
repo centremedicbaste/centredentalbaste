@@ -8,8 +8,8 @@ metaTitle: "Lo último en dentadura fijada con implantes dentales en Sant Boi de
 metaDescription: "Descubre las últimas soluciones en dentadura fijada con implantes dentales en Sant Boi de Llobregat. Mejora tu calidad de vida con tratamientos avanzados y personalizados en Centre Dental Basté. ¡Recupera tu sonrisa y confianza hoy mismo!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-02-19T16:11:03+00:00
-fecha: 2019-02-19T16:11:03+00:00
+date: 2022-02-19T16:11:03+00:00
+fecha: 2022-02-19T16:11:03+00:00
 tags: [post]
 image: 23-dentadura-postiza-sant-boi-llobregat.jpg
 imageAlt: 

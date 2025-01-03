@@ -1,9 +1,0 @@
-{
-  "name": "https://centredentalbaste.com",
-  "short_name": "",
-  "icons": [
-  { "src": "assets/static/favicons/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }  ],
-  "theme_color": "#957059",
-  "background_color": "#f3f2f0",
-  "display": "standalone"
-}

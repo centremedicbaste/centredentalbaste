@@ -7,8 +7,8 @@ metaTitle: "Sedación consciente en Sant Boi de Llobregat"
 metaDescription: "Descubre la sedación consciente en Sant Boi de Llobregat en Centre Dental Basté. Elimina la ansiedad y el miedo al dentista con esta técnica de relajación supervisada por médicos anestesistas. Ideal para tratamientos largos y pacientes con fobia dental."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-01-17T16:20:15+00:00
-fecha: 2019-01-17T16:20:15+00:00
+date: 2022-01-17T16:20:15+00:00
+fecha: 2022-01-17T16:20:15+00:00
 tags: [post, ortodoncia, salud, estética]
 image: 10-sedacion-sant-boi-de-llobregat-2.jpg
 imageAlt: 

@@ -7,8 +7,8 @@ metaTitle: "Carillas dentales | Información general y usos "
 metaDescription: "Descubre todo sobre las carillas dentales, sus usos, materiales y beneficios. Aprende cómo pueden mejorar tu sonrisa y reforzar el esmalte dental. Consulta a nuestros especialistas en Sant Boi de Llobregat para obtener la mejor solución estética para tus dientes."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-09-17T04:23:26+00:00
-fecha: 2016-09-17T04:23:26+00:00
+date: 2021-09-17T04:23:26+00:00
+fecha: 2021-09-17T04:23:26+00:00
 tags: [post]
 image: carillas.jpg
 imageAlt: 

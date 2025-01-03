@@ -7,8 +7,8 @@ metaTitle: "¿Para qué sirve la prótesis dental removible?"
 metaDescription: "Descubre las ventajas de la prótesis dental removible en Sant Boi de Llobregat | Mejora tu estética y funcionalidad dental con soluciones cómodas y asequibles | Información completa y consejos útiles para el cuidado de tu dentadura postiza"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2016-10-10T15:26:47+00:00
-fecha: 2016-10-10T15:26:47+00:00
+date: 2021-10-10T15:26:47+00:00
+fecha: 2021-10-10T15:26:47+00:00
 tags: [post]
 image: 30-implantes-removibles-baratos-sant-boi-llobregat-barcelona.jpg
 imageAlt: 

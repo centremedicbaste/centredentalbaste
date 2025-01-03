@@ -7,8 +7,8 @@ metaTitle: "Sedación consciente | tratamiento para reducir el miedo y la ansied
 metaDescription: "Descubre cómo la sedación consciente en nuestra clínica odontológica puede ayudarte a reducir el miedo y la ansiedad durante los tratamientos dentales, asegurando una experiencia cómoda y sin dolor. Ideal para adultos y niños, incluso con discapacidades."
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2017-01-24T14:45:41+00:00
-fecha: 2017-01-24T14:45:41+00:00
+date: 2021-01-24T14:45:41+00:00
+fecha: 2021-01-24T14:45:41+00:00
 tags: [post]
 image: 20-sedacion-consciente-dentista-sant-boi-llobregat-barcelona.jpg
 imageAlt: 

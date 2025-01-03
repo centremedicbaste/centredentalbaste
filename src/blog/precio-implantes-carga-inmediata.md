@@ -7,11 +7,10 @@ metaTitle: "Implantes de Carga Inmediata en Sant Boi de Llobregat | Centre Denta
 metaDescription: "Explora los precios y beneficios de los implantes de carga inmediata en Sant Boi de Llobregat para una sonrisa renovada."
 metaKeywords: "implantes de carga inmediata, precios, Sant Boi de Llobregat"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
-image: implantes-carga-inmediata-sant-boi.jpg
-imageAlt: "Implantes de carga inmediata en Sant Boi de Llobregat"
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
+
 
 ---
 

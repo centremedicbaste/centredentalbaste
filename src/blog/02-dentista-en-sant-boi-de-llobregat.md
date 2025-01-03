@@ -7,8 +7,8 @@ metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Baste"
 metaDescription: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes." 
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2019-05-31T09:00:23+00:00
-fecha: 2019-05-31T09:00:23+00:00
+date: 2022-05-31T09:00:23+00:00
+fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
 image: 6-dentista-urgencias-clinica.jpg
 imageAlt: 

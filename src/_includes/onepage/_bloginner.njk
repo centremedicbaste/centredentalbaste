@@ -81,9 +81,13 @@ layout: baseblog.njk
     {% if next %}
     <div class="col-xs-6">
       <a href="{{ next.url }} ">
+        {% if next.data.image %}
         <div class="ar-16-9 border-24 p-relative o-hidden mb-24">
+ 
           <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ next.data.image }}" alt="">
+      
         </div>
+        {% endif %}
         <div class="p5-m">{{ next.data.title }}</div>
       </a>
     </div>
@@ -91,9 +95,11 @@ layout: baseblog.njk
     {% if previous %}
     <div class="col-xs-6">
       <a href="{{ previous.url }}">
+        {% if previous.data.image %}
         <div class="ar-16-9 border-24 p-relative o-hidden mb-24">
           <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ previous.data.image }}" alt="">
         </div>
+        {% endif %}
         <div class="p5-m">{{ previous.data.title }}</div>
       </a>
     </div>

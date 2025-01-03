@@ -7,11 +7,10 @@ metaTitle: "Ortodoncia Estética de Zafiro en Sant Boi de Llobregat | Centre Den
 metaDescription: "Descubre la ortodoncia estética de zafiro en Sant Boi de Llobregat, combinando belleza y funcionalidad para tu sonrisa."
 metaKeywords: "ortodoncia estética, zafiro, Sant Boi de Llobregat"
 metaRobots: "index, follow"
-date: 2023-10-10T09:00:23+00:00
-fecha: 2023-10-10T09:00:23+00:00
-tags: [post]
-image: ortodoncia-estetica-zafiro-sant-boi.jpg
-imageAlt: "Ortodoncia estética de zafiro en Sant Boi de Llobregat"
+date: 2020-10-10T09:00:23+00:00
+fecha: 2020-10-10T09:00:23+00:00
+tags: [empty]
+
 
 ---
 

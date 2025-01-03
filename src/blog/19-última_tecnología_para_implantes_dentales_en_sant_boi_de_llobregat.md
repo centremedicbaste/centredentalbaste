@@ -7,8 +7,8 @@ metaTitle: "Última tecnología para implantes dentales en Sant Boi de Llobregat
 metaDescription: "Descubre la última tecnología en implantes dentales en Sant Boi de Llobregat en Centre Dental Basté. Ofrecemos soluciones avanzadas como cirugía maxilofacial y técnica de carga inmediata para una boca completa en un día. ¡Recupera tu sonrisa con nuestros tratamientos precisos y personalizados!"
 metaKeywords: ""
 metaRobots: "index, follow"
-date: 2017-11-16T15:14:32+00:00
-fecha: 2017-11-16T15:14:32+00:00
+date: 2021-11-16T15:14:32+00:00
+fecha: 2021-11-16T15:14:32+00:00
 tags: [post]
 image: dentadura-fijada-implantes-dentales.jpg
 imageAlt: 

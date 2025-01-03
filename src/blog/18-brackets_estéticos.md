@@ -7,8 +7,8 @@ metaTitle: "Brackets estéticos | corrige tu sonrisa discretamente"
 metaDescription: "Conoce los diferentes tipos de brackets estéticos (plástico, cerámica y zafiro), sus ventajas, y cómo elegir la mejor opción para alinear tu sonrisa sin sacrificar la estética."
 metaKeywords: "Brackets estéticos, ortodoncia, zafiro, cerámica, plástico, corrección dental, estética dental, tipos de brackets"
 metaRobots: "index, follow"
-date: 2017-01-24T15:01:58+00:00
-fecha: 2017-01-24T15:01:58+00:00
+date: 2021-01-24T15:01:58+00:00
+fecha: 2021-01-24T15:01:58+00:00
 tags: [post]
 image: 18-ortodoncia-invisible-barcelona-sant-boi-llobregat.jpg
 imageAlt: 
