@@ -36,8 +36,6 @@ banner_button: banner_button
 
 ---
 
-___
-
 # Prótesis Dentales
 
 Cuando no es posible la colocación de implantes, si tienes dientes y piezas dentales en mal estado y deseas mejorar la estética de tu sonrisa y prevenir problemas bucodentales, contamos con las últimas técnicas y los mejores materiales en prótesis dentales.
@@ -74,4 +72,4 @@ Las prótesis combinadas son una solución híbrida que utiliza tanto elementos 
 
 Si estás considerando la opción de prótesis dentales, nuestro equipo de profesionales está aquí para asesorarte y ofrecerte el mejor tratamiento personalizado.
 
-[Contacta con nosotros para más información](#)
+[Contacta con nosotros para más información](https://centredentalbaste.com/contacto/)

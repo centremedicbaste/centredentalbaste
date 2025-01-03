@@ -75,11 +75,13 @@
       width="0" style="display:none;visibility:hidden"></iframe></noscript>
   {% endif %}
   {% include 'components/header.njk' %}
+
   <div data-scroll-container>
     {{ content | safe }}
     {% include 'onepage/footer_2.njk' %}
   </div>
-  <!-- Scripts -->
+
+  
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
 
