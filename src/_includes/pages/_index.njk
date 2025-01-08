@@ -2,49 +2,20 @@
 layout: layout/base.njk
 colorHeader: has-light-menu
 ---
-
-
-
 {% set noheroimage = [] %}
 {% import "macros/_insert.njk" as insert %}
 {% import "macros/_insert.njk" as insert %}
 
 
-
-
-<div class="main-article">
-  {% include 'onepage/introCta_2.njk' %}
-
-
+  {% include "onepage/introCta_2.njk" %}
   {% include "templates/minititle.njk" %}
 
   {% include "templates/servicios_2.njk" %}
-
-
-{% include "templates/content_img.njk" %}
-
-
+  {% include "templates/content_img.njk" %}
   {% include "templates/content_4.njk" %}
-  
-
   {% include "templates/content_6.njk" %}
-
-
   {% include "templates/content_4_r.njk" %}
-
-
-
-
   {# {% include "templates/contacta_1.njk" %} #}
-
-
   {% include "onepage/contacta_4.njk" %}
   {% include "onepage/contacta_5.njk" %}
-
   {% include "templates/footer_3.njk" %}
-
-
-
-</div>
-
-
