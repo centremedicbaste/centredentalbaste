@@ -16,7 +16,7 @@ La **implantología dental** es la disciplina de la odontología que estudia los
 
 La **implantología dental en Sant Boi de Llobregat** utiliza opciones variadas en tipos, tamaños, superficies y materiales para el implante dental, sobre los cuales se colocan las prótesis dentales.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantologia-dental.jpg)
+![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/5-implantologia-dental-5.jpg)
 
 La implantología dental en Sant Boi de Llobregat se basa en los conceptos de **Per-Ingvar Brånemark** y en los **implantes dentales de titanio** desde 1981, revolucionando los principios biológicos de integración tisular. Actualmente, los implantes dentales oseointegrados son una opción para reemplazar dientes perdidos, dejando atrás prótesis removibles y fijas plurales.
 

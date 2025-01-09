@@ -51,7 +51,7 @@ Se basa en un concepto innovador que permite ofrecer un gran número de ventajas
 
 El mismo día de la intervención, se coloca una prótesis fija sobre los implantes, que ofrece óptimas prestaciones estéticas y funcionales de manera inmediata.
 
-Los [implantes cigomáticos](http://www.coem.org.es/sites/default/files/revista/cientifica/vol5-n1/73-84.pdf) son una solución que aporta seguridad, confort y estética. Así pues, devuelven a los pacientes una **calidad de vida** de la que hacía años que no disfrutaban y que creían no poder recuperar.
+Los [implantes cigomáticos](http://www.scielo.org.co/pdf/ceso/v29n2/v29n2a06.pdf) son una solución que aporta seguridad, confort y estética. Así pues, devuelven a los pacientes una **calidad de vida** de la que hacía años que no disfrutaban y que creían no poder recuperar.
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cigomaticos.jpg)
 
@@ -61,7 +61,7 @@ Los [implantes cigomáticos](http://www.coem.org.es/sites/default/files/revista/
 
 La principal ventaja del implante corto es precisamente evitar el injerto de hueso, una opción eficaz pero más invasiva para el paciente. Los **implantes dentales en Sant Boi de Llobregat:** de 6-8mm. permiten devolver piezas definitivas de manera sencilla y rápida a pacientes con una pérdida severa de hueso que hacía inviable, en una determinada zona, la utilización de implantes de 12 mm.
 
-Otra ventaja respecto a las técnicas injertivas es el **postoperatorio**, prácticamente inexistente – incluso menor que en un implante normal – al tratarse de una pieza muy pequeña y por tanto es una [**técnica mínimamente invasiva**](http://www.connectyoursmile.com/fundamentos-en-odontologia-minimamente-invasiva/?lang=es).
+Otra ventaja respecto a las técnicas injertivas es el **postoperatorio**, prácticamente inexistente – incluso menor que en un implante normal – al tratarse de una pieza muy pequeña y por tanto es una [**técnica mínimamente invasiva**].
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cortos.jpg)
 
