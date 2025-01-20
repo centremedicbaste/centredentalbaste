@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-**Los habitantes de Sant Boi del Llobregat tenéis a vuestro alcance a grandes profesionales de la salud dental**. Disponéis de una clínica dental especializada en [odontopediatria](http://centredentalbaste.com/tratamientos/odontopediatria/).
+**Los habitantes de Sant Boi del Llobregat tenéis a vuestro alcance a grandes profesionales de la salud dental**. Disponéis de una clínica dental especializada en [odontopediatria](http://centredentalbaste.com/tratamientos/odontologia-infantil-sant-boi-de-llobregat/).
 
 
 Es todo un arte. En esta etapa es recomendable realizarla, pues los huesos se encuentran en pleno crecimiento. **¿Por qué y cómo efectuarla?**
