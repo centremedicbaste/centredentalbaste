@@ -6,3 +6,15 @@ image = "ubuntu:24.04"
 [build.environment]
 NODE_VERSION = "22"
 
+[[redirects]]
+  from = "https://www.centredentalbaste.com/*"
+  to = "https://centredentalbaste.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.centredentalbaste.com/*"
+  to = "https://centredentalbaste.com/:splat"
+  status = 301
+  force = true
+
