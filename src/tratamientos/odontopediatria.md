@@ -3,7 +3,7 @@ layout: pages/_tratamiento.njk
 permalink: /tratamientos/odontologia-infantil-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
-seccion: Odontopediatria
+seccion: Odontopediatría
 
 metaTitle: Odontología Infantil en Sant Boi de Llobregat - Cuidado Dental para Niños
 metaDescription: Especialistas en odontología infantil en Sant Boi de Llobregat. Cuida la salud dental de los más pequeños.
@@ -11,7 +11,7 @@ metaKeywords: odontología infantil, Sant Boi de Llobregat, cuidado dental, niñ
 metaRobots: index, follow
 
 
-introCta_title: ODONTOPEDIATRIA
+introCta_title: ODONTOPEDIATRÍA
 introCta_image: /tratamientos/seccion-odontopediatria.jpg
 
 introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT

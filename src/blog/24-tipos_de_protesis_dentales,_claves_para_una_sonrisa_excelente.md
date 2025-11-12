@@ -1,6 +1,6 @@
 ---
 subtitle: ""
-title: "Tipos de protesis dentales, claves para una sonrisa excelente"
+title: "Tipos de prótesis dentales, claves para una sonrisa excelente"
 permalink: /Tipos-de-protesis-dentales/
 descripcion: ""
 metaTitle: "Tipos de prótesis dentales | Claves para una sonrisa excelente | Sant Boi de Llobregat"

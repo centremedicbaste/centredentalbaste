@@ -3,7 +3,7 @@ layout: pages/_tratamiento.njk
 permalink: /tratamientos/estetica-dental-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
-seccion: estetica-dental
+seccion: estética-dental
 
 metaTitle: Estética Dental en Sant Boi de Llobregat - Sonrisa Radiante
 metaDescription: Logra una sonrisa radiante con nuestros tratamientos de estética dental en Sant Boi de Llobregat. Blanqueamiento, carillas y más.
@@ -11,7 +11,7 @@ metaKeywords: estética dental, Sant Boi de Llobregat, blanqueamiento dental, ca
 metaRobots: index, follow
 
 
-introCta_title: ESTETICA DENTAL
+introCta_title: ESTÉTICA DENTAL
 introCta_image: /tratamientos/seccion-estetica_dental.jpg
 
 introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT

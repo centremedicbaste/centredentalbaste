@@ -3,7 +3,7 @@ layout: pages/_tratamiento.njk
 permalink: /tratamientos/protesis-implantes/
 tags: ["tratamientos"]
 
-seccion: protesis
+seccion: prótesis
 
 metaTitle: Prótesis Dentales en Sant Boi de Llobregat - Mejora tu Sonrisa
 metaDescription: Mejora la estética y función de tu boca con nuestras prótesis dentales en Sant Boi de Llobregat. Soluciones personalizadas para cada paciente.
