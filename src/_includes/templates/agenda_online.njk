@@ -1,0 +1,187 @@
+<!-- agenda_online.njk -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<style>
+  .caixa {
+    padding-bottom: 10px;
+    height: 500px;
+  }
+  .gris {
+    background: #fff;
+  }
+  #loader_cita {
+    position: absolute;
+    width: 40%;
+    left: 30%;
+    top: 20%;
+    height: 54px;
+    text-align: center;
+    background: #957059;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    transition: all 0.5s linear;
+    overflow: hidden;
+  }
+  #loader_cita p {
+    font-size: 22px;
+    margin: 0;
+  }
+  .text_reg a {
+    color: #957059 !important;
+  }
+</style>
+
+
+<div class="container-global mx-auto   " data-scroll-section>  
+
+  <div class="fluid-6-l mb-24 c-accent text-center pt-64">
+Agenda Online
+  </div>
+
+
+  <div id="citaOnline" class="col-md-12 caixa gris"
+    style="margin: 20px 0; position: relative; width: 100%; height: 500px; display: none;">
+    <div id="loader_cita"></div>
+    <div id="cita_online" style="pointer-events: none; width: 100%; margin: 10px 0 0 0;"></div>
+    <p class="text_reg" style="font-size: 14px; float: right; padding-right: 15px;">
+      En acceptar aquest formulari, accepta la nostra
+      <a href="https://centredentalbaste.com/legal/politica-de-privacidad" target="_blank"
+        rel="noopener noreferrer">Política de privacitat</a>
+    </p>
+  </div>
+</div>
+
+
+
+<script>
+  const CONFIG = {
+    APIKEY: "X3SNOO27VLYH95MOIUD2EI58LQH4OSWC",
+    RENDER_SERVICE: "https://secure.infomed.es/ClienteHTML/dhtml.render.php",
+    LOADER_STEPS: [
+      'Iniciant la Cita Online',
+      'Revisant l\'Agenda dels Doctors/es',
+      'Calculant hores disponibles',
+      'Organitzant calendari'
+    ]
+  };
+  // ===== ClienteAgendaOnline simplificat =====
+  class ClienteAgendaOnline {
+    static instance = null;
+    constructor(apiKey, target, options) {
+      if (ClienteAgendaOnline.instance) {
+        return ClienteAgendaOnline.instance;
+      }
+      this.apiKey = apiKey;
+      this.target = target;
+      this.options = options;
+      this.iframeId = 'CAOInst1_IFrame';
+      ClienteAgendaOnline.instance = this;
+      this.init();
+    }
+    init() {
+      this.createFrame();
+      this.createAndSubmitForm();
+    }
+    createFrame() {
+      const $target = $(this.target);
+      if (this.options.clearTargetContent) {
+        $target.empty();
+      }
+      $('<iframe>')
+        .attr({
+          id: this.iframeId,
+          name: this.iframeId,
+          class: 'AOFrame'
+        })
+        .css({
+          width: '100%',
+          height: '500px',
+          float: 'left',
+          border: 'none',
+          fontFamily: 'Brandon_R'
+        })
+        .appendTo($target);
+    }
+    createAndSubmitForm() {
+      const $form = $('<form method="post">')
+        .attr('action', CONFIG.RENDER_SERVICE)
+        .attr('target', this.iframeId);
+      // Afegir tots els camps
+      this.addFormField($form, 'apikey', this.apiKey);
+      Object.entries(this.options).forEach(([key, value]) => {
+        this.addFormField($form, key, value);
+      });
+      // Submit i eliminar
+      $form.appendTo('body').submit().remove();
+    }
+    addFormField($form, name, value) {
+      $('<input type="hidden">')
+        .attr({ name, id: name, value })
+        .appendTo($form);
+    }
+  }
+  // ===== Animació del loader simplificada =====
+  class LoaderAnimation {
+    constructor(steps, duration = 500) {
+      this.steps = steps;
+      this.duration = duration;
+      this.currentStep = 0;
+    }
+    start() {
+      this.animate();
+    }
+    animate() {
+      if (this.currentStep >= this.steps.length) {
+        this.finish();
+        return;
+      }
+      const html = this.generateHTML();
+      $('#loader_cita').html(html);
+      if (this.currentStep > 0) {
+        const marginTop = -42 * this.currentStep;
+        $(`#cita_loader_0`).animate({ marginTop: `${marginTop}px` }, this.duration);
+      }
+      this.currentStep++;
+      setTimeout(() => this.animate(), this.duration);
+    }
+    generateHTML() {
+      return this.steps.map((text, index) => {
+        const isActive = index === this.currentStep;
+        const isComplete = index < this.currentStep;
+        const icon = isActive ? 'fa-cog fa-spin' : 'fa-check-circle';
+        const marginTop = index === 0 && this.currentStep > 0 ? `margin-top: -${42 * this.currentStep}px;` : '';
+        if (index > this.currentStep) return '';
+        return `<p id="cita_loader_${index}" style="${marginTop}">
+                    <i class="fa ${icon}"></i> ${text}
+                </p>`;
+      }).join('');
+    }
+    finish() {
+      $('#loader_cita').fadeOut(500);
+      $('#cita_online').css('pointerEvents', 'all');
+    }
+  }
+  // ===== Inicialització =====
+  function iniciarAgendaOnline() {
+    new ClienteAgendaOnline(CONFIG.APIKEY, '#cita_online', {
+      clearTargetContent: true
+    });
+    const loader = new LoaderAnimation(CONFIG.LOADER_STEPS);
+    loader.start();
+    $('#citaOnline').show();
+  }
+  // ===== Funció per imprimir (simplificada) =====
+  function imprimirSeleccio(elementId) {
+    const contingut = document.getElementById(elementId).innerHTML;
+    const finestra = window.open('', 'popimpr');
+    finestra.document.write(contingut);
+    finestra.document.close();
+    finestra.print();
+    finestra.close();
+  }
+  // ===== Document ready =====
+  $(document).ready(() => {
+    setTimeout(iniciarAgendaOnline, 500);
+  });
+</script>
