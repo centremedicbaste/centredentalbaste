@@ -1,6 +1,6 @@
 [build]
-command = "npm run build"       
-publish = "public"              
+command = "npm run build"
+publish = "public"
 
 [build.environment]
 NODE_VERSION = "22"
@@ -40,17 +40,6 @@ compress = true
   to = "https://centredentalbaste.com/:splat"
   status = 301
   force = true
-
-# Redirecciones específicas de URLs antiguas
-[[redirects]]
-  from = "/invisalign-sant-boi-llobregat-barcelona/"
-  to = "/tratamientos/ortodoncia-dental-2/"
-  status = 301
-
-[[redirects]]
-  from = "/ortodoncia-dental/"
-  to = "/tratamientos/ortodoncia-dental-2/"
-  status = 301
 
 # Redirección del archivo de verificación de Google
 [[redirects]]
