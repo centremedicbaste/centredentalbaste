@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Implantología dental en Sant Boi de Llobregat"
-permalink: /Implantologia-dental-en-Sant-Boi-de-Llobregat/
+permalink: /implantologia-dental-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Implantología dental en Sant Boi de Llobregat"
 metaDescription: "Descubre la implantología dental en Sant Boi de Llobregat con técnicas avanzadas y mínimamente invasivas. En Centre Dental Basté ofrecemos soluciones personalizadas para reemplazar dientes perdidos, mejorando la estética y función masticatoria. ¡Visítanos y recupera tu sonrisa!"

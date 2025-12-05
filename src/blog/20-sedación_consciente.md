@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Sedación consciente"
-permalink: /Sedacion-consciente/
+permalink: /sedacion-consciente/
 descripcion: ""
 metaTitle: "Sedación consciente | tratamiento para reducir el miedo y la ansiedad en el dentista"
 metaDescription: "Descubre cómo la sedación consciente en nuestra clínica odontológica puede ayudarte a reducir el miedo y la ansiedad durante los tratamientos dentales, asegurando una experiencia cómoda y sin dolor. Ideal para adultos y niños, incluso con discapacidades."

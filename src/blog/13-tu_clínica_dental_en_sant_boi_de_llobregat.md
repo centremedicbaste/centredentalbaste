@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Tu clínica dental en Sant Boi de Llobregat"
-permalink: /Tu-clinica-dental-en-Sant-Boi-de-Llobregat/
+permalink: /tu-clinica-dental-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Tu clínica dental en Sant Boi de Llobregat"
 metaDescription: "Descubre Centre Dental Basté, tu clínica dental en Sant Boi de Llobregat. Ofrecemos tratamientos de estética dental, implantes, ortodoncia y más, con la última tecnología y un equipo de especialistas con amplia experiencia. ¡Visítanos y consigue la sonrisa que siempre has deseado!"

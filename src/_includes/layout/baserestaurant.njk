@@ -43,7 +43,7 @@
     </style>
 
     <link rel="stylesheet" href="/assets/css/style.css" />
-    <link rel="canonical" href="https://{{ global.url }}{{ page.url | url }}" />
+    <link rel="canonical" href="https://{{ global.url }}{{ (page.url | url) | lower }}" />
 
     <meta property="og:site_name" content="{{ global.empresa }}" />
     <meta property="og:image" content="https://{{ global.url }}/assets/static/favicons/logocheck_512x512.png" />

@@ -19,7 +19,7 @@
   <meta property="og:title" content="{{ metaTitle }}" />
   <meta property="og:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}" />
-  <meta property="og:url" content="{{ global_index.url }}{{ page.url | url }}" />
+  <meta property="og:url" content="{{ global_index.url }}{{ (page.url | url) | lower }}" />
   <meta property="og:image" content="{{ global_index.url }}/assets/static/images/clinica-1.jpg" />
   <meta name="twitter:card" content="{{ metaTitle }}" />
   <meta name="twitter:title" content="{{ metaTitle }}" />
@@ -52,7 +52,7 @@
 
   <link rel="stylesheet" href="/assets/css/style.css" />
   <!-- SEO y Open Graph -->
-  <link rel="canonical" href="{{ global_index.url }}{{ page.url | url }}" />
+  <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />
   <!-- Google Tag Manager -->
   {% if global_index.tag_manager %}
   <script>
