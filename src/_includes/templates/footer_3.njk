@@ -29,11 +29,21 @@
         </ul>
       </div>
       <div class="col-xs-12 col-md-2 mt-32 sm:mt-0">
+        <div class="fluid-10-m c-accent  mb-24">Páginas</div>
+        <ul class=" list-clear ">
+          {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
+          {% for page in sortedPages %}
+            {% if page.data.seccion and page.data.seccion != 'home' %}
+              <li>
+                <a href="{{ page.url }}"><span>{{ page.data.seccion }}</span></a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-xs-12 col-md-2 mt-32 sm:mt-0">
         <div class="fluid-10-m c-accent  mb-24">Redes Sociales</div>
         <ul class=" list-clear ">
-          <li>
-            <a href=" {{ tratamiento.url }}"><span>{{ tratamiento.data.seccion }}</span></a>
-          </li>
           <li>
             <a href="https://www.facebook.com/pages/Centre-Dental-Bast%C3%A9/215474381923133#!/pages/Centre-Dental-Bast%C3%A9/215474381923133"
               target="_blank" rel="noopener">
@@ -44,20 +54,6 @@
           </li>
           <li>
             <a href="https://www.instagram.com/centredentalbaste/" target="_blank" rel="noopener">Instagram</a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-xs-12 col-md-2 mt-32 sm:mt-0">
-        <div class="fluid-10-m c-accent  mb-24">Nuestros Centros</div>
-        <ul class=" list-clear ">
-          <li>
-            <a href="/agenda/">Agenda Online</a>
-          </li>
-          <li>
-            <a href="https://centremedicbaste.com" target="_blank" rel="noopener">Centre Mèdic Basté</a>
-          </li>
-          <li>
-            <a href="https://centredentalbaste.com" target="_blank" rel="noopener">Centre Dental Basté</a>
           </li>
         </ul>
       </div>
