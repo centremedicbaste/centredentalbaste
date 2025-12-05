@@ -4,7 +4,7 @@ title: "Dentista de urgencias en Sant Boi de Llobregat"
 permalink: /dentista-de-urgencias-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Dentista de urgencias en Sant Boi de Llobregat"
-metaDescription: "En Centre Dental Basté, nuestro dentista de urgencias en Sant Boi de Llobregat está disponible para atender sangrados, dolores severos y pérdidas dentales. Ofrecemos atención inmediata y personalizada para resolver cualquier emergencia dental y asegurar su bienestar bucal."
+metaDescription: "Dentista de urgencias en Sant Boi de Llobregat. Atendemos sangrados, dolores severos y pérdidas dentales. Atención inmediata en Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00

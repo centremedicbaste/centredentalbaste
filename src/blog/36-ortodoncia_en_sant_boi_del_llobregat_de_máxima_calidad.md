@@ -4,7 +4,7 @@ title: "Ortodoncia en Sant Boi del Llobregat de máxima calidad"
 permalink: /ortodoncia-en-sant-boi-del-llobregat-de-maxima-calidad/
 descripcion: ""
 metaTitle: "Ortodoncia en Sant Boi del Llobregat | Tratamientos de máxima calidad | Centro Dental Basté"
-metaDescription: "Descubre la ortodoncia de máxima calidad en Sant Boi del Llobregat con Centro Dental Basté. Ofrecemos tratamientos personalizados con brackets de zafiro, linguales y convencionales para una sonrisa perfecta. ¡Visítanos y mejora tu salud dental hoy mismo!"
+metaDescription: "Ortodoncia de máxima calidad en Sant Boi del Llobregat. Brackets de zafiro, linguales y convencionales. Tratamientos personalizados en Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2021-10-31

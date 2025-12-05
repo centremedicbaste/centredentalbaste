@@ -84,7 +84,7 @@ layout: baseblog.njk
         {% if next.data.image %}
         <div class="ar-16-9 border-24 p-relative o-hidden mb-24">
  
-          <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ next.data.image }}" alt="">
+          <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ next.data.image }}" alt="{{ next.data.imageAlt or next.data.title }}">
       
         </div>
         {% endif %}
@@ -97,7 +97,7 @@ layout: baseblog.njk
       <a href="{{ previous.url }}">
         {% if previous.data.image %}
         <div class="ar-16-9 border-24 p-relative o-hidden mb-24">
-          <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ previous.data.image }}" alt="">
+          <img class="video-cover" width="100%" src="/assets/static/images/blog/{{ previous.data.image }}" alt="{{ previous.data.imageAlt or previous.data.title }}">
         </div>
         {% endif %}
         <div class="p5-m">{{ previous.data.title }}</div>
