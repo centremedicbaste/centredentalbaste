@@ -7,7 +7,7 @@ seccion: Tratamientos
 orden: 4
 
 metaTitle: Tratamientos Dentales en Sant Boi - Centre Dental Basté
-metaDescription: Descubre la amplia gama de tratamientos dentales que ofrecemos en Centre Dental Basté en Sant Boi de Llobregat. Desde odontología general y estética dental hasta implantología avanzada y ortodoncia para todas las edades. Nuestro equipo de profesionales está comprometido con tu salud bucodental utilizando las técnicas más modernas y los mejores materiales.
+metaDescription: Tratamientos dentales en Sant Boi de Llobregat. Odontología, implantología, ortodoncia, estética dental y más. Equipo profesional con técnicas modernas.
 metaKeywords: tratamientos dentales, odontología, implantología, Sant Boi, Barcelona
 metaRobots: index, follow
 

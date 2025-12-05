@@ -36,7 +36,7 @@ banner_button: banner_button
 
 ---
 
-# Prótesis Dentales
+## Prótesis Dentales
 
 Cuando no es posible la colocación de implantes, si tienes dientes y piezas dentales en mal estado y deseas mejorar la estética de tu sonrisa y prevenir problemas bucodentales, contamos con las últimas técnicas y los mejores materiales en prótesis dentales.
 

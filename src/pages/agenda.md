@@ -5,9 +5,9 @@ tags: ["pages"]
 seccion: agenda
 orden: 3
 
-metaTitle: Nuestra Clínica Dental en Sant Boi - Centre Dental Basté
-metaDescription: Descubre nuestras instalaciones modernas y el equipo profesional de Centre Dental Basté en Sant Boi de Llobregat.
-metaKeywords: clínica dental, instalaciones modernas, equipo profesional, Sant Boi, Centre Dental Basté
+metaTitle: Agenda Online - Reserva tu Cita en Centre Dental Basté
+metaDescription: Reserva tu cita online en Centre Dental Basté. Consulta la disponibilidad de nuestros doctores y confirma tu visita en tiempo real desde cualquier dispositivo.
+metaKeywords: agenda online, reserva cita, cita dental, Sant Boi de Llobregat, Centre Dental Basté
 metaRobots: index, follow
 
 

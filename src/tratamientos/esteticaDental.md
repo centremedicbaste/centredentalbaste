@@ -39,7 +39,7 @@ banner_button: banner_button
 
 ___
 
-# Estética Dental en Sant Boi de Llobregat
+## Estética Dental en Sant Boi de Llobregat
 
 En estos últimos tiempos, debido a los avances de la tecnología, nos encontramos con diferentes soluciones que tienen como objetivo corregir ciertas imperfecciones de nuestro rostro, piel, así como aquellas relacionadas con el ámbito odontológico. En nuestro centro dental te ofrecemos un servicio integral de estética dental en Sant Boi de Llobregat, donde utilizamos la tecnología más actual del mercado con el objetivo de lograr los mejores resultados.
 

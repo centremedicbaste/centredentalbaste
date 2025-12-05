@@ -37,7 +37,7 @@ banner_button: banner_button
 
 
 
-# ENDODONCIA
+## ENDODONCIA
 
 ## ¿Qué es la endodoncia?
 

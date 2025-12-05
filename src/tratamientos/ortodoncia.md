@@ -39,7 +39,7 @@ banner_button: banner_button
 
 ___
 
-# ¿Qué es la ortodoncia?
+## ¿Qué es la ortodoncia?
 
 
 ![ortodoncia](/assets/static/images/ortodoncia.jpg)

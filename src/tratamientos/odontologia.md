@@ -22,7 +22,7 @@ hookfraseimagen: ahfdiouhfdsaioudfhssiudo
 ---
 
 
-# La higiene dental
+## La higiene dental
 
 La limpieza dental consiste en la eliminación de la placa bacteriana, depósitos de sarro, restos alimenticios y manchas que se acumulan sobre los dientes. El objetivo es evitar la aparición de caries y otros problemas en encías y huesos. Puede realizarse, según el caso, con instrumentos manuales o con ultrasonidos y otros instrumentos.
 

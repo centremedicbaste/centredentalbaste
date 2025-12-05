@@ -39,7 +39,7 @@ banner_button: banner_button
 
 ___
 
-# ¿En qué consiste la periodoncia?
+## ¿En qué consiste la periodoncia?
 
 La periodoncia nos ayuda a prevenir, diagnosticar y tratar las afecciones de las encías y soportes que rodean a nuestros dientes o a sus sustitutos, los implantes dentales.
 

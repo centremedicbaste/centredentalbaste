@@ -34,3 +34,125 @@ compress = true
   status = 301
   force = true
 
+# Redirecciones de URLs antiguas de tratamientos
+[[redirects]]
+  from = "/invisalign-sant-boi-llobregat-barcelona/"
+  to = "/tratamientos/ortodoncia-dental-2/"
+  status = 301
+
+[[redirects]]
+  from = "/ortodoncia-dental/"
+  to = "/tratamientos/ortodoncia-dental-2/"
+  status = 301
+
+# Redirecciones de URLs con mayúsculas a minúsculas
+[[redirects]]
+  from = "/Especialistas-en-endodoncia-en-Sant-Boi-de-Llobregat/"
+  to = "/especialistas-en-endodoncia-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Tratamientos-de-implantes-dentales-en-Sant-Boi-de-Llobregat/"
+  to = "/tratamientos-de-implantes-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Problemas-de-encias-en-Sant-Boi-de-Llobregat/"
+  to = "/problemas-de-encias-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Ortodoncia-en-Sant-Boi-de-Llobregat/"
+  to = "/ortodoncia-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Higiene-dental-en-Sant-Boi-de-Llobregat/"
+  to = "/higiene-dental-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Ortodoncia-invisible-en-Sant-Boi-de-Llobregat/"
+  to = "/ortodoncia-invisible-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Dentista-de-urgencias-en-Sant-Boi-de-Llobregat/"
+  to = "/dentista-de-urgencias-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/Odontologia-infantil-en-Sant-Boi-de-Llobregat/"
+  to = "/blog/odontologia-infantil-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Carillas-dentales-sin-rebajar-el-diente-en-Sant-Boi-de-Llobregat/"
+  to = "/carillas-dentales-sin-rebajar-el-diente-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Preguntas-frecuentes-sobre-blanqueamiento-dental-en-Sant-Boi-de-Llobregat/"
+  to = "/preguntas-frecuentes-sobre-blanqueamiento-dental-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-Sant-Boi-de-Llobregat/"
+  to = "/lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Urgencias-dentales-en-Sant-Boi-de-Llobregat/"
+  to = "/urgencias-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Sedacion-consciente-en-Sant-Boi-de-Llobregat/"
+  to = "/sedacion-consciente-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Tipos-de-protesis-dentales/"
+  to = "/tipos-de-protesis-dentales/"
+  status = 301
+
+[[redirects]]
+  from = "/Ultima-tecnologia-para-implantes-dentales-en-Sant-Boi-de-Llobregat/"
+  to = "/ultima-tecnologia-para-implantes-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/ortodoncia-en-Sant-Boi-del-Llobregat-de-maxima-calidad/"
+  to = "/ortodoncia-en-sant-boi-del-llobregat-de-maxima-calidad/"
+  status = 301
+
+[[redirects]]
+  from = "/Brackets-esteticos/"
+  to = "/brackets-esteticos/"
+  status = 301
+
+[[redirects]]
+  from = "/Dientes-amarillos/"
+  to = "/dientes-amarillos/"
+  status = 301
+
+[[redirects]]
+  from = "/Sedacion-consciente/"
+  to = "/sedacion-consciente/"
+  status = 301
+
+[[redirects]]
+  from = "/Implantologia-dental-en-Sant-Boi-de-Llobregat/"
+  to = "/implantologia-dental-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/Tu-clinica-dental-en-Sant-Boi-de-Llobregat/"
+  to = "/tu-clinica-dental-en-sant-boi-de-llobregat/"
+  status = 301
+
+[[redirects]]
+  from = "/tratamientos/odontologia-infantil-sant-boi-de-llobregat"
+  to = "/tratamientos/odontologia-infantil-sant-boi-de-llobregat/"
+  status = 301
+

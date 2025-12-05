@@ -6,7 +6,7 @@
 
     {% if introCta_image %}
 
-    <img data-scroll data-scroll-speed="-1" src="/assets/static/images/{{ introCta_image | default(" Variable no encontrada") }}" alt="">
+    <img data-scroll data-scroll-speed="-1" src="/assets/static/images/{{ introCta_image | default(" Variable no encontrada") }}" alt="{{ introCta_title | default('Centre Dental Basté') }}">
 
 
 <div class="header-overlay"></div>
@@ -19,9 +19,9 @@
       <div class="col-xs-12 text-center mb-40">
         <div class="vertical-wrap ">
           <div class="vertical-inner">
-            <h1 class="fluid-3-l c-white ">
+            <h2 class="fluid-3-l c-white ">
               {% call insert.splitenpalabras(introCta_title | default("Variable no encontrada")) %} {% endcall %}
-            </h1>
+            </h2>
           </div>
         </div>
       </div>

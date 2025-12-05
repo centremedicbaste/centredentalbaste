@@ -37,7 +37,7 @@ banner_button: banner_button
 ---
 ___
 
-# IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT
+## IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT
 
 ## ¿Qué son los implantes dentales?
 
