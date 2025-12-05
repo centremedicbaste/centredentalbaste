@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [post]
-image: blanqueamiento-dental-sant-boi.jpg
+image: blanqueamiento-dental-barcelona-1024x485.jpg
 imageAlt: "Blanqueamiento dental en Sant Boi de Llobregat"
 
 ---
