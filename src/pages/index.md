@@ -10,9 +10,9 @@ seccion: home
 orden: 1
 
 
-metaTitle: Bienvenidos a Centre Dental Basté - Sant Boi de Llobregat
-metaDescription: Centre Dental Basté ofrece tecnología avanzada y modernas instalaciones para tratamientos dentales de calidad en Sant Boi de Llobregat.
-metaKeywords: clínica dental, Sant Boi, tecnología dental, tratamientos dentales, Barcelona
+metaTitle: Dentista en Sant Boi de Llobregat - Centre Dental Basté | Clínica Dental
+metaDescription: Dentista en Sant Boi de Llobregat. Centre Dental Basté ofrece tratamientos dentales de calidad con tecnología avanzada. Más de 25 años de experiencia.
+metaKeywords: dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona
 metaRobots: index, follow
 
 
@@ -20,14 +20,14 @@ hero_btn: kkCONTACTA CON NOSOTROS
 
 
 
-introtitle_title: Centre Dental Basté
-introtitle_subtitle: En Centre Dental Basté disponemos de la última tecnología y las más modernas instalaciones para ofrecer a nuestros pacientes la mejor calidad en Sant Boi de Llobregat (Barcelona)
+introtitle_title: Dentista en Sant Boi de Llobregat
+introtitle_subtitle: En Centre Dental Basté, tu dentista en Sant Boi de Llobregat, disponemos de la última tecnología y las más modernas instalaciones para ofrecer a nuestros pacientes la mejor calidad dental en Barcelona.
 
 
 
 whytitle0_title: BIENVENIDOS A CENTRE DENTAL BASTÉ
-whytitle0_subtitle: DESCUBRE TU MEJOR SONRISA EN SANT BOI DE LLOBREGAT
-whytitle0_description: En Centre Dental Basté, nos enorgullece ofrecer tecnología avanzada y modernas instalaciones para tratamientos dentales de calidad. Nuestro equipo de profesionales está comprometido con tu salud bucodental, brindando un servicio personalizado y cercano. ¡Visítanos y transforma tu sonrisa hoy mismo!
+whytitle0_subtitle: TU DENTISTA EN SANT BOI DE LLOBREGAT
+whytitle0_description: En Centre Dental Basté, tu dentista en Sant Boi de Llobregat, nos enorgullece ofrecer tecnología avanzada y modernas instalaciones para tratamientos dentales de calidad. Nuestro equipo de dentistas profesionales está comprometido con tu salud bucodental, brindando un servicio personalizado y cercano. ¡Visítanos y transforma tu sonrisa hoy mismo!
 whytitle0_img: home-1.jpg
 
 content_6_image: home-2.jpg
@@ -53,8 +53,8 @@ whytitle6_description: 1ª Visita + Revisión + Presupuesto Totalmente Gratis.
 
 
 content_6_title: DENTISTA EN SANT BOI DE LLOBREGAT
-content_6_subtitle: EN PLENO CENTRO DE SANT BOI 
-content_6_description: Nuestra clínica dental ubicada en Sant Boi de Llobregat (Barcelona) le ofrece las últimas técnicas en tratamientos dentales para todo tipo de especialidades. Para ello, disponemos de un equipo de dentistas multidisciplinar que cubre todas las ramas y especialidades dentales, así como un staff de atención al cliente altamente cualificado y profesional. Ofrecer la mejor atención y satisfacción al paciente y garantizarle el mejor tratamiento odontológico y ético son las máximas que guían el día a día de los profesionales de nuestra clínica dental en Barcelona.
+content_6_subtitle: TU DENTISTA DE CONFIANZA EN EL CENTRO DE SANT BOI 
+content_6_description: Nuestro equipo de dentistas en Sant Boi de Llobregat le ofrece las últimas técnicas en tratamientos dentales para todo tipo de especialidades. Disponemos de un equipo de dentistas multidisciplinar que cubre todas las ramas y especialidades dentales - implantes, ortodoncia, estética dental, periodoncia y más. Nuestros dentistas en Sant Boi de Llobregat están altamente cualificados y comprometidos con ofrecer la mejor atención y satisfacción al paciente, garantizando el mejor tratamiento odontológico y ético.
 
 
 
@@ -64,7 +64,7 @@ content_6_description: Nuestra clínica dental ubicada en Sant Boi de Llobregat 
 
 introbenefits2_subtitle: kkOfrecemos servicios integrales
 introbenefits2_content: kkComo empresa de servicios inmobiliarios centrada en la administración de Comunidades de Propietarios y en la gestión de patrimonios inmobiliarios en régimen de alquiler orientamos nuestros esfuerzos a la conservación y optimización de los activos inmobiliarios de nuestros clientes. 
-introbenefits2_subcontent: kkEstamos orgullosos de poder ofrecer, desde la seguridad que nuestra historia inspira y nuestro presente garantiza, un excelente servicio que asegura nuestra mayor recompensa - la confianza y satisfacción de nuestros clientes.
+introbenefits2_subcontent: Estamos orgullosos de poder ofrecer, desde la seguridad que nuestra historia inspira y nuestro presente garantiza, un excelente servicio que asegura nuestra mayor recompensa - la confianza y satisfacción de nuestros clientes.
 
 
 

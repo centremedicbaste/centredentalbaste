@@ -3,20 +3,22 @@ subtitle: ""
 title: "Dentista en sant boi de llobregat"
 permalink: /dentista-en-sant-boi-de-llobregat/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
-metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Baste"
-metaDescription: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes." 
-metaKeywords: ""
+metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Basté | Clínica Dental"
+metaDescription: "Dentista en Sant Boi de Llobregat con más de 25 años de experiencia. Tratamientos dentales completos: implantes, ortodoncia, estética. Primera visita gratis." 
+metaKeywords: "dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona, dentista cerca de mí"
 metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00
 fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
 image: 6-dentista-urgencias-clinica.jpg
-imageAlt: 
+imageAlt: "Dentista en Sant Boi de Llobregat - Centre Dental Basté" 
 
 ---
 
 
-En **Centre Dental Basté** queremos brindarle nuestra gran **experiencia** al servicio de nuestros pacientes. Ofrecemos todos los tratamientos odontológicos para mejorar la salud dental de todo el conjunto familiar.
+# Dentista en Sant Boi de Llobregat
+
+En **Centre Dental Basté**, tu **dentista en Sant Boi de Llobregat**, queremos brindarle nuestra gran **experiencia** al servicio de nuestros pacientes. Ofrecemos todos los tratamientos odontológicos para mejorar la salud dental de todo el conjunto familiar.
 
 
 ## ¿Le preocupa su salud dental?  
@@ -31,7 +33,7 @@ El sarro, la caries, el sangrado de la encía, los dientes apiñados, la encía 
 
 ## Queremos ser su dentista en Sant Boi de Llobregat de confianza
 
-En **Centre Dental Basté de Sant Boi de Llobregat** contamos con una **experiencia profesional** de más de 17 años, con un objetivo primordial: ofrecer **el mejor tratamiento**.
+En **Centre Dental Basté de Sant Boi de Llobregat** contamos con una **experiencia profesional** de más de 25 años, con un objetivo primordial: ofrecer **el mejor tratamiento dental**.
 
 Cuando elige una clínica dental no sólo lo hace por un servicio concreto, sino porque estamos hablando de su **salud**. La boca no sólo aloja los dientes, sino que es protagonista en procesos vitales como la alimentación y el habla. Para vivir, comunicarnos y comer de forma adecuada, necesitamos tener nuestra boca en óptimas condiciones. Por ello, le ofrecemos la **tecnología más avanzada** y una **atención profesional** de nuestro equipo de dentistas e higienistas, que tratarán su caso de manera personalizada y única.
 ---
@@ -44,7 +46,7 @@ En [implantes dentales](https://centredentalbaste.com/tratamientos/implantes-den
 
 Garantizamos a nuestros pacientes, adultos y niños, excelentes resultados a un **precio** muy atractivo. Para que el precio no sea un problema, nuestro dentista en Sant Boi de Llobregat le informará sobre las facilidades de **financiación** que ofrecemos.
 
-La **Centre Dental Basté** lleva más de **17 años** trabajando para que sus pacientes tengan siempre **el mejor tratamiento**. Excelencia dental, tradición e innovación distinguen a nuestra clínica odontológica. Ubicada en la calle Riera Basté 18-20 de Sant Boi de Llobregat, nuestra clínica dental acumula experiencia, conocimiento y tecnología. Además, contamos con **excelentes especialistas** en sus respectivos campos.
+La **Centre Dental Basté** lleva más de **25 años** trabajando como **dentista en Sant Boi de Llobregat** para que sus pacientes tengan siempre **el mejor tratamiento dental**. Excelencia dental, tradición e innovación distinguen a nuestra clínica odontológica. Ubicada en la calle Riera Basté 18-20 de Sant Boi de Llobregat, nuestra clínica dental acumula experiencia, conocimiento y tecnología. Además, contamos con **excelentes especialistas** en sus respectivos campos.
 
 En nuestra **clínica dental en Sant Boi de Llobregat** cuidamos el detalle y el trabajo bien hecho. Buscamos la **perfección** como objetivo y para ello contamos con un equipo de profesionales en continua formación: nuestro **compromiso** con nuestros pacientes es máximo.
 

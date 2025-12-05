@@ -46,7 +46,7 @@ Seleccionamos los implantes según las necesidades del paciente, considerando fa
 
 El **titanio** es muy biocompatible y permite la **osteointegración**, donde el hueso cicatriza alrededor del implante, fijándolo.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantologia-dental-2.jpg)
+
 
 ### ¿Los implantes dentales duelen?
 
