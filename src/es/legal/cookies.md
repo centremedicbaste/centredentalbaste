@@ -50,6 +50,16 @@ Usted puede rechazar el tratamiento de los datos o la información rechazando el
 
 {{global_index.legal_nombre_titular}} informa a sus usuarios que (i) la captación de la información sobre el uso de este sitio web por nuestros usuarios a través de Google Analytics sólo la hace Google en su propio nombre (y no lo hace ni en nombre ni por cuenta de {{global_index.legal_nombre_titular}}), no teniendo {{global_index.legal_nombre_titular}} acceso en ningún momento a tal información (sino tan sólo a información agregada que le facilita posteriormente Google y que no está asociada a ninguna dirección IP); (ii) Google (y no {{global_index.legal_nombre_titular}}) es quien determina la finalidad del tratamiento y uso de la información captada por Google Analytics en todo momento, así como el funcionamiento y duración de las cookies; (iii) conforme a la información proporcionada por Google, el usuario puede evitar la captación de esa información, rechazando la instalación de cookies configurando su navegador para ello (en [Opt-out de Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=es) encontrará más información sobre cómo rechazar la instalación de cookies de Google Analytics); y (iv) deben saber que únicamente los países de la Unión Europea comparten -como regla general- estándares similares en materia de cookies y protección de datos de carácter personal.
 
+## Gestión del consentimiento de cookies
+
+Puede gestionar sus preferencias de cookies en cualquier momento a través del banner de cookies que aparece al acceder a nuestro sitio web. Las opciones disponibles son:
+
+- **Aceptar todas**: Consiente el uso de todas las cookies (técnicas, de análisis y de marketing).
+- **Rechazar**: Solo se instalarán las cookies técnicas necesarias para el funcionamiento del sitio.
+- **Configurar**: Puede elegir qué tipos de cookies desea aceptar o rechazar.
+
+El consentimiento se guarda durante 365 días. Transcurrido este período, se le solicitará nuevamente su consentimiento.
+
 ## Aceptación del uso de cookies
 
 Al utilizar esta web, el Usuario acepta expresamente el tratamiento de la información recabada en la forma y con los fines anteriormente mencionados. Y asimismo, reconoce conocer la posibilidad de rechazar el tratamiento de tales datos o información rechazando el uso de Cookies mediante la selección de la configuración apropiada a tal fin en su navegador. Si bien esta opción de bloqueo de Cookies en su navegador puede no permitirle el uso pleno de todas las funcionalidades del Website.

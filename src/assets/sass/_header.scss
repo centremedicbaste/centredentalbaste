@@ -70,6 +70,84 @@ $header-desktop: 200px;
   @media (min-width: $break-lg) {
     display: flex;
     align-items: center;
+    gap: 24px;
+  }
+  
+  li {
+    position: relative;
+  }
+  
+  a {
+    display: block;
+    padding: 8px 0;
+    transition: opacity 0.3s ease;
+    
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+// Submenu styles
+.menu-item-has-children {
+  position: relative;
+  
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 220px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    margin-top: 8px;
+    padding: 16px 0;
+    list-style: none;
+    border-radius: 4px;
+    
+    li {
+      margin: 0;
+    }
+    
+    a {
+      display: block;
+      padding: 10px 24px;
+      color: $c-secondary;
+      text-transform: capitalize;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background-color: #f5f5f5;
+        opacity: 1;
+        padding-left: 28px;
+      }
+    }
+  }
+  
+  &:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+.scrolled,
+.seccion-interior {
+  .menu-item-has-children {
+    .submenu {
+      background-color: #fff;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      
+      a {
+        color: $c-secondary;
+      }
+    }
   }
 }
 .scrolled,

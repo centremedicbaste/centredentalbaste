@@ -32,15 +32,15 @@ banner_button: banner_button
 
 ---
 
-## Invisalign en Sant Boi de Llobregat
+# Invisalign en Sant Boi de Llobregat
 
 Invisalign es un sistema de ortodoncia invisible que utiliza alineadores transparentes y removibles para corregir la posición de los dientes. Es una alternativa discreta y cómoda a los brackets tradicionales.
 
-### ¿Qué es Invisalign?
+## ¿Qué es Invisalign?
 
 Invisalign es un tratamiento de ortodoncia que utiliza una serie de alineadores transparentes personalizados para mover gradualmente los dientes a su posición correcta. Estos alineadores son prácticamente invisibles y se pueden retirar para comer y cepillarse los dientes.
 
-### Ventajas de Invisalign
+## Ventajas de Invisalign
 
 - **Discreto**: Los alineadores son transparentes y apenas se notan
 - **Removible**: Puedes quitártelos para comer, beber y cepillarte los dientes
@@ -48,7 +48,7 @@ Invisalign es un tratamiento de ortodoncia que utiliza una serie de alineadores 
 - **Higiénico**: Fácil de limpiar y mantener
 - **Eficaz**: Resultados comparables a los brackets tradicionales
 
-### ¿Cómo funciona el tratamiento?
+## ¿Cómo funciona el tratamiento?
 
 1. **Consulta inicial**: Evaluamos tu caso y determinamos si Invisalign es adecuado para ti
 2. **Plan de tratamiento**: Creamos un plan personalizado con tecnología 3D
@@ -56,9 +56,10 @@ Invisalign es un tratamiento de ortodoncia que utiliza una serie de alineadores 
 4. **Visitas de seguimiento**: Revisamos tu progreso periódicamente
 5. **Resultado final**: Una sonrisa perfecta y alineada
 
-### ¿Para quién es adecuado Invisalign?
+## ¿Para quién es adecuado Invisalign?
 
 Invisalign puede tratar una amplia variedad de problemas ortodónticos, incluyendo:
+
 - Dientes apiñados
 - Espacios entre dientes
 - Sobremordida
@@ -68,4 +69,3 @@ Invisalign puede tratar una amplia variedad de problemas ortodónticos, incluyen
 En Centre Dental Basté, nuestros especialistas en ortodoncia evaluarán tu caso para determinar si Invisalign es la mejor opción para ti.
 
 [Volver a Ortodoncia](/tratamientos/ortodoncia-dental-2/)
-

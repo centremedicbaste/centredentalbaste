@@ -41,6 +41,7 @@ $width-left: calc((1280px + (100vw - 1600px) / 2));
 @import "./componentes/_accordion.scss";
 @import "./componentes/_blog-home.scss";
 @import "./componentes/_video.scss";
+@import "./componentes/_cookie-banner.scss";
 @import "./_blog.scss";
 @media (min-width: $break-sm) {
   $c-primary: #847f76;

@@ -29,10 +29,23 @@
                 {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
                 {% for page in sortedPages %}
                     {% if page.data.seccion and page.data.seccion != 'home' %}
-                        <li>
+                        <li class="{% if page.data.seccion == 'Tratamientos' %}menu-item-has-children{% endif %}">
                             <a href="{{ page.url }}">
                                 <span>{{ page.data.seccion }}</span>
                             </a>
+                            {% if page.data.seccion == 'Tratamientos' %}
+                            <ul class="submenu">
+                                {% for tratamiento in collections.tratamientos %}
+                                    {% if tratamiento.data.seccion %}
+                                    <li>
+                                        <a href="{{ tratamiento.url }}">
+                                            <span>{{ tratamiento.data.seccion }}</span>
+                                        </a>
+                                    </li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                            {% endif %}
                         </li>
                     {% endif %}
                 {% endfor %}

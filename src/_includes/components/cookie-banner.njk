@@ -1,0 +1,68 @@
+<!-- cookie-banner.njk -->
+<div id="cookie-banner" class="cookie-banner" style="display: none;">
+  <div class="cookie-banner-content">
+    <div class="cookie-banner-text">
+      <p class="cookie-banner-title">Utilizamos cookies</p>
+      <p class="cookie-banner-description">
+        Este sitio web utiliza cookies propias y de terceros para mejorar la experiencia de navegación, 
+        analizar el uso del sitio y personalizar el contenido. Puede obtener más información en nuestra 
+        <a href="/legal/cookies/" target="_blank" class="cookie-link">Política de Cookies</a>.
+      </p>
+    </div>
+    <div class="cookie-banner-actions">
+      <button id="cookie-reject" class="btn-cookie btn-cookie-reject">Rechazar</button>
+      <button id="cookie-config" class="btn-cookie btn-cookie-config">Configurar</button>
+      <button id="cookie-accept" class="btn-cookie btn-cookie-accept">Aceptar todas</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal de configuración de cookies -->
+<div id="cookie-modal" class="cookie-modal" style="display: none;">
+  <div class="cookie-modal-content">
+    <div class="cookie-modal-header">
+      <h2>Configuración de Cookies</h2>
+      <button id="cookie-modal-close" class="cookie-modal-close">&times;</button>
+    </div>
+    <div class="cookie-modal-body">
+      <p>Puede activar o desactivar las cookies según sus preferencias. Para más información, consulte nuestra 
+        <a href="/legal/cookies/" target="_blank" class="cookie-link">Política de Cookies</a>.</p>
+      
+      <div class="cookie-category">
+        <div class="cookie-category-header">
+          <h3>Cookies Técnicas</h3>
+          <label class="cookie-switch">
+            <input type="checkbox" id="cookie-technical" checked disabled>
+            <span class="cookie-slider"></span>
+          </label>
+        </div>
+        <p class="cookie-category-desc">Necesarias para el funcionamiento del sitio web. No se pueden desactivar.</p>
+      </div>
+
+      <div class="cookie-category">
+        <div class="cookie-category-header">
+          <h3>Cookies de Análisis</h3>
+          <label class="cookie-switch">
+            <input type="checkbox" id="cookie-analytics">
+            <span class="cookie-slider"></span>
+          </label>
+        </div>
+        <p class="cookie-category-desc">Nos ayudan a entender cómo los visitantes interactúan con el sitio web.</p>
+      </div>
+
+      <div class="cookie-category">
+        <div class="cookie-category-header">
+          <h3>Cookies de Marketing</h3>
+          <label class="cookie-switch">
+            <input type="checkbox" id="cookie-marketing">
+            <span class="cookie-slider"></span>
+          </label>
+        </div>
+        <p class="cookie-category-desc">Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas.</p>
+      </div>
+    </div>
+    <div class="cookie-modal-footer">
+      <button id="cookie-save" class="btn-cookie btn-cookie-accept">Guardar preferencias</button>
+    </div>
+  </div>
+</div>
