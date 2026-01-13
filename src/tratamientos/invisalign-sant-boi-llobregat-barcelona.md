@@ -69,5 +69,3 @@ En Centre Dental Basté, nuestros especialistas en ortodoncia evaluarán tu caso
 
 [Volver a Ortodoncia](/tratamientos/ortodoncia-dental-2/)
 
-
-
