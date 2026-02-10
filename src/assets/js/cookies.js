@@ -170,22 +170,18 @@
       return;
     }
 
-    // Load analytics cookies if consented
-    if (consent.analytics) {
-      // Initialize Google Analytics or other analytics tools here
-      // Example: gtag('consent', 'update', { 'analytics_storage': 'granted' });
-    } else {
-      // Disable analytics
-      // Example: gtag('consent', 'update', { 'analytics_storage': 'denied' });
-    }
-
-    // Load marketing cookies if consented
-    if (consent.marketing) {
-      // Initialize marketing tools here
-      // Example: gtag('consent', 'update', { 'ad_storage': 'granted' });
-    } else {
-      // Disable marketing
-      // Example: gtag('consent', 'update', { 'ad_storage': 'denied' });
+    // Load analytics cookies if consented (Google Analytics gtag.js)
+    if (typeof gtag === 'function') {
+      if (consent.analytics) {
+        gtag('consent', 'update', { 'analytics_storage': 'granted' });
+      } else {
+        gtag('consent', 'update', { 'analytics_storage': 'denied' });
+      }
+      if (consent.marketing) {
+        gtag('consent', 'update', { 'ad_storage': 'granted' });
+      } else {
+        gtag('consent', 'update', { 'ad_storage': 'denied' });
+      }
     }
   }
 

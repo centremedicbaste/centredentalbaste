@@ -39,9 +39,7 @@ compress = true
   from = "https://www.centredentalbaste.com/*"
   to = "https://centredentalbaste.com/:splat"
   status = 301
-  force = true
-
-# Redirección del archivo de verificación de Google
+  force = true# Redirección del archivo de verificación de Google
 [[redirects]]
   from = "/google5f3d2fed92020926/"
   to = "/google5f3d2fed92020926.html"

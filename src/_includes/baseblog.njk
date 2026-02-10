@@ -70,6 +70,17 @@
     })(window, document, 'script', 'dataLayer', '{{ global_index.tag_manager }}');
   </script>
   {% endif %}
+  <!-- Google Analytics (gtag.js) -->
+  {% if global_index.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ global_index.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('consent', 'default', { 'analytics_storage': 'denied', 'ad_storage': 'denied' });
+    gtag('config', '{{ global_index.google_analytics }}');
+  </script>
+  {% endif %}
 
 </head>
 <body class="contain {{ colorHeader }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
