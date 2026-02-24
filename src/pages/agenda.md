@@ -11,7 +11,7 @@ metaKeywords: agenda online, reserva cita, cita dental, Sant Boi de Llobregat, C
 metaRobots: index, follow
 
 
-introCta_title: LA CLINICA
+introCta_title: Agenda tu propia cita
 introCta_description: introCta_description
 home_image: clinica-1.jpg
 introCta_image: clinica-1.jpg
