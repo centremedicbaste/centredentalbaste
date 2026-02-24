@@ -1,5 +1,15 @@
 $header-mobile: 100px;
 $header-desktop: 200px;
+// En páginas interiores el contenido debe empezar debajo del header fijo (60px móvil, 100px desktop)
+.seccion-interior {
+  .pt-64,
+  .ptr-64 {
+    padding-top: 80px;
+    @media (min-width: $break-sm) {
+      padding-top: 120px;
+    }
+  }
+}
 #menu-white {
   position: fixed;
   top: 0;
@@ -88,8 +98,8 @@ $header-desktop: 200px;
   }
 }
 
-// Submenu styles
-.menu-item-has-children {
+// Submenu styles (selector con #menu-fixed para ganar especificidad sobre #menu-fixed a)
+#menu-fixed .menu-item-has-children {
   position: relative;
   
   .submenu {
@@ -188,11 +198,15 @@ $header-desktop: 200px;
   z-index: 105;
   transform: translateX(100%);
   transition: all ease 0.3s;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 .link_cierre {
   position: absolute;
   top: 10px;
   right: 16px;
+  z-index: 1;
 }
 .menu-open {
   .menu-mobile-wrap {
@@ -201,4 +215,67 @@ $header-desktop: 200px;
   .menu-mobile-overlay {
     display: block;
   }
+}
+body.menu-open {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+// Menú móvil: toggle Tratamientos y Contacta al final (lista con scroll propio)
+.menu-mobile-list {
+  padding-top: 3rem;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.menu-mobile-item-has-children {
+  .menu-mobile-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+    background: none;
+    border: none;
+    font: inherit;
+    color: inherit;
+    letter-spacing: inherit;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  .menu-mobile-chevron {
+    flex-shrink: 0;
+    margin-left: 8px;
+    transition: transform 0.25s ease;
+  }
+  &.is-open .menu-mobile-chevron {
+    transform: rotate(180deg);
+  }
+}
+.menu-mobile-submenu {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  padding-left: 1rem;
+  margin-top: 0;
+  transition: max-height 0.3s ease, opacity 0.2s ease, margin 0.2s ease;
+}
+.menu-mobile-item-has-children.is-open .menu-mobile-submenu {
+  max-height: 80vh;
+  opacity: 1;
+  margin-top: 0.5rem;
+}
+.menu-mobile-submenu-item {
+  padding-bottom: 0.75rem;
+  a {
+    text-transform: capitalize;
+    font-size: 0.95em;
+    letter-spacing: 0.5px;
+  }
+}
+.menu-mobile-contacta {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
 }

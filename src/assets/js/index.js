@@ -10,13 +10,33 @@ document.body.onscroll = function () {
   }
 };
 
+var menuOpenScrollTop = 0;
 $(document).ready(function () {
   initvideo();
+  initMenuMobile();
   $("#menu-toggle, .menu-mobile-overlay, .link_cierre").click(function () {
-    $("body").toggleClass("menu-open");
-    console.log("menu-open");
+    var $body = $("body");
+    if ($body.hasClass("menu-open")) {
+      $body.removeClass("menu-open");
+      window.scrollTo(0, menuOpenScrollTop);
+    } else {
+      menuOpenScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      $body.addClass("menu-open");
+    }
   });
 });
+
+function initMenuMobile() {
+  $(document).on("click", "[data-menu-mobile-toggle]", function () {
+    var $btn = $(this);
+    var $li = $btn.closest(".menu-mobile-item-has-children");
+    var $sub = $li.find(".menu-mobile-submenu");
+    var wasOpen = $li.hasClass("is-open");
+    $li.toggleClass("is-open");
+    $btn.attr("aria-expanded", !wasOpen);
+    $sub.attr("aria-hidden", wasOpen);
+  });
+}
 function initvideo() {
   $(".action--play").click(function () {
     $(".video-wrap").addClass("video-wrap--show");
