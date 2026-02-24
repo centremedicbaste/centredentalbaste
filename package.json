@@ -13,7 +13,6 @@
     "debug": "DEBUG=* npx eleventy",
     "img-exporter": "node ./img-exporter.js"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Allchorne3/11ty-nunjucks.git"
@@ -28,37 +27,26 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^4.0.2",
-    "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-webc": "^0.11.2",
-    "@babel/core": "^7.24.5",
-    "@babel/preset-env": "^7.24.5",
-    "babel-loader": "^9.1.3",
     "eleventy-plugin-toc": "^1.1.5",
-    "puppeteer": "^22.9.0",
-    "webpack": "^5.91.0",
-    "webpack-cli": "^5.1.4"
+    "puppeteer": "^22.9.0"
   },
   "dependencies": {
-    "@studio-freight/lenis": "0.1.9",
     "boilerplate-modules": "^1.0.7",
     "decap-cms-app": "^3.1.10",
     "eleventy-plugin-embed-everything": "^1.18.2",
     "gsap": "3.11.0",
     "holygrailcss": "^3.0.3",
     "image-size": "^1.1.1",
-    "lenis": "^1.1.5",
-    "luxon": "^3.4.4",
     "locomotive-scroll": "^4.1.4",
+    "luxon": "^3.4.4",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.0.1",
     "markdown-it-highlightjs": "^4.1.0",
     "netlify-cms-media-library-cloudinary": "^1.3.10",
     "npm-run-all": "^4.1.5",
     "nunjucks": "^3.2.4",
-    "rellax": "^1.12.1",
     "sass": "^1.77.2",
-    "sharp": "^0.33.4",
-    "simple-parallax-js": "^6.0.1",
-    "xml2js": "^0.6.2"
+    "sharp": "^0.33.4"
   }
 }
