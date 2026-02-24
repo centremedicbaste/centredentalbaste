@@ -3,27 +3,25 @@ layout: baseblog.njk
 ---
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ title }}",
-    "image": [
-      "https://{{ global.url }}{{ image }}"
-    ],
+    "image": ["{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"],
     "author": {
-      "@type": "Person",
-      "name": "check pay"
+      "@type": "Organization",
+      "name": "{{ global_index.title }}"
     },
     "datePublished": "{{ date }}",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://{{ global.url }}/blog"
+      "@id": "{{ global_index.url }}{{ page.url | url }}"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Checkqrpay",
+      "name": "{{ global_index.title }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://checkqrpay.com/assets/static/favicons/favicon_192x192.png"
+        "url": "{{ global_index.url }}/assets/static/images/logos/logo.png"
       }
     }
   }

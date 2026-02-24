@@ -17,8 +17,7 @@
 
     <div id="menu-fixed">
         <div class="menu-fixed-inner ">
-            <button id="menu-toggle" class="btn">
-           
+            <button id="menu-toggle" class="btn" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu-mobile-wrap">
                     <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <rect y="0.599976" width="22" height="1" rx="0.5" fill="#ffffff"/>
                         <rect y="7.19995" width="22" height="1" rx="0.5" fill="#ffffff"/>
@@ -57,8 +56,8 @@
     </div>
 </header>
 
-<div class="menu-mobile-wrap">
-    <button class="btn link_cierre">
+<div class="menu-mobile-wrap" id="menu-mobile-wrap" role="dialog" aria-label="Menú de navegación">
+    <button class="btn link_cierre" type="button" aria-label="Cerrar menú">
         <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" transform="rotate(45)">
             <rect x="9.9" width="1" height="22" fill="#1E1E1E"/>
             <rect y="9.9" width="22" height="1" fill="#1E1E1E"/>

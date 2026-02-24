@@ -22,5 +22,5 @@ eleventyComputed:
   metaTitle: Blog de Centre Dental Basté - Artículos y Recursos Educativos
   metaDescription: Proporcionamos información esencial para mejorar tu bienestar dental e integral. Explora nuestros artículos y recursos educativos.
   metaKeywords: blog dental, recursos educativos, bienestar dental, artículos de salud, Centre Dental Basté
-  metaRobots: blog eleventyComputed.metaRobots
+  metaRobots: index, follow
 ---

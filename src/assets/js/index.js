@@ -16,12 +16,15 @@ $(document).ready(function () {
   initMenuMobile();
   $("#menu-toggle, .menu-mobile-overlay, .link_cierre").click(function () {
     var $body = $("body");
+    var $toggle = $("#menu-toggle");
     if ($body.hasClass("menu-open")) {
       $body.removeClass("menu-open");
+      $toggle.attr("aria-expanded", "false");
       window.scrollTo(0, menuOpenScrollTop);
     } else {
       menuOpenScrollTop = window.pageYOffset || document.documentElement.scrollTop;
       $body.addClass("menu-open");
+      $toggle.attr("aria-expanded", "true");
     }
   });
 });
