@@ -29,7 +29,7 @@ tratamiento2_url: /tratamientos/periodoncia/
 tratamiento2_title: Periodoncia
 tratamiento2_content: Especialidad dedicada a la prevención de las enfermedades periodontales o de las encías
 
-tratamiento3_url: /tratamientos/protesis-implantes/
+tratamiento3_url: /tratamientos/protesis/
 tratamiento3_title: Prótesis
 tratamiento3_content: Contamos con las últimas técnicas y los mejores materiales en prótesis dentales
 
@@ -49,7 +49,7 @@ tratamiento7_url: /tratamientos/implantes-dentales-sant-boi-de-llobregat/
 tratamiento7_title: Implantología
 tratamiento7_content: Sustituimos y remplazamos sus dientes perdidos con las tecnologías más modernas
 
-tratamiento8_url: /tratamientos/ortodoncia-dental-2/
+tratamiento8_url: /tratamientos/ortodoncia-dental/
 tratamiento8_title: Ortodoncia
 tratamiento8_content: Ofrecemos diversos tipos de tratamientos para adultos y niños para unos dientes alineados
 

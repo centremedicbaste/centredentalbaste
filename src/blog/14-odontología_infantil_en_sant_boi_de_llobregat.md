@@ -37,7 +37,7 @@ Tratamientos más habituales de odontología infantil en Sant Boi de Llobregat
 
 * EDUCACIÓN BUCAL: técnicas de cepillado e higiene bucal para que los niños adquieran buenos hábitos.
 * SELLADO DE FISURAS: método preventivo similar al empaste que nos ayudará a prevenir y detener la caries.
-* ORTODONCIA INFANTIL: para corregir las malposiciones de los dientes y maxilares ([ver tipos de ortodoncia](/tratamientos/ortodoncia-dental-2/)).
+* ORTODONCIA INFANTIL: para corregir las malposiciones de los dientes y maxilares ([ver tipos de ortodoncia](/tratamientos/ortodoncia-dental/)).
 * APLICACIONES DE FLÚOR: previenen la aparición de caries dental en los niños.
 * EXTRACCIÓN DE DIENTES DE LECHE: en ocasiones es necesaria la intervención del especialista en **odontología infantil en Sant Boi de Llobregat** para terminar de remover algún diente de leche y así dejar paso al definitivo.
 * PROTECTOR BUCAL DEPORTIVO: previene golpes y lesiones dentales durante las actividades deportivas.

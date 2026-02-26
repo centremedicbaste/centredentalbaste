@@ -77,5 +77,5 @@ Alineadores transparentes y removibles que ofrecen la máxima discreción y como
 
 En Centre Dental Basté, nuestros ortodoncistas tienen amplia experiencia en todos los tipos de tratamiento de ortodoncia. Te ayudaremos a elegir la mejor opción para tu caso.
 
-[Ver más sobre Ortodoncia](/tratamientos/ortodoncia-dental-2/)
+[Ver más sobre Ortodoncia](/tratamientos/ortodoncia-dental/)
 

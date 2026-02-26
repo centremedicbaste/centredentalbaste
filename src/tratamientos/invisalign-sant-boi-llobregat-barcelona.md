@@ -68,4 +68,4 @@ Invisalign puede tratar una amplia variedad de problemas ortodónticos, incluyen
 
 En Centre Dental Basté, nuestros especialistas en ortodoncia evaluarán tu caso para determinar si Invisalign es la mejor opción para ti.
 
-[Volver a Ortodoncia](/tratamientos/ortodoncia-dental-2/)
+[Volver a Ortodoncia](/tratamientos/ortodoncia-dental/)

@@ -36,6 +36,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("src/google5f3d2fed92020926.html");
+  eleventyConfig.addPassthroughCopy("src/_redirects", "_redirects");
 
   // Netlify CMS
   eleventyConfig.addPassthroughCopy("./admin");

@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Tratamientos de implantes dentales en Sant Boi de Llobregat"
-permalink: /tratamientos-de-implantes-dentales-en-sant-boi-de-llobregat/
+permalink: /implantes-dentales-sant-boi/
 descripcion: ""
 metaTitle: "Tratamientos de implantes dentales en Sant Boi de Llobregat"
 metaDescription: "Tratamientos de implantes dentales en Sant Boi de Llobregat. Última tecnología, soluciones para poco hueso y cirugía maxilofacial. Centre Dental Basté."
