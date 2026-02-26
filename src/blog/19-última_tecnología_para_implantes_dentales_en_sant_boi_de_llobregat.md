@@ -3,7 +3,7 @@ subtitle: ""
 title: "Última tecnología para implantes dentales en Sant Boi de Llobregat" 
 permalink: /ultima-tecnologia-para-implantes-dentales-en-sant-boi-de-llobregat/
 descripcion: ""
-metaTitle: "Última tecnología para implantes dentales en Sant Boi de Llobregat"
+metaTitle: "Última tecnología en implantes en Sant Boi | Centre Dental Basté"
 metaDescription: "Última tecnología en implantes dentales en Sant Boi de Llobregat. Cirugía maxilofacial y carga inmediata. Recupera tu sonrisa en Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"

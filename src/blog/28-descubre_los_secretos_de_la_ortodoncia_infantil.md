@@ -3,7 +3,7 @@ subtitle: ""
 title: "Descubre los secretos de la ortodoncia infantil"
 permalink: /descubre-los-secretos-de-la-ortodoncia-infantil/
 descripcion: ""
-metaTitle: "Ortodoncia infantil | Descubre los secretos para una sonrisa perfecta en Sant Boi de Llobregat"
+metaTitle: "Ortodoncia infantil en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Aprende sobre la importancia de la ortodoncia infantil y cómo un diagnóstico temprano puede corregir malformaciones dentales en niños. Descubre los beneficios de la ortodoncia en Sant Boi de Llobregat y cómo mejorar la salud dental de tus hijos con nuestros expertos."
 metaKeywords: ""
 metaRobots: "index, follow"

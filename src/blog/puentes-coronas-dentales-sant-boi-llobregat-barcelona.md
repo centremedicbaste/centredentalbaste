@@ -3,7 +3,7 @@ subtitle: "Puentes y Coronas Dentales en Sant Boi de Llobregat"
 title: "Puentes y Coronas Dentales en Sant Boi de Llobregat, Barcelona"
 permalink: /puentes-coronas-dentales/puentes-coronas-dentales-sant-boi-llobregat-barcelona/
 descripcion: "Conoce los puentes y coronas dentales disponibles en Sant Boi de Llobregat, Barcelona."
-metaTitle: "Puentes y Coronas Dentales en Sant Boi de Llobregat | Centre Dental Basté"
+metaTitle: "Puentes y coronas en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Descubre cómo los puentes y coronas dentales pueden mejorar tu salud bucal en Sant Boi de Llobregat, Barcelona."
 metaKeywords: "puentes dentales, coronas dentales, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"

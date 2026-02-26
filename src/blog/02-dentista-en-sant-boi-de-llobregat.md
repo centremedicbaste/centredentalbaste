@@ -3,7 +3,7 @@ subtitle: ""
 title: "Dentista en sant boi de llobregat"
 permalink: /dentista-en-sant-boi-de-llobregat/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
-metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Basté | Clínica Dental"
+metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Dentista en Sant Boi de Llobregat con más de 25 años de experiencia. Tratamientos dentales completos: implantes, ortodoncia, estética. Primera visita gratis." 
 metaKeywords: "dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona, dentista cerca de mí"
 metaRobots: "index, follow"

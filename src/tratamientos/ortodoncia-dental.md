@@ -5,7 +5,7 @@ tags: ["tratamientos"]
 
 seccion: ortodoncia
 
-metaTitle: Ortodoncia Dental en Sant Boi de Llobregat - Tratamientos de Alineación
+metaTitle: Ortodoncia dental en Sant Boi | Centre Dental Basté
 metaDescription: Tratamientos de ortodoncia dental en Sant Boi de Llobregat. Soluciones para alinear tus dientes y mejorar tu sonrisa con diferentes tipos de brackets.
 metaKeywords: ortodoncia dental, brackets, alineación dental, Sant Boi de Llobregat, corrección dental
 metaRobots: index, follow

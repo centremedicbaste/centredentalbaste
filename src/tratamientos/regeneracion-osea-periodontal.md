@@ -5,7 +5,7 @@ tags: ["tratamientos"]
 
 seccion: regeneración ósea periodontal
 
-metaTitle: Regeneración Ósea Periodontal en Sant Boi de Llobregat - Centre Dental Basté
+metaTitle: "Regeneración ósea periodontal en Sant Boi | Centre Dental Basté"
 metaDescription: Técnicas de regeneración ósea periodontal en Sant Boi de Llobregat para recuperar el hueso perdido por periodontitis.
 metaKeywords: regeneración ósea, periodontitis, Sant Boi de Llobregat, injerto óseo
 metaRobots: index, follow

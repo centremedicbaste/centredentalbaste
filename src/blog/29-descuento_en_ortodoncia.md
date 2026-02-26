@@ -3,7 +3,7 @@ subtitle: ""
 title: "Descuento en ortodoncia"
 permalink: /descuento-en-ortodoncia/
 descripcion: ""
-metaTitle: "Descuento en ortodoncia | Aprovecha nuestras ofertas en Sant Boi de Llobregat"
+metaTitle: "Descuento en ortodoncia en Sant Boi | Centre Dental Basté"
 metaDescription: "Descubre nuestras promociones en ortodoncia y mejora tu sonrisa con los mejores tratamientos en Sant Boi de Llobregat. No pierdas la oportunidad de lucir una dentadura perfecta con nuestros descuentos exclusivos. ¡Visítanos y recupera tu confianza!"
 metaKeywords: ""
 metaRobots: "index, follow"

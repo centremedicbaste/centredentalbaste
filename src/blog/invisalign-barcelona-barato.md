@@ -3,7 +3,7 @@ subtitle: "Invisalign en Barcelona a Precios Asequibles"
 title: "Invisalign en Barcelona: Calidad y Asequibilidad"
 permalink: /existen-muchos-tipos-brackets-los-brackets-invisibles/invisalign-barcelona-barato/
 descripcion: "Descubre cómo obtener Invisalign en Barcelona a precios asequibles sin comprometer la calidad."
-metaTitle: "Invisalign en Barcelona a Precios Asequibles | Centre Dental Basté"
+metaTitle: "Invisalign en Barcelona | Centre Dental Basté"
 metaDescription: "Explora las opciones de Invisalign en Barcelona, combinando calidad y asequibilidad para tu tratamiento dental."
 metaKeywords: "Invisalign, Barcelona, asequible"
 metaRobots: "index, follow"

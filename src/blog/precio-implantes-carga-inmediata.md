@@ -3,7 +3,7 @@ subtitle: "Implantes de Carga Inmediata en Sant Boi de Llobregat"
 title: "Implantes de Carga Inmediata: Precios y Beneficios en Sant Boi de Llobregat"
 permalink: /implantes-de-carga-inmediata/precio-implantes-carga-inmediata/
 descripcion: "Descubre los precios y beneficios de los implantes de carga inmediata en Sant Boi de Llobregat."
-metaTitle: "Implantes de Carga Inmediata en Sant Boi de Llobregat | Centre Dental Basté"
+metaTitle: "Implantes carga inmediata en Sant Boi | Centre Dental Basté"
 metaDescription: "Explora los precios y beneficios de los implantes de carga inmediata en Sant Boi de Llobregat para una sonrisa renovada."
 metaKeywords: "implantes de carga inmediata, precios, Sant Boi de Llobregat"
 metaRobots: "index, follow"

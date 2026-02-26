@@ -19,7 +19,7 @@ whytitle3: blog whytitle3
 image: /assets/static/images/clinica-1.jpg
 content_2: blog content_2
 eleventyComputed:
-  metaTitle: Blog de Centre Dental Basté - Artículos y Recursos Educativos
+  metaTitle: Blog | Centre Dental Basté - Artículos y Recursos
   metaDescription: Proporcionamos información esencial para mejorar tu bienestar dental e integral. Explora nuestros artículos y recursos educativos.
   metaKeywords: blog dental, recursos educativos, bienestar dental, artículos de salud, Centre Dental Basté
   metaRobots: index, follow

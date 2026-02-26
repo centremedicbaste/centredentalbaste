@@ -5,7 +5,7 @@ tags: ["tratamientos"]
 
 seccion: implantología
 
-metaTitle: IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT | Centre Dental Baste
+metaTitle: "Implantes dentales en Sant Boi | Centre Dental Basté"
 metaDescription: En Centre Dental Basté te ofrecemos diferentes opciones para implantes dentales en Sant Boi de Llobregat, de modo que seguro encontrarás la tuya.
 
 metaRobots: index, follow

@@ -1,5 +1,5 @@
 ---
-metaRobots: "noindex, nofollow"
+metaRobots: "index, follow"
 metaTitle:  Legal | Política de privacidad 
 
 layout: legal/_legales

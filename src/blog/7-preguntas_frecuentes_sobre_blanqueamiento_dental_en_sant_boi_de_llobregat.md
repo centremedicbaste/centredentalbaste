@@ -3,7 +3,7 @@ subtitle: ""
 title: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llobregat"
 permalink: /preguntas-frecuentes-sobre-blanqueamiento-dental-en-sant-boi-de-llobregat/
 descripcion: ""
-metaTitle: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llobregat"
+metaTitle: "Blanqueamiento dental: preguntas frecuentes | Sant Boi"
 metaDescription: "Preguntas frecuentes sobre blanqueamiento dental en Sant Boi de Llobregat. Cómo funciona, tipos de blanqueadores y duración del tratamiento."
 metaKeywords: ""
 metaRobots: "index, follow"

@@ -3,7 +3,7 @@ subtitle: "Ortodoncia Invisalign en Sant Boi de Llobregat"
 title: "Ortodoncia Invisalign: La Solución Invisible en Sant Boi de Llobregat"
 permalink: /ortodoncia-en-sant-boi-del-llobregat/ortodoncia-invisalign/
 descripcion: "Descubre la ortodoncia Invisalign en Sant Boi de Llobregat, una solución invisible para alinear tus dientes."
-metaTitle: "Ortodoncia Invisalign en Sant Boi de Llobregat | Centre Dental Basté"
+metaTitle: "Ortodoncia Invisalign en Sant Boi | Centre Dental Basté"
 metaDescription: "Explora la ortodoncia Invisalign en Sant Boi de Llobregat, la opción invisible y cómoda para mejorar tu sonrisa."
 metaKeywords: "ortodoncia Invisalign, Sant Boi de Llobregat, alineadores invisibles"
 metaRobots: "index, follow"

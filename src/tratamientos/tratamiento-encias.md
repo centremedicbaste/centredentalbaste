@@ -5,7 +5,7 @@ tags: ["tratamientos"]
 
 seccion: tratamiento de encías
 
-metaTitle: Tratamiento de Encías en Sant Boi de Llobregat - Centre Dental Basté
+metaTitle: Tratamiento de encías en Sant Boi | Centre Dental Basté
 metaDescription: Tratamiento profesional de encías en Sant Boi de Llobregat. Soluciones para gingivitis, periodontitis y estética gingival.
 metaKeywords: tratamiento encías, gingivitis, periodontitis, estética gingival, Sant Boi de Llobregat
 metaRobots: index, follow
