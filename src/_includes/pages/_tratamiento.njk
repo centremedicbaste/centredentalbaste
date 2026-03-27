@@ -5,6 +5,46 @@ colorHeader: has-light-menu
 {% set noheroimage = [] %}
 {% import "macros/_insert.njk" as insert %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalProcedure",
+  "name": "{{ introCta_title | default(seccion) }}",
+  "description": "{{ metaDescription }}",
+  "url": "{{ global_index.url }}{{ page.url | url }}",
+  "procedureType": "http://schema.org/NoninvasiveProcedure",
+  "bodyLocation": "Mouth",
+  "provider": {
+    "@type": "Dentist",
+    "@id": "{{ global_index.url }}/#organization",
+    "name": "{{ global_index.title }}",
+    "telephone": "{{ global_index.telefono }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Carrer Riera Basté, 18-20 bajos",
+      "addressLocality": "Sant Boi de Llobregat",
+      "addressRegion": "Barcelona",
+      "postalCode": "08830",
+      "addressCountry": "ES"
+    }
+  }{% if faq %},
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in faq %}
+      {
+        "@type": "Question",
+        "name": "{{ item.question }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ item.answer }}"
+        }
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  }{% endif %}
+}
+</script>
 
 <div class="main-article">
   {% include 'templates/introCta_2.njk' %}

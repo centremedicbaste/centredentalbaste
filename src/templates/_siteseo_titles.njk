@@ -42,7 +42,7 @@ metaRobots: "noindex, nofollow"
                 <br>
                 <b>metaKeywords:</b>
                 {% set keywordsClass = '' %}
-                {% if page.data.metaKeywords.split(',').length < 5 or page.data.metaKeywords.split(',').length> 10 %}
+                {% if page.data.metaKeywords and (page.data.metaKeywords.split(',').length < 5 or page.data.metaKeywords.split(',').length> 10) %}
                     {% set keywordsClass = 'red-text' %}
                     {% set redTextCount = redTextCount + 1 %}
                     {% endif %}

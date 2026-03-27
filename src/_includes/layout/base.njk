@@ -52,6 +52,118 @@
   <link rel="stylesheet" href="/assets/css/style.css" />
   <!-- SEO y Open Graph -->
   <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["Dentist", "LocalBusiness"],
+    "@id": "{{ global_index.url }}/#organization",
+    "name": "{{ global_index.title }}",
+    "url": "{{ global_index.url }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ global_index.url }}/assets/static/images/logos/logo.png"
+    },
+    "image": "{{ global_index.url }}/assets/static/images/clinica-1.jpg",
+    "telephone": "{{ global_index.telefono }}",
+    "email": "{{ global_index.email }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Carrer Riera Basté, 18-20 bajos",
+      "addressLocality": "Sant Boi de Llobregat",
+      "addressRegion": "Barcelona",
+      "postalCode": "08830",
+      "addressCountry": "ES"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.346583,
+      "longitude": 2.035658
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Sant Boi de Llobregat"
+    },
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "09:00",
+        "closes": "20:00"
+      }
+    ],
+    "sameAs": [
+      "{{ global_index.social_instagram }}",
+      "{{ global_index.social_linkedin }}",
+      "{{ global_index.social_youtube }}"
+    ],
+    "description": "{{ global_index.seo_description }}",
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Tratamientos dentales",
+      "itemListElement": [
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Implantología"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Ortodoncia"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Estética dental"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Periodoncia"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Endodoncia"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Odontopediatría"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Prótesis dentales"}},
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Invisalign"}}
+      ]
+    }
+  }
+  </script>
+  {% endif %}
+  {% if page.url != '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "{{ global_index.url }}/"
+      }{% if '/tratamientos/' in page.url and page.url != '/tratamientos/' %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tratamientos",
+        "item": "{{ global_index.url }}/tratamientos/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ metaTitle | replace(' | Centre Dental Basté', '') | replace(' - Centre Dental Basté', '') }}"
+      }{% elif page.url == '/tratamientos/' %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tratamientos"
+      }{% elif '/blog/' in page.url and page.url != '/blog/' %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "{{ global_index.url }}/blog/"
+      }{% elif page.url == '/blog/' %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog"
+      }{% else %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ metaTitle | replace(' | Centre Dental Basté', '') | replace(' - Centre Dental Basté', '') }}"
+      }{% endif %}
+    ]
+  }
+  </script>
+  {% endif %}
   <!-- Google Tag Manager -->
   {% if global_index.tag_manager %}
   <script>

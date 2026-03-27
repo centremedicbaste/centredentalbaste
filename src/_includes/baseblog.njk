@@ -19,7 +19,7 @@
   <meta property="og:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or global_index.seo_description or '' }}" />
   <meta property="og:url" content="{{ global_index.url }}{{ (page.url | url) | lower }}" />
-  <meta property="og:image" content="{{ global_index.url }}/assets/static/images/clinica-1.jpg" />
+  <meta property="og:image" content="{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ metaTitle }}" />
   <meta name="twitter:description"

@@ -6,12 +6,16 @@ layout: baseblog.njk
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ title }}",
+    "description": "{{ metaDescription or descripcion or '' }}",
     "image": ["{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"],
     "author": {
       "@type": "Organization",
+      "@id": "{{ global_index.url }}/#organization",
       "name": "{{ global_index.title }}"
     },
     "datePublished": "{{ date }}",
+    "dateModified": "{{ fecha or date }}",
+    "keywords": "{{ metaKeywords or '' }}",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "{{ global_index.url }}{{ page.url | url }}"

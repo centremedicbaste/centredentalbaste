@@ -9,7 +9,7 @@ metaTitle: "Implantes dentales en Sant Boi | Centre Dental Basté"
 metaDescription: En Centre Dental Basté te ofrecemos diferentes opciones para implantes dentales en Sant Boi de Llobregat, de modo que seguro encontrarás la tuya.
 
 metaRobots: index, follow
-metaKeywords: ""
+metaKeywords: "implantes dentales, implantología, Sant Boi de Llobregat, implantes titanio, prótesis sobre implantes, dentadura fija"
 
 introCta_title: IMPLANTOLOGÍA
 introCta_image: /tratamientos/seccion-implantologia.jpg
@@ -19,20 +19,33 @@ introtitle_subtitle: DESCUBRE LAS OPCIONES DE IMPLANTES DENTALES EN SANT BOI DE 
 
 
 
-content_1_title: content_1_title
-content_1_subtitle: content_1_subtitle
-content_1_description: content_1_description
+content_1_title: ""
+content_1_subtitle: ""
+content_1_description: ""
 
 
-content_text_title1: sjdfijdsidfjsdfoipjdsfpij
-content_text_subtitle1: sjdfijdsidfjsdfoipjdsfpij
-content_text_subtitle2: sjdfijdsidfjsdfoipjdsfpij
-content_text_text2: sjdfijdsidfjsdfoipjdsfpij
+content_text_title1: ""
+content_text_subtitle1: ""
+content_text_subtitle2: ""
+content_text_text2: ""
 
-contacta_6_title: contacta_6_title
-contacta_6_subtitle: contacta_6_subtitle
-banner_button: banner_button
+contacta_6_title: ""
+contacta_6_subtitle: ""
+banner_button: ""
 
+faq:
+  - question: "¿Es compleja la intervención de implantes dentales y cómo es el postoperatorio?"
+    answer: "Es una intervención sencilla y rutinaria realizada bajo anestesia local por un especialista. El postoperatorio supone menos molestias que otras intervenciones menores en odontología. En Centre Dental Basté utilizamos implantología computerizada para una cirugía mínimamente invasiva."
+  - question: "¿Cualquier persona puede ponerse implantes dentales independientemente de su edad?"
+    answer: "Los implantes se pueden colocar a partir de los 16 años en mujeres y 18 en hombres, una vez completado el desarrollo. En adultos no existe contraindicación por edad."
+  - question: "¿Qué sucede cuando el paciente tiene poco hueso?"
+    answer: "Existen técnicas como la elevación de seno maxilar y la corticotomía con expansión de cresta para restablecer la anatomía ideal. La regeneración ósea tiene un porcentaje de éxito muy elevado."
+  - question: "¿Puede haber rechazo de los implantes dentales?"
+    answer: "Gracias al diseño actual de los implantes y a profesionales preparados, el porcentaje de éxito es prácticamente del 100%. Los implantes de titanio puro son altamente biocompatibles."
+  - question: "¿Los implantes dentales afectan al gusto de las comidas?"
+    answer: "No, los implantes de titanio puro tienen neutralidad gustativa. No modifican el sabor de las comidas ni producen sabor metálico."
+  - question: "¿Son los implantes la mejor solución para dientes ausentes?"
+    answer: "Sí, los implantes son la mejor solución actual para reponer piezas ausentes. Son cómodos, duraderos y lo más parecido a un diente natural. Se adaptan a distintas necesidades: desde una pieza hasta la dentadura completa."
 
 ---
 ___

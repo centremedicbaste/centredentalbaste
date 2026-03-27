@@ -7,12 +7,20 @@ eleventyExcludeFromCollections: true
     {% for category in collections.categories %}
     <url>
         <loc>{{global_index.url}}/{{ category | slug }}</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
     {% endfor %}
     {% for page in collections.all %}
     <url>
         <loc>{{global_index.url}}{{ page.url | url }}</loc>
         <lastmod>{{ page.date.toISOString() }}</lastmod>
+        {% if page.url == '/' %}<changefreq>weekly</changefreq>
+        <priority>1.0</priority>{% elif '/tratamientos/' in page.url %}<changefreq>monthly</changefreq>
+        <priority>0.8</priority>{% elif '/blog/' in page.url or page.url == '/blog/' %}<changefreq>monthly</changefreq>
+        <priority>0.6</priority>{% elif '/es/legal/' in page.url %}<changefreq>yearly</changefreq>
+        <priority>0.2</priority>{% else %}<changefreq>monthly</changefreq>
+        <priority>0.7</priority>{% endif %}
     </url>
     {% endfor %}
 </urlset>

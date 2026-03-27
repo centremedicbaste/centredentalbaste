@@ -18,7 +18,7 @@ introtitle_title: HIGIENE DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: MANTÉN UNA SONRISA SALUDABLE CON NUESTROS SERVICIOS DE HIGIENE DENTAL
 
 
-hookfraseimagen: ahfdiouhfdsaioudfhssiudo
+hookfraseimagen: ""
 ---
 
 

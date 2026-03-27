@@ -16,18 +16,18 @@ introCta_image: /tratamientos/seccion-periodoncia.jpg
 introtitle_title: REGENERACIÓN ÓSEA PERIODONTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: RECUPERA EL HUESO PERDIDO POR PERIODONTITIS
 
-content_1_title: content_1_title
-content_1_subtitle: content_1_subtitle
-content_1_description: content_1_description
+content_1_title: ""
+content_1_subtitle: ""
+content_1_description: ""
 
-content_text_title1: sjdfijdsidfjsdfoipjdsfpij
-content_text_subtitle1: sjdfijdsidfjsdfoipjdsfpij
-content_text_subtitle2: sjdfijdsidfjsdfoipjdsfpij
-content_text_text2: sjdfijdsidfjsdfoipjdsfpij
+content_text_title1: ""
+content_text_subtitle1: ""
+content_text_subtitle2: ""
+content_text_text2: ""
 
-contacta_6_title: contacta_6_title
-contacta_6_subtitle: contacta_6_subtitle
-banner_button: banner_button
+contacta_6_title: ""
+contacta_6_subtitle: ""
+banner_button: ""
 
 ---
 
