@@ -1,4 +1,76 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // ─── Modo captura: mostrar todo sin animaciones ────────────────────────────
+  const _isCaptureMode = document.body.classList.contains('capture-mode');
+
+  if (_isCaptureMode) {
+    // Forzar todos los elementos visibles de golpe, sin observers ni animaciones
+    document.querySelectorAll('.inview').forEach(el => el.classList.add('is-inview'));
+    document.querySelectorAll('.animate-appear').forEach(el => {
+      const wrapper = document.createElement('span');
+      wrapper.classList.add('inner-content');
+      while (el.firstChild) wrapper.appendChild(el.firstChild);
+      el.appendChild(wrapper);
+      wrapper.style.opacity = 1;
+      wrapper.style.transform = 'translateY(0)';
+    });
+    document.querySelectorAll('.animate-word').forEach(el => {
+      const text = el.textContent;
+      el.textContent = '';
+      text.split(/(\s+)/).forEach(word => {
+        if (word.trim().length > 0) {
+          word.split('^').forEach((fragment, index, arr) => {
+            if (fragment.trim().length > 0) {
+              const span = document.createElement('span');
+              span.classList.add('term');
+              span.textContent = fragment;
+              span.style.opacity = 1;
+              span.style.transform = 'translateY(0)';
+              el.appendChild(span);
+            }
+            if (index < arr.length - 1) el.appendChild(document.createElement('br'));
+          });
+        } else {
+          el.appendChild(document.createTextNode(word));
+        }
+      });
+    });
+    document.querySelectorAll('.animate-box').forEach(el => {
+      el.style.opacity = 1;
+      el.style.transform = 'translateY(0)';
+    });
+    document.querySelectorAll('.animate-box2').forEach(el => {
+      let wrapper = el.querySelector('.inner-wrapper');
+      if (!wrapper) {
+        wrapper = document.createElement('div');
+        wrapper.classList.add('inner-wrapper');
+        while (el.firstChild) wrapper.appendChild(el.firstChild);
+        el.appendChild(wrapper);
+      }
+      wrapper.style.transform = 'translateY(0)';
+      wrapper.style.opacity = 1;
+      el.style.overflow = 'hidden';
+    });
+    document.querySelectorAll('.animate-list').forEach(el => {
+      el.querySelectorAll('li').forEach(item => {
+        item.style.opacity = 1;
+        item.style.transform = 'translateY(0)';
+      });
+    });
+    document.querySelectorAll('.animate-letters').forEach(el => {
+      const text = el.textContent;
+      el.textContent = '';
+      text.split('').forEach(letter => {
+        const span = document.createElement('span');
+        span.classList.add('letter');
+        span.innerHTML = letter === ' ' ? '&nbsp;' : letter;
+        span.style.opacity = 1;
+        span.style.transform = 'translateY(0)';
+        el.appendChild(span);
+      });
+    });
+    return; // No inicializar observers
+  }
+
   const createObserver = (callback, options) => new IntersectionObserver(callback, options);
 
   const handleIntersect = (entries, observer, animationFn) => {

@@ -1,4 +1,18 @@
-console.log("Hola, mundo!");
+// ─── Modo captura (screenshots / automatización) ─────────────────────────────
+// Activa con ?screenshot o ?capture=1 → muestra todo sin esperar scroll
+
+(function initCaptureMode() {
+  var p = new URLSearchParams(window.location.search);
+  if (p.get('screenshot') != null || p.get('capture') === '1') {
+    document.body.classList.add('capture-mode');
+    document.body.classList.add('scrolled');
+  }
+})();
+
+function isCaptureMode() {
+  return document.body.classList.contains('capture-mode');
+}
+
 document.body.onscroll = function () {
   if (
     document.body.scrollTop >= 50 ||
