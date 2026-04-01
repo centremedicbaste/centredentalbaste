@@ -188,7 +188,16 @@
     gtag('config', '{{ global_index.google_analytics }}');
   </script>
   {% endif %}
- 
+
+  <!-- Capture Mode: activa con ?capture=1 para herramientas de screenshot (VisualSitemap) -->
+  <script>
+    (function() {
+      var p = new URLSearchParams(window.location.search);
+      if (p.get('screenshot') != null || p.get('capture') === '1') {
+        document.documentElement.classList.add('capture-mode');
+      }
+    })();
+  </script>
 </head>
 <body class="contain {{ colorHeader }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
   <!-- Google Tag Manager (noscript) -->

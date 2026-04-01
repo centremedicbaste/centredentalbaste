@@ -26,3 +26,24 @@
 }
 
 @include delay-anim;
+
+// ─── Capture Mode ────────────────────────────────────────────────────────────
+// Activo con ?capture=1 para herramientas de screenshot (VisualSitemap, etc.).
+// Fuerza todos los textos y elementos animados a su estado final visible.
+.capture-mode {
+  // Palabras animadas: forzar estado final sin esperar animación
+  .word {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+  }
+  // Desactivar todas las animaciones y transiciones globalmente
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+  }
+}
