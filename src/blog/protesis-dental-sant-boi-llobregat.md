@@ -1,7 +1,7 @@
 ---
 subtitle: "Prótesis Dental en Sant Boi de Llobregat"
 title: "Prótesis Dental: Claves para una Sonrisa Excelente en Sant Boi de Llobregat"
-permalink: /tipos-protesis-dentales-claves-una-sonrisa-excelente/protesis-dental-sant-boi-llobregat/
+permalink: /blog/protesis-dental-sant-boi-llobregat/
 descripcion: "Conoce las claves para una sonrisa excelente con prótesis dental en Sant Boi de Llobregat."
 metaTitle: "Prótesis Dental en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Descubre las claves para una sonrisa excelente con prótesis dental en Sant Boi de Llobregat."

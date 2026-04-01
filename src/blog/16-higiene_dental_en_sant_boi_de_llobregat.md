@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Higiene dental en Sant Boi de Llobregat"
-permalink: /higiene-dental-en-sant-boi-de-llobregat/
+permalink: /blog/higiene-dental-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Higiene dental en Sant Boi de Llobregat"
 metaDescription: "Higiene dental en Sant Boi de Llobregat. Previene gingivitis, caries y mal aliento. Consejos y tratamientos profesionales en Centre Dental Basté."

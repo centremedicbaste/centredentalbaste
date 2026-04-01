@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "¿Por qué necesito un tac dental?"
-permalink: /por-que-necesito-un-tac-dental/
+permalink: /blog/por-que-necesito-un-tac-dental/
 descripcion: ""
 metaDescription: "Descubre por qué necesitas un TAC dental en Sant Boi de Llobregat | Conoce las ventajas y aplicaciones de esta técnica radiográfica avanzada para un diagnóstico preciso y tratamientos bucodentales efectivos."
 metaTitle: "¿Por qué necesito un TAC dental? | Ventajas y aplicaciones"

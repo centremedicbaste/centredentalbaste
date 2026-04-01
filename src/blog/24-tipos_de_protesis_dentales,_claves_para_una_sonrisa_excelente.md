@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Tipos de prótesis dentales, claves para una sonrisa excelente"
-permalink: /tipos-de-protesis-dentales/
+permalink: /blog/tipos-de-protesis-dentales/
 descripcion: ""
 metaTitle: "Tipos de prótesis dentales en Sant Boi | Centre Dental Basté"
 metaDescription: "Tipos de prótesis dentales fijas y removibles en Sant Boi de Llobregat. Tratamientos personalizados por expertos. Recupera tu confianza y sonrisa."

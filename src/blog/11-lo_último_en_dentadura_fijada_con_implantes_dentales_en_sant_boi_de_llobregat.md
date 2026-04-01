@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Lo último en dentadura fijada con implantes dentales en Sant Boi de Llobregat"
-permalink: /lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-sant-boi-de-llobregat/
+permalink: /blog/lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-sant-boi-de-llobregat/
 
 descripcion: ""
 metaTitle: "Dentadura fijada con implantes en Sant Boi | Centre Dental Basté"

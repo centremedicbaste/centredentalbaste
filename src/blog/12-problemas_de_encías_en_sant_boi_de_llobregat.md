@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Problemas de encías en Sant Boi de Llobregat"
-permalink: /problemas-de-encias-en-sant-boi-de-llobregat/
+permalink: /blog/problemas-de-encias-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Problemas de encías en Sant Boi de Llobregat"
 metaDescription: "Problemas de encías en Sant Boi de Llobregat. Prevención y tratamiento de gingivitis y periodontitis. Expertos en Centre Dental Basté."

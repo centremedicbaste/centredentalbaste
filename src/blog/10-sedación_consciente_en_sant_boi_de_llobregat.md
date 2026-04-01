@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Sedación consciente en Sant Boi de Llobregat"
-permalink: /sedacion-consciente-en-sant-boi-de-llobregat/
+permalink: /blog/sedacion-consciente-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Sedación consciente en Sant Boi de Llobregat"
 metaDescription: "Sedación consciente en Sant Boi de Llobregat. Elimina ansiedad y miedo al dentista. Técnica supervisada por anestesistas. Centre Dental Basté."

@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Suresmile"
-permalink: /suresmile/
+permalink: /blog/suresmile/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
 metaTitle: "SureSmile | Centre Dental Baste y la ortodoncia invisible"
 metaDescription: "Durante este mes de octubre ofrecemos un 10% de #descuento en todos nuestros tratamientos de #ortodoncia 🤩. ¡La primera visita es gratuíta!" 

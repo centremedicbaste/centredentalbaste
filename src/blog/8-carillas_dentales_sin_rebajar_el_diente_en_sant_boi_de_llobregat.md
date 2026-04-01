@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Carillas dentales sin rebajar el diente en Sant Boi de Llobregat"
-permalink: /carillas-dentales-sin-rebajar-el-diente-en-sant-boi-de-llobregat/
+permalink: /blog/carillas-dentales-sin-rebajar-el-diente-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Carillas sin tallar diente en Sant Boi | Centre Dental Basté"
 metaDescription: "Carillas dentales sin rebajar el diente en Sant Boi de Llobregat. Tratamiento no invasivo, indoloro y rápido. Diseño de sonrisa 3D en Centre Dental Basté."

@@ -1,7 +1,7 @@
 ---
 subtitle: "Carillas Dentales en Sant Boi de Llobregat"
 title: "Carillas Dentales: Transformación Estética en Sant Boi de Llobregat"
-permalink: /estetica-dental-en-sant-boi-de-llobregat/carillas/
+permalink: /blog/carillas/
 descripcion: "Explora las carillas dentales en Sant Boi de Llobregat para una transformación estética de tu sonrisa."
 metaTitle: "Carillas Dentales en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Conoce las carillas dentales en Sant Boi de Llobregat, una solución estética para mejorar tu sonrisa."

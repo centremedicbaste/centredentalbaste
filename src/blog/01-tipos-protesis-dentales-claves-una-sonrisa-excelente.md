@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Dentista de urgencias en Sant Boi de Llobregat"
-permalink: /tipos-protesis-dentales-claves-una-sonrisa-excelente/
+permalink: /blog/tipos-protesis-dentales-claves-una-sonrisa-excelente/
 descripcion: "Descubre los diversos tipos de prótesis dentales: fijas y removibles. Aprende sus ventajas, usos y cuidados para recuperar la estética y funcionalidad de tu sonrisa."
 metaTitle: "Tipos de prótesis dentales | Sant Boi | Centre Dental Basté"
 metaDescription: "Descubre los diferentes tipos de prótesis dentales, fijas y removibles, y cómo pueden ayudarte a recuperar la estética y funcionalidad de tu sonrisa en Sant Boi de Llobregat. Aprende sobre sus ventajas, usos y cuidados para una sonrisa excelente."

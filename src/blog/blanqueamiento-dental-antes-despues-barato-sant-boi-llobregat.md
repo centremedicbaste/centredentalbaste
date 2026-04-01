@@ -1,7 +1,7 @@
 ---
 subtitle: "Blanqueamiento Dental en Sant Boi de Llobregat"
 title: "Blanqueamiento Dental: Resultados Antes y Después en Sant Boi de Llobregat"
-permalink: /tratamientos/blanqueamiento-dental-antes-despues-barato-sant-boi-llobregat/
+permalink: /blog/blanqueamiento-dental-antes-despues-barato-sant-boi-llobregat/
 descripcion: "Descubre los resultados del blanqueamiento dental en Sant Boi de Llobregat, antes y después."
 metaTitle: "Blanqueamiento Dental en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Explora los resultados del blanqueamiento dental en Sant Boi de Llobregat, antes y después, para una sonrisa más brillante."

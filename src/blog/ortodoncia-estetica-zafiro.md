@@ -1,7 +1,7 @@
 ---
 subtitle: "Ortodoncia Estética de Zafiro en Sant Boi de Llobregat"
 title: "Ortodoncia Estética de Zafiro: Belleza y Funcionalidad en Sant Boi de Llobregat"
-permalink: /ortodoncia-en-sant-boi-del-llobregat/ortodoncia-estetica-zafiro/
+permalink: /blog/ortodoncia-estetica-zafiro/
 descripcion: "Conoce la ortodoncia estética de zafiro en Sant Boi de Llobregat, una opción elegante para alinear tus dientes."
 metaTitle: "Ortodoncia de zafiro en Sant Boi | Centre Dental Basté"
 metaDescription: "Descubre la ortodoncia estética de zafiro en Sant Boi de Llobregat, combinando belleza y funcionalidad para tu sonrisa."

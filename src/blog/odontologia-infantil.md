@@ -1,7 +1,7 @@
 ---
 subtitle: "Odontología Infantil en Sant Boi de Llobregat"
 title: "Odontología Infantil: Cuidado Dental para los Más Pequeños en Sant Boi de Llobregat"
-permalink: /odontologia-infantil-en-sant-boi-de-llobregat/odontologia-infantil/
+permalink: /blog/odontologia-infantil/
 descripcion: "Conoce el cuidado dental especializado para niños en Sant Boi de Llobregat."
 metaTitle: "Odontología Infantil en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Descubre el cuidado dental especializado para niños en Sant Boi de Llobregat, asegurando sonrisas saludables desde temprana edad."

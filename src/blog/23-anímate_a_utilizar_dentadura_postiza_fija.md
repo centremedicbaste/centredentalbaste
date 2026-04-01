@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Anímate a utilizar dentadura postiza fija"
-permalink: /animate-utilizar-dentadura-postiza-fija/
+permalink: /blog/animate-utilizar-dentadura-postiza-fija/
 descripcion: ""
 metaTitle: "Utiliza dentadura postiza fija y mejora tu calidad de vida "
 metaDescription: "Descubre las ventajas de la dentadura postiza fija en sant Boi| desde una masticación y pronunciación óptimas hasta la prevención de daños en el hueso maxilar. Olvídate de las molestias de las prótesis removibles y anímate a mejorar tu autoestima y bienestar."

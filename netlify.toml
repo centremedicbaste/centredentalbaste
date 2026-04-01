@@ -22,6 +22,349 @@ minify = true
 [build.processing.images]
 compress = true
 
+# Redirecciones de blog: URLs antiguas (raíz) -> nuevas (/blog/)
+[[redirects]]
+  from = "/tipos-protesis-dentales-claves-una-sonrisa-excelente/"
+  to = "/blog/tipos-protesis-dentales-claves-una-sonrisa-excelente/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dentista-en-sant-boi-de-llobregat/"
+  to = "/blog/dentista-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/suresmile/"
+  to = "/blog/suresmile/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dentista-urgencias-sant-boi-de-llobregat/"
+  to = "/blog/dentista-urgencias-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/all-on-four/"
+  to = "/blog/all-on-four/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sedacion-consciente-en-sant-boi-de-llobregat/"
+  to = "/blog/sedacion-consciente-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-sant-boi-de-llobregat/"
+  to = "/blog/lo-ultimo-en-dentadura-fijada-con-implantes-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/problemas-de-encias-en-sant-boi-de-llobregat/"
+  to = "/blog/problemas-de-encias-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tu-clinica-dental-en-sant-boi-de-llobregat/"
+  to = "/blog/tu-clinica-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-invisible-en-sant-boi-de-llobregat/"
+  to = "/blog/ortodoncia-invisible-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/higiene-dental-en-sant-boi-de-llobregat/"
+  to = "/blog/higiene-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/urgencias-dentales-en-sant-boi-de-llobregat/"
+  to = "/blog/urgencias-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/brackets-esteticos/"
+  to = "/blog/brackets-esteticos/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ultima-tecnologia-para-implantes-dentales-en-sant-boi-de-llobregat/"
+  to = "/blog/ultima-tecnologia-para-implantes-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/implantes-dentales-sant-boi/"
+  to = "/blog/implantes-dentales-sant-boi/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sedacion-consciente/"
+  to = "/blog/sedacion-consciente/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/puentes-coronas-dentales/"
+  to = "/blog/puentes-coronas-dentales/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dientes-amarillos/"
+  to = "/blog/dientes-amarillos/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/animate-utilizar-dentadura-postiza-fija/"
+  to = "/blog/animate-utilizar-dentadura-postiza-fija/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tipos-de-protesis-dentales/"
+  to = "/blog/tipos-de-protesis-dentales/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/all-on-four-la-mejor-solucion-para-tus-implantes/"
+  to = "/blog/all-on-four-la-mejor-solucion-para-tus-implantes/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/carillas-dentales-informacion-general/"
+  to = "/blog/carillas-dentales-informacion-general/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/descubre-los-secretos-de-la-ortodoncia-infantil/"
+  to = "/blog/descubre-los-secretos-de-la-ortodoncia-infantil/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/descuento-en-ortodoncia/"
+  to = "/blog/descuento-en-ortodoncia/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-en-sant-boi-de-llobregat/"
+  to = "/blog/ortodoncia-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/el-centre-dimplantologia-i-ortodòncia-basté-ofereix-la-primera-visita-gratuïta-per-tal-que-la-ciutadania-no-descuidi-la-salut-dental/"
+  to = "/blog/el-centre-dimplantologia-i-ortodòncia-basté-ofereix-la-primera-visita-gratuïta-per-tal-que-la-ciutadania-no-descuidi-la-salut-dental/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/estetica-dental-en-sant-boi-de-llobregat/"
+  to = "/blog/estetica-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/"
+  to = "/blog/existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/las-claves-en-el-precio-de-los-implantes-dentales/"
+  to = "/blog/las-claves-en-el-precio-de-los-implantes-dentales/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/no-escondas-mas-tu-sonrisa,-la-ortodoncia-lingual-es-tu-solucion/"
+  to = "/blog/no-escondas-mas-tu-sonrisa,-la-ortodoncia-lingual-es-tu-solucion/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-en-sant-boi-del-llobregat-de-maxima-calidad/"
+  to = "/blog/ortodoncia-en-sant-boi-del-llobregat-de-maxima-calidad/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/para-que-sirve-la-protesis-dental-removible/"
+  to = "/blog/para-que-sirve-la-protesis-dental-removible/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/por-que-necesito-un-tac-dental/"
+  to = "/blog/por-que-necesito-un-tac-dental/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/que-son-los-aparatos-dentales-y-como-elegirlos/"
+  to = "/blog/que-son-los-aparatos-dentales-y-como-elegirlos/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/prevencion-de-caries-en-sant-boi-de-llobregat/"
+  to = "/blog/prevencion-de-caries-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sonrisas-perfectas-con-el-diseño-de-sonrisas/"
+  to = "/blog/sonrisas-perfectas-con-el-diseño-de-sonrisas/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/turismo-dental-en-barcelona/"
+  to = "/blog/turismo-dental-en-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/implantologia-dental-en-sant-boi-de-llobregat/"
+  to = "/blog/implantologia-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dentista-de-urgencias-en-sant-boi-de-llobregat/"
+  to = "/blog/dentista-de-urgencias-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/preguntas-frecuentes-sobre-blanqueamiento-dental-en-sant-boi-de-llobregat/"
+  to = "/blog/preguntas-frecuentes-sobre-blanqueamiento-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/carillas-dentales-sin-rebajar-el-diente-en-sant-boi-de-llobregat/"
+  to = "/blog/carillas-dentales-sin-rebajar-el-diente-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/especialistas-en-endodoncia-en-sant-boi-de-llobregat/"
+  to = "/blog/especialistas-en-endodoncia-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tratamientos/blanqueamiento-dental-antes-despues-barato-sant-boi-llobregat/"
+  to = "/blog/blanqueamiento-dental-antes-despues-barato-sant-boi-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tratamientos/carillas-dentales/carillas-dentales-porcelana-composite-sant-boi-barcelona/"
+  to = "/blog/carillas-dentales-porcelana-composite-sant-boi-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/estetica-dental-en-sant-boi-de-llobregat/carillas/"
+  to = "/blog/carillas/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/animate-utilizar-dentadura-postiza-fija/dentadura-postiza-sant-boi-llobregat/"
+  to = "/blog/dentadura-postiza-sant-boi-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/puentes-coronas-dentales/implantes-barcelona/"
+  to = "/blog/implantes-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sirve-la-protesis-dental-removible/implantes-removibles-baratos-sant-boi-llobregat-barcelona/"
+  to = "/blog/implantes-removibles-baratos-sant-boi-llobregat-barcelona/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/existen-muchos-tipos-brackets-los-brackets-invisibles/invisalign-barcelona-barato/"
+  to = "/blog/invisalign-barcelona-barato/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/odontologia-infantil-en-sant-boi-de-llobregat/odontologia-infantil/"
+  to = "/blog/odontologia-infantil/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-en-sant-boi-del-llobregat/ortodoncia-estetica-zafiro/"
+  to = "/blog/ortodoncia-estetica-zafiro/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-en-sant-boi-del-llobregat/ortodoncia-estetica/"
+  to = "/blog/ortodoncia-estetica/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ortodoncia-en-sant-boi-del-llobregat/ortodoncia-invisalign/"
+  to = "/blog/ortodoncia-invisalign/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/existen-muchos-tipos-brackets-los-brackets-invisibles/ortodoncia-mini-bracket-barcelona-barata/"
+  to = "/blog/ortodoncia-mini-bracket-barcelona-barata/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/implantes-de-carga-inmediata/precio-implantes-carga-inmediata/"
+  to = "/blog/precio-implantes-carga-inmediata/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tipos-protesis-dentales-claves-una-sonrisa-excelente/protesis-dental-sant-boi-llobregat/"
+  to = "/blog/protesis-dental-sant-boi-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/puentes-coronas-dentales/puentes-coronas-dentales-sant-boi-llobregat-barcelona/"
+  to = "/blog/puentes-coronas-dentales-sant-boi-llobregat-barcelona/"
+  status = 301
+  force = true
+
 # Redirecciones HTTP a HTTPS
 [[redirects]]
   from = "http://centredentalbaste.com/*"

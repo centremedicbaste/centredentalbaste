@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Sedación consciente"
-permalink: /sedacion-consciente/
+permalink: /blog/sedacion-consciente/
 descripcion: ""
 metaTitle: "Sedación consciente en el dentista | Sant Boi de Llobregat"
 metaDescription: "Sedación consciente para reducir el miedo y ansiedad en tratamientos dentales. Experiencia cómoda y sin dolor. Ideal para adultos y niños."

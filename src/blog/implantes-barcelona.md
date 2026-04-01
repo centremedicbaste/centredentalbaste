@@ -1,7 +1,7 @@
 ---
 subtitle: "Implantes Dentales en Barcelona"
 title: "Implantes Dentales: Calidad y Confianza en Barcelona"
-permalink: /puentes-coronas-dentales/implantes-barcelona/
+permalink: /blog/implantes-barcelona/
 descripcion: "Descubre la calidad y confianza de los implantes dentales en Barcelona."
 metaTitle: "Implantes Dentales en Barcelona | Centre Dental Basté"
 metaDescription: "Explora la calidad y confianza de los implantes dentales en Barcelona para una sonrisa renovada."

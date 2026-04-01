@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Las claves en el precio de los implantes dentales"
-permalink: /las-claves-en-el-precio-de-los-implantes-dentales/
+permalink: /blog/las-claves-en-el-precio-de-los-implantes-dentales/
 descripcion: ""
 metaTitle: "Implantes dentales: factores de precio | Sant Boi | Centre Dental Basté"
 metaDescription: "Descubre los factores que influyen en el precio de los implantes dentales en Sant Boi de Llobregat. Aprende sobre la calidad de los materiales, la pieza dental y cómo evitar ofertas engañosas. ¡Infórmate y toma la mejor decisión para tu salud dental!"

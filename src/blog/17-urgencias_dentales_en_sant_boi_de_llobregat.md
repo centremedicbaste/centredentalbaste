@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Urgencias dentales en Sant Boi de Llobregat"
-permalink: /urgencias-dentales-en-sant-boi-de-llobregat/
+permalink: /blog/urgencias-dentales-en-sant-boi-de-llobregat/
 descripcion: ""
 metaTitle: "Urgencias dentales en Sant Boi de Llobregat"
 metaDescription: "Urgencias dentales en Sant Boi de Llobregat. Atendemos dolores intensos, infecciones y fracturas con equipo especializado. Centre Dental Basté."

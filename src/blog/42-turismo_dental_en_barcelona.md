@@ -1,7 +1,7 @@
 ---
 subtitle: ""
 title: "Turismo dental en Barcelona"    
-permalink: /turismo-dental-en-barcelona/
+permalink: /blog/turismo-dental-en-barcelona/
 descripcion: ""
 metaTitle: "Turismo dental en Barcelona | Centre Dental Basté"
 metaDescription: "Descubre el turismo dental en Barcelona y aprovecha tu visita para realizar tratamientos dentales de calidad mientras disfrutas de la oferta cultural y gastronómica de la ciudad. Clínicas avanzadas y profesionales cualificados te esperan."
