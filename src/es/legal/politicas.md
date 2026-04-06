@@ -1,6 +1,6 @@
 ---
 metaRobots: "index, follow"
-metaTitle:  Legal | Política de privacidad 
+metaTitle:  Legal | Política de privacidad
 
 layout: legal/_legales
 title: Políticas de privacidad
@@ -10,28 +10,50 @@ date: 2024-02-02
 tags: ["legal", "políticas"]
 image: /assets/static/images/5.jpg
 imageAlt: politicas de privacidad
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: Política de privacidad de Centre Dental Basté. Información sobre cómo recogemos, tratamos y protegemos tus datos personales, conforme al RGPD y la LOPDGDD.
 
 ---
 
-{{global_index.email}}
- {{global_index.legal_nombre_titular_direccion}}
-
 # Protección de Datos
 
-En cumplimiento de lo dispuesto en el artículo 5 de la Ley Orgánica 15/1999 de 13 de diciembre de Protección de Datos de Carácter Personal y Reglamento General de Protección de Datos (en adelante, “LOPD”) y el Reglamento General de Protección de Datos (en adelante, “RGPD”), {{global_index.legal_nombre_titular}} le informa que los datos de carácter personal que nos proporcione al rellenar cualquier formulario de esta página se recogerán en ficheros que son titularidad de {{global_index.legal_nombre_titular}} con domicilio social en la  {{global_index.legal_nombre_titular_direccion}}.
+En cumplimiento del Reglamento General de Protección de Datos (UE) 2016/679, de 27 de abril de 2016 (en adelante, "RGPD"), y de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (en adelante, "LOPDGDD"), {{global_index.legal_nombre_titular}} le informa que los datos de carácter personal que nos proporcione al rellenar cualquier formulario de esta página serán tratados bajo la responsabilidad de {{global_index.legal_nombre_titular}}, con domicilio social en {{global_index.legal_nombre_titular_direccion}}.
 
-El usuario puede ejercer su derecho de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales en los términos y en las condiciones previstos por la LOPD, dirigiéndose por escrito a la sede social de {{global_index.legal_nombre_titular}} con domicilio social en la {{global_index.legal_nombre_titular_direccion}}, o mediante correo electrónico a la dirección [{{global_index.email}}](mailto:{{global_index.email}}).
+## Finalidad del tratamiento
 
-En los formularios de registro se señalan los distintos campos cuya cumplimentación es necesaria para obtener el servicio o prestación solicitada. Salvo indicación contraria, la respuesta a las preguntas sobre datos personales son voluntarias y salvo que se indique lo contrario, la falta de respuesta a las preguntas no supondrá un perjuicio en la calidad o en la cantidad de los servicios ofertados.
+Los datos personales recogidos a través de los formularios de esta web se tratarán con las siguientes finalidades:
 
-Al facilitar sus datos de carácter personal mediante los formularios de esta web, o su envío mediante cualquier otro medio, los usuarios declaran aceptar plenamente y sin reservas la incorporación de los datos facilitados a los ficheros de {{global_index.legal_nombre_titular}} y su tratamiento, en los términos estipulados en el presente documento.
+- Atender las consultas, solicitudes o peticiones que nos realice.
+- Prestar los servicios odontológicos solicitados y gestionar la relación con el paciente.
+- Enviarle, si nos otorga su consentimiento expreso, comunicaciones comerciales sobre nuestros servicios, ofertas y promociones.
 
-Con la aceptación del presente aviso legal reconoce que la información y los datos personales recogidos son exactos y veraces y acepta que la recogida de sus datos de carácter personal se realiza con la finalidad de prestar los servicios solicitados y remitirle publicidad y ofertas comerciales de otros productos y servicios, avisos, ofertas y, en general, información de {{global_index.legal_nombre_titular}} de carácter comercial que pueda ser de su interés. De conformidad con lo previsto en el artículo 11 de la LOPD, al rellenar el presente formulario presta también su consentimiento a ceder sus datos personales a aquellas empresas colaboradoras de {{global_index.legal_nombre_titular}} cuya intervención fuera necesaria para prestar un mejor servicio y únicamente con la finalidad de dirigirle información, siempre en el ámbito de las funciones legítimas de cedente y cesionario.
+## Base jurídica del tratamiento
 
-También autoriza a {{global_index.legal_nombre_titular}} para que pueda remitirle comunicaciones comerciales a través del correo electrónico o de cualquier otro medio de comunicación electrónica equivalente. Las autorizaciones para el envío de información comercial, cesión de datos y envío de comunicaciones comerciales por medios electrónicos serán revocables, en cualquier momento, mediante comunicación escrita dirigida a {{global_index.legal_nombre_titular}} a las direcciones antes mencionadas.
+La base jurídica para el tratamiento de sus datos es la ejecución de una relación contractual o precontractual (prestación de servicios), el cumplimiento de obligaciones legales aplicables al sector sanitario y, cuando corresponda, el consentimiento expreso del interesado para el envío de comunicaciones comerciales.
 
-{{global_index.legal_nombre_titular}} indica que tiene implantadas todas las medidas técnicas y organizativas necesarias para garantizar la seguridad de los datos de carácter personal y se compromete a tratarlos de forma absolutamente confidencial, usándolos sólo para las finalidades aquí descritas y todo ello de conformidad con lo previsto en el artículo 9 de la LOPD y en el Real Decreto 1720/2007 de 21 de diciembre, por el cual se aprueba el Reglamento de Medidas de Seguridad de los Ficheros Automatizados que contengan Datos de Carácter Personal.
+## Destinatarios
 
-{{global_index.legal_nombre_titular}} se reserva el derecho de modificar en cualquier momento su política de tratamiento y seguridad de datos personales, respetando en todo momento la legislación vigente en materia de protección de datos y previa comunicación a los interesados, ya sea mediante publicación en esta misma página o en cualquier otro lugar de la web, o el medio o canal de difusión que considere oportuno.
+Los datos personales no serán cedidos a terceros salvo obligación legal o cuando sea estrictamente necesario para la prestación del servicio solicitado, en cuyo caso se informará al usuario de forma previa.
 
+## Derechos del interesado
+
+El usuario puede ejercer sus derechos de **acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad** de sus datos personales, dirigiéndose por escrito a la sede social de {{global_index.legal_nombre_titular}} con domicilio en {{global_index.legal_nombre_titular_direccion}}, o mediante correo electrónico a [{{global_index.email}}](mailto:{{global_index.email}}), adjuntando copia de su documento de identidad.
+
+Asimismo, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es) si considera que el tratamiento de sus datos no es conforme a la normativa vigente.
+
+## Carácter voluntario de los datos
+
+En los formularios de registro se señalan los distintos campos cuya cumplimentación es necesaria para obtener el servicio o prestación solicitada. La falta de respuesta a las preguntas no obligatorias no supondrá un perjuicio en la calidad o cantidad de los servicios ofertados.
+
+## Consentimiento
+
+Al facilitar sus datos de carácter personal mediante los formularios de esta web, el usuario declara haber leído y aceptado la presente política de privacidad, y consiente expresamente el tratamiento de sus datos conforme a las finalidades aquí descritas.
+
+Las autorizaciones para el envío de comunicaciones comerciales serán revocables en cualquier momento, mediante comunicación escrita dirigida a {{global_index.legal_nombre_titular}} a las direcciones indicadas.
+
+## Seguridad
+
+{{global_index.legal_nombre_titular}} ha implementado todas las medidas técnicas y organizativas necesarias para garantizar la seguridad de los datos de carácter personal, y se compromete a tratarlos de forma absolutamente confidencial, usándolos únicamente para las finalidades aquí descritas.
+
+## Modificaciones
+
+{{global_index.legal_nombre_titular}} se reserva el derecho de modificar en cualquier momento su política de privacidad, respetando la legislación vigente en materia de protección de datos y comunicándolo a los interesados mediante publicación en esta misma página.

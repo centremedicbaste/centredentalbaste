@@ -12,7 +12,7 @@ date: 2024-02-02
 tags: ["legal", "cookies"]
 image: /assets/static/images/4.jpg
 imageAlt: cookies
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: Política de cookies de Centre Dental Basté. Conoce qué cookies utilizamos, para qué sirven y cómo puedes gestionarlas o desactivarlas en tu navegador.
 
 ---
 
@@ -68,7 +68,7 @@ Al utilizar esta web, el Usuario acepta expresamente el tratamiento de la inform
 
 Para revocar el consentimiento otorgado, tiene la posibilidad de deshabilitar las cookies modificando la configuración de su navegador. En los enlaces que se detallan a continuación, encontrará más información sobre qué cookies tiene instaladas, cómo permitir su instalación, bloquearlas o eliminarlas de su equipo. Dependiendo de qué navegador utilice dispone de los siguientes enlaces:
 
-- [Chrome](https://support.google.com/chrome/bin/answer.py?hl=es&amp;answer=95647)
-- [Explorer](https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9)
+- [Chrome](https://support.google.com/chrome/answer/95647?hl=es)
+- [Microsoft Edge](https://support.microsoft.com/es-es/microsoft-edge/eliminar-las-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
 - [Firefox](https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we)
-- [Safari](https://support.apple.com/kb/ph5042)
+- [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac)

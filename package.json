@@ -24,6 +24,9 @@
     "url": "https://github.com/Allchorne3/11ty-nunjucks/issues"
   },
   "homepage": "https://github.com/Allchorne3/11ty-nunjucks#readme",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^4.0.2",

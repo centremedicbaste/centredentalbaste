@@ -1,7 +1,7 @@
 ---
 metaRobots: "index, follow"
 metaTitle:  Legal | Aviso Legal
-    
+
 layout: legal/_legales
 title: Aviso legal
 permalink: /legal/aviso-legal/
@@ -14,20 +14,20 @@ date: 2024-02-02
 tags: ["legal", "aviso"]
 image: /assets/static/images/3.jpg
 imageAlt: aviso legal
-description: 
+description: Aviso legal de Centre Dental Basté. Información sobre la titularidad del dominio, condiciones de uso, propiedad intelectual y responsabilidades de la clínica dental en Sant Boi de Llobregat.
 
 ---
 
 
 # Aviso Legal
 
-Mediante este documento y en cumplimiento de lo previsto en la Ley 34/2002 de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico y otras normas de legal aplicación, se regula el servicio de la página web.
+Mediante este documento y en cumplimiento de lo previsto en la Ley 34/2002 de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE) y otras normas de aplicación, se regula el acceso y uso de la página web.
 
 ## Titularidad del dominio
 
-{{global_index.legal_nombre_titular}} con NIF {{global_index.legal_nif_titular}}, inscrita en el Registro Mercantil de Barcelona, Tomo 49165, Folio 28, Hoja 610044, domiciliada en la {{global_index.legal_nombre_titular_direccion}}, es la titular del dominio [{{global_index.website}}]({{global_index.website}}) y de su contenido.
+{{global_index.legal_nombre_titular}} con NIF {{global_index.legal_nif_titular}}, domiciliada en la {{global_index.legal_nombre_titular_direccion}}, es la titular del dominio [{{global_index.website}}]({{global_index.website}}) y de su contenido.
 
-Dicha sociedad presta servicios de gestión de patrimonios inmobiliarios, comunidades de propietarios y todo tipo de inmuebles, así como la prestación de todos los servicios asociados al principal.
+Dicha sociedad presta servicios odontológicos integrales, incluyendo tratamientos preventivos, estéticos, de ortodoncia e implantología, así como la prestación de todos los servicios asociados al principal.
 
 El acceso a la web de {{global_index.legal_nombre_titular}} y a la información relativa a cualquiera de los productos y servicios contenidos en la misma comporta la aceptación de las condiciones descritas en el presente Aviso Legal, por lo que es recomendable que lea atentamente su contenido antes de acceder y utilizar la información y los servicios ofrecidos en la misma.
 
@@ -39,9 +39,9 @@ Los contenidos del portal, en especial las referencias informativas y publicitar
 
 ## Política de privacidad y protección de datos
 
-{{global_index.legal_nombre_titular}} cumple íntegramente con la legislación vigente en materia de protección de datos de carácter personal y con los compromisos de confidencialidad propios de su actividad, de conformidad con la Ley Orgánica 15/1999 de 13 de diciembre, y ha adoptado las medidas técnicas pertinentes para mantener el nivel de seguridad requerido, según la naturaleza de los datos personales tratados y las circunstancias del tratamiento, para evitar, en la medida de lo posible y siempre según el estado de la técnica, su alteración, pérdida, tratamiento o acceso no autorizado.
+{{global_index.legal_nombre_titular}} cumple íntegramente con la legislación vigente en materia de protección de datos de carácter personal y con los compromisos de confidencialidad propios de su actividad, de conformidad con el Reglamento General de Protección de Datos (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD). Ha adoptado las medidas técnicas y organizativas pertinentes para mantener el nivel de seguridad requerido, según la naturaleza de los datos personales tratados, para evitar su alteración, pérdida, tratamiento o acceso no autorizado.
 
-En los formularios de la web en los que se recojan datos de carácter personal, se informará al cliente o usuario del destinatario de la información facilitada, de la finalidad para la cual se recogen los datos, de la identidad y dirección del responsable del fichero y de la facultad del usuario de ejercitar los derechos de acceso, rectificación, cancelación y oposición al tratamiento de sus datos. Los datos personales recogidos sólo serán tratados y/o cedidos con la finalidad expresada y siempre con el consentimiento del usuario o cliente.
+En los formularios de la web en los que se recojan datos de carácter personal, se informará al cliente o usuario del destinatario de la información facilitada, de la finalidad para la cual se recogen los datos, de la identidad y dirección del responsable del tratamiento y de la facultad del usuario de ejercitar los derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad conforme al RGPD. Los datos personales recogidos sólo serán tratados y/o cedidos con la finalidad expresada y siempre con el consentimiento del usuario o cliente.
 
 Para asegurarnos que la información de nuestros ficheros está siempre actualizada y no contiene errores, rogamos a nuestros clientes que, en caso de modificaciones y/o rectificaciones de sus datos de carácter personal, nos lo comuniquen a la mayor brevedad.
 
