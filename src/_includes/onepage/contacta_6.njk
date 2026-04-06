@@ -143,6 +143,7 @@
     function enviarFormulario() {
         var form = document.getElementById('contactForm');
         var data = new FormData(form);
+        data.append('form-name', 'contactformulario');
 
         fetch('/', {
             method: 'POST',
