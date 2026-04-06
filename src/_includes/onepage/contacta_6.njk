@@ -145,18 +145,32 @@
         var formData = new FormData(form);
         formData.append('form-name', 'contactformulario');
 
-        fetch('/', {
+        // Datos para la función de Google Sheets
+        var jsonData = {};
+        formData.forEach(function(value, key) { jsonData[key] = value; });
+
+        // 1. Enviar a Netlify Forms (para email)
+        var netlifyPromise = fetch('/', {
             method: 'POST',
             headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
             body: new URLSearchParams(formData).toString()
-        }).then(response => {
-            if (response.ok) {
-                document.getElementById('modalMensajeEnviado').style.display = 'flex'; // Mostrar el modal
-                form.reset(); // Opcional: resetear el formulario
+        });
+
+        // 2. Enviar a Google Sheets (función Netlify)
+        var sheetsPromise = fetch('/.netlify/functions/form-to-sheets', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(jsonData)
+        });
+
+        Promise.all([netlifyPromise, sheetsPromise]).then(function(responses) {
+            if (responses[0].ok) {
+                document.getElementById('modalMensajeEnviado').style.display = 'flex';
+                form.reset();
             } else {
                 alert('Hubo un error al enviar el mensaje.');
             }
-        }).catch(error => {
+        }).catch(function(error) {
             alert('Error al enviar el mensaje: ' + error.message);
         });
     }
