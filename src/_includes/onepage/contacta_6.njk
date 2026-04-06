@@ -142,10 +142,14 @@
     });
     function enviarFormulario() {
         var form = document.getElementById('contactForm');
-        var data = new FormData(form);
-        fetch('/', {
+        var formData = new FormData(form);
+        var data = {};
+        formData.forEach(function(value, key) { data[key] = value; });
+
+        fetch('/.netlify/functions/form-to-sheets', {
             method: 'POST',
-            body: data
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
         }).then(response => {
             if (response.ok) {
                 document.getElementById('modalMensajeEnviado').style.display = 'flex'; // Mostrar el modal
