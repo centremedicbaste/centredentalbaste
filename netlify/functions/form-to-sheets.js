@@ -6,8 +6,6 @@
 const crypto = require("crypto");
 const https = require("https");
 
-// Lee las credenciales del servicio desde variable de entorno
-const SERVICE_ACCOUNT = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT);
 const SPREADSHEET_ID = "1NBod4SKEbgU--TZJHkQVWmKMEyuR5gDMSU_HbZVVWLI";
 const SHEET_NAME = "centredentalbaste";
 
@@ -104,6 +102,9 @@ exports.handler = async (event) => {
   }
 
   try {
+    // Lee las credenciales dentro del handler para capturar errores en los logs
+    const SERVICE_ACCOUNT = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT);
+
     const submission = JSON.parse(event.body);
     const data = submission.data || submission;
 
