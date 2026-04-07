@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Invitación – Cóctel Medicina Estética · Centre Dental Basté</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f3ede6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-family: 'Lato', sans-serif;
+      padding: 24px;
+    }
+
+    .card {
+      width: 520px;
+      background: #faf7f4;
+      border: 1px solid #e0d5c8;
+      box-shadow: 0 8px 48px rgba(149, 112, 89, 0.18);
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Top decorative band */
+    .band-top {
+      height: 8px;
+      background: linear-gradient(90deg, #957059, #c9a882, #957059);
+    }
+
+    /* Header */
+    .header {
+      background: #1e1e1e;
+      text-align: center;
+      padding: 40px 32px 32px;
+      position: relative;
+    }
+    .header::after {
+      content: '';
+      display: block;
+      width: 60px;
+      height: 2px;
+      background: #957059;
+      margin: 16px auto 0;
+    }
+
+    .logo-name {
+      font-family: 'Lato', sans-serif;
+      font-weight: 300;
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #c9a882;
+      margin-bottom: 18px;
+    }
+
+    .aniversario {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 13px;
+      color: #957059;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+
+    .title-main {
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: #ffffff;
+      line-height: 1.15;
+      letter-spacing: 0.5px;
+    }
+
+    .title-sub {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      font-size: 20px;
+      font-weight: 400;
+      color: #c9a882;
+      margin-top: 6px;
+      line-height: 1.3;
+    }
+
+    /* Decorative divider */
+    .divider {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 22px 32px 0;
+      gap: 12px;
+    }
+    .divider-line {
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #957059);
+    }
+    .divider-line.right {
+      background: linear-gradient(90deg, #957059, transparent);
+    }
+    .divider-diamond {
+      width: 8px;
+      height: 8px;
+      background: #957059;
+      transform: rotate(45deg);
+      flex-shrink: 0;
+    }
+
+    /* Body */
+    .body {
+      padding: 24px 36px 28px;
+      text-align: center;
+    }
+
+    .intro {
+      font-size: 14px;
+      font-weight: 300;
+      color: #555;
+      line-height: 1.7;
+      margin-bottom: 24px;
+      font-style: italic;
+    }
+
+    /* Date / Time block */
+    .event-info {
+      background: #1e1e1e;
+      color: white;
+      padding: 22px 28px;
+      margin: 0 0 24px;
+      display: flex;
+      justify-content: center;
+      gap: 0;
+    }
+    .info-block {
+      flex: 1;
+      text-align: center;
+      padding: 0 16px;
+    }
+    .info-block + .info-block {
+      border-left: 1px solid #3a3a3a;
+    }
+    .info-label {
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #957059;
+      margin-bottom: 6px;
+    }
+    .info-value {
+      font-family: 'Playfair Display', serif;
+      font-size: 18px;
+      color: #fff;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+    .info-value small {
+      display: block;
+      font-family: 'Lato', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      color: #c9a882;
+      margin-top: 3px;
+      letter-spacing: 1px;
+    }
+
+    /* Services */
+    .services-title {
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #957059;
+      margin-bottom: 14px;
+    }
+    .services {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .service-pill {
+      border: 1px solid #957059;
+      padding: 8px 16px;
+      font-size: 11px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: #957059;
+      font-weight: 700;
+    }
+
+    /* Appointment notice */
+    .notice {
+      background: #957059;
+      padding: 14px 24px;
+      margin-bottom: 24px;
+    }
+    .notice p {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #fff;
+      font-weight: 700;
+    }
+    .notice span {
+      display: block;
+      font-family: 'Lato', sans-serif;
+      font-size: 11px;
+      font-weight: 300;
+      letter-spacing: 1px;
+      color: rgba(255,255,255,0.8);
+      margin-top: 4px;
+      text-transform: none;
+    }
+
+    /* Location */
+    .location {
+      font-size: 12px;
+      color: #666;
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+    .location strong {
+      display: block;
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #957059;
+      margin-bottom: 4px;
+      font-weight: 700;
+    }
+
+    /* CTA */
+    .cta {
+      background: #1e1e1e;
+      padding: 16px 24px;
+      margin-bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+    }
+    .cta-label {
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #957059;
+    }
+    .cta-number {
+      font-family: 'Playfair Display', serif;
+      font-size: 16px;
+      color: #fff;
+    }
+
+    /* Duration badge */
+    .duration {
+      font-size: 11px;
+      color: #888;
+      margin-bottom: 22px;
+      font-style: italic;
+    }
+    .duration strong {
+      color: #957059;
+      font-style: normal;
+    }
+
+    /* Bottom band */
+    .band-bottom {
+      height: 8px;
+      background: linear-gradient(90deg, #957059, #c9a882, #957059);
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="band-top"></div>
+
+    <div class="header">
+      <p class="logo-name">Centre Dental Basté</p>
+      <p class="aniversario">✦ Celebramos nuestro 3.er Aniversario ✦</p>
+      <h1 class="title-main">Cóctel de<br>Medicina Estética</h1>
+      <p class="title-sub">&amp; Micropigmentación</p>
+    </div>
+
+    <div class="divider">
+      <div class="divider-line"></div>
+      <div class="divider-diamond"></div>
+      <div class="divider-line right"></div>
+    </div>
+
+    <div class="body">
+
+      <p class="intro">
+        Nos complace invitarte a una tarde especial en nuestra clínica.<br>
+        Descubre nuestros tratamientos y déjate asesorar por nuestros profesionales.
+      </p>
+
+      <div class="event-info">
+        <div class="info-block">
+          <p class="info-label">Fecha</p>
+          <p class="info-value">24 de Abril<small>Viernes</small></p>
+        </div>
+        <div class="info-block">
+          <p class="info-label">Horario</p>
+          <p class="info-value">15:00 – 20:00<small>Visitas de 15 min.</small></p>
+        </div>
+      </div>
+
+      <p class="services-title">Especialidades disponibles</p>
+      <div class="services">
+        <div class="service-pill">Medicina Estética</div>
+        <div class="service-pill">Micropigmentación</div>
+      </div>
+
+      <p class="duration">Cada visita incluye <strong>asesoría personalizada</strong> y presentación de presupuesto</p>
+
+      <div class="notice">
+        <p>⚠ Cita Previa Obligatoria</p>
+        <span>Sin reserva previa no podremos atenderte — plazas limitadas</span>
+      </div>
+
+      <div class="location">
+        <strong>Dónde encontrarnos</strong>
+        Riera Basté 18-20 · 08830 Sant Boi de Llobregat
+      </div>
+
+      <div class="cta">
+        <p class="cta-label">Reserva tu visita por WhatsApp</p>
+        <p class="cta-number">+34 673 252 060</p>
+      </div>
+
+    </div>
+
+    <div class="band-bottom"></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,732 @@
+---
+layout: layout/base.njk
+colorHeader: has-light-menu
+---
+
+<style>
+  /* ── Landing Cóctel Medicina Estética ── */
+  .coctel-hero {
+    position: relative;
+    min-height: 100vh;
+    background-color: #1e1e1e;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+  }
+  .coctel-hero__bg {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(160deg, #2b2520 0%, #1e1e1e 60%, #0d0d0d 100%);
+  }
+  .coctel-hero__bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 70% 40%, rgba(149,112,89,0.18) 0%, transparent 65%);
+  }
+  .coctel-hero__deco {
+    position: absolute;
+    top: 0; right: 0;
+    width: 55%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(149,112,89,0.06) 0%, transparent 60%);
+    border-left: 1px solid rgba(149,112,89,0.12);
+    pointer-events: none;
+  }
+  .coctel-hero__content {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    padding: 180px 0 80px;
+  }
+  .coctel-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgba(149,112,89,0.5);
+    padding: 6px 16px;
+    margin-bottom: 28px;
+  }
+  .coctel-badge span {
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #c9a882;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-badge::before {
+    content: '';
+    display: block;
+    width: 6px;
+    height: 6px;
+    background: #957059;
+    transform: rotate(45deg);
+    flex-shrink: 0;
+  }
+  .coctel-hero__eyebrow {
+    font-size: 11px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #957059;
+    margin-bottom: 16px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-hero__title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(42px, 7vw, 80px);
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.05;
+    margin-bottom: 12px;
+  }
+  .coctel-hero__title em {
+    font-style: italic;
+    color: #c9a882;
+  }
+  .coctel-hero__subtitle {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: clamp(18px, 3vw, 26px);
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 40px;
+  }
+  .coctel-hero__cta-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 64px;
+  }
+  .coctel-btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #957059;
+    color: #fff;
+    padding: 16px 32px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.3s;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-btn-primary:hover { background: #7d5e4a; color: #fff; }
+  .coctel-btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    color: rgba(255,255,255,0.8);
+    padding: 16px 32px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: border-color 0.3s, color 0.3s;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-btn-ghost:hover { border-color: #957059; color: #c9a882; }
+
+  /* Countdown */
+  .coctel-countdown {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .coctel-countdown__block {
+    text-align: center;
+    min-width: 64px;
+  }
+  .coctel-countdown__num {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1;
+    display: block;
+    min-width: 56px;
+  }
+  .coctel-countdown__label {
+    font-size: 9px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #957059;
+    margin-top: 6px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-countdown__sep {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    color: rgba(149,112,89,0.5);
+    line-height: 1;
+    padding-top: 4px;
+  }
+
+  /* ── Info cards ── */
+  .coctel-info {
+    background: #F8F3EF;
+    padding: 80px 0;
+  }
+  .coctel-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1px;
+    background: #e0d5c8;
+    border: 1px solid #e0d5c8;
+    margin-bottom: 0;
+  }
+  .coctel-card {
+    background: #faf7f4;
+    padding: 36px 28px;
+    text-align: center;
+  }
+  .coctel-card__icon {
+    font-size: 24px;
+    margin-bottom: 12px;
+    display: block;
+  }
+  .coctel-card__label {
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #957059;
+    margin-bottom: 8px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-card__value {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #1e1e1e;
+    line-height: 1.2;
+  }
+  .coctel-card__sub {
+    font-size: 12px;
+    color: #888;
+    margin-top: 4px;
+    font-family: 'Lato', sans-serif;
+  }
+
+  /* ── Notice ── */
+  .coctel-notice {
+    background: #1e1e1e;
+    padding: 20px 28px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .coctel-notice__icon {
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .coctel-notice__text {
+    flex: 1;
+  }
+  .coctel-notice__title {
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #957059;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-notice__sub {
+    font-size: 12px;
+    color: rgba(255,255,255,0.6);
+    margin-top: 3px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-notice__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #957059;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.3s;
+    white-space: nowrap;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-notice__btn:hover { background: #7d5e4a; color: #fff; }
+
+  /* ── Servicios ── */
+  .coctel-servicios {
+    padding: 100px 0;
+    background: #ffffff;
+  }
+  .coctel-section-label {
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #957059;
+    margin-bottom: 16px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(28px, 4vw, 48px);
+    font-weight: 700;
+    color: #1e1e1e;
+    line-height: 1.15;
+    margin-bottom: 16px;
+  }
+  .coctel-section-title em {
+    font-style: italic;
+    color: #957059;
+  }
+  .coctel-section-desc {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.7;
+    max-width: 560px;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-service-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    margin-top: 56px;
+  }
+  .coctel-service-item {
+    border: 1px solid #e8ddd4;
+    padding: 40px 32px;
+    position: relative;
+    overflow: hidden;
+    transition: border-color 0.3s, transform 0.3s;
+  }
+  .coctel-service-item:hover {
+    border-color: #957059;
+    transform: translateY(-4px);
+  }
+  .coctel-service-item::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px;
+    height: 0;
+    background: #957059;
+    transition: height 0.4s;
+  }
+  .coctel-service-item:hover::before { height: 100%; }
+  .coctel-service-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
+    color: rgba(149,112,89,0.15);
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 16px;
+  }
+  .coctel-service-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #1e1e1e;
+    margin-bottom: 12px;
+  }
+  .coctel-service-desc {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.7;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-service-tag {
+    display: inline-block;
+    background: #F8F3EF;
+    border: 1px solid #e0d5c8;
+    padding: 4px 12px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #957059;
+    margin-top: 16px;
+    font-family: 'Lato', sans-serif;
+  }
+
+  /* ── How it works ── */
+  .coctel-how {
+    padding: 100px 0;
+    background: #1e1e1e;
+  }
+  .coctel-how .coctel-section-title { color: #ffffff; }
+  .coctel-how .coctel-section-desc { color: rgba(255,255,255,0.55); }
+  .coctel-steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0;
+    margin-top: 56px;
+    border: 1px solid #2e2e2e;
+  }
+  .coctel-step {
+    padding: 40px 32px;
+    border-right: 1px solid #2e2e2e;
+    position: relative;
+  }
+  .coctel-step:last-child { border-right: none; }
+  .coctel-step__num {
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
+    color: rgba(149,112,89,0.2);
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 20px;
+  }
+  .coctel-step__title {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+  .coctel-step__desc {
+    font-size: 13px;
+    color: rgba(255,255,255,0.5);
+    line-height: 1.7;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-step__accent {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, #957059, transparent);
+  }
+
+  /* ── CTA final ── */
+  .coctel-cta-final {
+    padding: 100px 0;
+    background: #F8F3EF;
+    text-align: center;
+  }
+  .coctel-cta-final .coctel-section-title {
+    margin-bottom: 12px;
+  }
+  .coctel-cta-final .coctel-section-desc {
+    margin: 0 auto 40px;
+    text-align: center;
+  }
+  .coctel-cta-group-center {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+  }
+  .coctel-wa-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: #25D366;
+    color: #fff;
+    padding: 18px 40px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.3s;
+    font-family: 'Lato', sans-serif;
+  }
+  .coctel-wa-btn:hover { background: #1ebe58; color: #fff; }
+  .coctel-wa-btn svg { width: 22px; height: 22px; fill: #fff; flex-shrink: 0; }
+
+  .coctel-divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 48px 0 32px;
+  }
+  .coctel-divider hr { flex: 1; border: none; border-top: 1px solid #e0d5c8; }
+  .coctel-divider span {
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #957059;
+    font-family: 'Lato', sans-serif;
+  }
+
+  /* Map embed */
+  .coctel-map {
+    width: 100%;
+    height: 320px;
+    border: 0;
+    filter: grayscale(30%);
+  }
+
+  @media (max-width: 768px) {
+    .coctel-hero__title { font-size: 38px; }
+    .coctel-steps { grid-template-columns: 1fr; }
+    .coctel-step { border-right: none; border-bottom: 1px solid #2e2e2e; }
+    .coctel-step:last-child { border-bottom: none; }
+    .coctel-notice { flex-direction: column; text-align: center; }
+    .coctel-notice__btn { width: 100%; justify-content: center; }
+  }
+</style>
+
+
+<!-- ══ HERO ══════════════════════════════════════════════════════════ -->
+<section class="coctel-hero" data-scroll-section>
+  <div class="coctel-hero__bg"></div>
+  <div class="coctel-hero__deco"></div>
+
+  <div class="coctel-hero__content">
+    <div class="container-global mx-auto">
+      <div class="row">
+        <div class="col-xs-12 col-md-8">
+          <div class="coctel-badge">
+            <span>3.er Aniversario · Centre Dental Basté</span>
+          </div>
+          <p class="coctel-hero__eyebrow">Medicina Estética &amp; Micropigmentación</p>
+          <h1 class="coctel-hero__title">
+            Cóctel de<br><em>Medicina Estética</em>
+          </h1>
+          <p class="coctel-hero__subtitle">Una tarde exclusiva en tu clínica de confianza</p>
+          <div class="coctel-hero__cta-group">
+            <a href="https://wa.me/{{ global_index.whatsapp }}?text=Hola,%20quiero%20reservar%20mi%20visita%20para%20el%20cóctel%20del%2024%20de%20abril"
+               class="coctel-btn-primary" target="_blank" rel="noopener">
+              <svg width="18" height="18" viewBox="0 0 800 800" fill="currentColor">
+                <path d="M519 454c4 2 7 10-1 31-6 16-33 29-49 29-96 0-189-113-189-167 0-26 9-39 18-48 8-9 14-10 18-10h12c4 0 9 0 13 10l19 44c5 11-9 25-15 31-3 3-6 7-2 13 25 39 41 51 81 71 6 3 10 1 13-2l19-24c5-6 9-4 13-2zM401 200c-110 0-199 90-199 199 0 68 35 113 35 113l-20 74 76-20s42 32 108 32c110 0 199-89 199-199 0-111-89-199-199-199zm0-40c133 0 239 108 239 239 0 132-108 239-239 239-67 0-114-29-114-29l-127 33 34-124s-32-49-32-119c0-131 108-239 239-239z"/>
+              </svg>
+              Reserva tu visita
+            </a>
+            <a href="#servicios" class="coctel-btn-ghost">Conoce los tratamientos</a>
+          </div>
+
+          <!-- Countdown -->
+          <p style="font-size:10px; letter-spacing:3px; text-transform:uppercase; color:#957059; margin-bottom:16px; font-family:'Lato',sans-serif;">Faltan</p>
+          <div class="coctel-countdown" id="countdown">
+            <div class="coctel-countdown__block">
+              <span class="coctel-countdown__num" id="cd-days">--</span>
+              <span class="coctel-countdown__label">Días</span>
+            </div>
+            <div class="coctel-countdown__sep">:</div>
+            <div class="coctel-countdown__block">
+              <span class="coctel-countdown__num" id="cd-hours">--</span>
+              <span class="coctel-countdown__label">Horas</span>
+            </div>
+            <div class="coctel-countdown__sep">:</div>
+            <div class="coctel-countdown__block">
+              <span class="coctel-countdown__num" id="cd-mins">--</span>
+              <span class="coctel-countdown__label">Minutos</span>
+            </div>
+            <div class="coctel-countdown__sep">:</div>
+            <div class="coctel-countdown__block">
+              <span class="coctel-countdown__num" id="cd-secs">--</span>
+              <span class="coctel-countdown__label">Segundos</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══ INFO CARDS ════════════════════════════════════════════════════ -->
+<section class="coctel-info" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="coctel-cards">
+      <div class="coctel-card">
+        <span class="coctel-card__icon">📅</span>
+        <p class="coctel-card__label">Fecha</p>
+        <p class="coctel-card__value">24 de Abril</p>
+        <p class="coctel-card__sub">Viernes</p>
+      </div>
+      <div class="coctel-card">
+        <span class="coctel-card__icon">🕒</span>
+        <p class="coctel-card__label">Horario</p>
+        <p class="coctel-card__value">15:00 – 20:00</p>
+        <p class="coctel-card__sub">Visitas de 15 minutos</p>
+      </div>
+      <div class="coctel-card">
+        <span class="coctel-card__icon">📍</span>
+        <p class="coctel-card__label">Dónde</p>
+        <p class="coctel-card__value">Riera Basté 18-20</p>
+        <p class="coctel-card__sub">08830 Sant Boi de Llobregat</p>
+      </div>
+      <div class="coctel-card">
+        <span class="coctel-card__icon">🎉</span>
+        <p class="coctel-card__label">Motivo</p>
+        <p class="coctel-card__value">3.er Aniversario</p>
+        <p class="coctel-card__sub">Centre Dental Basté</p>
+      </div>
+    </div>
+
+    <!-- Aviso cita previa -->
+    <div class="coctel-notice">
+      <span class="coctel-notice__icon">⚠️</span>
+      <div class="coctel-notice__text">
+        <p class="coctel-notice__title">Cita Previa Obligatoria</p>
+        <p class="coctel-notice__sub">Las plazas son limitadas. Sin reserva previa no podremos atenderte.</p>
+      </div>
+      <a href="https://wa.me/{{ global_index.whatsapp }}?text=Hola,%20quiero%20reservar%20mi%20visita%20para%20el%20cóctel%20del%2024%20de%20abril"
+         class="coctel-notice__btn" target="_blank" rel="noopener">
+        Reservar ahora →
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══ SERVICIOS ═════════════════════════════════════════════════════ -->
+<section class="coctel-servicios" id="servicios" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-5 mb-40 md:mb-0">
+        <p class="coctel-section-label">Especialidades disponibles</p>
+        <h2 class="coctel-section-title">Descubre lo que<br>podemos hacer <em>por ti</em></h2>
+        <p class="coctel-section-desc">
+          Nuestros especialistas te asesorarán en una visita personalizada de 15 minutos.
+          Recibirás una valoración y un presupuesto sin compromiso.
+        </p>
+      </div>
+      <div class="col-xs-12 col-md-7">
+        <div class="coctel-service-grid">
+
+          <div class="coctel-service-item">
+            <div class="coctel-service-num">01</div>
+            <h3 class="coctel-service-title">Medicina Estética</h3>
+            <p class="coctel-service-desc">
+              Tratamientos faciales y corporales con los procedimientos más avanzados: bótox, ácido hialurónico, rejuvenecimiento facial y más.
+            </p>
+            <span class="coctel-service-tag">Visita de 15 min.</span>
+          </div>
+
+          <div class="coctel-service-item">
+            <div class="coctel-service-num">02</div>
+            <h3 class="coctel-service-title">Micropigmentación</h3>
+            <p class="coctel-service-desc">
+              Técnicas de micropigmentación para cejas, labios y contorno de ojos. Resultados naturales y duraderos con profesionales especializados.
+            </p>
+            <span class="coctel-service-tag">Visita de 15 min.</span>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══ CÓMO FUNCIONA ═════════════════════════════════════════════════ -->
+<section class="coctel-how" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <p class="coctel-section-label">Cómo funciona</p>
+        <h2 class="coctel-section-title">Tu visita,<br>paso a paso</h2>
+        <p class="coctel-section-desc">
+          Todo está pensado para que aproveches al máximo tu tiempo con nosotros.
+        </p>
+      </div>
+    </div>
+    <div class="coctel-steps">
+      <div class="coctel-step">
+        <div class="coctel-step__accent"></div>
+        <div class="coctel-step__num">01</div>
+        <h3 class="coctel-step__title">Reserva tu cita</h3>
+        <p class="coctel-step__desc">Escríbenos por WhatsApp o llámanos para reservar tu franja de 15 minutos. Las plazas son limitadas.</p>
+      </div>
+      <div class="coctel-step">
+        <div class="coctel-step__accent"></div>
+        <div class="coctel-step__num">02</div>
+        <h3 class="coctel-step__title">Consulta personalizada</h3>
+        <p class="coctel-step__desc">Nuestros profesionales te atenderán de forma individual y resolverán todas tus dudas sobre los tratamientos.</p>
+      </div>
+      <div class="coctel-step">
+        <div class="coctel-step__accent"></div>
+        <div class="coctel-step__num">03</div>
+        <h3 class="coctel-step__title">Presupuesto sin compromiso</h3>
+        <p class="coctel-step__desc">Al final de la visita recibirás una asesoría detallada y un presupuesto personalizado, totalmente gratuito.</p>
+      </div>
+      <div class="coctel-step">
+        <div class="coctel-step__accent"></div>
+        <div class="coctel-step__num">04</div>
+        <h3 class="coctel-step__title">¡Celebra con nosotros!</h3>
+        <p class="coctel-step__desc">Comparte esta tarde especial en la que cumplimos 3 años cuidando de ti. Habrá cóctel de bienvenida.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══ CTA FINAL ═════════════════════════════════════════════════════ -->
+<section class="coctel-cta-final" data-scroll-section>
+  <div class="container-global mx-auto">
+    <p class="coctel-section-label" style="text-align:center;">¿Listo para venir?</p>
+    <h2 class="coctel-section-title" style="text-align:center;">Reserva tu visita<br>para el <em>24 de abril</em></h2>
+    <p class="coctel-section-desc" style="text-align:center;">
+      Viernes 24 de abril · 15:00 – 20:00 h · Riera Basté 18-20, Sant Boi de Llobregat<br>
+      <strong style="color:#957059;">⚠ Cita previa obligatoria — plazas muy limitadas</strong>
+    </p>
+
+    <div class="coctel-divider">
+      <hr /><span>Contacta con nosotros</span><hr />
+    </div>
+
+    <div class="coctel-cta-group-center">
+      <a href="https://wa.me/{{ global_index.whatsapp }}?text=Hola,%20quiero%20reservar%20mi%20visita%20para%20el%20cóctel%20del%2024%20de%20abril"
+         class="coctel-wa-btn" target="_blank" rel="noopener">
+        <svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+          <path d="M519 454c4 2 7 10-1 31-6 16-33 29-49 29-96 0-189-113-189-167 0-26 9-39 18-48 8-9 14-10 18-10h12c4 0 9 0 13 10l19 44c5 11-9 25-15 31-3 3-6 7-2 13 25 39 41 51 81 71 6 3 10 1 13-2l19-24c5-6 9-4 13-2zM401 200c-110 0-199 90-199 199 0 68 35 113 35 113l-20 74 76-20s42 32 108 32c110 0 199-89 199-199 0-111-89-199-199-199zm0-40c133 0 239 108 239 239 0 132-108 239-239 239-67 0-114-29-114-29l-127 33 34-124s-32-49-32-119c0-131 108-239 239-239z"/>
+        </svg>
+        Escríbenos por WhatsApp
+      </a>
+      <a href="tel:+34{{ global_index.whatsapp }}" class="coctel-btn-ghost"
+         style="border-color: rgba(149,112,89,0.5); color: #957059;">
+        O llámanos
+      </a>
+    </div>
+
+    <!-- Mapa -->
+    <div style="margin-top: 64px;">
+      <iframe
+        class="coctel-map"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2992.8!2d2.035658!3d41.346583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDIwJzQ3LjciTiAywrAwMicwOC40IkU!5e0!3m2!1ses!2ses!4v1"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="Localización Centre Dental Basté">
+      </iframe>
+    </div>
+  </div>
+</section>
+
+
+{% include "templates/footer_3.njk" %}
+
+
+<script>
+  // ── Countdown al 24 de abril 2025 a las 15:00 ──
+  (function() {
+    var target = new Date('2025-04-24T15:00:00');
+    function pad(n) { return String(n).padStart(2, '0'); }
+    function tick() {
+      var now = new Date();
+      var diff = target - now;
+      if (diff <= 0) {
+        document.getElementById('cd-days').textContent = '00';
+        document.getElementById('cd-hours').textContent = '00';
+        document.getElementById('cd-mins').textContent = '00';
+        document.getElementById('cd-secs').textContent = '00';
+        return;
+      }
+      var d = Math.floor(diff / 86400000);
+      var h = Math.floor((diff % 86400000) / 3600000);
+      var m = Math.floor((diff % 3600000) / 60000);
+      var s = Math.floor((diff % 60000) / 1000);
+      document.getElementById('cd-days').textContent  = pad(d);
+      document.getElementById('cd-hours').textContent = pad(h);
+      document.getElementById('cd-mins').textContent  = pad(m);
+      document.getElementById('cd-secs').textContent  = pad(s);
+    }
+    tick();
+    setInterval(tick, 1000);
+  })();
+</script>
