@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cóctel Medicina Estética & Micropigmentación · Centre Dental Basté</title>
+  <meta name="description" content="Únete a nuestro Cóctel de Medicina Estética y Micropigmentación con motivo de nuestro 3.er Aniversario. 24 de abril · 15:00–20:00 · Plazas limitadas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Satoshi:wght@300;400;500&display=swap" rel="stylesheet">
+  <!-- Fallback Satoshi via Bunny Fonts -->
+  <link rel="stylesheet" href="https://fonts.bunny.net/css?family=inter:300,400,500">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --c-primary: #957059;
+      --c-secondary: #1e1e1e;
+      --bg-primary: #F8F3EF;
+      --bg-light: #f3f2f0;
+      --bg-dark: #1D1E23;
+      --c-bg-dark: #f7f6f5;
+      --c-white: #ffffff;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg-primary);
+      color: var(--c-secondary);
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 300;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ─── TIPOGRAFÍA ────────────────────────────── */
+    .f-serif { font-family: 'Playfair Display', Georgia, serif; }
+    .f-sans  { font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+
+    /* ─── UTILIDADES ────────────────────────────── */
+    .container {
+      width: 100%;
+      max-width: 992px;
+      margin-inline: auto;
+      padding-inline: 24px;
+    }
+    .c-primary  { color: var(--c-primary); }
+    .c-white    { color: var(--c-white); }
+    .c-dark     { color: var(--c-secondary); }
+    .bg-dark    { background-color: var(--bg-dark); }
+    .bg-primary { background-color: var(--c-primary); }
+    .text-center { text-align: center; }
+
+    /* ─── HEADER / NAV ──────────────────────────── */
+    .site-header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      transition: background .35s;
+    }
+    .site-header.scrolled {
+      background: rgba(248, 243, 239, 0.96);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid #e8e0d8;
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+    .logo img {
+      height: 36px;
+      width: auto;
+      display: block;
+      filter: brightness(0) invert(1);
+      transition: filter .35s;
+    }
+    .site-header.scrolled .logo img {
+      filter: brightness(0);
+    }
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 13px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--c-white);
+      line-height: 1.2;
+      transition: color .35s;
+    }
+    .site-header.scrolled .logo-text {
+      color: var(--c-secondary);
+    }
+
+    /* ─── HERO ──────────────────────────────────── */
+    .hero {
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+      background-color: var(--bg-dark);
+      padding: 120px 24px 80px;
+    }
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(to bottom, rgba(29,30,35,0.55) 0%, rgba(29,30,35,0.75) 100%),
+        url('/assets/static/images/clinica-1.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      max-width: 720px;
+    }
+    .hero-badge {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      border: 1px solid var(--c-primary);
+      padding: 6px 18px;
+      margin-bottom: 32px;
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+    }
+    .hero-aniversario {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(11px, 2vw, 13px);
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      margin-bottom: 16px;
+    }
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(36px, 8vw, 72px);
+      font-weight: 300;
+      line-height: 1.05;
+      color: var(--c-white);
+      margin-bottom: 12px;
+    }
+    .hero-title em {
+      font-style: italic;
+      color: var(--c-primary);
+    }
+    .hero-subtitle {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(18px, 3.5vw, 28px);
+      font-weight: 300;
+      font-style: italic;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 40px;
+    }
+    .hero-desc {
+      font-size: 15px;
+      line-height: 1.7;
+      color: rgba(255,255,255,0.65);
+      max-width: 520px;
+      margin: 0 auto 48px;
+    }
+    .hero-cta-group {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 16px 36px;
+      font-size: 12px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      font-weight: 500;
+      text-decoration: none;
+      transition: all .25s;
+      cursor: pointer;
+      border: none;
+      font-family: 'Inter', sans-serif;
+    }
+    .btn-primary {
+      background-color: var(--c-primary);
+      color: var(--c-white);
+    }
+    .btn-primary:hover { background-color: #7e5e47; }
+    .btn-outline {
+      background: transparent;
+      color: var(--c-white);
+      border: 1px solid rgba(255,255,255,0.5);
+    }
+    .btn-outline:hover {
+      background: rgba(255,255,255,0.1);
+      border-color: var(--c-white);
+    }
+    .btn-dark {
+      background-color: var(--c-secondary);
+      color: var(--c-white);
+    }
+    .btn-dark:hover { background-color: #333; }
+    .btn-wa {
+      background-color: #25d366;
+      color: var(--c-white);
+    }
+    .btn-wa:hover { background-color: #1ebe5a; }
+    .btn svg { width: 18px; height: 18px; flex-shrink: 0; }
+
+    /* ─── FECHA FLOTANTE ────────────────────────── */
+    .hero-date-strip {
+      position: relative;
+      z-index: 2;
+      margin-top: auto;
+      padding-top: 48px;
+      display: flex;
+      gap: 0;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .date-block {
+      padding: 20px 36px;
+      border-top: 1px solid rgba(255,255,255,0.2);
+      text-align: center;
+    }
+    .date-block + .date-block {
+      border-left: 1px solid rgba(255,255,255,0.2);
+    }
+    .date-label {
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      display: block;
+      margin-bottom: 4px;
+    }
+    .date-value {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(18px, 3vw, 26px);
+      color: var(--c-white);
+      font-weight: 300;
+    }
+    .date-sub {
+      font-size: 11px;
+      color: rgba(255,255,255,0.45);
+      margin-top: 2px;
+    }
+
+    /* ─── URGENCY BAR ───────────────────────────── */
+    .urgency-bar {
+      background-color: var(--c-primary);
+      color: var(--c-white);
+      text-align: center;
+      padding: 14px 24px;
+    }
+    .urgency-bar p {
+      font-size: 13px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+    .urgency-bar strong { font-weight: 500; }
+
+    /* ─── SECCIÓN GENÉRICA ──────────────────────── */
+    section { padding: 80px 0; }
+    section.sm { padding: 56px 0; }
+
+    .section-label {
+      font-size: 11px;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      margin-bottom: 16px;
+      display: block;
+    }
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(28px, 5vw, 48px);
+      font-weight: 300;
+      line-height: 1.1;
+      color: var(--c-secondary);
+      margin-bottom: 24px;
+    }
+    .section-title em { font-style: italic; color: var(--c-primary); }
+    .section-desc {
+      font-size: 15px;
+      line-height: 1.75;
+      color: #666;
+      max-width: 560px;
+    }
+
+    /* ─── BLOQUE INTRO / 2 COL ──────────────────── */
+    .intro-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 64px;
+      align-items: center;
+    }
+    @media (max-width: 767px) {
+      .intro-grid { grid-template-columns: 1fr; gap: 40px; }
+    }
+    .intro-image {
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      position: relative;
+    }
+    .intro-image img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.6s ease;
+    }
+    .intro-image:hover img { transform: scale(1.03); }
+
+    /* ─── ESPECIALIDADES ────────────────────────── */
+    .specialties {
+      background-color: var(--bg-dark);
+      color: var(--c-bg-dark);
+    }
+    .specialties .section-title { color: var(--c-bg-dark); }
+    .specialties .section-desc  { color: rgba(247,246,245,0.6); }
+
+    .spec-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2px;
+      margin-top: 48px;
+    }
+    @media (max-width: 600px) {
+      .spec-grid { grid-template-columns: 1fr; }
+    }
+    .spec-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      padding: 40px 36px;
+      transition: background .25s;
+    }
+    .spec-card:hover { background: rgba(149,112,89,0.12); }
+    .spec-icon {
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--c-primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+    .spec-icon svg { width: 20px; height: 20px; stroke: var(--c-primary); fill: none; stroke-width: 1.5; }
+    .spec-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 300;
+      color: var(--c-white);
+      margin-bottom: 12px;
+    }
+    .spec-desc {
+      font-size: 14px;
+      line-height: 1.7;
+      color: rgba(247,246,245,0.55);
+    }
+    .spec-tag {
+      display: inline-block;
+      margin-top: 20px;
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      border: 1px solid var(--c-primary);
+      padding: 5px 12px;
+    }
+
+    /* ─── INFO EVENT ────────────────────────────── */
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1px;
+      background-color: #e8e0d8;
+      margin-top: 48px;
+    }
+    @media (max-width: 600px) {
+      .info-grid { grid-template-columns: 1fr; }
+    }
+    .info-item {
+      background-color: var(--bg-primary);
+      padding: 36px 28px;
+      text-align: center;
+    }
+    .info-number {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(32px, 5vw, 52px);
+      font-weight: 300;
+      color: var(--c-primary);
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+    .info-title {
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--c-secondary);
+      margin-bottom: 6px;
+    }
+    .info-sub {
+      font-size: 13px;
+      color: #888;
+    }
+
+    /* ─── AVISO PLAZAS ──────────────────────────── */
+    .aviso {
+      background-color: #fdf5ee;
+      border: 1px solid #e8d5c2;
+      border-left: 3px solid var(--c-primary);
+      padding: 20px 24px;
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      margin-top: 48px;
+    }
+    .aviso-icon {
+      font-size: 20px;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    .aviso-text strong {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--c-secondary);
+      margin-bottom: 4px;
+    }
+    .aviso-text p {
+      font-size: 14px;
+      color: #777;
+      line-height: 1.5;
+    }
+
+    /* ─── CTA SECTION ───────────────────────────── */
+    .cta-section {
+      background-color: var(--c-secondary);
+      padding: 80px 24px;
+      text-align: center;
+    }
+    .cta-section .section-title { color: var(--c-white); }
+    .cta-section .section-desc  { color: rgba(255,255,255,0.55); margin-inline: auto; }
+    .cta-steps {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+      margin: 48px 0;
+    }
+    .cta-step {
+      text-align: center;
+      max-width: 200px;
+    }
+    .cta-step-num {
+      width: 40px; height: 40px;
+      border: 1px solid var(--c-primary);
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Playfair Display', serif;
+      font-size: 18px;
+      color: var(--c-primary);
+      margin: 0 auto 16px;
+    }
+    .cta-step p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.55);
+      line-height: 1.6;
+    }
+    .cta-step strong { color: var(--c-white); font-weight: 400; }
+
+    /* ─── MAPA / DIRECCIÓN ──────────────────────── */
+    .location-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      align-items: stretch;
+      background: var(--bg-light);
+    }
+    @media (max-width: 767px) {
+      .location-grid { grid-template-columns: 1fr; }
+    }
+    .location-info {
+      padding: 56px 48px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .location-map {
+      min-height: 320px;
+      overflow: hidden;
+    }
+    .location-map iframe {
+      width: 100%; height: 100%;
+      min-height: 320px;
+      border: 0;
+      display: block;
+      filter: grayscale(30%);
+    }
+    .location-detail {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+    .location-detail-icon {
+      width: 32px; height: 32px;
+      border: 1px solid #e0d0c0;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+    }
+    .location-detail-icon svg { width: 16px; height: 16px; stroke: var(--c-primary); fill: none; stroke-width: 1.5; }
+    .location-detail-label {
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--c-primary);
+      display: block;
+      margin-bottom: 3px;
+    }
+    .location-detail-value {
+      font-size: 15px;
+      color: var(--c-secondary);
+      line-height: 1.4;
+    }
+
+    /* ─── FOOTER ────────────────────────────────── */
+    .site-footer {
+      background-color: var(--bg-dark);
+      color: rgba(247,246,245,0.45);
+      padding: 32px 24px;
+      text-align: center;
+      font-size: 12px;
+      letter-spacing: 0.05em;
+    }
+    .site-footer a { color: var(--c-primary); text-decoration: none; }
+
+    /* ─── STICKY BOTTOM CTA (mobile) ─────────────── */
+    .sticky-cta {
+      display: none;
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      z-index: 200;
+      background: var(--bg-dark);
+      padding: 12px 20px;
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+    @media (max-width: 767px) { .sticky-cta { display: block; } }
+    .sticky-cta a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background: #25d366;
+      color: #fff;
+      text-decoration: none;
+      padding: 14px;
+      font-size: 13px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    /* ─── DIVIDER ───────────────────────────────── */
+    .ornament {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      color: var(--c-primary);
+      margin-bottom: 24px;
+    }
+    .ornament::before,
+    .ornament::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: currentColor;
+      opacity: 0.3;
+    }
+    .ornament span { font-size: 16px; }
+
+    /* ─── COUNTDOWN ─────────────────────────────── */
+    .countdown {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: 32px 0;
+    }
+    .countdown-item {
+      text-align: center;
+      min-width: 72px;
+    }
+    .countdown-num {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(36px, 6vw, 56px);
+      font-weight: 300;
+      color: var(--c-white);
+      line-height: 1;
+      display: block;
+    }
+    .countdown-label {
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.4);
+      margin-top: 6px;
+    }
+    .countdown-sep {
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      color: var(--c-primary);
+      align-self: flex-start;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ─── HEADER ─────────────────────────────────── -->
+  <header class="site-header" id="siteHeader">
+    <a href="https://www.centredentalbaste.com" class="logo" target="_blank">
+      <img src="/assets/static/images/logos/logo.png" alt="Centre Dental Basté" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+      <span class="logo-text" style="display:none">Centre Dental Basté</span>
+    </a>
+  </header>
+
+  <!-- ─── HERO ───────────────────────────────────── -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+
+    <div class="hero-content">
+      <p class="hero-aniversario">✦ &nbsp; Celebramos nuestro 3.<sup>er</sup> Aniversario &nbsp; ✦</p>
+      <h1 class="hero-title">Cóctel de <em>Medicina</em><br>Estética</h1>
+      <p class="hero-subtitle">& Micropigmentación</p>
+      <p class="hero-desc">
+        Nos complace invitarte a una tarde especial en nuestra clínica. Descubre nuestros tratamientos y déjate asesorar por nuestros profesionales.
+      </p>
+      <div class="hero-cta-group">
+        <a href="https://wa.me/34673252060?text=Hola%2C%20quiero%20reservar%20mi%20visita%20para%20el%20c%C3%B3ctel%20de%20medicina%20est%C3%A9tica%20del%2024%20de%20abril." class="btn btn-wa" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="width:18px;height:18px"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          Reservar mi visita
+        </a>
+        <a href="#info" class="btn btn-outline">Ver detalles</a>
+      </div>
+    </div>
+
+    <div class="hero-date-strip">
+      <div class="date-block">
+        <span class="date-label">Fecha</span>
+        <span class="date-value">24 de Abril</span>
+        <div class="date-sub">Viernes</div>
+      </div>
+      <div class="date-block">
+        <span class="date-label">Horario</span>
+        <span class="date-value">15:00 – 20:00</span>
+        <div class="date-sub">Visitas de 15 min.</div>
+      </div>
+      <div class="date-block">
+        <span class="date-label">Lugar</span>
+        <span class="date-value">Centre Dental Basté</span>
+        <div class="date-sub">Sant Boi de Llobregat</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── URGENCIA ────────────────────────────────── -->
+  <div class="urgency-bar">
+    <p>⚠&nbsp;&nbsp;<strong>Cita Previa Obligatoria</strong> &nbsp;·&nbsp; Plazas limitadas — sin reserva no podremos atenderte</p>
+  </div>
+
+  <!-- ─── INTRO ───────────────────────────────────── -->
+  <section id="info">
+    <div class="container">
+      <div class="intro-grid">
+        <div>
+          <span class="section-label">Una tarde especial</span>
+          <h2 class="section-title">Una tarde de <em>belleza</em><br>y bienestar</h2>
+          <p class="section-desc">
+            Con motivo de nuestro tercer aniversario, hemos preparado una jornada de puertas abiertas donde podrás descubrir, de primera mano, nuestros tratamientos de medicina estética y micropigmentación.
+          </p>
+          <p class="section-desc" style="margin-top:16px">
+            Cada visita de 15 minutos incluye una <strong style="color:var(--c-primary);font-weight:400">asesoría personalizada gratuita</strong> y la presentación de un presupuesto adaptado a tus necesidades, sin compromiso.
+          </p>
+        </div>
+        <div class="intro-image">
+          <img src="/assets/static/images/clinica-2.jpg" alt="Clínica Centre Dental Basté"
+               onerror="this.src='https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=600&q=80'">
+        </div>
+      </div>
+
+      <!-- Info bloques numéricos -->
+      <div class="info-grid">
+        <div class="info-item">
+          <div class="info-number">24</div>
+          <div class="info-title">Abril</div>
+          <div class="info-sub">Viernes</div>
+        </div>
+        <div class="info-item">
+          <div class="info-number">15'</div>
+          <div class="info-title">Por visita</div>
+          <div class="info-sub">Asesoría personalizada</div>
+        </div>
+        <div class="info-item">
+          <div class="info-number">100%</div>
+          <div class="info-title">Gratuito</div>
+          <div class="info-sub">Sin compromiso</div>
+        </div>
+      </div>
+
+      <!-- Aviso plazas -->
+      <div class="aviso">
+        <div class="aviso-icon">⚠</div>
+        <div class="aviso-text">
+          <strong>Cita Previa Obligatoria</strong>
+          <p>Sin reserva previa no podremos atenderte. Las plazas son limitadas y se asignan por orden de reserva. Reserva ahora por WhatsApp.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── ESPECIALIDADES ──────────────────────────── -->
+  <section class="specialties">
+    <div class="container">
+      <div class="text-center">
+        <span class="section-label" style="color:var(--c-primary)">Especialidades disponibles</span>
+        <h2 class="section-title" style="color:var(--c-bg-dark)">Descubre nuestros<br><em>tratamientos</em></h2>
+        <p class="section-desc" style="margin-inline:auto">
+          Nuestro equipo de especialistas estará presente para resolver todas tus dudas y diseñar un plan adaptado a ti.
+        </p>
+      </div>
+
+      <div class="spec-grid">
+        <div class="spec-card">
+          <div class="spec-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z" fill="var(--c-primary)" stroke="none"/></svg>
+          </div>
+          <div class="spec-name">Medicina Estética</div>
+          <p class="spec-desc">Tratamientos faciales no invasivos: bótox, ácido hialurónico, bioestimulación, mesoterapia y más. Resultados naturales con técnica y precisión.</p>
+          <span class="spec-tag">Valoración gratuita</span>
+        </div>
+        <div class="spec-card">
+          <div class="spec-icon">
+            <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9M16.5 3.5a2.121 2.121 0 013 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+          </div>
+          <div class="spec-name">Micropigmentación</div>
+          <p class="spec-desc">Técnica semipermanente de precisión para cejas, labios y línea de ojos. Define tu mirada y simplifica tu rutina de belleza diaria.</p>
+          <span class="spec-tag">Consulta incluida</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── CTA RESERVA ─────────────────────────────── -->
+  <section class="cta-section">
+    <span class="section-label" style="color:var(--c-primary)">¿Cómo reservar?</span>
+    <h2 class="section-title" style="color:var(--c-white)">Reserva tu visita<br><em>en 3 pasos</em></h2>
+    <p class="section-desc" style="color:rgba(255,255,255,0.55);margin-inline:auto">
+      El proceso es rápido y sencillo. En menos de un minuto tendrás tu plaza asegurada.
+    </p>
+
+    <div class="cta-steps">
+      <div class="cta-step">
+        <div class="cta-step-num">1</div>
+        <p><strong>Escríbenos por WhatsApp</strong><br>al +34 673 252 060</p>
+      </div>
+      <div class="cta-step">
+        <div class="cta-step-num">2</div>
+        <p><strong>Indícanos</strong><br>tu nombre, teléfono y especialidad de interés</p>
+      </div>
+      <div class="cta-step">
+        <div class="cta-step-num">3</div>
+        <p><strong>Confirmamos</strong><br>tu hora exacta de visita</p>
+      </div>
+    </div>
+
+    <a href="https://wa.me/34673252060?text=Hola%2C%20quiero%20reservar%20mi%20visita%20para%20el%20c%C3%B3ctel%20de%20medicina%20est%C3%A9tica%20del%2024%20de%20abril." class="btn btn-wa" target="_blank" rel="noopener" style="font-size:13px;padding:18px 48px">
+      <svg viewBox="0 0 24 24" fill="currentColor" style="width:18px;height:18px"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+      Reservar ahora por WhatsApp
+    </a>
+  </section>
+
+  <!-- ─── UBICACIÓN ───────────────────────────────── -->
+  <section style="padding:0">
+    <div class="location-grid">
+      <div class="location-info">
+        <span class="section-label">Dónde encontrarnos</span>
+        <h2 class="section-title" style="margin-bottom:32px">Centre Dental<br><em>Basté</em></h2>
+
+        <div class="location-detail">
+          <div class="location-detail-icon">
+            <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          </div>
+          <div>
+            <span class="location-detail-label">Dirección</span>
+            <span class="location-detail-value">Riera Basté 18-20<br>08830 Sant Boi de Llobregat</span>
+          </div>
+        </div>
+
+        <div class="location-detail">
+          <div class="location-detail-icon">
+            <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          </div>
+          <div>
+            <span class="location-detail-label">Fecha</span>
+            <span class="location-detail-value">Viernes, 24 de Abril 2025<br>15:00 – 20:00 h</span>
+          </div>
+        </div>
+
+        <div class="location-detail" style="margin-bottom:0">
+          <div class="location-detail-icon">
+            <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.09 12a19.79 19.79 0 01-3.07-8.67A2 2 0 012 1.18h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.09 9a16 16 0 006 6l1.18-1.18a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+          </div>
+          <div>
+            <span class="location-detail-label">Reserva por WhatsApp</span>
+            <span class="location-detail-value">
+              <a href="https://wa.me/34673252060" style="color:var(--c-primary);text-decoration:none">+34 673 252 060</a>
+            </span>
+          </div>
+        </div>
+
+        <a href="https://www.google.com/maps/place/Centre+Dental+Bast%C3%A9/@41.346583,2.035658,17z"
+           class="btn btn-dark" target="_blank" rel="noopener" style="margin-top:32px;align-self:flex-start">
+          Ver en Google Maps
+        </a>
+      </div>
+      <div class="location-map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2994.4278219956!2d2.033283615443!3d41.34658637927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a49c4a1b24d5b7%3A0x4a98f6b3c5d9b38!2sCentre%20Dental%20Bast%C3%A9!5e0!3m2!1ses!2ses!4v1617890000000!5m2!1ses!2ses"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Ubicación Centre Dental Basté">
+        </iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── FOOTER ──────────────────────────────────── -->
+  <footer class="site-footer">
+    <p>© 2025 Centre Dental Basté · <a href="https://www.centredentalbaste.com" target="_blank">centredentalbaste.com</a> · Riera Basté 18-20, 08830 Sant Boi de Llobregat</p>
+  </footer>
+
+  <!-- ─── STICKY CTA MOBILE ───────────────────────── -->
+  <div class="sticky-cta">
+    <a href="https://wa.me/34673252060?text=Hola%2C%20quiero%20reservar%20mi%20visita%20para%20el%20c%C3%B3ctel%20de%20medicina%20est%C3%A9tica%20del%2024%20de%20abril." target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor" style="width:18px;height:18px"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+      Reservar por WhatsApp
+    </a>
+  </div>
+
+  <script>
+    // Header scroll effect
+    const header = document.getElementById('siteHeader');
+    window.addEventListener('scroll', () => {
+      header.classList.toggle('scrolled', window.scrollY > 60);
+    });
+
+    // Countdown to April 24
+    function updateCountdown() {
+      const target = new Date('2025-04-24T15:00:00');
+      const now = new Date();
+      const diff = target - now;
+      if (diff <= 0) return;
+      const days  = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const mins  = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      const secs  = Math.floor((diff % (1000 * 60)) / 1000);
+      const el = document.getElementById('countdown');
+      if (el) {
+        el.querySelector('[data-days]').textContent  = String(days).padStart(2,'0');
+        el.querySelector('[data-hours]').textContent = String(hours).padStart(2,'0');
+        el.querySelector('[data-mins]').textContent  = String(mins).padStart(2,'0');
+        el.querySelector('[data-secs]').textContent  = String(secs).padStart(2,'0');
+      }
+    }
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
+  </script>
+</body>
+</html>
