@@ -5,8 +5,8 @@ tags: ["tratamientos"]
 
 seccion: endodoncia
 
-metaTitle: Endodoncia en Barcelona - Tratamiento Dental Especializado
-metaDescription: Descubre en qué consiste la endodoncia, sus objetivos y cómo se realiza. Aprende a detectar la necesidad de este tratamiento dental.
+metaTitle: Endodoncia en Sant Boi de Llobregat | Salva tu Diente - Centre Dental Basté
+metaDescription: Endodoncia profesional en Sant Boi de Llobregat. Tratamiento indoloro para salvar tu diente. Tecnología avanzada y especialistas con +25 años de experiencia.
 metaKeywords: endodoncia, tratamiento dental, limpieza conductos, restauración dental, Barcelona
 metaRobots: index, follow
 

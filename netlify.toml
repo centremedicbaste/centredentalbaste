@@ -25,7 +25,66 @@ minify = true
 [build.processing.images]
 compress = true
 
+# =================================================================
+# Redirecciones de URLs con 404 en Search Console
+# =================================================================
+
+# /tratamientos/estetica-dental/ → la URL real tiene el sufijo de localización
+[[redirects]]
+  from = "/tratamientos/estetica-dental/"
+  to = "/tratamientos/estetica-dental-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+# Versión URL-encoded de sonrisas (el carácter ñ puede causar 404)
+[[redirects]]
+  from = "/sonrisas-perfectas-con-el-dise%C3%B1o-de-sonrisas/"
+  to = "/blog/sonrisas-perfectas-con-el-diseño-de-sonrisas/"
+  status = 301
+  force = true
+
+# =================================================================
+# Redirecciones de URLs con mayúsculas a minúsculas (Search Console)
+# =================================================================
+[[redirects]]
+  from = "/Urgencias-dentales-en-Sant-Boi-de-Llobregat/"
+  to = "/blog/urgencias-dentales-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Tipos-de-protesis-dentales/"
+  to = "/blog/tipos-de-protesis-dentales/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Dentista-de-urgencias-en-Sant-Boi-de-Llobregat/"
+  to = "/blog/dentista-de-urgencias-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Preguntas-frecuentes-sobre-blanqueamiento-dental-en-Sant-Boi-de-Llobregat/"
+  to = "/blog/preguntas-frecuentes-sobre-blanqueamiento-dental-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/Sonrisas-perfectas-con-el-diseño-de-sonrisas/"
+  to = "/blog/sonrisas-perfectas-con-el-diseño-de-sonrisas/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/Odontologia-infantil-en-Sant-Boi-de-Llobregat/"
+  to = "/blog/odontologia-infantil-en-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+# =================================================================
 # Redirecciones de blog: URLs antiguas (raíz) -> nuevas (/blog/)
+# =================================================================
 [[redirects]]
   from = "/tipos-protesis-dentales-claves-una-sonrisa-excelente/"
   to = "/blog/tipos-protesis-dentales-claves-una-sonrisa-excelente/"

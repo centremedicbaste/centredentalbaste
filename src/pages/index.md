@@ -10,8 +10,8 @@ seccion: home
 orden: 1
 
 
-metaTitle: Dentista en Sant Boi de Llobregat | Centre Dental Basté
-metaDescription: Dentista en Sant Boi de Llobregat. Centre Dental Basté ofrece tratamientos dentales de calidad con tecnología avanzada. Más de 25 años de experiencia.
+metaTitle: Dentista en Sant Boi de Llobregat | Centre Dental Basté - Primera Visita Gratis
+metaDescription: Tu dentista en Sant Boi de Llobregat. +25 años cuidando sonrisas. Implantes, ortodoncia, estética dental. Primera visita gratuita. Pide cita al 936 354 025.
 metaKeywords: dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona
 metaRobots: index, follow
 

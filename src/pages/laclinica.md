@@ -5,8 +5,8 @@ tags: ["pages"]
 seccion: la clinica
 orden: 3
 
-metaTitle: Nuestra Clínica Dental en Sant Boi - Centre Dental Basté
-metaDescription: Descubre nuestras instalaciones modernas y el equipo profesional de Centre Dental Basté en Sant Boi de Llobregat.
+metaTitle: Clínica Dental en Sant Boi de Llobregat | Conócenos - Centre Dental Basté
+metaDescription: Conoce Centre Dental Basté en Sant Boi de Llobregat. Instalaciones modernas, tecnología de última generación y un equipo con más de 25 años de experiencia.
 metaKeywords: clínica dental, instalaciones modernas, equipo profesional, Sant Boi, Centre Dental Basté
 metaRobots: index, follow
 

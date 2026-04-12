@@ -5,8 +5,8 @@ tags: ["tratamientos"]
 
 seccion: prótesis
 
-metaTitle: Prótesis Dentales en Sant Boi de Llobregat - Mejora tu Sonrisa
-metaDescription: Mejora la estética y función de tu boca con nuestras prótesis dentales en Sant Boi de Llobregat. Soluciones personalizadas para cada paciente.
+metaTitle: Prótesis Dentales en Sant Boi de Llobregat | Fijas y Removibles
+metaDescription: Prótesis dentales en Sant Boi de Llobregat: fijas, removibles y sobre implantes. Recupera tu sonrisa y la funcionalidad de tu boca. Consulta gratuita.
 metaKeywords: prótesis dentales, Sant Boi de Llobregat, prótesis fijas, prótesis removibles, estética dental
 metaRobots: index, follow
 

@@ -5,8 +5,8 @@ tags: ["tratamientos"]
 
 seccion: ortodoncia
 
-metaTitle: Ortodoncia en Sant Boi de Llobregat - Alinea tu Sonrisa
-metaDescription: Soluciones de ortodoncia en Sant Boi de Llobregat para una sonrisa alineada y saludable. Tratamientos para todas las edades.
+metaTitle: Ortodoncia en Sant Boi de Llobregat | Brackets e Invisalign
+metaDescription: Ortodoncia en Sant Boi de Llobregat para adultos y niños. Brackets, Invisalign y ortodoncia invisible. Financiación sin intereses. Pide tu primera visita gratis.
 metaKeywords: ortodoncia, Sant Boi de Llobregat, brackets, alineadores, sonrisa
 metaRobots: index, follow
 
