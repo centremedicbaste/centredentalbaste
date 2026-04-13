@@ -165,6 +165,13 @@
 
         Promise.all([netlifyPromise, sheetsPromise]).then(function(responses) {
             if (responses[0].ok) {
+                // Google Tag Manager - evento generate_lead
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event': 'generate_lead',
+                    'form_name': 'contactformulario',
+                    'page_location': window.location.href
+                });
                 document.getElementById('modalMensajeEnviado').style.display = 'flex';
                 form.reset();
             } else {
