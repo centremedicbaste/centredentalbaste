@@ -29,6 +29,13 @@ compress = true
 # Redirecciones de URLs con 404 en Search Console
 # =================================================================
 
+# /contacta/ era el antiguo enlace del botón "Pide tu cita"
+[[redirects]]
+  from = "/contacta/"
+  to = "/agenda/"
+  status = 301
+  force = true
+
 # /tratamientos/estetica-dental/ → la URL real tiene el sufijo de localización
 [[redirects]]
   from = "/tratamientos/estetica-dental/"

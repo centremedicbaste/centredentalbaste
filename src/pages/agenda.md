@@ -2,7 +2,7 @@
 layout: pages/_agenda.njk
 permalink: /agenda/
 tags: ["pages"]
-seccion: Agenda tu cita
+seccion: false
 orden: 3
 
 metaTitle: Agenda Online - Reserva tu Cita en Centre Dental Basté
