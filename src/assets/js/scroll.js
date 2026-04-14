@@ -33,7 +33,7 @@ scroll.on('scroll', (args) => {
   }
 });
 
-document.querySelectorAll('.link_a_contacta, .link_a_contacta_2').forEach(element => {
+document.querySelectorAll('.link_a_contacta_2').forEach(element => {
   element.addEventListener('click', (event) => {
     event.preventDefault();
     scroll.scrollTo('#contacta_4');
