@@ -172,6 +172,14 @@
                     'form_name': 'contactformulario',
                     'page_location': window.location.href
                 });
+                // Google Analytics 4 - envío directo del evento
+                if (typeof gtag === 'function') {
+                    gtag('event', 'generate_lead', {
+                        'event_category': 'formulario',
+                        'event_label': 'contactformulario',
+                        'page_location': window.location.href
+                    });
+                }
                 document.getElementById('modalMensajeEnviado').style.display = 'flex';
                 form.reset();
             } else {
