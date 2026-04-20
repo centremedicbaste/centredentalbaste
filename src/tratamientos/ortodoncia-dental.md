@@ -47,7 +47,7 @@ Brackets de cerámica o zafiro que se mimetizan con el color de los dientes, ofr
 #### 3. Ortodoncia Lingual
 Brackets colocados en la parte interna de los dientes, completamente invisibles desde el exterior.
 
-#### 4. Ortodoncia Invisible (Invisalign)
+#### 4. Ortodoncia Invisible tipo Invisalign (SureSmile)
 Alineadores transparentes y removibles que ofrecen la máxima discreción y comodidad.
 
 ### ¿Cuándo es necesario un tratamiento de ortodoncia?

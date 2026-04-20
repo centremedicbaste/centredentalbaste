@@ -5,17 +5,17 @@ tags: ["tratamientos"]
 
 seccion: ortodoncia
 
-metaTitle: Invisalign en Sant Boi de Llobregat - Ortodoncia Invisible
-metaDescription: Tratamiento de ortodoncia invisible con Invisalign en Sant Boi de Llobregat. Alineadores transparentes y removibles para una sonrisa perfecta.
-metaKeywords: Invisalign, ortodoncia invisible, Sant Boi de Llobregat, alineadores transparentes, brackets invisibles
+metaTitle: Invisalign en Sant Boi de Llobregat - Alineadores SureSmile
+metaDescription: Ortodoncia invisible tipo Invisalign en Sant Boi de Llobregat. En Centre Dental Basté trabajamos con SureSmile, alineadores transparentes y removibles para una sonrisa perfecta.
+metaKeywords: Invisalign, SureSmile, ortodoncia invisible, Sant Boi de Llobregat, alineadores transparentes, brackets invisibles
 metaRobots: index, follow
 
 
-introCta_title: INVISALIGN
+introCta_title: ORTODONCIA INVISIBLE
 introCta_image: /tratamientos/seccion-ortodoncia.jpg
 
-introtitle_title: INVISALIGN EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: ORTODONCIA INVISIBLE CON ALINEADORES TRANSPARENTES Y REMOVIBLES
+introtitle_title: ORTODONCIA INVISIBLE EN SANT BOI DE LLOBREGAT
+introtitle_subtitle: ALINEADORES SURESMILE - ORTODONCIA TRANSPARENTE Y REMOVIBLE
 
 content_1_title: ""
 content_1_subtitle: ""
@@ -32,15 +32,15 @@ banner_button: ""
 
 ---
 
-# Invisalign en Sant Boi de Llobregat
+# Ortodoncia Invisible tipo Invisalign en Sant Boi de Llobregat
 
-Invisalign es un sistema de ortodoncia invisible que utiliza alineadores transparentes y removibles para corregir la posición de los dientes. Es una alternativa discreta y cómoda a los brackets tradicionales.
+La ortodoncia con alineadores invisibles, comúnmente conocida como Invisalign, es un sistema que utiliza férulas transparentes y removibles para corregir la posición de los dientes. En Centre Dental Basté trabajamos con **SureSmile**, un sistema avanzado de alineadores que ofrece una alternativa discreta y cómoda a los brackets tradicionales.
 
-## ¿Qué es Invisalign?
+## ¿Qué es SureSmile?
 
-Invisalign es un tratamiento de ortodoncia que utiliza una serie de alineadores transparentes personalizados para mover gradualmente los dientes a su posición correcta. Estos alineadores son prácticamente invisibles y se pueden retirar para comer y cepillarse los dientes.
+SureSmile es un tratamiento de ortodoncia invisible que, al igual que otros sistemas tipo Invisalign, utiliza una serie de alineadores transparentes personalizados para mover gradualmente los dientes a su posición correcta. Estos alineadores son prácticamente invisibles y se pueden retirar para comer y cepillarse los dientes.
 
-## Ventajas de Invisalign
+## Ventajas de los alineadores SureSmile
 
 - **Discreto**: Los alineadores son transparentes y apenas se notan
 - **Removible**: Puedes quitártelos para comer, beber y cepillarte los dientes
@@ -50,15 +50,15 @@ Invisalign es un tratamiento de ortodoncia que utiliza una serie de alineadores 
 
 ## ¿Cómo funciona el tratamiento?
 
-1. **Consulta inicial**: Evaluamos tu caso y determinamos si Invisalign es adecuado para ti
+1. **Consulta inicial**: Evaluamos tu caso y determinamos si la ortodoncia invisible con SureSmile es adecuada para ti
 2. **Plan de tratamiento**: Creamos un plan personalizado con tecnología 3D
 3. **Alineadores personalizados**: Recibirás una serie de alineadores que cambiarás cada 1-2 semanas
 4. **Visitas de seguimiento**: Revisamos tu progreso periódicamente
 5. **Resultado final**: Una sonrisa perfecta y alineada
 
-## ¿Para quién es adecuado Invisalign?
+## ¿Para quién es adecuada la ortodoncia invisible?
 
-Invisalign puede tratar una amplia variedad de problemas ortodónticos, incluyendo:
+Los alineadores SureSmile pueden tratar una amplia variedad de problemas ortodónticos, incluyendo:
 
 - Dientes apiñados
 - Espacios entre dientes
@@ -66,6 +66,6 @@ Invisalign puede tratar una amplia variedad de problemas ortodónticos, incluyen
 - Mordida cruzada
 - Dientes protruidos
 
-En Centre Dental Basté, nuestros especialistas en ortodoncia evaluarán tu caso para determinar si Invisalign es la mejor opción para ti.
+En Centre Dental Basté, nuestros especialistas en ortodoncia evaluarán tu caso para determinar si SureSmile es la mejor opción para ti.
 
 [Volver a Ortodoncia](/tratamientos/ortodoncia-dental/)

@@ -49,7 +49,7 @@ Menos visibles que los anteriores gracias al material con el que están fabricad
 
 
 Estos aparatos sí que son **invisibles, debido a que se colocan en la cara interior de los dientes**. Sus principales ventajas son que resultan muy cómodos para el paciente, ya que se amoldan a la forma de los dientes; y, además, no se ven a simple vista. El inconveniente principal es su precio, superior al de otros tipos de aparatos.
-### *Invisalign*
+### *Alineadores invisibles tipo Invisalign (SureSmile)*
 
 
 Estos entran dentro de la categoría de **aparatos removibles y son invisibles**. Son muy fáciles de retirar y volver a colocar, por lo que el paciente puede quitárselos a la hora de comer.

@@ -99,7 +99,7 @@ En los aparatos de quita y pon, los primeros 2 ó 3 días se produce mucha saliv
 
 Los aparatos fijos pueden producir alguna llaga al principio, pero se cura rápidamente. Durante uno o dos días después de acudir a la cita con el ortodoncista es normal sentir un poco de presión en los dientes, que están más sensibles, pero después se normaliza la situación.
 
-Los aparatos de ortodoncia plástica, como Invisalign, producen menos molestias que los fijos, ya que no llevan alambres y además se pueden retirar para comer y para cepillarse los dientes.
+Los aparatos de ortodoncia plástica, como los alineadores tipo Invisalign, producen menos molestias que los fijos, ya que no llevan alambres y además se pueden retirar para comer y para cepillarse los dientes.
 
 ## ¿Son los tratamientos de ortodoncia definitivos?
 

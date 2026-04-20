@@ -31,13 +31,13 @@ Según su tipo
 
 Obviamente, te encontrarás con sistemas de lo más variado a la hora de decidirte por uno u otro tipo bracket. Por un lado, se encuentran los visibles, que se diferencian básicamente por la utilización de dos tipos de materiales: los metálicos, que es el clásico aparato para corregir cualquier desviación dental; y los transparentes, que cumplen con la misma función pero de una manera más disimulada desde el punto de vista estético.
 
-Pero en los últimos tiempos se ha desarrollado un sistema que ha revolucionado el mundo de la ortodoncia. Se trata de un aparato totalmente invisible, denominado Invisalign, y que consiste en la fabricación a medida de unos alineadores o aligners que se colocan en la zona interior de la dentadura.
+Pero en los últimos tiempos se ha desarrollado un sistema que ha revolucionado el mundo de la ortodoncia. Se trata de un aparato totalmente invisible, conocido popularmente como Invisalign, y que consiste en la fabricación a medida de unos alineadores o aligners transparentes. En Centre Dental Basté trabajamos con **SureSmile**, nuestro sistema de alineadores invisibles de última generación.
 
-Apreciarás los beneficios de utilizar este sistema desde el principio. Para empezar, los aparatos invisaling son removibles. ¿Qué quiere decir esto? Pues que más allá de ser transparentes y de corregir cualquier defecto en tu dentadura, también podrás retirarlos para comer, beber, lavarte los dientes o lo que necesites. Además, el método Invisalign destaca por su comodidad, ya que no es necesario colocar brackets ni alambres en la boca para su utilización, y esto evita posibles reacciones alérgicas en las encías. Como ves, todo son ventajas.
+Apreciarás los beneficios de utilizar este sistema desde el principio. Para empezar, los aparatos de ortodoncia invisible son removibles. ¿Qué quiere decir esto? Pues que más allá de ser transparentes y de corregir cualquier defecto en tu dentadura, también podrás retirarlos para comer, beber, lavarte los dientes o lo que necesites. Además, el método SureSmile destaca por su comodidad, ya que no es necesario colocar brackets ni alambres en la boca para su utilización, y esto evita posibles reacciones alérgicas en las encías. Como ves, todo son ventajas.
 
  
 
-![invisalign barcelona barato](/assets/static/images/blog/blog-inner/invisalign-barcelona-barato.jpg)
+![ortodoncia invisible SureSmile barcelona](/assets/static/images/blog/blog-inner/invisalign-barcelona-barato.jpg)
 Ven a vernos
 
 

@@ -59,12 +59,12 @@ Consiste en el uso de brackets cerámicos de color similar al diente, por lo que
 [caption id="attachment\_412" align="aligncenter" width="1024"]![ortodoncia estetica Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estetica.jpg) ortodoncia estética[/caption]
 
  
-## Ortodoncia Invisalign ®
+## Ortodoncia Invisible tipo Invisalign (SureSmile)
 
 
-Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición.
+Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición. En Centre Dental Basté trabajamos con **SureSmile**, nuestro sistema de alineadores invisibles.
 
-[caption id="attachment\_415" align="aligncenter" width="1024"]![ortodoncia invisalign Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisalign.jpg) ortodoncia invisalign[/caption]
+[caption id="attachment\_415" align="aligncenter" width="1024"]![ortodoncia invisible SureSmile Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisalign.jpg) ortodoncia invisible SureSmile[/caption]
 
  
 ## Ortodoncia para niños
