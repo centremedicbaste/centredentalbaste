@@ -5,7 +5,7 @@ tags: ["pages"]
 seccion: Contacta
 orden: 6
 metaTitle: Pide Cita en Centre Dental Basté | Sant Boi de Llobregat
-metaDescription: Pide cita en Centre Dental Basté, Sant Boi de Llobregat. Llámanos al 936 354 025 o reserva online. Lunes a viernes de 9h a 20h. Primera visita gratuita.
+metaDescription: Pide cita en Centre Dental Basté, Sant Boi de Llobregat. Llámanos al 936 354 025 o reserva online. Lunes a viernes de 9h a 20h. 1ª visita revisión y presupuesto 60 € (a cuenta del tratamiento).
 metaKeywords: contacto, clínica dental, Sant Boi, servicios dentales, Centre Dental Basté
 metaRobots: index, follow
 

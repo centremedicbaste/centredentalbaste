@@ -6,7 +6,7 @@ tags: ["tratamientos"]
 seccion: Odontopediatría
 
 metaTitle: "Dentista Infantil en Sant Boi de Llobregat | Centre Dental Basté"
-metaDescription: "Odontología infantil en Sant Boi de Llobregat. Dentistas especializados en niños. Ambiente adaptado, sin miedo. Primera visita gratuita para los más pequeños."
+metaDescription: "Odontología infantil en Sant Boi de Llobregat. Dentistas especializados en niños. Ambiente adaptado, sin miedo. 1ª visita revisión y presupuesto 60 € (a cuenta del tratamiento)."
 metaKeywords: odontología infantil, Sant Boi de Llobregat, cuidado dental, niños, salud bucal
 metaRobots: index, follow
 

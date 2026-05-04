@@ -6,7 +6,7 @@ tags: ["tratamientos"]
 seccion: ortodoncia
 
 metaTitle: Ortodoncia en Sant Boi de Llobregat | Brackets e Invisalign
-metaDescription: Ortodoncia en Sant Boi de Llobregat para adultos y niños. Brackets, Invisalign y ortodoncia invisible. Financiación sin intereses. Pide tu primera visita gratis.
+metaDescription: Ortodoncia en Sant Boi de Llobregat para adultos y niños. Brackets, Invisalign y ortodoncia invisible. Financiación sin intereses. 1ª visita revisión y presupuesto 60 € (a cuenta del tratamiento).
 metaKeywords: ortodoncia, Sant Boi de Llobregat, brackets, alineadores, sonrisa
 metaRobots: index, follow
 

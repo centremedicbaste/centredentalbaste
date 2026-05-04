@@ -6,7 +6,7 @@ tags: ["tratamientos"]
 seccion: prótesis
 
 metaTitle: "Prótesis Dentales en Sant Boi de Llobregat | Fijas y Removibles"
-metaDescription: "Prótesis dentales en Sant Boi de Llobregat: fijas, removibles y sobre implantes. Recupera tu sonrisa y la funcionalidad de tu boca. Consulta gratuita."
+metaDescription: "Prótesis dentales en Sant Boi de Llobregat: fijas, removibles y sobre implantes. Recupera tu sonrisa y la funcionalidad de tu boca. 1ª visita revisión y presupuesto 60 € (a cuenta del tratamiento)."
 metaKeywords: prótesis dentales, Sant Boi de Llobregat, prótesis fijas, prótesis removibles, estética dental
 metaRobots: index, follow
 
