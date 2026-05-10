@@ -69,7 +69,7 @@ function appendRow(accessToken, values) {
       values: [values],
     });
 
-    const range = encodeURIComponent(`'${SHEET_NAME}'!A:F`);
+    const range = encodeURIComponent(`'${SHEET_NAME}'!A:G`);
     const path = `/v4/spreadsheets/${SPREADSHEET_ID}/values/${range}:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`;
 
     const req = https.request(
@@ -114,13 +114,14 @@ exports.handler = async (event) => {
     const telefono = data.telefono || data["teléfono"] || data.phone || "";
     const empresa  = data.empresa  || "";
     const mensaje  = data.mensaje  || data.message || "";
+    const origen   = data.origen   || data.source  || "";
 
     // Autenticación con la cuenta de servicio
     const jwt = createJWT(SERVICE_ACCOUNT);
     const accessToken = await getAccessToken(jwt);
 
-    // Escribir en Google Sheets (columnas A:F)
-    const result = await appendRow(accessToken, [fecha, nombre, email, telefono, empresa, mensaje]);
+    // Escribir en Google Sheets (columnas A:G)
+    const result = await appendRow(accessToken, [fecha, nombre, email, telefono, empresa, mensaje, origen]);
 
     if (result.error) {
       throw new Error(result.error.message);
