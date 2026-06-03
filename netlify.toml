@@ -36,6 +36,20 @@ compress = true
   status = 301
   force = true
 
+# Consolidación All-on-4: las dos entradas de blog se unifican en la página
+# pilar de tratamiento para eliminar la canibalización de keyword
+[[redirects]]
+  from = "/blog/all-on-four/"
+  to = "/tratamientos/all-on-4-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/all-on-four-la-mejor-solucion-para-tus-implantes/"
+  to = "/tratamientos/all-on-4-sant-boi-de-llobregat/"
+  status = 301
+  force = true
+
 # /tratamientos/estetica-dental/ → la URL real tiene el sufijo de localización
 [[redirects]]
   from = "/tratamientos/estetica-dental/"

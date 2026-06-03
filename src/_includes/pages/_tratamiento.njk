@@ -12,7 +12,7 @@ colorHeader: has-light-menu
   "name": "{{ introCta_title | default(seccion) }}",
   "description": "{{ metaDescription }}",
   "url": "{{ global_index.url }}{{ page.url | url }}",
-  "procedureType": "http://schema.org/NoninvasiveProcedure",
+  "procedureType": "{{ procedureType | default('http://schema.org/NoninvasiveProcedure') }}",
   "bodyLocation": "Mouth",
   "provider": {
     "@type": "Dentist",

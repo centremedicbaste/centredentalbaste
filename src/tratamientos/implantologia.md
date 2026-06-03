@@ -76,7 +76,7 @@ Raíz artificial de titanio que sustituye las raíces naturales de los dientes. 
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.jpg)
 
-Dentadura completa fijada totalmente con 4, 6 u 8 implantes dentales. Con este sistema se evita la movilidad de las antiguas dentaduras postizas. Gran estética y naturalidad.
+Dentadura completa fijada totalmente con 4, 6 u 8 implantes dentales. Con este sistema se evita la movilidad de las antiguas dentaduras postizas. Gran estética y naturalidad. Si necesitas rehabilitar toda la arcada con carga inmediata, descubre la [técnica All-on-4 y All-on-6 en Sant Boi de Llobregat](/tratamientos/all-on-4-sant-boi-de-llobregat/): dientes fijos en 24-48 horas.
 
 ### Dentadura extraíble:
 
