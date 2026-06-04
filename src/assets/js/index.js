@@ -13,17 +13,6 @@ function isCaptureMode() {
   return document.body.classList.contains('capture-mode');
 }
 
-document.body.onscroll = function () {
-  if (
-    document.body.scrollTop >= 50 ||
-    document.documentElement.scrollTop >= 50
-  ) {
-    document.body.classList.add("scrolled");
-  } else {
-    document.body.classList.remove("scrolled");
-  }
-};
-
 var menuOpenScrollTop = 0;
 $(document).ready(function () {
   initvideo();
@@ -71,21 +60,23 @@ function initvideo() {
 const body = document.querySelector("body");
 // Guardar la posición actual del scroll
 let scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+// Barra blanca del header: único detector fiable en scroll nativo (window).
+// Se aísla en su propia función para poder sincronizarlo también al cargar y
+// con el evento scrollend (evita que el header se quede blanco al subir rápido).
+const HEADER_SCROLL_THRESHOLD = 60;
+const syncHeader = () => {
+  if (isCaptureMode()) return;
+  const y = window.pageYOffset || document.documentElement.scrollTop || 0;
+  body.classList.toggle("scrolled", y >= HEADER_SCROLL_THRESHOLD);
+};
+
 // Función para manejar el evento de scroll
 const handleScroll = () => {
   // Obtener la nueva posición del scroll
   const newScrollPosition =
     window.pageYOffset || document.documentElement.scrollTop;
 
-  // Barra blanca del header: activar pronto en scroll nativo (window es el
-  // único listener que dispara de forma fiable con LocomotiveScroll smooth:false).
-  if (!isCaptureMode()) {
-    if (newScrollPosition >= 60) {
-      body.classList.add("scrolled");
-    } else {
-      body.classList.remove("scrolled");
-    }
-  }
+  syncHeader();
 
   // Comparar la posición actual con la nueva posición para determinar la dirección del scroll
   if (newScrollPosition > scrollPosition) {
@@ -100,8 +91,12 @@ const handleScroll = () => {
   // Actualizar la posición actual del scroll
   scrollPosition = newScrollPosition;
 };
-// Agregar el listener al evento de scroll
-window.addEventListener("scroll", handleScroll);
+// Agregar el listener al evento de scroll (passive: mejor rendimiento)
+window.addEventListener("scroll", handleScroll, { passive: true });
+// Red de seguridad: al terminar el scroll y al cargar, re-sincroniza el estado
+window.addEventListener("scrollend", syncHeader);
+window.addEventListener("load", syncHeader);
+syncHeader();
 
 
 

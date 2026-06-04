@@ -26,16 +26,10 @@ if (_scrollCaptureMode) {
   });
 }
 
-// Escuchar el evento de desplazamiento
-scroll.on('scroll', (args) => {
-  const currentScrollY = args.scroll.y;
-
-  if (currentScrollY >= 60) {
-    document.body.classList.add("scrolled");
-  } else {
-    document.body.classList.remove("scrolled");
-  }
-});
+// NOTA: el toggle de la barra blanca (.scrolled) se gestiona en index.js con
+// un listener de window (scroll nativo). NO añadir aquí un scroll.on('scroll')
+// con smooth:false: emite eventos tardíos con un valor desfasado y provoca
+// que el header se quede blanco al subir rápido (carrera entre handlers).
 
 document.querySelectorAll('.link_a_contacta_2').forEach(element => {
   element.addEventListener('click', (event) => {
