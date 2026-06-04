@@ -15454,11 +15454,30 @@ body:not(.has-light-menu):not(.has-dark-hero) #menu-toggle rect {
   overflow: hidden;
 }
 
+.menu-mobile-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  border-bottom: 1px solid #ece9e4;
+  flex-shrink: 0;
+}
+
+.menu-mobile-logo img {
+  width: 110px;
+  height: auto;
+  display: block;
+}
+
 .link_cierre {
-  position: absolute;
-  top: 10px;
-  right: 16px;
+  position: static;
   z-index: 1;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: -10px;
 }
 
 .menu-open .menu-mobile-wrap {
@@ -15475,30 +15494,47 @@ body.menu-open {
 }
 
 .menu-mobile-list {
-  padding-top: 3rem;
+  padding: 14px 26px 36px !important;
+  margin: 0;
   flex: 1;
   min-height: 0;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
 
-.menu-mobile-item-has-children .menu-mobile-toggle {
+.menu-mobile-list > li {
+  margin: 0;
+  padding: 0 !important;
+  border-bottom: 1px solid #ece9e4;
+}
+
+.menu-mobile-list > li > a,
+.menu-mobile-list > li > .menu-mobile-toggle {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 12px;
   width: 100%;
-  padding: 0;
+  padding: 18px 2px;
   background: none;
-  border: none;
+  border: 0;
   font: inherit;
-  color: inherit;
-  letter-spacing: inherit;
-  cursor: pointer;
+  color: var(--c-secondary);
+  letter-spacing: 1.5px;
   text-transform: uppercase;
+  cursor: pointer;
+  transition: color 0.2s ease;
 }
+
+.menu-mobile-list > li > a:hover,
+.menu-mobile-list > li > .menu-mobile-toggle:hover {
+  color: var(--c-primary);
+  opacity: 1;
+}
+
 .menu-mobile-item-has-children .menu-mobile-chevron {
   flex-shrink: 0;
-  margin-left: 8px;
+  color: var(--c-primary);
   transition: transform 0.25s ease;
 }
 .menu-mobile-item-has-children.is-open .menu-mobile-chevron {
@@ -15509,29 +15545,92 @@ body.menu-open {
   overflow: hidden;
   max-height: 0;
   opacity: 0;
-  padding-left: 1rem;
   margin-top: 0;
-  transition: max-height 0.3s ease, opacity 0.2s ease, margin 0.2s ease;
+  padding-left: 4px;
+  transition: max-height 0.35s ease, opacity 0.2s ease, margin 0.2s ease;
 }
 
 .menu-mobile-item-has-children.is-open .menu-mobile-submenu {
-  max-height: 80vh;
+  max-height: 1600px;
   opacity: 1;
-  margin-top: 0.5rem;
+  margin: 2px 0 14px;
 }
 
 .menu-mobile-submenu-item {
-  padding-bottom: 0.75rem;
+  padding: 0 !important;
 }
 .menu-mobile-submenu-item a {
+  display: block;
+  padding: 9px 0 9px 14px;
+  border-left: 2px solid #ece9e4;
   text-transform: capitalize;
-  font-size: 0.95em;
-  letter-spacing: 0.5px;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  color: #DCDCDC;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+.menu-mobile-submenu-item a:hover {
+  color: var(--c-primary);
+  border-color: var(--c-primary);
+  opacity: 1;
 }
 
-.menu-mobile-contacta {
-  margin-top: 1rem;
-  padding-top: 0.5rem;
+.menu-mobile-footer {
+  position: relative;
+  flex-shrink: 0;
+  background: #fff;
+  padding: 16px 26px calc(20px + env(safe-area-inset-bottom, 0px));
+}
+
+.menu-mobile-footer::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -40px;
+  height: 40px;
+  background: linear-gradient(to top, #fff 35%, rgba(255, 255, 255, 0));
+  pointer-events: none;
+}
+
+.menu-mobile-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.menu-mobile-contact__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--c-secondary) !important;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-transform: none;
+  padding: 4px 0;
+}
+
+.menu-mobile-contact__item svg {
+  color: var(--c-primary);
+  flex-shrink: 0;
+}
+
+.menu-mobile-contact__item:hover {
+  color: var(--c-primary) !important;
+  opacity: 1;
+}
+
+.menu-mobile-footer a.btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 16px;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  background-color: var(--c-primary) !important;
+  color: #fff !important;
+  border-radius: var(--btn-radius, 8px);
 }
 
 .brand-partner {

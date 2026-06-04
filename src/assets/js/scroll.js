@@ -3,10 +3,14 @@ const _scrollCaptureMode = document.body.classList.contains('capture-mode');
 
 const scroll = new LocomotiveScroll({
   el: document.querySelector('[data-scroll-container]'),
-  smooth: !_scrollCaptureMode,  // Desactivar smooth scroll en modo captura
+  smooth: false,        // Scroll nativo (sin suavizado)
+  smoothMobile: false,
   mobile: {
-    smooth: !_scrollCaptureMode
-},
+    smooth: false
+  },
+  tablet: {
+    smooth: false
+  },
 });
 
 // En modo captura: forzar estado final visible

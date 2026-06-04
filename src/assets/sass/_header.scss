@@ -286,11 +286,29 @@ body:not(.has-light-menu):not(.has-dark-hero) {
   flex-direction: column;
   overflow: hidden;
 }
+// Cabecera del panel móvil: logo + botón cerrar
+.menu-mobile-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  border-bottom: 1px solid #ece9e4;
+  flex-shrink: 0;
+}
+.menu-mobile-logo img {
+  width: 110px;
+  height: auto;
+  display: block;
+}
 .link_cierre {
-  position: absolute;
-  top: 10px;
-  right: 16px;
+  position: static;
   z-index: 1;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: -10px;
 }
 .menu-open {
   .menu-mobile-wrap {
@@ -306,60 +324,124 @@ body.menu-open {
   width: 100%;
 }
 
-// Menú móvil: toggle Tratamientos y Contacta al final (lista con scroll propio)
+// Menú móvil: lista con scroll propio, ítems espaciados y separadores sutiles
 .menu-mobile-list {
-  padding-top: 3rem;
+  padding: 14px 26px 36px !important;
+  margin: 0;
   flex: 1;
   min-height: 0;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
+.menu-mobile-list > li {
+  margin: 0;
+  padding: 0 !important;
+  border-bottom: 1px solid #ece9e4;
+}
+// Enlace / toggle de primer nivel: área táctil amplia
+.menu-mobile-list > li > a,
+.menu-mobile-list > li > .menu-mobile-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  padding: 18px 2px;
+  background: none;
+  border: 0;
+  font: inherit;
+  color: $c-secondary;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.menu-mobile-list > li > a:hover,
+.menu-mobile-list > li > .menu-mobile-toggle:hover { color: $c-primary; opacity: 1; }
+
 .menu-mobile-item-has-children {
-  .menu-mobile-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    padding: 0;
-    background: none;
-    border: none;
-    font: inherit;
-    color: inherit;
-    letter-spacing: inherit;
-    cursor: pointer;
-    text-transform: uppercase;
-  }
   .menu-mobile-chevron {
     flex-shrink: 0;
-    margin-left: 8px;
+    color: $c-primary;
     transition: transform 0.25s ease;
   }
-  &.is-open .menu-mobile-chevron {
-    transform: rotate(180deg);
-  }
+  &.is-open .menu-mobile-chevron { transform: rotate(180deg); }
 }
+
+// Submenú de tratamientos
 .menu-mobile-submenu {
   overflow: hidden;
   max-height: 0;
   opacity: 0;
-  padding-left: 1rem;
   margin-top: 0;
-  transition: max-height 0.3s ease, opacity 0.2s ease, margin 0.2s ease;
+  padding-left: 4px;
+  transition: max-height 0.35s ease, opacity 0.2s ease, margin 0.2s ease;
 }
 .menu-mobile-item-has-children.is-open .menu-mobile-submenu {
-  max-height: 80vh;
+  max-height: 1600px;
   opacity: 1;
-  margin-top: 0.5rem;
+  margin: 2px 0 14px;
 }
 .menu-mobile-submenu-item {
-  padding-bottom: 0.75rem;
+  padding: 0 !important;
   a {
+    display: block;
+    padding: 9px 0 9px 14px;
+    border-left: 2px solid #ece9e4;
     text-transform: capitalize;
-    font-size: 0.95em;
-    letter-spacing: 0.5px;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: $c-gray;
+    transition: color 0.2s ease, border-color 0.2s ease;
   }
+  a:hover { color: $c-primary; border-color: $c-primary; opacity: 1; }
 }
-.menu-mobile-contacta {
-  margin-top: 1rem;
-  padding-top: 0.5rem;
+
+// Botón "Pide tu cita" fijo abajo, sobre fondo blanco con degradado superior
+.menu-mobile-footer {
+  position: relative;
+  flex-shrink: 0;
+  background: #fff;
+  padding: 16px 26px calc(20px + env(safe-area-inset-bottom, 0px));
+}
+.menu-mobile-footer::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -40px;
+  height: 40px;
+  background: linear-gradient(to top, #fff 35%, rgba(255, 255, 255, 0));
+  pointer-events: none;
+}
+// Teléfono y email del centro (encima del botón), bien visibles
+.menu-mobile-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.menu-mobile-contact__item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: $c-secondary !important;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  text-transform: none;
+  padding: 4px 0;
+}
+.menu-mobile-contact__item svg { color: var(--c-primary); flex-shrink: 0; }
+.menu-mobile-contact__item:hover { color: var(--c-primary) !important; opacity: 1; }
+
+.menu-mobile-footer a.btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 16px;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  background-color: var(--c-primary) !important;
+  color: #fff !important;
+  border-radius: var(--btn-radius, 8px);
 }
