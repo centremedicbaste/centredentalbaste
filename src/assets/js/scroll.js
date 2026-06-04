@@ -30,7 +30,7 @@ if (_scrollCaptureMode) {
 scroll.on('scroll', (args) => {
   const currentScrollY = args.scroll.y;
 
-  if (currentScrollY >= 250) {
+  if (currentScrollY >= 60) {
     document.body.classList.add("scrolled");
   } else {
     document.body.classList.remove("scrolled");

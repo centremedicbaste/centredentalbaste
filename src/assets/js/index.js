@@ -76,6 +76,17 @@ const handleScroll = () => {
   // Obtener la nueva posición del scroll
   const newScrollPosition =
     window.pageYOffset || document.documentElement.scrollTop;
+
+  // Barra blanca del header: activar pronto en scroll nativo (window es el
+  // único listener que dispara de forma fiable con LocomotiveScroll smooth:false).
+  if (!isCaptureMode()) {
+    if (newScrollPosition >= 60) {
+      body.classList.add("scrolled");
+    } else {
+      body.classList.remove("scrolled");
+    }
+  }
+
   // Comparar la posición actual con la nueva posición para determinar la dirección del scroll
   if (newScrollPosition > scrollPosition) {
     // Scroll hacia abajo
