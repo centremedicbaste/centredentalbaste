@@ -2,39 +2,419 @@
 layout: layout/base.njk
 colorHeader: has-light-menu
 ---
-{% set noheroimage = [] %}
-{% import "macros/_insert.njk" as insert %}
 {% import "macros/_insert.njk" as insert %}
 
+<style>
+  /* ── Home (estructura tipo DEX, diseño Basté) ── */
+  .home-feature { padding-block: 40px; }
+  @media (min-width: 992px){ .home-feature { padding-block: 64px; } }
+  .home-feature__img { border-radius: 20px; overflow: hidden; aspect-ratio: 4/3; background:#f3f2f0; }
+  .home-feature__img img { width:100%; height:100%; object-fit: cover; display:block; }
+  .home-feature .wmax-560 { max-width: 560px; }
+  .home-intro { padding-block: 56px 8px; }
+  .home-blog__grid { display:grid; grid-template-columns:1fr; gap:24px; }
+  @media (min-width:600px){ .home-blog__grid{ grid-template-columns:repeat(3,1fr); } }
+  .home-blog__card { display:flex; flex-direction:column; background:#fff; border:1px solid #e9e6e1; border-radius:16px; overflow:hidden; height:100%; transition:transform .3s, box-shadow .3s; color:inherit; }
+  .home-blog__card:hover { transform:translateY(-4px); box-shadow:0 14px 30px rgba(0,0,0,.08); opacity:1; }
+  .home-blog__img { aspect-ratio:16/10; overflow:hidden; background:#f3f2f0; }
+  .home-blog__img img { width:100%; height:100%; object-fit:cover; }
+  .home-blog__body { padding:22px; display:flex; flex-direction:column; flex:1; }
+  .home-blog__title { font-size:17px; line-height:1.35; color:var(--c-secondary); margin:0; }
+  .home-cta-wrap { margin-top: 22px; }
 
-  {% include "onepage/introCta_2.njk" %}
-  {% set introtitle_title = "DESCUBRE TU MEJOR SONRISA" %}
-  <section  data-scroll-section>
-    <div class="container-3">
-      <div class="row pb-64 pt-64 inview">
-        <div class="col-xs-12 text-center">
-          <h2 class="fluid-6-l mb-24 c-accent">
-            {% call insert.splitenpalabras(introtitle_title ) %} {% endcall %}
-          </h2>
-          <div class="fluid-9-r mb-24">
-            {% call insert.splitenpalabras(introtitle_subtitle ) %} {% endcall %}
-          </div>
-          <a href="#contacta_6" data-scroll-to>
-            <button class="btn-secondary btn--big btn ">
-              CONTACTA CON NOSOTROS
-            </button>
-          </a>
+  /* Variante oscura (ritmo de color, como las secciones de DEX) */
+  .home-feature--dark { background: var(--c-primary); }
+  .home-feature--dark .aof-eyebrow { color: rgba(255,255,255,.7); }
+  .home-feature--dark h2,
+  .home-feature--dark h2.c-accent,
+  .home-feature--dark p,
+  .home-feature--dark strong { color: #fff !important; }
+  .home-feature--dark .btn-primary { background:#fff !important; color: var(--c-primary) !important; }
+
+  /* Galería de instalaciones */
+  .home-gallery { display:grid; grid-template-columns:repeat(2,1fr); gap:16px; }
+  @media (min-width:768px){ .home-gallery{ grid-template-columns:repeat(4,1fr); } }
+  .home-gallery__item { border-radius:16px; overflow:hidden; aspect-ratio:3/4; background:#f3f2f0; }
+  .home-gallery__item img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s; }
+  .home-gallery__item:hover img { transform:scale(1.05); }
+
+  /* Instagram */
+  .home-ig__img { border-radius:20px; overflow:hidden; aspect-ratio:1/1; }
+  .home-ig__img img { width:100%; height:100%; object-fit:cover; }
+
+  /* Equipo médico (tarjetas) */
+  .home-team__intro { max-width: 760px; margin: 0 auto 44px; text-align:center; }
+  .home-team__grid { display:grid; grid-template-columns:1fr; gap:26px; }
+  @media (min-width:768px){ .home-team__grid{ grid-template-columns:repeat(3,1fr); } }
+  .home-team__card { display:flex; flex-direction:column; background:#f5f0e8; border-radius:18px; overflow:hidden; height:100%; }
+  .home-team__photo { aspect-ratio:1/1.08; overflow:hidden; background:#ece4da; }
+  .home-team__photo img { width:100%; height:100%; object-fit:cover; display:block; }
+  .home-team__body { padding:26px 24px 28px; display:flex; flex-direction:column; flex:1; }
+  .home-team__name { font-size:20px; color:var(--c-primary); margin:0 0 10px; }
+  .home-team__role { font-size:14px; color:#5a5a5a; line-height:1.6; flex:1; margin:0 0 18px; }
+
+  /* CTA final con formulario */
+  .home-cta-final { background: linear-gradient(135deg,#f3f2f0 0%, #ece4da 100%); padding-block:56px; }
+  @media (min-width:992px){ .home-cta-final { padding-block:84px; } }
+  .home-cta-final .aof-card { max-width:480px; }
+</style>
+
+
+<!-- ══ 1 · HERO ══════════════════════════════════════════════════ -->
+<section class="aof-hero front-section" data-scroll-section>
+  <div class="aof-hero__bg">
+    {% if global_index.home_video %}
+    <video class="aof-hero__video" autoplay muted loop playsinline preload="auto" poster="/assets/static/images/clinica-1.jpg" aria-hidden="true">
+      <source src="{{ global_index.home_video }}" type="video/mp4">
+    </video>
+    {% else %}
+    <img src="/assets/static/images/clinica-1.jpg" alt="" aria-hidden="true">
+    {% endif %}
+  </div>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <span class="aof-eyebrow">Sant Boi de Llobregat · Barcelona</span>
+        <h1 class="fluid-3-l mb-16">Tu clínica dental de confianza</h1>
+        <p class="fluid-9-r mb-24">
+          Más de <strong>25 años</strong> cuidando tu sonrisa con implantología, ortodoncia
+          y estética dental. Tecnología 3D, trato cercano y resultados naturales.
+        </p>
+        <a href="#aof-contacto" data-scroll-to>
+          <button class="btn btn-primary btn--big">PIDE TU PRIMERA VISITA</button>
+        </a>
+      </div>
+      <div class="col-xs-12 col-md-6 aof-hero__form-col">
+        <div class="aof-card">
+          <h2 class="fluid-7-m mb-8">Solicita información</h2>
+          <p class="aof-card__subtitle mb-24">Te llamamos y resolvemos tus dudas sin compromiso.</p>
+          {% set withEmpresa = false %}
+          {% set simpleLegal = true %}
+          {% set formId = "contactFormHero" %}
+          {% set submitClass = "btn-primary btn--full" %}
+          {% set submitText  = "QUIERO INFORMACIÓN" %}
+          {% include "components/contact-form.njk" %}
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  {% include "templates/servicios_2.njk" %}
-  {% include "templates/content_img.njk" %}
-  {% include "templates/content_4.njk" %}
-  {% include "templates/content_6.njk" %}
-  {% include "templates/content_4_r.njk" %}
-  {# {% include "templates/contacta_1.njk" %} #}
-  {% include "onepage/contacta_4.njk" %}
+<!-- ══ 2 · BARRA DE CONFIANZA ════════════════════════════════════ -->
+{% include "templates/trust-bar.njk" %}
+
+<!-- ══ 3 · INTRO ═════════════════════════════════════════════════ -->
+<section class="home-intro front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-6 mb-16 md:mb-0">
+        <span class="aof-eyebrow">Centre Dental Basté</span>
+        <h2 class="fluid-4-l c-accent" style="margin:0;">Clínica dental en Sant Boi de Llobregat</h2>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <p class="fluid-9-r">
+          En Centre Dental Basté reunimos a todos los especialistas y todos los tratamientos en el
+          mismo centro. Un enfoque cercano y riguroso, con la última tecnología, que prioriza tu
+          comodidad y la naturalidad de los resultados.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 4 · TRATAMIENTOS ══════════════════════════════════════════ -->
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Qué hacemos</span>
+        <h2 class="fluid-5-l c-accent">Nuestros tratamientos</h2>
+      </div>
+    </div>
+    <div class="aof-cards">
+      {% for t in collections.tratamientos %}
+      {% if t.data.seccion and loop.index <= 8 %}
+      <a class="aof-card-item" href="{{ t.url }}">
+        <div class="aof-card-item__img">
+          <img src="{{ ('/assets/static/images' + t.data.introCta_image) if t.data.introCta_image else '/assets/static/images/clinica-1.jpg' }}"
+               alt="{{ t.data.seccion | title }} en Sant Boi de Llobregat" loading="lazy">
+        </div>
+        <div class="aof-card-item__body">
+          <h3 class="aof-card-item__title">{{ t.data.seccion | title }}</h3>
+          <p class="aof-card-item__desc">{{ t.data.metaDescription | default(t.data.introtitle_subtitle) | truncate(90) }}</p>
+          <span class="aof-card-item__link">Ver tratamiento →</span>
+        </div>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row mt-40">
+      <div class="col-xs-12 text-center">
+        <a href="/tratamientos/"><button class="btn btn-primary btn--big">VER TODOS LOS TRATAMIENTOS</button></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 5 · DESTACADO: ALL-ON-4 (imagen izq) ══════════════════════ -->
+<section class="home-feature front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle smmax:reverse">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <div class="home-feature__img">
+          <img src="/assets/static/images/blog/blog-inner/implantes-dentales-1dia.jpg" alt="Implantes dentales All-on-4 en Sant Boi de Llobregat" loading="lazy">
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <div class="wmax-560">
+          <span class="aof-eyebrow">Implantología</span>
+          <h2 class="fluid-5-l mb-16 c-accent">All-on-4: dientes fijos en 24-48 horas</h2>
+          <p class="fluid-9-r">
+            Recupera toda tu sonrisa con solo 4 o 6 implantes y carga inmediata, sin pasar meses sin
+            dientes ni depender de dentaduras removibles. Cirugía guiada por ordenador y, en la mayoría
+            de casos, <strong>sin injertos</strong>.
+          </p>
+          <div class="home-cta-wrap">
+            <a href="/tratamientos/all-on-4-sant-boi-de-llobregat/"><button class="btn btn-primary btn--big">Saber más</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 5b · GALERÍA DE INSTALACIONES ═════════════════════════════ -->
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Nuestro centro</span>
+        <h2 class="fluid-5-l c-accent">Conoce nuestras instalaciones</h2>
+      </div>
+    </div>
+    <div class="home-gallery">
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-1.jpg" alt="Instalaciones de Centre Dental Basté" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-2.jpg" alt="Gabinete dental en Sant Boi de Llobregat" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-3.jpg" alt="Clínica dental en Sant Boi de Llobregat" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica.jpeg" alt="Recepción de Centre Dental Basté" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 6 · DESTACADO: ORTODONCIA (imagen der) ════════════════════ -->
+<section class="home-feature bg-clear front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-6">
+        <div class="wmax-560">
+          <span class="aof-eyebrow">Ortodoncia</span>
+          <h2 class="fluid-5-l mb-16 c-accent">Ortodoncia invisible para alinear tu sonrisa</h2>
+          <p class="fluid-9-r">
+            Alineadores transparentes y removibles tipo Invisalign (SureSmile): cómodos, discretos y
+            planificados en 3D. La forma más estética de conseguir unos dientes alineados, a cualquier edad.
+          </p>
+          <div class="home-cta-wrap">
+            <a href="/invisalign-sant-boi-llobregat-barcelona/"><button class="btn btn-primary btn--big">Saber más</button></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <div class="home-feature__img">
+          <img src="/assets/static/images/blog/blog-inner/ortodoncia-invisible-1024x600.jpg" alt="Ortodoncia invisible en Sant Boi de Llobregat" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 7 · RESEÑAS DE GOOGLE ═════════════════════════════════════ -->
+{% include "templates/reviews.njk" %}
+
+<!-- ══ 8 · DESTACADO: ESTÉTICA DENTAL (fondo marca) ══════════════ -->
+<section class="home-feature home-feature--dark front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle smmax:reverse">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <div class="home-feature__img">
+          <img src="/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg" alt="Estética dental y diseño de sonrisa en Sant Boi de Llobregat" loading="lazy">
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <div class="wmax-560">
+          <span class="aof-eyebrow">Estética dental</span>
+          <h2 class="fluid-5-l mb-16 c-accent">Diseña tu nueva sonrisa</h2>
+          <p class="fluid-9-r">
+            Carillas, blanqueamiento y diseño digital de sonrisa para conseguir una sonrisa natural y
+            armónica. Te enseñamos el resultado antes de empezar.
+          </p>
+          <div class="home-cta-wrap">
+            <a href="/tratamientos/estetica-dental-sant-boi-de-llobregat/"><button class="btn btn-primary btn--big">Saber más</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 9 · EQUIPO MÉDICO ═════════════════════════════════════════ -->
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Quién te trata</span>
+        <h2 class="fluid-5-l c-accent">Equipo médico especializado</h2>
+      </div>
+    </div>
+    <p class="home-team__intro fluid-9-r">
+      En Centre Dental Basté estamos comprometidos con la excelencia y el trato cercano. Nuestro equipo
+      de especialistas te ofrece un diagnóstico riguroso y la máxima calidad en cada etapa, siempre con
+      seguridad y profesionalidad.
+    </p>
+    <div class="home-team__grid">
+      <div class="home-team__card">
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-1.jpg" alt="Dr. Oriol — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__body">
+          <h3 class="home-team__name">Dr. Oriol</h3>
+          <p class="home-team__role">Especialista en implantología y cirugía oral. All-on-4 y rehabilitación sobre implantes.</p>
+        </div>
+      </div>
+      <div class="home-team__card">
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-2.jpg" alt="Dra. Fabiola — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__body">
+          <h3 class="home-team__name">Dra. Fabiola</h3>
+          <p class="home-team__role">Especialista en odontología general, estética dental y odontopediatría.</p>
+        </div>
+      </div>
+      <div class="home-team__card">
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-3.jpg" alt="Dr. Sergi — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__body">
+          <h3 class="home-team__name">Dr. Sergi</h3>
+          <p class="home-team__role">Especialista en ortodoncia y alineadores invisibles para alinear tu sonrisa.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 9b · INSTAGRAM ════════════════════════════════════════════ -->
+<section class="home-feature front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle smmax:reverse">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <div class="home-ig__img">
+          <img src="/assets/static/images/clinica-2.jpg" alt="Centre Dental Basté en Instagram" loading="lazy">
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <div class="wmax-560">
+          <span class="aof-eyebrow">Síguenos</span>
+          <h2 class="fluid-5-l mb-16 c-accent">Estamos en Instagram</h2>
+          <p class="fluid-9-r">
+            Descubre casos reales, consejos de salud bucodental y las novedades de la clínica.
+            Síguenos y no te pierdas nada.
+          </p>
+          <div class="home-cta-wrap">
+            <a href="{{ global_index.social_instagram | default('#') }}" target="_blank" rel="noopener">
+              <button class="btn btn-primary btn--big">Ver Instagram</button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 10 · BLOG ═════════════════════════════════════════════════ -->
+<section class="home-feature front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Actualidad</span>
+        <h2 class="fluid-5-l c-accent">Últimas novedades del blog</h2>
+      </div>
+    </div>
+    <div class="home-blog__grid">
+      {% for p in collections.post | reverse %}
+      {% if loop.index <= 3 %}
+      <a class="home-blog__card" href="{{ p.url }}">
+        <div class="home-blog__img">
+          <img src="{% if p.data.image %}/assets/static/images/blog/{{ p.data.image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"
+               alt="{{ p.data.title }}" loading="lazy">
+        </div>
+        <div class="home-blog__body">
+          <h3 class="home-blog__title">{{ p.data.title }}</h3>
+          <span class="aof-card-item__link" style="margin-top:14px;">Leer más →</span>
+        </div>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row mt-40">
+      <div class="col-xs-12 text-center">
+        <a href="/blog/"><button class="btn btn-primary btn--big">VER EL BLOG</button></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 11 · PREGUNTAS FRECUENTES ═════════════════════════════════ -->
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-3 mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Resolvemos tus dudas</span>
+        <h2 class="fluid-5-l c-accent">Preguntas frecuentes</h2>
+      </div>
+    </div>
+    <div class="aof-faq">
+      <details class="aof-faq__item" open>
+        <summary class="aof-faq__q">¿Cuánto cuesta la primera visita?</summary>
+        <div class="aof-faq__a">La primera visita de revisión y presupuesto cuesta 60 €, importe que se descuenta del tratamiento si lo realizas con nosotros.</div>
+      </details>
+      <details class="aof-faq__item">
+        <summary class="aof-faq__q">¿Ofrecéis financiación?</summary>
+        <div class="aof-faq__a">Sí, financiamos los tratamientos hasta en 72 meses sin intereses para que cuidar tu sonrisa sea más fácil.</div>
+      </details>
+      <details class="aof-faq__item">
+        <summary class="aof-faq__q">¿Dónde estáis y qué horario tenéis?</summary>
+        <div class="aof-faq__a">Estamos en Carrer Riera Basté, 18-20, Sant Boi de Llobregat (Barcelona). Atendemos de lunes a viernes; pide tu cita por teléfono o por el formulario.</div>
+      </details>
+      <details class="aof-faq__item">
+        <summary class="aof-faq__q">¿Atendéis urgencias dentales?</summary>
+        <div class="aof-faq__a">Sí, disponemos de atención de urgencias. Llámanos y te daremos cita lo antes posible.</div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 11b · CTA FINAL CON FORMULARIO ════════════════════════════ -->
+<section class="home-cta-final front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <span class="aof-eyebrow">Da el primer paso</span>
+        <h2 class="fluid-4-l c-accent" style="margin:0 0 12px;">Pide tu cita en Centre Dental Basté</h2>
+        <p class="fluid-9-r">Cuéntanos qué necesitas y te llamamos para resolver tus dudas sin compromiso. Primera visita de revisión y presupuesto por 60 € (a cuenta del tratamiento).</p>
+      </div>
+      <div class="col-xs-12 col-md-6 aof-hero__form-col">
+        <div class="aof-card">
+          <h3 class="fluid-7-m mb-8">Solicita información</h3>
+          <p class="aof-card__subtitle mb-24">Te llamamos sin compromiso.</p>
+          {% set withEmpresa = false %}
+          {% set simpleLegal = true %}
+          {% set formId = "contactFormCta" %}
+          {% set submitClass = "btn-primary btn--full" %}
+          {% set submitText  = "QUIERO INFORMACIÓN" %}
+          {% include "components/contact-form.njk" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 12 · CONTACTO + MAPA ══════════════════════════════════════ -->
+<div id="aof-contacto">
   {% include "onepage/contacta_5.njk" %}
-  {% include "templates/footer_3.njk" %}
+</div>
+
+{% include "templates/footer_3.njk" %}

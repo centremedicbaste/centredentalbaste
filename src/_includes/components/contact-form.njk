@@ -20,8 +20,8 @@
       method="POST"
       data-netlify="true"
       netlify-honeypot="bot-field"
-      id="contactForm"
-      onsubmit="return validateForm()">
+      id="{{ formId | default('contactForm') }}"
+      class="js-contact-form">
 
     {# ── Honeypot Netlify (campo invisible para bots) ── #}
     <p class="hidden" aria-hidden="true" style="position:absolute; left:-9999px;">
@@ -36,7 +36,7 @@
     {# ── Origen: URL de la página desde la que se envía el formulario.
          Se rellena en tiempo de build con la URL de Eleventy y se actualiza
          en cliente por si la página fuese servida desde otra ruta (alias). ── #}
-    <input type="hidden" name="origen" id="origenForm" value="{{ page.url }}">
+    <input type="hidden" name="origen" class="js-origen" value="{{ page.url }}">
 
     <div class="row md:reverse">
         <div class="col-xs-12 col-md-6">
@@ -148,76 +148,71 @@
 {# ── Script (validación + envío a Netlify Forms + Google Sheets + GA4) ── #}
 <script>
 (function () {
-    var form = document.getElementById('contactForm');
-    if (!form) return;
+    // Inicializa una sola vez aunque el formulario se incluya varias veces en la página
+    if (window.__contactFormsInit) return;
+    window.__contactFormsInit = true;
+    window.validateForm = function () { return true; }; // compat
 
-    // Refuerza el origen con la URL real del navegador (build-time + runtime)
-    var origenInput = document.getElementById('origenForm');
-    if (origenInput) {
-        origenInput.value = window.location.pathname + window.location.search;
-    }
+    function initForm(form) {
+        var origenInput = form.querySelector('.js-origen') || form.querySelector('[name="origen"]');
+        if (origenInput) origenInput.value = window.location.pathname + window.location.search;
 
-    window.validateForm = function () {
-        var emailSecurizado = form.elements['EmailSecurizado'] ? form.elements['EmailSecurizado'].value : '';
-        if (emailSecurizado) {
-            return false;
-        }
-        var politicas = form.querySelector('input[name="politicas"]');
-        if (politicas && !politicas.checked) {
-            alert('Por favor, acepta los términos y condiciones.');
-            return false;
-        }
-        return true;
-    };
+        form.addEventListener('submit', function (event) {
+            event.preventDefault();
+            var emailSecurizado = form.elements['EmailSecurizado'] ? form.elements['EmailSecurizado'].value : '';
+            if (emailSecurizado) return;
+            var politicas = form.querySelector('input[name="politicas"]');
+            if (politicas && !politicas.checked) {
+                alert('Por favor, acepta los términos y condiciones.');
+                return;
+            }
 
-    form.addEventListener('submit', function (event) {
-        event.preventDefault();
-        if (!window.validateForm()) return;
+            var formData = new FormData(form);
+            formData.append('form-name', 'contactformulario');
+            var jsonData = {};
+            formData.forEach(function (value, key) { jsonData[key] = value; });
 
-        var formData = new FormData(form);
-        formData.append('form-name', 'contactformulario');
+            var netlifyPromise = fetch('/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams(formData).toString()
+            });
+            var sheetsPromise = fetch('/.netlify/functions/form-to-sheets', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(jsonData)
+            });
 
-        var jsonData = {};
-        formData.forEach(function (value, key) { jsonData[key] = value; });
-
-        var netlifyPromise = fetch('/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: new URLSearchParams(formData).toString()
-        });
-
-        var sheetsPromise = fetch('/.netlify/functions/form-to-sheets', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(jsonData)
-        });
-
-        Promise.all([netlifyPromise, sheetsPromise]).then(function (responses) {
-            if (responses[0].ok) {
-                var origenValue = origenInput ? origenInput.value : window.location.pathname;
-                window.dataLayer = window.dataLayer || [];
-                window.dataLayer.push({
-                    'event': 'generate_lead',
-                    'form_name': 'contactformulario',
-                    'page_location': window.location.href,
-                    'origen': origenValue
-                });
-                if (typeof gtag === 'function') {
-                    gtag('event', 'generate_lead', {
-                        'event_category': 'formulario',
-                        'event_label': 'contactformulario',
+            Promise.all([netlifyPromise, sheetsPromise]).then(function (responses) {
+                if (responses[0].ok) {
+                    var origenValue = origenInput ? origenInput.value : window.location.pathname;
+                    window.dataLayer = window.dataLayer || [];
+                    window.dataLayer.push({
+                        'event': 'generate_lead',
+                        'form_name': 'contactformulario',
                         'page_location': window.location.href,
                         'origen': origenValue
                     });
+                    if (typeof gtag === 'function') {
+                        gtag('event', 'generate_lead', {
+                            'event_category': 'formulario',
+                            'event_label': 'contactformulario',
+                            'page_location': window.location.href,
+                            'origen': origenValue
+                        });
+                    }
+                    var modal = document.getElementById('modalMensajeEnviado');
+                    if (modal) modal.style.display = 'flex';
+                    form.reset();
+                } else {
+                    alert('Hubo un error al enviar el mensaje.');
                 }
-                document.getElementById('modalMensajeEnviado').style.display = 'flex';
-                form.reset();
-            } else {
-                alert('Hubo un error al enviar el mensaje.');
-            }
-        }).catch(function (error) {
-            alert('Error al enviar el mensaje: ' + error.message);
+            }).catch(function (error) {
+                alert('Error al enviar el mensaje: ' + error.message);
+            });
         });
-    });
+    }
+
+    document.querySelectorAll('form.js-contact-form').forEach(initForm);
 })();
 </script>

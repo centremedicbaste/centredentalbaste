@@ -428,7 +428,7 @@ ul.list-clear li {
 }
 // Enlaces legales dentro del formulario: sin mayúsculas ni letter-spacing,
 // como mucho en negrita y al tamaño del texto que los rodea.
-#contactForm .link-line {
+.js-contact-form .link-line {
   text-transform: none;
   letter-spacing: 0;
   font-size: inherit;
