@@ -4,6 +4,12 @@
   border: 1px solid $c-primary ;
   padding-inline: 8px;
 }
+// Botón CTA "Pide tu cita": más espacio lateral y texto siempre en blanco
+// (en .scrolled / .seccion-interior la regla "#menu-fixed a" lo oscurecía)
+.link_a_contacta.btn-primary {
+  padding-inline: 28px;
+  color: $c-white !important;
+}
 .c-accent {
   color: $c-primary;
 }

@@ -95,7 +95,6 @@ El tiempo de cada sesión para las visitas de **ortodoncia invisible en Sant Boi
 Gracias al propio sistema de férulas que se van **adaptando periódicamente**, el software especializado en ortodoncia invisible te permite ver los **resultados** y el plan de tratamiento virtualmente incluso **antes de empezar el tratamiento**, de manera que puedes ver el aspecto que se espera que tengan tus dientes para cuando acabes el tratamiento de ortodoncia invisible.
 
 
-[gallery link="file" size="medium" ids="555,556,559"]
 
  
 **ALGUNAS PREGUNTAS FRECUENTES**

@@ -204,7 +204,7 @@
     })();
   </script>
 </head>
-<body class="contain {{ colorHeader }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
+<body class="contain {{ colorHeader | default('has-light-menu') }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
   <!-- Google Tag Manager (noscript) -->
   {% if global_index.tag_manager %}
   <noscript><iframe title="googletagmanager" src="https://www.googletagmanager.com/ns.html?id={{ global_index.tag_manager }}" height="0"

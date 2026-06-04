@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/8-carillas-dentales.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/carillas-dentales.gif
 permalink: /tratamientos/carillas-dentales/
 tags: ["tratamientos"]
 
@@ -11,10 +13,10 @@ metaKeywords: carillas dentales, porcelana, composite, diseño de sonrisa, Sant 
 metaRobots: index, follow
 
 introCta_title: CARILLAS DENTALES
-introCta_image: /tratamientos/seccion-estetica_dental.jpg
+introCta_image: /blog/27-carillas-dentales-sant-boi-llobregat-barcelona.jpg
 
 introtitle_title: CARILLAS DENTALES EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: DISEÑO DIGITAL DE TU NUEVA SONRISA
+introtitle_subtitle: Diseño digital de tu nueva sonrisa
 
 content_1_title: ""
 content_1_subtitle: ""
@@ -35,6 +37,8 @@ banner_button: ""
 
 Las carillas son finas piezas que se adhieren a la cara externa del diente y se utilizan para corregir los defectos de los dientes y dar un aspecto natural, al tiempo que proporcionan fuerza y resistencia comparable al esmalte del diente natural.
 
+
+
 ## Tipos de carillas
 
 Nos especializamos en tratamientos de carillas de porcelana o de carillas composite; cada una de las mismas presenta toda una serie de características que serán puestas a disposición del usuario para que éste pueda elegir la mejor opción en base a su situación, así como al presupuesto que maneje.
@@ -45,6 +49,9 @@ Nos especializamos en tratamientos de carillas de porcelana o de carillas compos
 - Mayor durabilidad
 - Resistencia al desgaste
 - No se manchan
+
+
+![carillas dentales en Centre Dental Basté](/assets/static/images/blog/blog-inner/carillas-1024x600.jpg)
 
 ### Carillas de composite
 

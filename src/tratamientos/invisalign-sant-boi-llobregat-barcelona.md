@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/15-ortodoncia-invisible-sonrisa2.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/ortodoncia-brackets.gif
 permalink: /invisalign-sant-boi-llobregat-barcelona/
 tags: ["tratamientos"]
 
@@ -12,10 +14,10 @@ metaRobots: index, follow
 
 
 introCta_title: ORTODONCIA INVISIBLE
-introCta_image: /tratamientos/seccion-ortodoncia.jpg
+introCta_image: /blog/18-ortodoncia-invisible-barcelona-sant-boi-llobregat.jpg
 
 introtitle_title: ORTODONCIA INVISIBLE EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: ALINEADORES SURESMILE - ORTODONCIA TRANSPARENTE Y REMOVIBLE
+introtitle_subtitle: Alineadores SureSmile - ortodoncia transparente y removible
 
 content_1_title: ""
 content_1_subtitle: ""
@@ -40,6 +42,8 @@ La ortodoncia con alineadores invisibles, comúnmente conocida como Invisalign, 
 
 SureSmile es un tratamiento de ortodoncia invisible que, al igual que otros sistemas tipo Invisalign, utiliza una serie de alineadores transparentes personalizados para mover gradualmente los dientes a su posición correcta. Estos alineadores son prácticamente invisibles y se pueden retirar para comer y cepillarse los dientes.
 
+
+
 ## Ventajas de los alineadores SureSmile
 
 - **Discreto**: Los alineadores son transparentes y apenas se notan
@@ -47,6 +51,9 @@ SureSmile es un tratamiento de ortodoncia invisible que, al igual que otros sist
 - **Cómodo**: Sin brackets ni alambres que puedan causar molestias
 - **Higiénico**: Fácil de limpiar y mantener
 - **Eficaz**: Resultados comparables a los brackets tradicionales
+
+
+![ortodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/ortodoncia-invisible-1024x600.jpg)
 
 ## ¿Cómo funciona el tratamiento?
 

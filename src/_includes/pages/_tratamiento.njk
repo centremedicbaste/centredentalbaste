@@ -2,7 +2,6 @@
 layout: layout/base.njk
 colorHeader: has-light-menu
 ---
-{% set noheroimage = [] %}
 {% import "macros/_insert.njk" as insert %}
 
 <script type="application/ld+json">
@@ -46,10 +45,222 @@ colorHeader: has-light-menu
 }
 </script>
 
-<div class="main-article">
-  {% include 'templates/introCta_2.njk' %}
-  {% include 'templates/minititle.njk' %}
-  {% include "templates/content_text.njk" %}
-  {% include "onepage/contacta_6.njk" %}
-  {% include "templates/footer_3.njk" %}
+{% set heroBg = heroImage if heroImage else (('/assets/static/images' + introCta_image) if introCta_image else '/assets/static/images/clinica-1.jpg') %}
+
+<!-- ══ 1 · HERO ══════════════════════════════════════════════════ -->
+<section class="aof-hero front-section" data-scroll-section>
+  <div class="aof-hero__bg">
+    <img src="{{ heroBg }}" alt="" aria-hidden="true">
+  </div>
+  <div class="container-global mx-auto">
+    <div class="row align-middle">
+      <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
+        <span class="aof-eyebrow">{{ seccion | default('Tratamiento') }} · Sant Boi de Llobregat</span>
+        <h1 class="fluid-3-l mb-16">{{ introtitle_title | default(introCta_title) }}</h1>
+        {% if introtitle_subtitle %}
+        <p class="fluid-9-r mb-24">{{ introtitle_subtitle }}</p>
+        {% endif %}
+        <a href="#aof-contacto" data-scroll-to>
+          <button class="btn btn-primary btn--big">PIDE TU PRIMERA VISITA</button>
+        </a>
+      </div>
+      <div class="col-xs-12 col-md-6 aof-hero__form-col">
+        <div class="aof-card">
+          <h2 class="fluid-7-m mb-8">Solicita información</h2>
+          <p class="aof-card__subtitle mb-24">Te llamamos y resolvemos tus dudas sin compromiso.</p>
+          {% set withEmpresa = false %}
+          {% set simpleLegal = true %}
+          {% set submitClass = "btn-primary btn--full" %}
+          {% set submitText  = "QUIERO INFORMACIÓN" %}
+          {% include "components/contact-form.njk" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 2 · BARRA DE CONFIANZA (compartida) ═══════════════════════ -->
+{% include "templates/trust-bar.njk" %}
+
+<!-- ══ 3 · CONTENIDO DEL TRATAMIENTO (markdown) ══════════════════ -->
+<section class="aof-split front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="aof-content">
+      {% set procedimientoMarker = '<!-- ilustracion-procedimiento -->' %}
+      {% if ilustracion_procedimiento and procedimientoMarker in content %}
+        {% set partes = content | splitContent(procedimientoMarker) %}
+        {% set intro = partes[0] | splitLeadContent %}
+        {% if ilustracion and intro.lead %}
+        <div class="aof-content__lead innermarkdown">
+          <div class="aof-content__lead-media">
+            <img class="aof-content__illus" src="{{ ilustracion }}" alt="Qué es {{ seccion | default('tratamiento') }} — Centre Dental Basté" loading="lazy">
+          </div>
+          <div class="aof-content__lead-text">{{ intro.lead | safe }}</div>
+        </div>
+        {% if intro.rest %}<div class="innermarkdown">{{ intro.rest | safe }}</div>{% endif %}
+        {% else %}
+        <div class="innermarkdown">{{ partes[0] | safe }}</div>
+        {% endif %}
+        {% set proc = partes[1] | splitLeadContent %}
+        {% if ilustracion_procedimiento and proc.lead %}
+        <div class="aof-content__lead innermarkdown aof-content__lead--procedimiento">
+          <div class="aof-content__lead-media">
+            <img class="aof-content__illus" src="{{ ilustracion_procedimiento }}" alt="Procedimiento de {{ seccion | default('tratamiento') }} — Centre Dental Basté" loading="lazy">
+          </div>
+          <div class="aof-content__lead-text">{{ proc.lead | safe }}</div>
+        </div>
+        {% if proc.rest %}<div class="innermarkdown">{{ proc.rest | safe }}</div>{% endif %}
+        {% else %}
+        <div class="innermarkdown">{{ partes[1] | safe }}</div>
+        {% endif %}
+      {% elif ilustracion %}
+        {% set intro = content | splitLeadContent %}
+        {% if intro.lead %}
+        <div class="aof-content__lead innermarkdown">
+          <div class="aof-content__lead-media">
+            <img class="aof-content__illus" src="{{ ilustracion }}" alt="{{ seccion | default('tratamiento') }} — Centre Dental Basté" loading="lazy">
+          </div>
+          <div class="aof-content__lead-text">{{ intro.lead | safe }}</div>
+        </div>
+        {% if intro.rest %}<div class="innermarkdown">{{ intro.rest | safe }}</div>{% endif %}
+        {% else %}
+        <div class="innermarkdown">{{ content | safe }}</div>
+        {% endif %}
+      {% else %}
+        <div class="innermarkdown">{{ content | safe }}</div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<!-- ══ 3b · PASOS PREVIOS A LA INTERVENCIÓN (tratamientos complejos) ══ -->
+{% include "templates/preparacion.njk" %}
+
+<!-- ══ 4 · PASOS (opcional, desde frontmatter) ═══════════════════ -->
+{% if pasos %}
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Cómo funciona</span>
+        <h2 class="fluid-5-l c-accent">{{ pasos_title | default('El tratamiento, paso a paso') }}</h2>
+      </div>
+    </div>
+    <div class="aof-steps__grid">
+      {% for paso in pasos %}
+      <div class="aof-step">
+        <span class="aof-step__num">{{ loop.index }}</span>
+        <h3 class="fluid-8-m mb-8">{{ paso.title }}</h3>
+        <p class="text-14-r">{{ paso.desc }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- ══ 5 · TESTIMONIOS EN VÍDEO (opcional) ═══════════════════════ -->
+{% include "templates/testimonios_video.njk" %}
+
+<!-- ══ 6 · ANTES Y DESPUÉS (opcional, comparador) ════════════════ -->
+{% if casos %}
+<section class="aof-split front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Resultados reales</span>
+        <h2 class="fluid-5-l c-accent">Antes y después</h2>
+      </div>
+    </div>
+    <div class="aof-ba__grid">
+      {% for caso in casos %}
+      <div class="aof-ba__item" data-ba>
+        <div class="aof-ba__after"><img src="{{ caso.despues }}" alt="{{ caso.alt | default('Caso antes y después') }} (después)"></div>
+        <div class="aof-ba__before"><img src="{{ caso.antes }}" alt="{{ caso.alt | default('Caso antes y después') }} (antes)"></div>
+        <span class="aof-ba__tag aof-ba__tag--before">Antes</span>
+        <span class="aof-ba__tag aof-ba__tag--after">Después</span>
+        <span class="aof-ba__line"></span>
+        <span class="aof-ba__handle">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 8l-3.5 4 3.5 4M14 8l3.5 4-3.5 4"/></svg>
+        </span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- ══ 7 · RESEÑAS DE GOOGLE (compartida) ════════════════════════ -->
+{% include "templates/reviews.njk" %}
+
+<!-- ══ 8 · EQUIPO MÉDICO (compartida) ════════════════════════════ -->
+<section class="aof-split front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Quién te trata</span>
+        <h2 class="fluid-5-l c-accent">Equipo médico especializado</h2>
+      </div>
+    </div>
+    <div class="aof-team__card">
+      <img class="aof-team__photo" src="/assets/static/images/clinica-1.jpg" alt="Equipo de Centre Dental Basté">
+      <h3 class="fluid-7-m mb-8">Centre Dental Basté</h3>
+      <p class="text-14-r c-gray mb-16">Sant Boi de Llobregat</p>
+      <p class="text-14-r">Más de 25 años cuidando la salud bucodental de nuestros pacientes con tecnología avanzada y un trato cercano y personalizado.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ══ 9 · PREGUNTAS FRECUENTES (desde frontmatter faq) ══════════ -->
+{% if faq %}
+<section class="aof-split bg-clear front-section" data-scroll-section>
+  <div class="container-3 mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Resolvemos tus dudas</span>
+        <h2 class="fluid-5-l c-accent">Preguntas frecuentes</h2>
+      </div>
+    </div>
+    <div class="aof-faq">
+      {% for item in faq %}
+      <details class="aof-faq__item"{% if loop.first %} open{% endif %}>
+        <summary class="aof-faq__q">{{ item.question }}</summary>
+        <div class="aof-faq__a">{{ item.answer }}</div>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- ══ 10 · CONTACTO + MAPA (compartida) ═════════════════════════ -->
+<div id="aof-contacto">
+  {% include "onepage/contacta_5.njk" %}
 </div>
+
+{% include "templates/footer_3.njk" %}
+
+{% if casos %}
+<script>
+  (function () {
+    function initBA(el) {
+      function setPos(clientX) {
+        var r = el.getBoundingClientRect();
+        var x = Math.min(Math.max(clientX - r.left, 0), r.width);
+        el.style.setProperty('--pos', (x / r.width * 100) + '%');
+      }
+      var dragging = false;
+      el.addEventListener('pointerdown', function (e) {
+        dragging = true;
+        setPos(e.clientX);
+        try { if (el.setPointerCapture) { el.setPointerCapture(e.pointerId); } } catch (err) {}
+      });
+      el.addEventListener('pointermove', function (e) { if (dragging) { setPos(e.clientX); } });
+      function stop() { dragging = false; }
+      el.addEventListener('pointerup', stop);
+      el.addEventListener('pointercancel', stop);
+    }
+    document.querySelectorAll('[data-ba]').forEach(initBA);
+  })();
+</script>
+{% endif %}

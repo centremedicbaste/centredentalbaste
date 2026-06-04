@@ -1,5 +1,8 @@
 ---
 layout: pages/_tratamiento.njk
+preparacion: true
+listado_image: /assets/static/images/blog/endodoncia-2.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/endodoncia-camara-pulpar.gif
 permalink: /tratamientos/endodoncia-dental/
 tags: ["tratamientos"]
 
@@ -12,9 +15,9 @@ metaRobots: index, follow
 
 
 introCta_title: ENDODONCIA
-introCta_image: /tratamientos/seccion-endodoncia.jpg
+introCta_image: /blog/blog-inner/endodoncia-1.jpg
 introtitle_title: ENDODONCIA EN BARCELONA
-introtitle_subtitle: DESCUBRE EN QUÉ CONSISTE LA ENDODONCIA, SUS OBJETIVOS Y CÓMO SE REALIZA
+introtitle_subtitle: Descubre en qué consiste la endodoncia, sus objetivos y cómo se realiza
 
 
 
@@ -39,6 +42,8 @@ banner_button: ""
 
 ## ENDODONCIA
 
+
+
 ## ¿Qué es la endodoncia?
 
 La endodoncia es un tratamiento consistente en eliminar el tejido pulpar de la pieza dental y sustituirlo por un relleno inorgánico para garantizar la hermeticidad interna de la pieza.
@@ -46,8 +51,6 @@ La endodoncia es un tratamiento consistente en eliminar el tejido pulpar de la p
 Por medio de unos instrumentos especiales se limpia el interior del diente dejándolo libre de infección. Cada diente tiene en su interior una red de vasos que se distribuyen dentro del diente formando una red de conductos.
 
 La endodoncia pretende limpiar cada conducto y dejar el diente apto para su posterior restauración.
-
-![endodoncia](/assets/static/images/endodoncia.jpg)
 
 ## ¿Cuál es el objetivo de la endodoncia?
 
@@ -58,6 +61,9 @@ La endodoncia pretende limpiar cada conducto y dejar el diente apto para su post
 3. Se consigue un sellado apical y del resto del conducto para aislarlo del resto del organismo.
 
 4. Se consigue un cierre biológico: los cementoblasts del muñón periodontal producirán cemento que cerrará el ápice, lo cual significa el éxito de la endodoncia.
+
+
+![endodoncia en Centre Dental Basté](/assets/static/images/blog/endodoncia-2.jpg)
 
 ## ¿Cómo se detecta la necesidad de hacerse una endodoncia?
 

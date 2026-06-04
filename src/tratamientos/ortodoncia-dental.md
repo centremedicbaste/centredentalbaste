@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/32-brackets-esteticos-sant-boi-llobregat-barcelona.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/ortodoncia-brackets.gif
 permalink: /ortodoncia-dental/
 tags: ["tratamientos"]
 
@@ -12,10 +14,10 @@ metaRobots: index, follow
 
 
 introCta_title: ORTODONCIA
-introCta_image: /tratamientos/seccion-ortodoncia.jpg
+introCta_image: /blog/24-tipos-ortodoncia-clinica-dental-sant-boi-llobregat.jpg
 
 introtitle_title: ORTODONCIA DENTAL EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: SOLUCIONES COMPLETAS PARA ALINEAR TUS DIENTES Y MEJORAR TU SONRISA
+introtitle_subtitle: Soluciones completas para alinear tus dientes y mejorar tu sonrisa
 
 content_1_title: ""
 content_1_subtitle: ""
@@ -36,6 +38,8 @@ banner_button: ""
 
 La ortodoncia dental es la especialidad que se encarga de corregir la posición de los dientes y mejorar la mordida. En Centre Dental Basté ofrecemos diferentes opciones de tratamiento para adaptarnos a las necesidades de cada paciente.
 
+
+
 ### Tipos de Tratamiento de Ortodoncia
 
 #### 1. Brackets Metálicos Tradicionales
@@ -49,6 +53,9 @@ Brackets colocados en la parte interna de los dientes, completamente invisibles 
 
 #### 4. Ortodoncia Invisible tipo Invisalign (SureSmile)
 Alineadores transparentes y removibles que ofrecen la máxima discreción y comodidad.
+
+
+![ortodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/ortodoncia-convencional.jpg)
 
 ### ¿Cuándo es necesario un tratamiento de ortodoncia?
 

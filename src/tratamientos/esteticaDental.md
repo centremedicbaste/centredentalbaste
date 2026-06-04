@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/31-sonrisa-digital.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/blanqueamiento-dental-sonrisa.gif
 permalink: /tratamientos/estetica-dental-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
@@ -12,10 +14,10 @@ metaRobots: index, follow
 
 
 introCta_title: ESTÉTICA DENTAL
-introCta_image: /tratamientos/seccion-estetica_dental.jpg
+introCta_image: /blog/40-carillas-dentales-sant-boi-llobregat-barcelona.jpg
 
 introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: LOGRA UNA SONRISA RADIANTE CON NUESTROS TRATAMIENTOS DE BLANQUEAMIENTO, CARILLAS Y MÁS.
+introtitle_subtitle: Logra una sonrisa radiante con nuestros tratamientos de blanqueamiento, carillas y más.
 
 
 
@@ -45,11 +47,16 @@ En estos últimos tiempos, debido a los avances de la tecnología, nos encontram
 
 Nuestro objetivo es ayudarte a que te sientas cómodo/a con tu boca, para conseguir esa sonrisa radiante que siempre has querido tener y que, debido a diferentes factores, puede que no sea como lo fue en el pasado. Y es que a diferencia de lo que muchas personas piensan, la estética dental no incluye solo mejorar la apariencia de nuestros dientes, así como evitar cualquier problema en ellos, sino que también incluye todo el marco que los rodea, como pueden ser los labios, las encías...
 
+
+
 ## Blanqueamiento dental
 
 Con nuestro servicio de blanqueamiento dental nos encargaremos de la eliminación de cualquier tipo de mancha que puedas presentar en el esmalte de los dientes, para conseguir el color del tono natural de los mismos. Se trata de un procedimiento muy simple que se usa con técnicas no invasivas e indoloras: la última tecnología en luz fría LED al servicio de la estética dental en Sant Boi de Llobregat. De esta manera, es la solución para cualquier tipo de cliente.
 
 [Más información sobre blanqueamiento dental](https://centredentalbaste.com/tratamientos/blanqueamiento-dental/)
+
+
+![estética-dental en Centre Dental Basté](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg)
 
 ## Tratamiento de encías
 

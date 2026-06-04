@@ -28,7 +28,9 @@ Hoy en día sabemos que si bien todas las periodontitis se inician con una gingi
 
 Clínicamente la periodontitis se caracteriza por la presencia de alteraciones de color, textura, forma de la encía y también por sangrado, retracción de las encías con exposición de la raíz dental. Los efectos más avanzados de **problemas de encías en Sant Boi de Llobregat** pueden desarrollar movilidad dental o supuración, pudiendo llegar a producirse la pérdida de la pieza dental.
 
-[caption id="attachment\_576" align="alignnone" width="1024"]![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.jpg) Problemas de encías en Sant Boi de Llobregat[/caption]
+![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.jpg)
+
+*Problemas de encías en Sant Boi de Llobregat*
 
 Cuando el **proceso inflamatorio** afecta a los tejidos periodontales profundos, se produce **destrucción del hueso** y del **ligamento periodontal** que son los tejidos que soportan y sujetan los dientes. A este grado de afectación lo denominamos periodontitis y este es un **problema de encías en Sant Boi de Llobregat** que se soluciona en nuestra clínica dental desde hace ya muchos años.
 

@@ -2,23 +2,46 @@
 layout: layout/base.njk
 colorHeader: has-light-menu
 ---
-{% set noheroimage = [] %}
 {% import "macros/_insert.njk" as insert %}
 
+<!-- ══ HERO LISTADO ══════════════════════════════════════════════ -->
+<section class="aof-listing-hero front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <span class="aof-eyebrow">Centre Dental Basté · Sant Boi de Llobregat</span>
+    <h1 class="fluid-3-l mb-16">Tratamientos dentales</h1>
+    <p class="fluid-9-r">Todos nuestros tratamientos en Sant Boi de Llobregat: implantología, ortodoncia, estética dental, periodoncia y mucho más. Más de 25 años cuidando tu sonrisa.</p>
+  </div>
+</section>
 
-<div class="main-article">
-  <section class="container-global mx-auto pt-64" data-scroll-section>
-    <div class="row">
-      <div class="col-xs-12 text-center">
-        <h1 class="fluid-6-l mb-24 c-accent">Tratamientos Dentales</h1>
-      </div>
+<!-- ══ BARRA DE CONFIANZA (compartida) ═══════════════════════════ -->
+{% include "templates/trust-bar.njk" %}
+
+<!-- ══ GRID DE TRATAMIENTOS (auto desde la colección) ════════════ -->
+<section class="aof-split front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="aof-cards">
+      {% for t in collections.tratamientos %}
+      {% if t.data.seccion %}
+      <a class="aof-card-item" href="{{ t.url }}">
+        <div class="aof-card-item__img">
+          {% set illus = t.data.ilustracion %}
+          {% set illusEsDibujo = illus and 'tratamientos-ilustraciones' in illus %}
+          <img src="{% if t.data.listado_image %}{{ t.data.listado_image }}{% elif t.data.heroImage %}{{ t.data.heroImage }}{% elif t.data.introCta_image %}/assets/static/images{{ t.data.introCta_image }}{% elif illus and not illusEsDibujo %}{{ illus }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"
+               alt="{{ t.data.seccion | title }} en Sant Boi de Llobregat" loading="lazy">
+        </div>
+        <div class="aof-card-item__body">
+          <h2 class="aof-card-item__title">{{ t.data.seccion | title }}</h2>
+          <p class="aof-card-item__desc">{{ t.data.metaDescription | default(t.data.introtitle_subtitle) | truncate(100) }}</p>
+          <span class="aof-card-item__link">Ver tratamiento →</span>
+        </div>
+      </a>
+      {% endif %}
+      {% endfor %}
     </div>
-  </section>
-  {% include 'templates/introCta_2.njk' %}
+  </div>
+</section>
 
-  {% include "templates/servicios_2.njk" %}
+<!-- ══ CONTACTO + MAPA (compartida) ══════════════════════════════ -->
+{% include "onepage/contacta_5.njk" %}
 
-
-  {% include "onepage/contacta_6.njk" %}
-  {% include "templates/footer_3.njk" %}
-</div>
+{% include "templates/footer_3.njk" %}

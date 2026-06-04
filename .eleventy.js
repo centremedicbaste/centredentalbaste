@@ -89,6 +89,36 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("wrapWithDiv", function(markdownString) {
     return markdownString.replace(/--(.*?)--/g, '<div class="bold">$1</div>');
   });
+  eleventyConfig.addFilter("splitContent", function (content, separator) {
+    return String(content || "").split(separator);
+  });
+  // Separa el bloque introductorio (1.er titular + texto) del resto del artículo
+  eleventyConfig.addFilter("splitLeadContent", function (content) {
+    const html = String(content || "");
+    const h2matches = [...html.matchAll(/<h2\b/gi)].map((m) => m.index);
+
+    if (!h2matches.length) {
+      return { lead: html, rest: "" };
+    }
+
+    let splitAt;
+    if (h2matches.length >= 2) {
+      const between = html.slice(h2matches[0], h2matches[1]);
+      const hasParagraph = /<p[\s>]/i.test(between);
+      if (!hasParagraph && h2matches.length >= 3) {
+        splitAt = h2matches[2];
+      } else {
+        splitAt = h2matches[1];
+      }
+    } else {
+      splitAt = html.length;
+    }
+
+    return {
+      lead: html.slice(0, splitAt).trim(),
+      rest: html.slice(splitAt).trim(),
+    };
+  });
   eleventyConfig.addNunjucksFilter("mdbr", function(value) {
     const nunjucksSafe = require("nunjucks").runtime.markSafe;
     if (!value) {

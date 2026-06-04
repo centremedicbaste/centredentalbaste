@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/3-ortodoncia-chicos.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/ortodoncia-brackets.gif
 permalink: /tratamientos/ortodoncia-dental/
 tags: ["tratamientos"]
 
@@ -12,11 +14,11 @@ metaRobots: index, follow
 
 
 introCta_title: ORTODONCIA
-introCta_image: /tratamientos/seccion-ortodoncia.jpg
+introCta_image: /blog/blog-inner/ortodoncia-convencional.jpg
 
 
 introtitle_title: ORTODONCIA EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: SOLUCIONES DE ORTODONCIA PARA UNA SONRISA ALINEADA Y SALUDABLE
+introtitle_subtitle: Soluciones de ortodoncia para una sonrisa alineada y saludable
 
 
 
@@ -41,9 +43,6 @@ ___
 
 ## ¿Qué es la ortodoncia?
 
-
-![ortodoncia](/assets/static/images/ortodoncia.jpg)
-
 La ortodoncia es la rama de la odontología que se encarga del estudio, prevención diagnóstico y tratamiento de los problemas de alineación de los dientes y mordida, así como del desarrollo de los maxilares buscando un equilibrio entre el correcto funcionamiento bucal y una estética ideal del rostro.
 
 Hace tiempo se relacionaba el uso de ortodoncia únicamente a los niños, pero cada vez son más los adultos que realizan este tipo de tratamiento ya que son conscientes de los increíbles beneficios estéticos y funcionales que ello conlleva.
@@ -53,6 +52,8 @@ Esto se puede conseguir mediante el uso de aparatos de ortodoncia. Estos aparato
 Unos dientes sanos que funcionan bien, y una cara equilibrada que agrada al que la contempla, repercuten en la autoestima del paciente, y en su aceptación social.
 
 En Clínica Dental Basté hemos sabido adaptarnos a los últimos avances en el mundo de la ortodoncia, que han sido muchos. Los aparatos de ortodoncia han experimentado una evolución increíble existiendo en la actualidad gran variedad de soluciones y tipos.
+
+
 
 
 ## Ortodoncia SureSmile
@@ -72,6 +73,9 @@ Los Brackets reducen el tiempo del tratamiento permitiendo que el arco se deslic
 ## Ortodoncia estética
 
 La ortodoncia estética consiste en el uso de brackets de zafiro transparentes, dan como resultado un tratamiento casi invisible, siendo una solución muy estética. Este tipo de brackets transparentes no se tiñen ni se manchan a lo largo de todo el tratamiento. Son una de las opciones más habituales y populares en el mundo de la ortodoncia estética.
+
+
+![ortodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/ortodoncia-estudio-1024x600.jpg)
 
 ## Ortodoncia Invisible / Lingual
 

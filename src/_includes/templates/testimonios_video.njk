@@ -1,0 +1,27 @@
+<!-- testimonios_video.njk -->
+{% if testimonios %}
+<section class="testimonios-video container-global mx-auto front-section">
+  <h2 class="testimonios-video__title">{{ testimonios_title | default('Testimonios de nuestros pacientes') }}</h2>
+  {% if testimonios_subtitle %}
+  <p class="testimonios-video__subtitle">{{ testimonios_subtitle }}</p>
+  {% endif %}
+  <div class="testimonios-video__grid">
+    {% for t in testimonios %}
+    <figure class="testimonios-video__item">
+      <div class="testimonios-video__frame ar-16-9">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/{{ t.id }}"
+          title="{{ t.titulo | default('Testimonio de paciente - Centre Dental Basté') }}"
+          loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+      </div>
+      {% if t.titulo %}
+      <figcaption class="testimonios-video__caption">{{ t.titulo }}</figcaption>
+      {% endif %}
+    </figure>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

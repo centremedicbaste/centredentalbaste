@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/28-ortodoncia-infantil-sant-boi-llobregat-barcelona.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/odontopediatria-nino-diente.gif
 permalink: /tratamientos/odontologia-infantil-sant-boi-de-llobregat/
 tags: ["tratamientos"]
 
@@ -12,10 +14,10 @@ metaRobots: index, follow
 
 
 introCta_title: ODONTOPEDIATRÍA
-introCta_image: /tratamientos/seccion-odontopediatria.jpg
+introCta_image: /blog/blog-inner/odontologia-infantil-1024x600.jpg
 
 introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: CUIDADO DENTAL PARA NIÑOS
+introtitle_subtitle: Cuidado dental para niños
 
 
 
@@ -42,6 +44,8 @@ La Odontopediatría es la rama de la odontología encargada de mantener la salud
 
 Se debe tener presente lo importante que es la primera visita al dentista. Según esta experiencia, será su actitud frente a atenciones posteriores, incluso cuando adulto. Por ello es importante visitar al odontopediatra lo más temprano posible, para que en caso de existir daño éste sea detectado cuando esté iniciándose, haciendo así que las sesiones sean cortas y menos invasivas.
 
+
+
 ## Odontología infantil en Sant Boi de Llobregat
 
 ### Tratamientos de odontología infantil más comunes:
@@ -61,6 +65,9 @@ Se debe tener presente lo importante que es la primera visita al dentista. Segú
 - A partir de los 6 meses es obligatorio el cepillado nocturno.
 - La primera visita con el personal de odontología infantil en Sant Boi de Llobregat debería ser alrededor de los 12 meses, encaminada a orientar a los padres en relación a la salud bucal de sus hijos.
 - A partir del primer año y hasta los 8 años, se recomienda un mínimo de 2 cepillados al día supervisados por el papá o la mamá.
+
+
+![Odontopediatría en Centre Dental Basté](/assets/static/images/blog/blog-inner/odontologia-infantil-1024x600.jpg)
 
 ## ¿Qué diferencias hay de la odontología general?
 

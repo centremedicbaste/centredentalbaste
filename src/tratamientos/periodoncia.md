@@ -1,5 +1,8 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/12-problemas-encias.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/periodoncia-raspado-bolsas-encias.gif
+ilustracion_procedimiento: /assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg
 permalink: /tratamientos/periodoncia/
 tags: ["tratamientos"]
 
@@ -12,10 +15,10 @@ metaRobots: index, follow
 
 
 introCta_title: PERIODONCIA
-introCta_image: /tratamientos/seccion-periodoncia.jpg
+introCta_image: /blog/12-problemas-encias.jpg
 
 introtitle_title: PERIODONCIA EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: TRATAMIENTOS DE PERIODONCIA PARA PREVENIR Y TRATAR ENFERMEDADES DE LAS ENCÍAS
+introtitle_subtitle: Tratamientos de periodoncia para prevenir y tratar enfermedades de las encías
 
 
 
@@ -45,6 +48,8 @@ La periodoncia nos ayuda a prevenir, diagnosticar y tratar las afecciones de las
 
 Las enfermedades periodontales tratables por la periodoncia son la gingivitis y la periodontitis, conocida como piorrea. Son producidas por bacterias que tenemos en la boca, y cuando éstas no son eliminadas correctamente, afectan a las encías causando una inflamación que se traslada por debajo de la misma destruyendo el hueso y los tejidos de los dientes.
 
+
+
 ## 1. Gingivitis:
 
 La Gingivitis es la inflamación de la encía que rodea el diente con aumento del sangrado de la misma pero sin destrucción del tejido de soporte dentario (hueso, ligamento periodontal).
@@ -56,6 +61,11 @@ La Gingivitis es la inflamación de la encía que rodea el diente con aumento de
 La Periodontitis es una patología más compleja porque aquí si hay destrucción de los tejidos de soporte (aquí estriba la diferencia fundamental entre las dos) y además hay varios grados de gravedad y existen muchos factores coadyuvantes (bacterias, tabaco, hábitos de higiene, predisposición genética, herencia…).
 
 [Más información sobre periodontitis](https://centredentalbaste.com/tratamientos/periodoncia/)
+
+<!-- ilustracion-procedimiento -->
+
+
+![periodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg)
 
 ## ¿Qué tratamientos existen?
 

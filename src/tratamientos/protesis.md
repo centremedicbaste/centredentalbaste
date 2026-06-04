@@ -1,5 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
+listado_image: /assets/static/images/blog/puente-dental.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/puente-dental.gif
 permalink: /tratamientos/protesis/
 tags: ["tratamientos"]
 
@@ -12,10 +14,10 @@ metaRobots: index, follow
 
 
 introCta_title: PRÓTESIS
-introCta_image: /tratamientos/seccion-protesis.jpg
+introCta_image: /blog/protesis-dental-removible-sant-boi-llobregat.jpg
 
 introtitle_title: PRÓTESIS DENTALES EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: MEJORA LA ESTÉTICA Y FUNCIÓN DE TU BOCA CON NUESTRAS PRÓTESIS DENTALES
+introtitle_subtitle: Mejora la estética y función de tu boca con nuestras prótesis dentales
 
 
 
@@ -42,6 +44,8 @@ Cuando no es posible la colocación de implantes, si tienes dientes y piezas den
 
 Las prótesis dentales son dispositivos diseñados para reemplazar dientes perdidos o dañados, restaurando tanto la función como la estética de la boca. Existen diferentes tipos de prótesis dentales, cada una adaptada a las necesidades específicas de cada paciente.
 
+
+
 ## Tipos de Prótesis Dentales
 
 ### 1. Prótesis Fijas
@@ -49,6 +53,9 @@ Las prótesis dentales son dispositivos diseñados para reemplazar dientes perdi
 Las prótesis fijas, como las coronas y los puentes, se cementan de manera permanente en los dientes existentes o en implantes dentales. Estas prótesis ofrecen una solución duradera y estable para la sustitución de dientes perdidos.
 
 [Más información sobre prótesis fijas](#)
+
+
+![prótesis en Centre Dental Basté](/assets/static/images/blog/blog-inner/protesis-dental-fija-sant-boi-llobregat.jpg)
 
 ### 2. Prótesis Removibles
 

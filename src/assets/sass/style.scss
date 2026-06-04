@@ -40,6 +40,8 @@ $width-left: calc((1280px + (100vw - 1600px) / 2));
 @import "./componentes/_accordion.scss";
 @import "./componentes/_blog-home.scss";
 @import "./componentes/_video.scss";
+@import "./componentes/_testimonios-video.scss";
+@import "./componentes/_landing.scss";
 @import "./componentes/_cookie-banner.scss";
 @import "./_blog.scss";
 @media (min-width: $break-sm) {
@@ -423,6 +425,15 @@ ul.list-clear li {
   padding-left: 0;
   padding-right: 0;
   border-radius: 0;
+}
+// Enlaces legales dentro del formulario: sin mayúsculas ni letter-spacing,
+// como mucho en negrita y al tamaño del texto que los rodea.
+#contactForm .link-line {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: inherit;
+  padding-bottom: 2px; // el subrayado (gradiente) iba 5px separado del texto
+  @include font-bold;
 }
 .header-img {
   position: relative;
@@ -981,7 +992,7 @@ a:hover {
 .container-global {
   padding-right: 16px;
   padding-left: 16px;
-  max-width: 1650px;
+  max-width: 1300px;
   @media (min-width: $break-md) {
     padding-right: 4rem;
     padding-left: 4rem;
@@ -992,7 +1003,7 @@ a:hover {
   padding-left: 16px;
   max-width: 250px;
   @media (min-width: $break-sm) {
-    max-width: 1650px;
+    max-width: 1300px;
     padding-right: 4rem;
     padding-left: 4rem;
   }
@@ -1039,18 +1050,6 @@ a:hover {
     background: rgba(255, 255, 255, 0.3);
     /* Ligera transparencia */
   }
-}
-.logo-centrado {
-  font-size: 22px;
-  width: 200px;
-  color: white;
-  text-align: center;
-  margin: 40px auto;
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 20;
 }
 html.lenis,
 html.lenis body {
@@ -1199,6 +1198,25 @@ a.c-accent {
   @media (min-width: $break-sm) {
     min-height: 70vh;
   }
+}
+.herohome__layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.herohome__main {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-height: 0;
+}
+.herohome__copy {
+  width: 100%;
+  padding-bottom: 0;
+  margin: 0;
 }
 
 .image-bg img{

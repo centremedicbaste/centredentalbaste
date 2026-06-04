@@ -1,5 +1,8 @@
 ---
 layout: pages/_tratamiento.njk
+preparacion: true
+listado_image: /assets/static/images/blog/blog-inner/implantes-dentales-injerto.jpg
+ilustracion: /assets/static/images/tratamientos-ilustraciones/injerto-oseo-cirugia-maxilar.gif
 permalink: /tratamientos/regeneracion-osea-periodontal/
 tags: ["tratamientos"]
 
@@ -11,10 +14,10 @@ metaKeywords: regeneración ósea, periodontitis, Sant Boi de Llobregat, injerto
 metaRobots: index, follow
 
 introCta_title: REGENERACIÓN ÓSEA PERIODONTAL
-introCta_image: /tratamientos/seccion-periodoncia.jpg
+introCta_image: /blog/12-problemas-encias.jpg
 
 introtitle_title: REGENERACIÓN ÓSEA PERIODONTAL EN SANT BOI DE LLOBREGAT
-introtitle_subtitle: RECUPERA EL HUESO PERDIDO POR PERIODONTITIS
+introtitle_subtitle: Recupera el hueso perdido por periodontitis
 
 content_1_title: ""
 content_1_subtitle: ""
@@ -35,6 +38,8 @@ banner_button: ""
 
 La regeneración ósea periodontal es una técnica avanzada que permite recuperar parte del hueso perdido debido a la periodontitis, mejorando la estabilidad y salud de los dientes.
 
+
+
 ## ¿Qué es la regeneración ósea periodontal?
 
 Se pueden aplicar técnicas de regeneración ósea para recuperar parte del hueso perdido. Este procedimiento utiliza materiales especiales y técnicas avanzadas para estimular el crecimiento de nuevo tejido óseo en las áreas afectadas.
@@ -45,6 +50,9 @@ Se pueden aplicar técnicas de regeneración ósea para recuperar parte del hues
 - **Membranas de barrera**: Protegen el área durante la regeneración
 - **Factores de crecimiento**: Estimulan la formación de nuevo hueso
 - **Técnicas combinadas**: Combinación de diferentes métodos para mejores resultados
+
+
+![regeneración ósea periodontal en Centre Dental Basté](/assets/static/images/blog/blog-inner/implantes-dentales-injerto.jpg)
 
 ## Beneficios
 

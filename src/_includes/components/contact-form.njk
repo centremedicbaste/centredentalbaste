@@ -85,6 +85,15 @@
             </div>
             {% endif %}
 
+            {% if simpleLegal %}
+            <div class="mb-32">
+                <label>
+                    <input type="checkbox" name="politicas" required>
+                    He leído y acepto la
+                    <a href="/legal/politica-de-privacidad/" target="_blank" rel="noopener noreferrer" class="link-line">Política de Privacidad</a>.
+                </label>
+            </div>
+            {% else %}
             <div class="mb-16">
                 <label>
                     <input type="checkbox" name="politicas" required>
@@ -106,6 +115,7 @@
                     y nuestra <a href="/legal/cookies/" target="_blank" rel="noopener noreferrer" class="link-line">Política de Cookies</a>.
                 </p>
             </div>
+            {% endif %}
 
             <button aria-label="enviar email"
                     class="btn {{ submitClass | default('btn-primary btn--full') }}"

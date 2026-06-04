@@ -31,7 +31,6 @@ Beneficios y ventajas de la higiene dental:
 
 
 
-[gallery link="file" size="medium" ids="567,565,563"]
 
  
 Cómo cuidar los dientes con una correcta higiene dental:

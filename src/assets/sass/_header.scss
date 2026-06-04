@@ -10,6 +10,41 @@ $header-desktop: 200px;
     }
   }
 }
+
+// Sombra bajo la cabecera (mismo efecto que box-shadow en la barra del menú)
+.site-header__shade {
+  display: none;
+}
+body.has-light-menu:not(.scrolled),
+body.has-dark-hero:not(.scrolled) {
+  overflow-x: visible;
+
+  // El overlay oscuro de .bg-overlay tapaba el efecto de sombra del header
+  .bg-overlay::after {
+    display: none;
+  }
+}
+body.has-light-menu:not(.scrolled) .site-header__shade,
+body.has-dark-hero:not(.scrolled) .site-header__shade {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 140px;
+  z-index: 98;
+  pointer-events: none;
+  // Degradado oscuro que se desvanece hacia abajo, para que el logo y el
+  // menú (en blanco) se lean sobre la imagen del hero.
+  background: linear-gradient(to bottom,
+    rgba(0, 0, 0, 0.55) 0%,
+    rgba(0, 0, 0, 0.30) 30%,
+    rgba(0, 0, 0, 0) 100%);
+  @media (min-width: $break-sm) {
+    height: 100px;
+  }
+}
+
 #menu-white {
   position: fixed;
   top: 0;
@@ -17,22 +52,46 @@ $header-desktop: 200px;
   right: 0;
   width: 100%;
   z-index: 100;
-  height:  60px;
-  transition: all ease 0.3s;
+  height: 60px;
+  transition: background 0.3s ease, backdrop-filter 0.3s ease, transform 0.3s ease;
   transform: translateY(-100%);
-  background: rgba(255, 255, 255, 0.52);
-  backdrop-filter: blur(12.15px);
-
-
-
-  
-  /* Note: backdrop-filter has minimal browser support */
+  background: transparent;
+  backdrop-filter: none;
 
   @media (min-width: $break-sm) {
-    height:  100px;
+    height: 100px;
   }
 }
 
+// Estado inicial (como la home): menú en blanco + sombra bajo la cabecera
+body.has-light-menu:not(.scrolled),
+body.has-dark-hero:not(.scrolled) {
+  #menu-white {
+    transform: translateY(0);
+  }
+
+  #menu-white .logo-simple img {
+    filter: brightness(0) invert(1);
+  }
+
+  // Solo enlaces del menú principal (el submenú lleva fondo blanco y texto oscuro)
+  #menu-fixed .menu-desktop > li > a {
+    color: $c-white;
+  }
+
+  #menu-fixed .submenu a {
+    color: $c-secondary;
+    opacity: 1;
+  }
+
+  #menu-toggle {
+    mix-blend-mode: normal;
+  }
+
+  #menu-toggle rect {
+    fill: #ffffff;
+  }
+}
 
 
 
@@ -46,7 +105,7 @@ $header-desktop: 200px;
 }
 #menu-fixed {
   position: fixed;
-  padding-right: calc((100% - 1650px) / 2);
+  padding-right: calc((100% - 1300px) / 2);
   top: 0;
   right: 0;
   z-index: 100;
@@ -54,7 +113,7 @@ $header-desktop: 200px;
     @media (min-width: $break-sm) {
       top: 20px;
   }
-  a {
+  .menu-desktop > li > a {
     color: $c-white;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -147,34 +206,59 @@ $header-desktop: 200px;
   }
 }
 
-.scrolled,
-.seccion-interior {
+body.scrolled .site-header__shade {
+  display: none;
+}
+
+.scrolled {
   .menu-item-has-children {
     .submenu {
       background-color: #fff;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      
+
       a {
         color: $c-secondary;
       }
     }
   }
-}
-.scrolled,
-.seccion-interior {
 
-  rect{
+  #menu-toggle rect {
     fill: #1e1e1e;
   }
 
   #menu-white {
     transform: translateY(0);
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    box-shadow: none;
+    -webkit-box-shadow: none;
   }
-  #menu-fixed {
-    a {
-      color: $c-secondary;
 
-    }
+  #menu-white .logo-simple img {
+    filter: none;
+  }
+
+  #menu-fixed .menu-desktop > li > a {
+    color: $c-secondary;
+  }
+}
+
+// Páginas sin menú claro sobre hero: barra blanca desde el inicio (legal, etc.)
+body:not(.has-light-menu):not(.has-dark-hero) {
+  #menu-white {
+    transform: translateY(0);
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+
+  #menu-fixed .menu-desktop > li > a {
+    color: $c-secondary;
+  }
+
+  #menu-toggle rect {
+    fill: #1e1e1e;
   }
 }
 .menu-mobile-overlay {
