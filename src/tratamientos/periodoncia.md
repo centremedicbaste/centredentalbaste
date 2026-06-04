@@ -64,9 +64,6 @@ La Periodontitis es una patología más compleja porque aquí si hay destrucció
 
 <!-- ilustracion-procedimiento -->
 
-
-![periodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg)
-
 ## ¿Qué tratamientos existen?
 
 ### 1. Raspaje:
