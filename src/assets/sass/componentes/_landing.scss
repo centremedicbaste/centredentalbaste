@@ -28,6 +28,16 @@
   .aof-hero__bg::after {
     background: linear-gradient(to right, #f3f2f0 0%, #f3f2f0 30%, rgba(243, 242, 240, 0.55) 52%, rgba(243, 242, 240, 0) 78%);
   }
+  /* Home: velo oscuro a la izquierda (vídeo visible) con textos en blanco */
+  .aof-hero--video .aof-hero__bg::after {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.13) 0%, rgba(0, 0, 0, 0.43) 30%, rgba(243, 242, 240, 0) 52%, rgba(243, 242, 240, 0) 78%);
+  }
+  .aof-hero--video .aof-hero__intro .aof-eyebrow,
+  .aof-hero--video .aof-hero__intro h1,
+  .aof-hero--video .aof-hero__intro p,
+  .aof-hero--video .aof-hero__intro p strong {
+    color: #fff;
+  }
 }
 
 /* ── Home: hero con VÍDEO de fondo visible en móvil ──────────────
