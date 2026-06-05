@@ -213,6 +213,16 @@
         });
     }
 
-    document.querySelectorAll('form.js-contact-form').forEach(initForm);
+    // Inicializa cuando el DOM está completo: así enlaza TODOS los formularios
+    // de la página (p.ej. el del hero y el del CTA final de la home), aunque
+    // este script esté insertado entre ambos.
+    function initAll() {
+        document.querySelectorAll('form.js-contact-form').forEach(initForm);
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initAll);
+    } else {
+        initAll();
+    }
 })();
 </script>
