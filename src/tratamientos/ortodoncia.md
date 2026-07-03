@@ -36,6 +36,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué tipos de ortodoncia ofrecéis en Sant Boi de Llobregat?"
+    answer: "En Clínica Dental Basté ofrecemos varias soluciones adaptadas a cada paciente: brackets metálicos convencionales, ortodoncia estética, ortodoncia invisible o lingual y aparatos removibles. En la primera visita el ortodoncista estudia tu caso y te recomienda la opción más adecuada. Esa revisión con diagnóstico y presupuesto tiene un coste de 60 € que se descuenta a cuenta del tratamiento."
+  - question: "¿En qué se diferencian los brackets estéticos de los metálicos?"
+    answer: "Los brackets metálicos son plateados, se colocan en la cara visible del diente y son la opción más versátil y económica. Los brackets estéticos usan zafiro transparente para lograr un resultado casi invisible, sin teñirse ni mancharse durante el tratamiento. Ambos corrigen la posición de los dientes; la elección depende de tus prioridades estéticas y del criterio del ortodoncista."
+  - question: "¿La ortodoncia invisible es solo para adultos o también para niños?"
+    answer: "La ortodoncia es cada vez más habitual en adultos, que pueden iniciarla a cualquier edad, pero también se aplica en niños. En los más pequeños se recomienda una evaluación clínica y radiográfica alrededor de los 7 años para controlar el crecimiento dentofacial, y en algunos casos conviene un tratamiento precoz antes de esa edad. El ortodoncista determina en cada caso la técnica más adecuada."
+  - question: "¿Cuánto dura un tratamiento de ortodoncia y es doloroso?"
+    answer: "La duración varía según la complejidad de cada caso y el tipo de aparato, por lo que se concreta tras el diagnóstico inicial. En general no es un tratamiento doloroso, aunque los primeros días tras colocar o ajustar los aparatos puede notarse algo de presión o molestias leves que desaparecen en poco tiempo. Es importante mantener después la fase de retención para que los resultados se conserven."
+  - question: "¿Ofrecéis financiación para la ortodoncia en el Baix Llobregat?"
+    answer: "Sí, en Clínica Dental Basté puedes acceder a financiación sin intereses para tu tratamiento de ortodoncia. Con más de 25 años de experiencia en Sant Boi de Llobregat, adaptamos el plan a tus necesidades y te detallamos el presupuesto en la primera visita, cuyo coste de 60 € se descuenta a cuenta del tratamiento."
+
 
 ---
 

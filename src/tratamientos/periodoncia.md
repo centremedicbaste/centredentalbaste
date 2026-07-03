@@ -36,6 +36,17 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Cuál es la diferencia entre gingivitis y periodontitis?"
+    answer: "La gingivitis es la inflamación de la encía que rodea el diente, con aumento del sangrado, pero sin destrucción del tejido de soporte (hueso y ligamento periodontal). La periodontitis es más compleja porque sí hay destrucción de esos tejidos de soporte, y presenta varios grados de gravedad. Esa destrucción del hueso es la diferencia fundamental entre ambas."
+  - question: "¿Por qué me sangran las encías?"
+    answer: "El sangrado de encías suele ser un signo de gingivitis, la inflamación provocada por las bacterias de la boca cuando no se eliminan correctamente. Si no se trata a tiempo, la inflamación puede avanzar por debajo de la encía y destruir el hueso y los tejidos del diente. Conviene valorarlo cuanto antes en una revisión."
+  - question: "¿Tiene cura la enfermedad de las encías?"
+    answer: "La periodoncia nos ayuda a prevenir, diagnosticar y tratar las afecciones de las encías y del soporte de los dientes o implantes. Según la fase, disponemos de tratamientos como el raspado o curetaje, el injerto de encía, la microcirugía periodontal e incluso la regeneración ósea para recuperar parte del hueso perdido. En la primera visita valoramos tu caso y hacemos el presupuesto (60 euros a cuenta del tratamiento)."
+  - question: "¿La periodontitis tiene factores de riesgo?"
+    answer: "Sí. Además de las bacterias de la boca, en la periodontitis influyen factores coadyuvantes como el tabaco, los hábitos de higiene, la predisposición genética y la herencia. Por eso el tratamiento se personaliza según el grado de gravedad de cada paciente."
+  - question: "¿Puedo tratar mis encías en Sant Boi de Llobregat?"
+    answer: "Sí. En Centre Dental Basté, en Sant Boi de Llobregat, tratamos la gingivitis y la periodontitis con especialistas con más de 25 años de experiencia. Prevenimos, diagnosticamos y tratamos las afecciones de las encías y del soporte de los dientes e implantes, adaptando el tratamiento a cada caso."
 
 ---
 

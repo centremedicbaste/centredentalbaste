@@ -31,6 +31,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué diferencia hay entre carillas de porcelana y de composite (composite bonding)?"
+    answer: "Las carillas de porcelana ofrecen la máxima estética y naturalidad, mayor durabilidad, resistencia al desgaste y no se manchan. Las carillas de composite, técnica conocida también como composite bonding, son una solución más económica, de aplicación más rápida y fácil reparación, con muy buena estética. En la primera visita te presentamos las características de cada opción para que elijas según tu situación y presupuesto."
+  - question: "¿Porcelana vs composite: cuál me conviene más?"
+    answer: "Depende de tus prioridades. Si buscas máxima durabilidad y que no se manchen, la porcelana suele ser la mejor elección; si prefieres una opción más económica y rápida de colocar, el composite encaja mejor. Nos especializamos en ambos tratamientos y ponemos toda la información a tu disposición para que decidas con criterio."
+  - question: "¿Qué problemas corrigen las carillas dentales?"
+    answer: "Las carillas se adhieren a la cara externa del diente y corrigen dientes desalineados, espacios entre dientes, dientes manchados o descoloridos, piezas rotas o desgastadas y formas irregulares. Aportan un aspecto natural y una resistencia comparable a la del esmalte natural del diente."
+  - question: "¿Cómo es el proceso de colocación de carillas en Sant Boi de Llobregat?"
+    answer: "El proceso empieza con una consulta y el diseño digital de tu nueva sonrisa, seguido de una mínima preparación del diente, la fabricación de las carillas personalizadas y su adhesión definitiva. Todo se realiza en nuestro centro de Sant Boi de Llobregat. En la primera visita planificamos tu caso y te damos el presupuesto."
+  - question: "¿Las carillas dentales dan un resultado natural?"
+    answer: "Sí. Las carillas son finas piezas diseñadas para corregir los defectos del diente dando un aspecto natural, y se planifican mediante diseño digital de sonrisa para adaptarse a tu rostro. La porcelana destaca especialmente por su naturalidad y por no mancharse con el tiempo."
+
 ---
 
 ## Carillas Dentales en Sant Boi de Llobregat

@@ -35,6 +35,17 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué es una endodoncia?"
+    answer: "La endodoncia es un tratamiento que consiste en eliminar el tejido pulpar del interior del diente y sustituirlo por un relleno inorgánico que garantiza la hermeticidad de la pieza. Con instrumentos especiales se limpia cada conducto radicular para dejarlo libre de infección y dejar el diente apto para su posterior restauración."
+  - question: "¿Duele hacerse una endodoncia?"
+    answer: "No. El diente se anestesia antes de empezar, por lo que el tratamiento no es molesto. Además, tiene un buen postoperatorio. En Centre Dental Basté contamos con especialistas con más de 25 años de experiencia que realizan el procedimiento con tecnología avanzada."
+  - question: "¿Cuántas sesiones necesita una endodoncia en Sant Boi de Llobregat?"
+    answer: "Generalmente la endodoncia se realiza en un solo acto. En nuestra clínica de Sant Boi de Llobregat valoramos cada caso en la primera visita, donde hacemos la revisión y el presupuesto (60 euros a cuenta del tratamiento), para confirmar el número de sesiones necesarias."
+  - question: "¿Cuándo hace falta una corona después de una endodoncia?"
+    answer: "Cuando termina la endodoncia, el diente todavía necesita ser restaurado en cuanto a función y apariencia. Según el estado de la pieza, puede necesitar una obturación estética, una reconstrucción o una corona. En la primera visita valoramos qué restauración necesita tu caso concreto."
+  - question: "¿Cuánto vale una endodoncia?"
+    answer: "El precio depende de cada caso, ya que cada diente tiene una red de conductos distinta y el estado de la pieza influye en el tratamiento. Por eso lo valoramos personalmente en la primera visita, donde realizamos la revisión y el presupuesto (60 euros a cuenta del tratamiento)."
 
 ---
 

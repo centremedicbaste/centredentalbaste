@@ -35,6 +35,17 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué es el raspado de diente o curetaje dental?"
+    answer: "El raspado de diente o curetaje dental es una técnica que se ejecuta como tratamiento para combatir la periodontitis. Consiste en raspar las superficies de las raíces con unos instrumentos específicos llamados curetas, eliminando el sarro acumulado, y después alisarlas para retirar cualquier impureza. Su objetivo es facilitar la curación y agilizar la cicatrización."
+  - question: "¿Es lo mismo un raspado o curetaje que una limpieza dental?"
+    answer: "No. En una limpieza normal únicamente se elimina el sarro que ha quedado en la superficie del diente. En el raspado o curetaje se llega hasta el fondo, vaciando el sarro acumulado en las raíces y bajo la encía. Por eso el curetaje es un tratamiento para la periodontitis y no una simple higiene."
+  - question: "¿El raspado dental duele o lleva anestesia?"
+    answer: "Para realizar el raspado o curetaje se aplica anestesia según las necesidades de cada paciente, por lo que la intervención resulta cómoda. La anestesia se administra por cuadrantes, tratando cada uno de los dientes de manera independiente."
+  - question: "¿Cuándo es necesario un raspado o curetaje dental?"
+    answer: "Cuando la gingivitis no se trata a tiempo, la inflamación puede extenderse hasta la raíz del diente y formar bolsas periodontales llenas de bacterias. En ese punto, el raspado o curetaje ayuda a eliminar el sarro y los tejidos afectados. En la clínica determinamos la magnitud del problema y valoramos si es necesaria esta técnica."
+  - question: "¿Dónde puedo hacerme un raspado o curetaje en Sant Boi de Llobregat?"
+    answer: "En Centre Dental Basté, en Sant Boi de Llobregat, contamos con una sólida experiencia tratando la periodontitis mediante raspado de diente y curetaje dental. Valoramos cada caso en la primera visita, donde realizamos la revisión y el presupuesto (60 euros a cuenta del tratamiento)."
 
 ---
 

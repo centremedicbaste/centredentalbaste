@@ -32,6 +32,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué es la microcirugía periodontal y cuándo se necesita?"
+    answer: "Es una técnica avanzada que se utiliza en los casos más complejos de periodontitis, cuando la pérdida ósea es significativa y los tratamientos convencionales no han sido suficientes. Permite acceder por debajo de la encía para descontaminar las raíces dentales donde se ha depositado la flora bacteriana en forma de cálculos endurecidos."
+  - question: "¿Es un tratamiento muy invasivo?"
+    answer: "No. Se realiza con técnicas de microcirugía mínimamente invasivas que reducen el trauma sobre los tejidos. Esto permite un acceso preciso a las áreas afectadas, mejor visualización del campo quirúrgico y menor daño a los tejidos circundantes."
+  - question: "¿Cómo es la recuperación tras la microcirugía periodontal?"
+    answer: "Al tratarse de una técnica mínimamente invasiva, la recuperación del paciente suele ser más rápida y la cicatrización mejor que con la cirugía convencional. El menor daño a los tejidos favorece resultados más predecibles y un postoperatorio más cómodo."
+  - question: "¿Dónde puedo hacerme una microcirugía periodontal en Sant Boi de Llobregat?"
+    answer: "En Centre Dental Basté, en Sant Boi de Llobregat, realizamos microcirugía periodontal para los casos avanzados de periodontitis con pérdida significativa de hueso. Nuestro equipo valorará tu caso para indicar si es la técnica adecuada para ti."
+  - question: "¿En qué se diferencia de un tratamiento periodontal convencional?"
+    answer: "El tratamiento convencional actúa sobre estadios menos avanzados, mientras que la microcirugía se reserva para los casos con mayor pérdida ósea donde es necesario manipular la encía y acceder debajo de ella. Aporta más precisión en zonas de difícil acceso y mayor control del procedimiento."
+
 ---
 
 ## Microcirugía Periodontal en Sant Boi de Llobregat

@@ -36,6 +36,14 @@ compress = true
   status = 301
   force = true
 
+# Consolidación ortodoncia: la ficha thin de /ortodoncia-dental/ canibalizaba
+# la página principal /tratamientos/ortodoncia-dental/. Se unifica.
+[[redirects]]
+  from = "/ortodoncia-dental/"
+  to = "/tratamientos/ortodoncia-dental/"
+  status = 301
+  force = true
+
 # Consolidación All-on-4: las dos entradas de blog se unifican en la página
 # pilar de tratamiento para eliminar la canibalización de keyword
 [[redirects]]

@@ -35,6 +35,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué diferencia hay entre prótesis fijas, removibles y sobre implantes?"
+    answer: "Las prótesis fijas, como coronas y puentes, se cementan de forma permanente sobre los dientes existentes o sobre implantes dentales, ofreciendo una solución duradera y estable. Las removibles, como las dentaduras completas o parciales, puede retirarlas y colocarlas el propio paciente, y son una opción flexible y económica. También existen las combinadas, que unen elementos fijos y removibles para mayor estabilidad y comodidad."
+  - question: "¿Qué es una prótesis fija sobre implantes?"
+    answer: "Es una prótesis fija que, en lugar de cementarse sobre dientes propios, se sujeta sobre implantes dentales. De este modo se recupera la función masticatoria y la estética de forma estable y duradera cuando faltan piezas dentales."
+  - question: "¿Cuánto duran las prótesis dentales?"
+    answer: "Las prótesis fijas están pensadas como una solución duradera y estable para la sustitución de dientes perdidos. La duración depende del tipo de prótesis, del estado de la boca y de los cuidados y la higiene que se mantengan; en la primera visita valoramos tu caso para recomendarte la opción más adecuada."
+  - question: "¿Es difícil adaptarse a una prótesis dental?"
+    answer: "Cada tipo de prótesis se adapta a las necesidades específicas de cada paciente para restaurar tanto la función como la estética de la boca. Las prótesis mejoran la masticación, la pronunciación y el habla, y nuestro equipo te asesora para que la adaptación sea lo más cómoda posible."
+  - question: "¿Cómo puedo saber qué prótesis necesito y qué incluye la primera visita en Sant Boi de Llobregat?"
+    answer: "En Centre Dental Basté, en Sant Boi de Llobregat, nuestro equipo te asesora para ofrecerte un tratamiento personalizado según el estado de tus dientes. La primera visita incluye revisión y presupuesto por 60 €, importe que se descuenta a cuenta del tratamiento si decides realizarlo."
+
 
 ---
 

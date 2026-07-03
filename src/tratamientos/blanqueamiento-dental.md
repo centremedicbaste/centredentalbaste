@@ -31,6 +31,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Cuánto dura el efecto del blanqueamiento dental?"
+    answer: "La duración depende de tus hábitos: el consumo de tabaco, café, té o vino tiende a devolver las manchas con el tiempo. Como nuestro tratamiento elimina las manchas y recupera el tono natural del diente, mantener buenos hábitos y una higiene adecuada ayuda a que los resultados se conserven durante más tiempo. En la primera visita valoramos tu caso y te explicamos cómo prolongar el efecto."
+  - question: "¿El blanqueamiento dental produce sensibilidad o duele?"
+    answer: "El blanqueamiento es un procedimiento muy simple que se realiza con técnicas no invasivas e indoloras, usando tecnología de luz fría LED de última generación. Por eso es una solución apta para cualquier tipo de paciente. Si notas alguna sensibilidad puntual, nuestro equipo te orientará sobre cómo manejarla."
+  - question: "¿En cuántas sesiones se ven resultados en Sant Boi de Llobregat?"
+    answer: "El blanqueamiento en clínica se realiza en una sola sesión, con resultados visibles desde la primera. Lo llevan a cabo nuestros profesionales con tecnología LED de última generación en nuestro centro de Sant Boi de Llobregat. También ofrecemos blanqueamiento ambulatorio para hacer en casa con férulas personalizadas bajo supervisión."
+  - question: "¿Qué tipo de manchas elimina el blanqueamiento dental?"
+    answer: "Nuestro tratamiento actúa sobre manchas por tabaco, café, té y vino, manchas por medicamentos, por envejecimiento y también manchas de origen genético. El objetivo es eliminar la mancha del esmalte y recuperar el color natural del diente. En la revisión valoramos qué tipo de mancha tienes y la técnica más adecuada."
+  - question: "¿Cuál es la diferencia entre el blanqueamiento en clínica y el ambulatorio?"
+    answer: "El blanqueamiento en clínica lo realizan nuestros profesionales con tecnología LED en una sola sesión, siendo un proceso rápido y efectivo. El ambulatorio lo haces tú en casa, con férulas personalizadas y gel blanqueador, siempre bajo supervisión profesional. En la primera visita te ayudamos a elegir la opción que mejor se adapta a ti."
+
 ---
 
 ## Blanqueamiento Dental en Sant Boi de Llobregat

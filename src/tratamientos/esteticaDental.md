@@ -35,6 +35,17 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué tratamientos incluye la estética dental en Sant Boi de Llobregat?"
+    answer: "Ofrecemos un servicio integral de estética dental que abarca blanqueamiento, carillas de porcelana y composite, tratamiento y corrección de encías, y fundas y coronas de zirconio. La estética dental no se limita a los dientes, sino a todo el marco que los rodea, como los labios y las encías. En la primera visita valoramos tu caso y planificamos el conjunto de la sonrisa."
+  - question: "¿En qué consiste el diseño de sonrisa?"
+    answer: "El diseño de sonrisa es una planificación que da respuesta a las demandas, cada vez mayores, de una nueva sonrisa mediante diseño digital. Se apoya en tratamientos como carillas y blanqueamiento y contempla el equilibrio con las encías y el resto del rostro. El objetivo es que te sientas cómodo con tu boca y logres una sonrisa radiante."
+  - question: "¿Puedo combinar blanqueamiento y carillas para mejorar mi sonrisa?"
+    answer: "Sí. El blanqueamiento recupera el tono natural del diente eliminando manchas con técnicas indoloras y luz fría LED, mientras que las carillas corrigen forma, alineación o defectos estéticos. Al ser parte de un mismo servicio integral de estética dental, valoramos qué combinación se adapta mejor a lo que buscas."
+  - question: "¿La estética dental incluye el tratamiento de las encías?"
+    answer: "Sí. Revisamos tus encías para detectar problemas como periodontitis o gingivitis y también atendemos su estética: cuando las irregularidades hacen que los dientes se vean más cortos o asimétricos, disponemos de técnicas de corrección gingival indoloras. Es una parte importante de una sonrisa armónica."
+  - question: "¿Por qué elegir Centre Dental Basté para tu estética dental en el Baix Llobregat?"
+    answer: "En nuestro centro de Sant Boi de Llobregat, en pleno Baix Llobregat, utilizamos la tecnología más actual del mercado para lograr los mejores resultados en blanqueamiento, carillas, encías y zirconio. Nuestro objetivo es que te sientas cómodo con tu boca y recuperes esa sonrisa radiante. Reserva tu primera visita para valorar tu caso."
 
 ---
 

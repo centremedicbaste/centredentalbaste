@@ -60,4 +60,6 @@ En función de la gravedad y complejidad del caso de cada paciente, el dentista 
 
 Lo más importante que has de tener en cuenta es que **unos dientes y una boca sana son sinónimos de una buena calidad de vida**. Debemos visitar a nuestro dentista, por lo menos, 2 veces al año y seguir siempre sus recomendaciones de tratamiento, cuidado e higiene.
 
+¿Quieres saber qué tipo de aparato es el más adecuado para tu caso? En [Centre Dental Basté valoramos tu ortodoncia en Sant Boi de Llobregat](/tratamientos/ortodoncia-dental/) —brackets estéticos, metálicos y ortodoncia invisible— con primera visita de revisión y presupuesto. Si prefieres una solución transparente y removible, descubre nuestra [ortodoncia invisible tipo Invisalign con SureSmile](/invisalign-sant-boi-llobregat-barcelona/).
+
  

@@ -31,6 +31,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Cuál es la diferencia entre gingivitis y periodontitis?"
+    answer: "La gingivitis es una inflamación de las encías causada por la acumulación de placa bacteriana, y se caracteriza por sangrado y enrojecimiento. La periodontitis es una enfermedad más avanzada que afecta a los tejidos de soporte de los dientes, incluido el hueso. Nuestro equipo revisa tus encías para determinar cuál de los dos problemas presentas y darte solución."
+  - question: "¿Por qué me sangran las encías?"
+    answer: "El sangrado y el enrojecimiento suelen ser un signo de gingivitis, provocada por la acumulación de placa bacteriana en las encías. Es importante acudir a revisión, porque una gingivitis no tratada puede evolucionar hacia una periodontitis que afecte al hueso. En Centre Dental Basté te sabrán indicar la solución que necesitas."
+  - question: "¿Se puede mejorar la estética de las encías?"
+    answer: "Sí. Además de tratar la gingivitis y la periodontitis, tratamos las irregularidades o imperfecciones de las encías que hacen que los dientes se vean más cortos o asimétricos. Disponemos de técnicas de corrección gingival indoloras, como la gingivectomía estética y el contorneado gingival."
+  - question: "¿Qué tratamientos de encías ofrecéis en Sant Boi de Llobregat?"
+    answer: "En Centre Dental Basté, en Sant Boi de Llobregat, disponemos de raspado y alisado radicular, injerto de encía para cubrir raíces expuestas, gingivectomía estética y contorneado gingival. Son tratamientos orientados tanto a la salud periodontal como a la estética de la sonrisa."
+  - question: "¿Los tratamientos de encías son dolorosos?"
+    answer: "Las técnicas de corrección gingival que aplicamos son tratamientos indoloros de estética dental. El objetivo es mejorar la salud periodontal, prevenir la pérdida de dientes y aportar mayor comodidad y confianza, cuidando también la estética de tu sonrisa."
+
 ---
 
 ## Tratamiento de Encías en Sant Boi de Llobregat

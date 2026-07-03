@@ -32,6 +32,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿Qué es la ortodoncia invisible tipo Invisalign y con qué sistema trabajáis?"
+    answer: "La ortodoncia invisible utiliza una serie de férulas o alineadores transparentes y personalizados que mueven los dientes de forma gradual hasta su posición correcta. En Centre Dental Basté trabajamos con SureSmile, un sistema avanzado de alineadores transparentes tipo Invisalign. Son prácticamente imperceptibles y una alternativa discreta a los brackets tradicionales."
+  - question: "¿Cuáles son las ventajas de los alineadores frente a los brackets?"
+    answer: "Los alineadores SureSmile son transparentes y apenas se notan, resultan cómodos porque no llevan brackets ni alambres, y son fáciles de limpiar y mantener. Además son removibles, lo que facilita la higiene diaria. Sus resultados son comparables a los de los brackets tradicionales en una amplia variedad de casos."
+  - question: "¿Me puedo quitar los alineadores para comer?"
+    answer: "Sí. Una de las principales ventajas de la ortodoncia invisible con SureSmile es que los alineadores son removibles, de modo que puedes quitártelos para comer, beber y cepillarte los dientes. Se recomienda llevarlos el mayor número de horas posible para que el tratamiento avance según lo previsto y retirarlos solo en esos momentos."
+  - question: "¿Cuánto dura el tratamiento con alineadores en Sant Boi de Llobregat?"
+    answer: "El tratamiento se basa en una serie de alineadores personalizados que se van cambiando aproximadamente cada 1-2 semanas, con visitas de seguimiento periódicas para revisar el progreso. La duración total depende de cada caso y se define tras la consulta inicial, en la que valoramos con tecnología 3D si la ortodoncia invisible con SureSmile es adecuada para ti."
+  - question: "¿Para qué problemas dentales sirve la ortodoncia invisible en Barcelona y el Baix Llobregat?"
+    answer: "Los alineadores SureSmile pueden tratar una amplia variedad de casos, como dientes apiñados, espacios entre dientes, sobremordida, mordida cruzada o dientes protruidos. En Centre Dental Basté, en Sant Boi de Llobregat, nuestros especialistas evalúan tu caso para determinar si es la mejor opción para ti."
+
 ---
 
 # Ortodoncia Invisible tipo Invisalign en Sant Boi de Llobregat

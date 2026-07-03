@@ -35,6 +35,18 @@ contacta_6_title: ""
 contacta_6_subtitle: ""
 banner_button: ""
 
+faq:
+  - question: "¿A qué edad debe acudir mi hijo por primera vez al dentista en Sant Boi de Llobregat?"
+    answer: "De forma general, la primera visita al dentista puede realizarse alrededor de los 12 meses para orientar a los padres sobre la salud bucal del bebé, y una primera revisión más completa hacia los 3-4 años, cuando ya ha erupcionado la dentición de leche. A partir de ahí conviene hacer controles cada 6 meses y no esperar a que sea una urgencia. Cuanto antes se visite al odontopediatra, más fácil es detectar cualquier problema en su inicio."
+  - question: "¿Cómo evitáis que los niños tengan miedo al dentista?"
+    answer: "Cuidamos especialmente la primera experiencia del niño, porque de ella depende su actitud ante las visitas futuras, incluso de adulto. Por eso trabajamos con un ambiente adaptado a los más pequeños y buscamos que cada consulta sea positiva. Detectar los problemas de forma temprana permite además que las sesiones sean más cortas y menos invasivas."
+  - question: "¿Qué es el sellado de fisuras y por qué es importante?"
+    answer: "El sellado de fisuras es un método preventivo, similar a un empaste, con el que se aplican resinas sobre las caras masticatorias de los dientes para reducir la probabilidad de caries. Se colocan cuando empiezan a salir los molares definitivos. Es uno de los tratamientos preventivos más habituales en odontología infantil, junto con las aplicaciones de flúor."
+  - question: "¿Cada cuánto conviene revisar los dientes de mi hijo?"
+    answer: "Recomendamos controles cada 6 meses para vigilar el desarrollo de la dentición y el estado de las piezas dentales. Entre los 6 y 7 años, cuando empieza el cambio a la dentición definitiva, es especialmente importante reforzar los hábitos de higiene. Las visitas periódicas ayudan a detectar el inicio de una caries cuando su tratamiento aún es sencillo."
+  - question: "¿Qué incluye la primera visita de odontología infantil?"
+    answer: "En la primera visita el especialista revisa el desarrollo de la dentición y el estado de cada pieza dental, enseña las pautas de higiene, completa la limpieza y valora si conviene algún procedimiento preventivo. En Centre Dental Basté, con más de 25 años de experiencia en Sant Boi de Llobregat, esta primera visita de revisión y presupuesto tiene un coste de 60 € que se descuenta a cuenta del tratamiento."
+
 
 ---
 
