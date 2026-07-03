@@ -13,6 +13,22 @@ Esta parte la ejecuta el cliente (o con acceso a la ficha). Aquí tienes el chec
 ## 1. Datos básicos (NAP) — coherencia absoluta
 
 El nombre, dirección y teléfono deben ser **idénticos** en la ficha, en la web y en directorios.
+
+> ⚠️ **PENDIENTE DE ACLARAR — incoherencia de NAP detectada (jul 2026).**
+> Hay una diferencia entre lo que dice la web y la ficha de Google observada:
+>
+> | Dato | Web (schema) | Ficha de Google observada |
+> |---|---|---|
+> | Nombre | Centre **Dental** Basté | Centre **Mèdic** Basté |
+> | Dirección | Carrer Riera Basté, 18-20 bajos | Carrer Francesc Macià, 11, local 4 |
+> | Teléfono | 936 354 025 | 695 69 75 04 |
+> | Valoración | — (añadida 4,9 · 77 al schema) | 4,9 ★ (77) |
+>
+> **Acción:** confirmar cuál es la dirección/teléfono correctos de la clínica **dental** y si
+> existe (o debe crearse) una ficha propia "Centre Dental Basté". Mientras no se aclare, la
+> web mantiene Riera Basté 18-20 / 936 354 025. La incoherencia de NAP perjudica el SEO local:
+> es prioritario unificarla.
+
 En la web están así (schema de la home):
 
 - **Nombre:** Centre Dental Basté
