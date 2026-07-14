@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Flujo de leads · interactivo</title>
+<style>
+  :root{ --bg:#ffffff; --ink:#212529; --muted:#868e96; --hi:#f76707; }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+  header{padding:18px 24px 6px}
+  h1{font-size:20px;margin:0 0 4px}
+  p.sub{margin:0;color:var(--muted);font-size:13px}
+  #legend{display:flex;flex-wrap:wrap;gap:14px;padding:10px 24px 4px;font-size:12px}
+  #legend span{display:inline-flex;align-items:center;gap:6px}
+  #legend i{width:14px;height:14px;border-radius:3px;display:inline-block;border:2px solid}
+  #legend i.ln{width:22px;height:0;border-radius:0;border:0;border-top:3px solid}
+  #wrap{width:100%;overflow:auto;cursor:grab}
+  #wrap.grabbing{cursor:grabbing}
+  #wrap.grabbing .node{cursor:grabbing}
+  svg{display:block;user-select:none;-webkit-user-select:none}
+  .edge{fill:none;stroke:#c0c4c9;stroke-width:1.7;marker-end:url(#arw);transition:opacity .12s,stroke .12s,stroke-width .12s}
+  .edge.dash{stroke-dasharray:5 4}
+  .edge.yes{stroke:#2f9e44;marker-end:url(#arwYes)}
+  .edge.no{stroke:#e03131;marker-end:url(#arwNo)}
+  .edge.active{stroke:var(--hi)!important;marker-end:url(#arwHi)!important;stroke-width:3}
+  .edge.faded{opacity:.06}
+  .node{cursor:pointer}
+  .node rect{transition:opacity .12s,filter .12s,stroke-width .12s}
+  .node text{pointer-events:none}
+  .node.faded{opacity:.12}
+  .node.active rect{stroke-width:3;filter:drop-shadow(0 0 5px rgba(247,103,7,.55))}
+  .elab{font-size:12px;font-weight:700}
+</style>
+</head>
+<body>
+<header>
+  <h1>Flujo de captación de leads · n8n → Notion + Claude IA</h1>
+  <p class="sub">Arrastra con la mano para moverte. Pasa el ratón por una caja para iluminar su camino. Sí = verde · No = rojo.</p>
+</header>
+<div id="legend"></div>
+<div id="wrap"><div id="canvas"></div></div>
+
+<script>
+const G = {
+  canal:   {fill:'#e7f5ff', stroke:'#1971c2', text:'#174EA6', name:'Canal'},
+  auto:    {fill:'#ebfbee', stroke:'#2f9e44', text:'#0D652D', name:'Entrada / acción automática'},
+  manual:  {fill:'#ffe3e3', stroke:'#e03131', text:'#B31412', name:'Manual / call-tracking'},
+  motor:   {fill:'#fff0f3', stroke:'#e64980', text:'#c2255c', name:'Motor n8n (automático)'},
+  decision:{fill:'#fff9db', stroke:'#f08c00', text:'#976800', name:'Decisión'},
+  notion:  {fill:'#efedea', stroke:'#37352f', text:'#37352f', name:'Notion · base de leads'},
+  ia:      {fill:'#f6e9ff', stroke:'#9c36b5', text:'#862e9c', name:'Claude IA'},
+  info:    {fill:'#f8f9fa', stroke:'#adb5bd', text:'#495057', name:'Criterios / salida IA'},
+  estado:  {fill:'#eef2ff', stroke:'#4c6ef5', text:'#3b5bdb', name:'Estado (gestión en Notion)'},
+  fin:     {fill:'#d3f9d8', stroke:'#2f9e44', text:'#0D652D', name:'Cierre'}
+};
+
+const N = [
+  // canales
+  {id:'IG',  x:30,y:90, w:150,h:42,g:'canal',t:'Instagram'},
+  {id:'FB',  x:30,y:235,w:150,h:42,g:'canal',t:'Facebook'},
+  {id:'WA',  x:30,y:315,w:150,h:42,g:'canal',t:'WhatsApp Business'},
+  {id:'CWA', x:30,y:372,w:150,h:42,g:'canal',t:'Click-to-WhatsApp Ads'},
+  {id:'GB',  x:30,y:452,w:150,h:42,g:'canal',t:'Google Business'},
+  {id:'LD',  x:30,y:535,w:150,h:42,g:'canal',t:'Llamada directa'},
+  {id:'ER',  x:30,y:595,w:150,h:42,g:'canal',t:'Email / Referido'},
+  {id:'WEB', x:30,y:715,w:150,h:42,g:'canal',t:'Web'},
+  {id:'GADS',x:30,y:875,w:150,h:42,g:'canal',t:'Google Ads'},
+  {id:'YT',  x:30,y:945,w:150,h:42,g:'canal',t:'YouTube'},
+  {id:'QR',  x:30,y:1075,w:150,h:42,g:'canal',t:'QR'},
+  // entradas
+  {id:'IGDM', x:250,y:50,  w:190,h:44,g:'auto',  t:'Instagram DM'},
+  {id:'IGC',  x:250,y:107, w:190,h:44,g:'auto',  t:'Comentarios (a DM)'},
+  {id:'IGLA', x:250,y:164, w:190,h:44,g:'auto',  t:'Lead Ad (form)'},
+  {id:'MSG',  x:250,y:221, w:190,h:44,g:'auto',  t:'Messenger'},
+  {id:'FBLA', x:250,y:278, w:190,h:44,g:'auto',  t:'Lead Ad'},
+  {id:'WAM',  x:250,y:335, w:190,h:44,g:'auto',  t:'Mensaje al número'},
+  {id:'GBMSG',x:250,y:392, w:190,h:44,g:'auto',  t:'Google Msg'},
+  {id:'GBLL', x:250,y:449, w:190,h:44,g:'manual',t:'Llamadas GB'},
+  {id:'TEL',  x:250,y:506, w:190,h:44,g:'manual',t:'Teléfono'},
+  {id:'COR',  x:250,y:563, w:190,h:44,g:'auto',  t:'Correo'},
+  {id:'FORM', x:250,y:620, w:190,h:44,g:'auto',  t:'Formulario web'},
+  {id:'WAW',  x:250,y:677, w:190,h:44,g:'auto',  t:'WhatsApp web'},
+  {id:'WLL',  x:250,y:734, w:190,h:44,g:'manual',t:'Llamada web'},
+  {id:'CHAT', x:250,y:791, w:190,h:44,g:'auto',  t:'Chat widget'},
+  {id:'LF',   x:250,y:848, w:190,h:44,g:'auto',  t:'Lead Form'},
+  {id:'LAND', x:250,y:905, w:190,h:44,g:'auto',  t:'Landing'},
+  {id:'FORM2',x:250,y:962, w:190,h:44,g:'auto',  t:'Formulario landing'},
+  {id:'LLL',  x:250,y:1019,w:190,h:44,g:'manual',t:'Llamada landing'},
+  {id:'WAL',  x:250,y:1076,w:190,h:44,g:'auto',  t:'WhatsApp DM landing'},
+  {id:'CHAT2',x:250,y:1133,w:190,h:44,g:'auto',  t:'Chat widget landing'},
+  {id:'WAQ',  x:250,y:1190,w:190,h:44,g:'auto',  t:'WhatsApp DM (QR)'},
+  // ---- AUTOMÁTICO (n8n) ----
+  {id:'WH', x:470, y:630,w:190,h:56,g:'motor',   t:'n8n · Webhook Trigger'},
+  {id:'NZ', x:720, y:630,w:190,h:56,g:'motor',   t:'Normalizar + dedup + origen'},
+  {id:'D1', x:970, y:630,w:190,h:56,g:'decision',t:'¿Datos de contacto válidos?'},
+  {id:'R1', x:970, y:430,w:190,h:50,g:'auto',    t:'Auto-DM pide teléfono'},
+  // ---- NOTION + CLAUDE IA + GESTIÓN ----
+  {id:'NOTION',x:1230,y:624,w:210,h:64,g:'notion',t:'Notion · base de leads única'},
+  {id:'AVISO', x:1235,y:430,w:200,h:52,g:'auto',  t:'Aviso instantáneo a Joan'},
+  {id:'CLAUDE',x:1500,y:622,w:230,h:68,g:'ia',    t:'Claude IA · prioriza coste-oportunidad'},
+  {id:'CRIT',  x:1500,y:420,w:230,h:56,g:'info',  t:'Criterios: ticket · urgencia · canal'},
+  {id:'SUG',   x:1790,y:430,w:210,h:52,g:'info',  t:'Sugiere respuesta / acción'},
+  {id:'COLA',  x:1800,y:626,w:190,h:60,g:'ia',    t:'Cola priorizada (Alta→Baja)'},
+  {id:'E_NUEVO',x:2050,y:632,w:160,h:52,g:'estado',t:'Nuevo'},
+  {id:'E_CONT', x:2260,y:632,w:200,h:52,g:'estado',t:'Contactado · llamado sí/no'},
+  {id:'E_AGEN', x:2510,y:632,w:160,h:52,g:'estado',t:'Agendado'},
+  {id:'E_VIS',  x:2720,y:632,w:150,h:52,g:'estado',t:'Visita'},
+  {id:'E_FIN',  x:2920,y:630,w:170,h:56,g:'fin',   t:'✅ Cerrado'}
+];
+
+const E = [
+  ['IG','IGDM'],['IG','IGC'],['IG','IGLA'],
+  ['FB','MSG'],['FB','FBLA'],
+  ['WA','WAM'],['CWA','WAM'],
+  ['GB','GBMSG'],['GB','GBLL'],
+  ['LD','TEL'],['ER','COR'],
+  ['WEB','FORM'],['WEB','WAW'],['WEB','WLL'],['WEB','CHAT'],
+  ['GADS','LF'],['GADS','LAND'],['YT','LAND'],['QR','LAND'],['QR','WAQ'],
+  ['LAND','FORM2'],['LAND','LLL'],['LAND','WAL'],['LAND','CHAT2'],
+  ['IGDM','WH'],['IGC','WH'],['IGLA','WH'],['MSG','WH'],['FBLA','WH'],['WAM','WH'],
+  ['GBMSG','WH'],['COR','WH'],['FORM','WH'],['WAW','WH'],['CHAT','WH'],['LF','WH'],
+  ['FORM2','WH'],['WAL','WH'],['CHAT2','WH'],['WAQ','WH'],
+  ['GBLL','WH','dash'],['TEL','WH','dash'],['WLL','WH','dash'],['LLL','WH','dash'],
+  ['WH','NZ'],['NZ','D1'],
+  ['D1','R1','','No'],['D1','NOTION','','Sí'],
+  ['R1','NOTION'],
+  ['NOTION','AVISO'],
+  ['NOTION','CLAUDE'],
+  ['CRIT','CLAUDE','dash'],
+  ['CLAUDE','SUG'],
+  ['CLAUDE','COLA'],
+  ['COLA','E_NUEVO'],
+  ['E_NUEVO','E_CONT'],['E_CONT','E_AGEN'],['E_AGEN','E_VIS'],['E_VIS','E_FIN']
+];
+
+const map = {}; N.forEach(n=>map[n.id]=n);
+const adj = {}; N.forEach(n=>adj[n.id]=[]);
+E.forEach(e=>adj[e[0]].push(e[1]));
+
+const W = 3130, H = 1320;
+
+function anchors(a,b){
+  const dx=(b.x+b.w/2)-(a.x+a.w/2), dy=(b.y+b.h/2)-(a.y+a.h/2);
+  let s,t,c1,c2;
+  if(Math.abs(dx)>60){
+    if(dx>=0){ s=[a.x+a.w,a.y+a.h/2]; t=[b.x,b.y+b.h/2]; }
+    else{ s=[a.x,a.y+a.h/2]; t=[b.x+b.w,b.y+b.h/2]; }
+    const mx=(s[0]+t[0])/2; c1=[mx,s[1]]; c2=[mx,t[1]];
+  }else{
+    if(dy>=0){ s=[a.x+a.w/2,a.y+a.h]; t=[b.x+b.w/2,b.y]; }
+    else{ s=[a.x+a.w/2,a.y]; t=[b.x+b.w/2,b.y+b.h]; }
+    const my=(s[1]+t[1])/2; c1=[s[0],my]; c2=[t[0],my];
+  }
+  return {s,t,c1,c2};
+}
+
+let svg = '<svg width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg">';
+svg += '<defs>'+
+  '<marker id="arw"   markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.5" refY="5" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#c0c4c9"/></marker>'+
+  '<marker id="arwYes" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.5" refY="5" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#2f9e44"/></marker>'+
+  '<marker id="arwNo"  markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.5" refY="5" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#e03131"/></marker>'+
+  '<marker id="arwHi" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="9.5" refY="5" orient="auto"><path d="M0,0.5 L10,5 L0,9.5 z" fill="#f76707"/></marker>'+
+  '</defs>';
+
+svg += '<line x1="1185" y1="395" x2="1185" y2="720" stroke="#ced4da" stroke-width="1.5" stroke-dasharray="6 5"/>';
+svg += '<text x="470" y="595" font-size="13" font-weight="800" fill="#c2255c">AUTOMÁTICO · n8n</text>';
+svg += '<text x="1230" y="595" font-size="13" font-weight="800" fill="#862e9c">GESTIÓN CON CLAUDE IA · Notion</text>';
+
+E.forEach((e,i)=>{
+  const a=map[e[0]], b=map[e[1]]; const an=anchors(a,b);
+  const d='M'+an.s[0]+','+an.s[1]+' C'+an.c1[0]+','+an.c1[1]+' '+an.c2[0]+','+an.c2[1]+' '+an.t[0]+','+an.t[1];
+  let cls='edge'; if(e[2]==='dash') cls+=' dash';
+  if(e[3]==='Sí') cls+=' yes'; else if(e[3]==='No') cls+=' no';
+  svg += '<path class="'+cls+'" id="e'+i+'" data-f="'+e[0]+'" data-t="'+e[1]+'" d="'+d+'"/>';
+  if(e[3]){ const lx=(an.s[0]+an.t[0])/2, ly=(an.s[1]+an.t[1])/2-5; const col=e[3]==='Sí'?'#2f9e44':'#e03131'; svg+='<text class="elab" x="'+lx+'" y="'+ly+'" text-anchor="middle" fill="'+col+'">'+e[3]+'</text>'; }
+});
+
+N.forEach(n=>{
+  const c=G[n.g];
+  svg += '<g class="node" data-id="'+n.id+'">';
+  svg += '<rect x="'+n.x+'" y="'+n.y+'" width="'+n.w+'" height="'+n.h+'" rx="9" fill="'+c.fill+'" stroke="'+c.stroke+'" stroke-width="2"/>';
+  const words=n.t.split(' '); let l1=n.t,l2='';
+  if(n.t.length>18){ let acc='',rest=''; words.forEach(w=>{ if((acc+' '+w).trim().length<=18 && rest==='') acc=(acc+' '+w).trim(); else rest=(rest+' '+w).trim(); }); l1=acc; l2=rest; }
+  const cx=n.x+n.w/2;
+  if(l2){ svg+='<text x="'+cx+'" y="'+(n.y+n.h/2-3)+'" text-anchor="middle" font-size="12" font-weight="700" fill="'+c.text+'">'+l1+'</text>';
+          svg+='<text x="'+cx+'" y="'+(n.y+n.h/2+13)+'" text-anchor="middle" font-size="12" font-weight="700" fill="'+c.text+'">'+l2+'</text>'; }
+  else{ svg+='<text x="'+cx+'" y="'+(n.y+n.h/2+4)+'" text-anchor="middle" font-size="12.5" font-weight="700" fill="'+c.text+'">'+l1+'</text>'; }
+  svg += '</g>';
+});
+svg += '</svg>';
+document.getElementById('canvas').innerHTML = svg;
+
+const L = document.getElementById('legend');
+Object.values(G).forEach(c=>{ const s=document.createElement('span'); s.innerHTML='<i style="background:'+c.fill+';border-color:'+c.stroke+'"></i>'+c.name; L.appendChild(s); });
+const sYes=document.createElement('span'); sYes.innerHTML='<i class="ln" style="border-color:#2f9e44"></i>Sí'; L.appendChild(sYes);
+const sNo=document.createElement('span'); sNo.innerHTML='<i class="ln" style="border-color:#e03131"></i>No'; L.appendChild(sNo);
+
+const nodes=[...document.querySelectorAll('.node')];
+const edges=[...document.querySelectorAll('.edge')];
+let dragging=false;
+
+function reach(id){ const set=new Set([id]); const q=[id]; while(q.length){ const c=q.shift(); (adj[c]||[]).forEach(nx=>{ if(!set.has(nx)){set.add(nx);q.push(nx);} }); } return set; }
+
+function light(id){
+  if(dragging) return;
+  const set=reach(id);
+  nodes.forEach(g=>{ const nid=g.dataset.id; g.classList.toggle('active',set.has(nid)); g.classList.toggle('faded',!set.has(nid)); });
+  edges.forEach(p=>{ const on=set.has(p.dataset.f)&&set.has(p.dataset.t); p.classList.toggle('active',on); p.classList.toggle('faded',!on); });
+}
+function reset(){ nodes.forEach(g=>g.classList.remove('active','faded')); edges.forEach(p=>p.classList.remove('active','faded')); }
+
+nodes.forEach(g=>{ g.addEventListener('mouseenter',()=>light(g.dataset.id)); g.addEventListener('mouseleave',()=>{ if(!dragging) reset(); }); });
+
+(function(){
+  const wrap=document.getElementById('wrap');
+  let down=false,sx,sy,sl,st;
+  wrap.addEventListener('mousedown',e=>{ down=true;dragging=true;sx=e.pageX;sy=e.pageY;sl=wrap.scrollLeft;st=wrap.scrollTop;wrap.classList.add('grabbing');reset(); });
+  window.addEventListener('mousemove',e=>{ if(!down)return; e.preventDefault(); wrap.scrollLeft=sl-(e.pageX-sx); wrap.scrollTop=st-(e.pageY-sy); });
+  window.addEventListener('mouseup',()=>{ if(!down)return; down=false;wrap.classList.remove('grabbing'); setTimeout(()=>{dragging=false;},60); });
+})();
+</script>
+</body>
+</html>
