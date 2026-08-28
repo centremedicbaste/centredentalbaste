@@ -373,14 +373,21 @@ body.menu-open {
   overflow: hidden;
   max-height: 0;
   opacity: 0;
+  // visibility:hidden saca los enlaces del orden de tabulación cuando el
+  // submenú está plegado. Necesario para accesibilidad: un contenedor con
+  // aria-hidden="true" no debe contener elementos enfocables. El retardo en
+  // visibility (= duración del colapso) conserva la animación al cerrar.
+  visibility: hidden;
   margin-top: 0;
   padding-left: 4px;
-  transition: max-height 0.35s ease, opacity 0.2s ease, margin 0.2s ease;
+  transition: max-height 0.35s ease, opacity 0.2s ease, margin 0.2s ease, visibility 0s linear 0.35s;
 }
 .menu-mobile-item-has-children.is-open .menu-mobile-submenu {
   max-height: 1600px;
   opacity: 1;
+  visibility: visible;
   margin: 2px 0 14px;
+  transition: max-height 0.35s ease, opacity 0.2s ease, margin 0.2s ease, visibility 0s linear 0s;
 }
 .menu-mobile-submenu-item {
   padding: 0 !important;

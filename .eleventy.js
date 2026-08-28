@@ -22,8 +22,13 @@ const mdAnchorOpts = {
     placement: 'before',
     class: 'anchor-link',
     symbol: '#',
-    level: [1, 2, 3, 4],
-  })
+    // tabindex="-1": los enlaces ancla llevan aria-hidden="true", así que no
+    // deben ser enfocables (un contenedor/enlace aria-hidden no puede estar en
+    // el orden de tabulación). Mejora la accesibilidad para lectores de
+    // pantalla y la navegación de agentes de IA.
+    renderAttrs: () => ({ tabindex: '-1' }),
+  }),
+  level: [1, 2, 3, 4],
 };
 
 module.exports = function (eleventyConfig) {
