@@ -59,11 +59,12 @@ $headersFluids: (
   
   1: (60px, 160px, 0.8)
 ) ;
-$font-family-a-l: "golden", Helvetica, "Arial ", "Lucida Grande", sans-serif;
+// Titulares serif ("golden"): fallback también serif (Georgia) para que, durante
+// el breve swap de la fuente, las métricas se parezcan y se reduzca el CLS.
+$font-family-a-l: "golden", Georgia, "Times New Roman", serif;
 $font-family-a-r: "font-regular", Helvetica, "Arial ", "Lucida Grande",
   sans-serif;
-$font-family-a-m: "golden-regular", Helvetica, "Arial ", "Lucida Grande",
-  sans-serif;
+$font-family-a-m: "golden-regular", Georgia, "Times New Roman", serif;
 $font-family-a-b: "font-bold", Helvetica, "Arial ", "Lucida Grande", sans-serif;
 
 

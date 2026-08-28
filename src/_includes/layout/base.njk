@@ -49,6 +49,10 @@
 
 
 
+  <!-- Preload de fuentes above-the-fold: reduce el CLS (reflow al cargar la
+       tipografía). "golden" = titulares del hero; "font-regular" (Satoshi) = cuerpo. -->
+  <link rel="preload" href="/assets/fonts/goldenlight/goldenbook_light.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/satoshi/Satoshi-Regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/css/style.css" />
   <!-- SEO y Open Graph -->
   <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />
