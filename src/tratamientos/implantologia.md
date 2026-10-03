@@ -94,7 +94,9 @@ Dentadura completa fijada con 2, 4 o 6 implantes dentales. Se puede extraer para
 
 ### Implantes personalizados a medida:
 
-Para casos complejos, con pérdida importante de hueso, disponemos de **implantes personalizados fabricados a medida** para la anatomía de cada paciente (incluidos diseños subperiósticos). Trabajamos con marcas de referencia como **Avinet** y **Phibo**, que permiten planificar y fabricar el implante específico para tu caso.
+![implante subperióstico personalizado Avinent en Sant Boi de Llobregat](/assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.png)
+
+Para casos complejos, con pérdida importante de hueso, disponemos de **implantes personalizados fabricados a medida** para la anatomía de cada paciente (incluidos diseños subperiósticos). Trabajamos con marcas de referencia como **Avinent** y **Phibo**, que permiten planificar y fabricar el implante específico para tu caso.
 
 No dudes en preguntar por todas las opciones que te podemos ofrecer de implantes dentales en Sant Boi de Llobregat, seguro que hay una para ti.
 
