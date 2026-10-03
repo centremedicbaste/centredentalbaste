@@ -73,6 +73,8 @@ El éxito de la oseointegración, depende en gran parte de una correcta realizac
 
 ![implantología en Centre Dental Basté](/assets/static/images/blog/2-implantes-dentales.jpg)
 
+Según el número de piezas a reponer y las necesidades de cada paciente, la rehabilitación sobre implantes puede ser **fija**, **semifija** (removible para facilitar la higiene) o **unitaria** (una sola pieza). En la primera visita valoramos cuál es la mejor opción para tu caso.
+
 ### Implantes unitarios:
 
 
@@ -82,15 +84,17 @@ Raíz artificial de titanio que sustituye las raíces naturales de los dientes. 
 
 ### Dentadura fija:
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.jpg)
-
 Dentadura completa fijada totalmente con 4, 6 u 8 implantes dentales. Con este sistema se evita la movilidad de las antiguas dentaduras postizas. Gran estética y naturalidad. Si necesitas rehabilitar toda la arcada con carga inmediata, descubre la [técnica All-on-4 y All-on-6 en Sant Boi de Llobregat](/tratamientos/all-on-4-sant-boi-de-llobregat/): dientes fijos en 24-48 horas.
 
 ### Dentadura extraíble:
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales.jpg)
+![dentadura extraíble sobre implantes en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.jpg)
 
-Dentadura completa fijada con 2, 4 o 6 implantes dentales. Se puede extraer para su limpieza o reparación. Sistema sencillo y económico.
+Dentadura completa fijada con 2, 4 o 6 implantes dentales. Se puede extraer para su limpieza o reparación. Sistema sencillo y económico. Es la opción mixta, que se sujeta sobre bolas o barras ancladas a los implantes.
+
+### Implantes personalizados a medida:
+
+Para casos complejos, con pérdida importante de hueso, disponemos de **implantes personalizados fabricados a medida** para la anatomía de cada paciente (incluidos diseños subperiósticos). Trabajamos con marcas de referencia como **Avinet** y **Phibo**, que permiten planificar y fabricar el implante específico para tu caso.
 
 No dudes en preguntar por todas las opciones que te podemos ofrecer de implantes dentales en Sant Boi de Llobregat, seguro que hay una para ti.
 

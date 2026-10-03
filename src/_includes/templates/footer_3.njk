@@ -13,8 +13,13 @@
           <a href="mailto:{{global_index.email}}"> {{global_index.email}}</a>
         </div>
         <div class="text-14-r mb-16">
-          <a href="tel:+34{{global_index.telefono}}"> {{global_index.telefono}} </a>
+          <a href="tel:{{ global_index.telefono | replace(' ', '') }}"> {{global_index.telefono}} </a>
         </div>
+        {% if global_index.movil %}
+        <div class="text-14-r mb-16">
+          <a href="tel:{{ global_index.movil | replace(' ', '') }}"> {{global_index.movil}} </a>
+        </div>
+        {% endif %}
       </div>
       <div class="col-xs-12 col-md-2 mt-32 sm:mt-0">
         <div class="fluid-10-m c-accent mb-24">Tratamientos</div>

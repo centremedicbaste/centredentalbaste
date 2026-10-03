@@ -70,6 +70,22 @@
                             </span>
                         </a>
                     </div>
+                    {% if global_index.movil %}
+                    <div class="p3 mb-24 is-flex align-middle ">
+                        <a href="tel:{{ global_index.movil | replace(' ', '') }}">
+                            <span class="is-flex align-middle content-start pb-8 w-100">
+                                <div class="mr-16">
+                                    <svg width="15" height="26" viewBox="0 0 15 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M1 5.13793H14M1 20.8621H14M4.82353 3.48276H10.1765M2.91176 1H12.0882C13.1441 1 14 1.92631 14 3.06897V22.931C14 24.0737 13.1441 25 12.0882 25H2.91176C1.85593 25 1 24.0737 1 22.931V3.06897C1 1.92631 1.85593 1 2.91176 1ZM8.26471 22.931C8.26471 23.3881 7.92234 23.7586 7.5 23.7586C7.07766 23.7586 6.73529 23.3881 6.73529 22.931C6.73529 22.474 7.07766 22.1034 7.5 22.1034C7.92234 22.1034 8.26471 22.474 8.26471 22.931Z"
+                                            stroke="#A1A1A1" stroke-miterlimit="10" stroke-linecap="round" />
+                                    </svg>
+                                </div>
+                                                   {{global_index.movil}}
+                            </span>
+                        </a>
+                    </div>
+                    {% endif %}
                     <div class="p3 mb-24 is-flex align-middle ">
                         <a href="mailto:{{global_index.email}}">
                             <span class=" is-flex align-middle content-start pb-8 w-100">

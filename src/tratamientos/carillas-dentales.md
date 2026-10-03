@@ -47,7 +47,7 @@ faq:
 
 ## Carillas Dentales en Sant Boi de Llobregat
 
-Las carillas son finas piezas que se adhieren a la cara externa del diente y se utilizan para corregir los defectos de los dientes y dar un aspecto natural, al tiempo que proporcionan fuerza y resistencia comparable al esmalte del diente natural.
+Las carillas son finas capas de porcelana o de composite (resinas ultraduras) que se adhieren a la cara externa del diente y se utilizan para corregir los defectos de los dientes y dar un aspecto natural, al tiempo que proporcionan fuerza y resistencia comparable al esmalte del diente natural.
 
 
 

@@ -33,20 +33,20 @@ content_2_description : En clínica dental Baste contamos con unas amplias y mod
 feature_2_title: Instalaciones de primer nivel
 feature_2_title_1: Recepción
 feature_2_description_1: Despacho de atención al paciente
-feature_2_title_2: 2 salas de espera
+feature_2_title_2: 3 salas de espera
 feature_2_description_2: Espacios cómodos para la espera de los pacientes
 feature_2_title_3: Zona infantil
 feature_2_description_3: Área dedicada para los más pequeños
-feature_2_title_4: 5 Boxes
+feature_2_title_4: 6 Boxes
 feature_2_description_4: Espacios de atención dental, uno de ellos adaptado para minusválidos
 feature_2_title_5: Sala de esterilización
-feature_2_description_5: Área dedicada a la esterilización de equipos
+feature_2_description_5: Con autoclaves de última generación para la máxima seguridad
 feature_2_title_6: Pantallas LCD
 feature_2_description_6: Pantallas en todas las salas para mayor comodidad
-feature_2_title_7: Laboratorio
-feature_2_description_7: Laboratorio equipado con tecnología avanzada
-feature_2_title_8: Sala de espera VIP
-feature_2_description_8: Espacio con confort y privacidad para los pacientes VIP
+feature_2_title_7: Laboratorio digital
+feature_2_description_7: Laboratorio propio equipado con tecnología digital de última generación
+feature_2_title_8: Sala VIP de descanso
+feature_2_description_8: Espacio de descanso y privacidad para el paciente en grandes tratamientos
 feature_2_title_9: Área de descanso para el personal
 feature_2_description_9: Espacio cómodo y funcional para el personal
 feature_2_title_10: Oficina de gerencia
