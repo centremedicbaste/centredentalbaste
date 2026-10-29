@@ -44,7 +44,7 @@ whytitle4_title: Nuestras Ofertas
 whytitle4_subtitle: Plan Amigo
 whytitle4_description: Regala 20€ de descuento a un amigo o familiar en cualquiera de nuestros tratamientos.
 whytitle5_subtitle: Financiación
-whytitle5_description: Paga comodamente con nuestra financiación sin intereses para que hacer tu tratamiento dental no suponga un problema para ti.
+whytitle5_description: Paga cómodamente con nuestra financiación sin intereses hasta 30 meses para que hacer tu tratamiento dental no suponga un problema para ti.
 whytitle6_subtitle: "1ª visita: revisión y presupuesto"
 whytitle6_description: "Visita con revisión clínica y presupuesto por 60 €; el importe se descuenta del tratamiento si lo realizas con nosotros."
 

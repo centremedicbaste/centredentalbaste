@@ -7,7 +7,7 @@ tags: ["tratamientos"]
 seccion: All-on-4
 
 metaTitle: "All-on-4 en Sant Boi de Llobregat (Barcelona) | Centre Dental Basté"
-metaDescription: "Técnica All-on-4 y All-on-6 en Sant Boi de Llobregat: dientes fijos en 24-48 h con solo 4 o 6 implantes. Financiación hasta 72 meses. 1ª visita 60 € a cuenta del tratamiento."
+metaDescription: "Técnica All-on-4 y All-on-6 en Sant Boi de Llobregat: dientes fijos en 24-48 h con solo 4 o 6 implantes. Financiación sin intereses hasta 30 meses. 1ª visita 60 € a cuenta del tratamiento."
 metaKeywords: "all-on-4, all on four, all-on-6, all on six, implantes carga inmediata, dientes fijos en un día, arcada completa sobre implantes, prótesis fija sobre implantes, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
 
@@ -43,7 +43,7 @@ faq:
   - question: "¿Duele la intervención de All-on-4?"
     answer: "La intervención se realiza con anestesia local y, si el paciente lo desea, con sedación consciente. Es una cirugía mínimamente invasiva gracias a la planificación 3D, por lo que el postoperatorio suele ser más llevadero que el de otras intervenciones dentales. Pautamos medicación para controlar las molestias durante los primeros días."
   - question: "¿Cuánto cuesta el tratamiento All-on-4 y se puede financiar?"
-    answer: "El precio depende del número de implantes, el tipo de prótesis y las necesidades de cada paciente, por lo que lo confirmamos tras la valoración. En Centre Dental Basté financiamos el tratamiento hasta en 72 meses sin intereses. La primera visita de revisión y presupuesto cuesta 60 €, importe que se descuenta del tratamiento si lo realizas con nosotros."
+    answer: "El precio depende del número de implantes, el tipo de prótesis y las necesidades de cada paciente, por lo que lo confirmamos tras la valoración. En Centre Dental Basté financiamos sin intereses hasta 30 meses (promoción vigente hasta enero de 2027) y hasta 72 meses con gastos incluidos. La primera visita de revisión y presupuesto cuesta 60 €, importe que se descuenta del tratamiento si lo realizas con nosotros."
   - question: "¿Soy candidato para All-on-4 si llevo años sin dientes o uso dentadura postiza?"
     answer: "Sí. El All-on-4 está especialmente indicado para personas que han perdido todos o casi todos los dientes y para quienes usan dentaduras postizas removibles y quieren una solución fija. Incluso en casos con pérdida ósea importante suele evitar la necesidad de injertos de hueso. Lo confirmamos con un estudio radiográfico en la primera visita."
   - question: "¿Cuánto duran los implantes de un tratamiento All-on-4?"
@@ -89,7 +89,7 @@ No tienes que decidirlo tú: en la primera visita realizamos un **estudio radiog
 
 ## Precio y financiación en Sant Boi de Llobregat
 
-El precio de un tratamiento All-on-4 depende del número de implantes, del tipo de prótesis y de las necesidades de cada paciente, por eso lo confirmamos tras la valoración. Para que no sea un obstáculo, en Centre Dental Basté **financiamos hasta en 72 meses sin intereses**. La **primera visita de revisión y presupuesto cuesta 60 €**, importe que se descuenta del tratamiento si lo realizas con nosotros.
+El precio de un tratamiento All-on-4 depende del número de implantes, del tipo de prótesis y de las necesidades de cada paciente, por eso lo confirmamos tras la valoración. Para que no sea un obstáculo, en Centre Dental Basté **financiamos sin intereses hasta 30 meses** (promoción vigente hasta enero de 2027) y hasta 72 meses con gastos incluidos. La **primera visita de revisión y presupuesto cuesta 60 €**, importe que se descuenta del tratamiento si lo realizas con nosotros.
 
 ## ¿Por qué tratarte en Centre Dental Basté?
 
@@ -111,7 +111,7 @@ Se realiza con anestesia local y, si lo deseas, con sedación consciente. Al ser
 
 ### ¿Se puede financiar?
 
-Sí. Financiamos el tratamiento hasta en 72 meses sin intereses. La primera visita cuesta 60 €, descontables del tratamiento.
+Sí. Financiamos sin intereses hasta 30 meses (promoción vigente hasta enero de 2027) y hasta 72 meses con gastos incluidos. La primera visita cuesta 60 €, descontables del tratamiento.
 
 ### ¿Soy candidato si uso dentadura postiza?
 
