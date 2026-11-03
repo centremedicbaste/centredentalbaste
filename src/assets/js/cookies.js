@@ -170,18 +170,15 @@
       return;
     }
 
-    // Load analytics cookies if consented (Google Analytics gtag.js)
+    // Actualiza el consentimiento (Consent Mode v2) cuando el usuario decide en el banner.
+    // Incluye las señales v2 (ad_user_data, ad_personalization) además de las de almacenamiento.
     if (typeof gtag === 'function') {
-      if (consent.analytics) {
-        gtag('consent', 'update', { 'analytics_storage': 'granted' });
-      } else {
-        gtag('consent', 'update', { 'analytics_storage': 'denied' });
-      }
-      if (consent.marketing) {
-        gtag('consent', 'update', { 'ad_storage': 'granted' });
-      } else {
-        gtag('consent', 'update', { 'ad_storage': 'denied' });
-      }
+      gtag('consent', 'update', {
+        'analytics_storage': consent.analytics ? 'granted' : 'denied',
+        'ad_storage': consent.marketing ? 'granted' : 'denied',
+        'ad_user_data': consent.marketing ? 'granted' : 'denied',
+        'ad_personalization': consent.marketing ? 'granted' : 'denied'
+      });
     }
   }
 

@@ -193,14 +193,9 @@
                         'page_location': window.location.href,
                         'origen': origenValue
                     });
-                    if (typeof gtag === 'function') {
-                        gtag('event', 'generate_lead', {
-                            'event_category': 'formulario',
-                            'event_label': 'contactformulario',
-                            'page_location': window.location.href,
-                            'origen': origenValue
-                        });
-                    }
+                    // generate_lead se envía a GA4 ÚNICAMENTE vía GTM (el dataLayer.push de
+                    // arriba dispara la etiqueta del contenedor). No añadimos un gtag('event')
+                    // directo para no contar el lead dos veces.
                     var modal = document.getElementById('modalMensajeEnviado');
                     if (modal) modal.style.display = 'flex';
                     form.reset();
