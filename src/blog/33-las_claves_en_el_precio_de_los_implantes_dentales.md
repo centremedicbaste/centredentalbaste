@@ -44,3 +44,6 @@ Debido a la flexibilidad de las tarifas para realizar esta labor odontológica, 
 - **Con insuficiente información**: otro de los problemas a los que puedes llegar es que no te ofrezcan los datos necesarios sobre los materiales de los implantes y sus precios. Incluso, sobre las desventajas que pueden generarte los más baratos.
 
  
+
+
+En Centre Dental Basté te damos un presupuesto claro y sin letra pequeña. Conoce todas las opciones de [implantes dentales en Sant Boi de Llobregat](/tratamientos/implantes-dentales-sant-boi-de-llobregat/), la [técnica All-on-4 y All-on-6](/tratamientos/all-on-4-sant-boi-de-llobregat/) para rehabilitar toda la boca y, si te han dicho que no puedes llevar implantes por falta de hueso, nuestras soluciones para [implantes en casos complejos en Cataluña](/tratamientos/implantes-casos-complejos-cataluna/).

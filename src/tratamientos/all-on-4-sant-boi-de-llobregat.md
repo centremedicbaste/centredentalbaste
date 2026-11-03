@@ -115,7 +115,7 @@ Sí. Financiamos sin intereses hasta 30 meses (promoción vigente hasta enero de
 
 ### ¿Soy candidato si uso dentadura postiza?
 
-El All-on-4 está especialmente indicado para quienes han perdido todos o casi todos los dientes y para quienes usan dentadura removible y quieren una solución fija. Incluso con pérdida ósea importante suele evitar los injertos. Lo confirmamos con un estudio radiográfico.
+El All-on-4 está especialmente indicado para quienes han perdido todos o casi todos los dientes y para quienes usan dentadura removible y quieren una solución fija. Incluso con pérdida ósea importante suele evitar los injertos. Lo confirmamos con un estudio radiográfico. Y si tu caso es de los más difíciles —atrofia severa o implantes rechazados en otra clínica—, somos centro de referencia en [implantes para casos complejos en Cataluña](/tratamientos/implantes-casos-complejos-cataluna/).
 
 ¿Quieres saber si el All-on-4 o el All-on-6 es lo que necesitas? [Pide tu primera visita](/agenda/) y te lo valoramos sin compromiso.
 

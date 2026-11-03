@@ -82,5 +82,7 @@ La regeneración ósea periodontal está indicada cuando:
 - Se planea colocar implantes dentales
 - Se busca prevenir la pérdida de piezas dentales
 
+La regeneración ósea es, además, la vía que permite colocar implantes cuando hay poco hueso. Si te han dicho que no puedes llevar implantes, consulta nuestras soluciones para [implantes en casos complejos en Cataluña](/tratamientos/implantes-casos-complejos-cataluna/).
+
 [Volver a Periodoncia](/tratamientos/periodoncia/)
 

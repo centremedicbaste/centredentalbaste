@@ -82,4 +82,6 @@ La microcirugía periodontal está indicada cuando:
 - Los tratamientos convencionales no han sido suficientes
 - Se requiere regeneración de tejidos
 
+Estabilizar las encías es, a menudo, el paso previo para poder rehabilitar la boca con implantes. Descubre nuestro abordaje de los [implantes en casos complejos en Cataluña](/tratamientos/implantes-casos-complejos-cataluna/).
+
 [Volver a Periodoncia](/tratamientos/periodoncia/)
