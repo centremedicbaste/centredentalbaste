@@ -167,6 +167,8 @@
                 return;
             }
 
+            if (form.dataset.sending === 'true') return;
+            form.dataset.sending = 'true';
             var formData = new FormData(form);
             formData.append('form-name', 'contactformulario');
             var jsonData = {};
@@ -181,21 +183,22 @@
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(jsonData)
-            });
+            }).catch(function () { return null; });
 
-            Promise.all([netlifyPromise, sheetsPromise]).then(function (responses) {
-                if (responses[0].ok) {
-                    var origenValue = origenInput ? origenInput.value : window.location.pathname;
-                    window.dataLayer = window.dataLayer || [];
-                    window.dataLayer.push({
-                        'event': 'generate_lead',
-                        'form_name': 'contactformulario',
-                        'page_location': window.location.href,
-                        'origen': origenValue
+            netlifyPromise.then(function (response) {
+                if (response.ok) {
+                    // Un lead confirmado: Netlify ya ha respondido que sí.
+                    //
+                    // siteMeasurement.lead manda generate_lead a GA4 y además
+                    // deja en el dataLayer el evento 'lead' para las etiquetas
+                    // de conversión de Google Ads. Son herramientas distintas,
+                    // así que eso no duplica nada en Analytics.
+                    if (window.siteMeasurement) window.siteMeasurement.lead({
+                        form_id: 'contacto',
+                        form_name: 'contactformulario',
+                        lead_type: 'contact',
+                        lead_origen: origenInput ? origenInput.value : window.location.pathname
                     });
-                    // generate_lead se envía a GA4 ÚNICAMENTE vía GTM (el dataLayer.push de
-                    // arriba dispara la etiqueta del contenedor). No añadimos un gtag('event')
-                    // directo para no contar el lead dos veces.
                     var modal = document.getElementById('modalMensajeEnviado');
                     if (modal) modal.style.display = 'flex';
                     form.reset();
@@ -203,8 +206,8 @@
                     alert('Hubo un error al enviar el mensaje.');
                 }
             }).catch(function (error) {
-                alert('Error al enviar el mensaje: ' + error.message);
-            });
+                alert('No se ha podido enviar el mensaje. Inténtalo de nuevo.');
+            }).finally(function () { form.dataset.sending = 'false'; });
         });
     }
 

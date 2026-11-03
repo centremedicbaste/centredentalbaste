@@ -11,18 +11,18 @@
     </div>
     <div class="cookie-banner-actions">
       <button id="cookie-reject" class="btn-cookie btn-cookie-reject">Rechazar</button>
-      <button id="cookie-config" class="btn-cookie btn-cookie-config">Configurar</button>
+      <button id="cookie-settings" class="btn-cookie btn-cookie-config">Configurar</button>
       <button id="cookie-accept" class="btn-cookie btn-cookie-accept">Aceptar todas</button>
     </div>
   </div>
 </div>
 
 <!-- Modal de configuración de cookies -->
-<div id="cookie-modal" class="cookie-modal" style="display: none;">
+<div id="cookie-settings-panel" class="cookie-modal" data-display="flex" style="display: none;">
   <div class="cookie-modal-content">
     <div class="cookie-modal-header">
       <h2>Configuración de Cookies</h2>
-      <button id="cookie-modal-close" class="cookie-modal-close">&times;</button>
+      <button id="cookie-settings-close" class="cookie-modal-close">&times;</button>
     </div>
     <div class="cookie-modal-body">
       <p>Puede activar o desactivar las cookies según sus preferencias. Para más información, consulte nuestra 
@@ -32,7 +32,7 @@
         <div class="cookie-category-header">
           <h3>Cookies Técnicas</h3>
           <label class="cookie-switch">
-            <input type="checkbox" id="cookie-technical" checked disabled>
+            <input type="checkbox" id="cookie-necessary" checked disabled>
             <span class="cookie-slider"></span>
           </label>
         </div>

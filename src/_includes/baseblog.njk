@@ -54,55 +54,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.css">
   <!-- SEO y Open Graph -->
   <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />
-  <!-- Consent Mode v2 + Google Tag Manager (GA4 se carga DESDE GTM, no directamente) -->
-  {% if global_index.tag_manager %}
-  <script>
-    // Consent Mode v2 — debe ejecutarse ANTES de cargar GTM para que el primer
-    // page_view no salga denegado (gcs=G100). Define el estado por defecto y, si el
-    // visitante ya aceptó en una visita previa, concede el consentimiento leyendo la
-    // cookie del banner antes de que GTM dispare ninguna etiqueta.
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('consent', 'default', {
-      'ad_storage': 'denied',
-      'ad_user_data': 'denied',
-      'ad_personalization': 'denied',
-      'analytics_storage': 'denied',
-      'wait_for_update': 500
-    });
-    try {
-      var m = document.cookie.match(/(?:^|;\s*)cookie_consent=([^;]+)/);
-      if (m) {
-        var c = JSON.parse(m[1]);
-        gtag('consent', 'update', {
-          'analytics_storage': c.analytics ? 'granted' : 'denied',
-          'ad_storage': c.marketing ? 'granted' : 'denied',
-          'ad_user_data': c.marketing ? 'granted' : 'denied',
-          'ad_personalization': c.marketing ? 'granted' : 'denied'
-        });
-      }
-    } catch (e) {}
-    gtag('js', new Date());
-  </script>
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', '{{ global_index.tag_manager }}');
-  </script>
-  {% endif %}
+  {% set cfg = global_index %}
+  {% include 'atribucion.njk' %}
+  {% include 'measurement.njk' %}
+  {% include 'pixel-meta.njk' %}
 
 </head>
 <body class="contain {{ colorHeader | default('has-light-menu') }} {% if page.url == '/' %}home{% else %}seccion-interior{% endif %}">
-  <!-- Google Tag Manager (noscript) -->
-  {% if global_index.tag_manager %}
-  <noscript><iframe title="googletagmanager" src="https://www.googletagmanager.com/ns.html?id={{ global_index.tag_manager }}" height="0"
-      width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  {% endif %}
+
   {% include 'components/header.njk' %}
   
   <div data-scroll-container>
@@ -121,7 +80,7 @@
   <script type="module" src="/assets/js/index.js"></script>
   <script type="module" src="/assets/js/scroll.js"></script>
   <script type="module" src="/assets/js/inview.js"></script>
-  <script src="/assets/js/cookies.js"></script>
+  <script src="/assets/js/consentimiento.js" defer></script>
 </body>
 
 
