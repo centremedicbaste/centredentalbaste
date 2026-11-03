@@ -1,0 +1,36 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# Centre Dental Basté
+
+> Clínica dental en Sant Boi de Llobregat (Barcelona) con más de 25 años de experiencia. Centro de referencia en casos complejos de implantología en Cataluña. Valoración media 4,8★ (879 reseñas en Google).
+
+Centre Dental Basté reúne a todos los especialistas y tratamientos en un mismo centro, con tecnología 3D y laboratorio digital propio. Atiende a pacientes de Sant Boi de Llobregat, Baix Llobregat, Barcelona y toda Cataluña.
+
+## Datos de contacto
+- Dirección: Carrer Riera Basté, 18-20 bajos, 08830 Sant Boi de Llobregat, Barcelona
+- Teléfono: {{ global_index.telefono }}
+- Móvil / recepción: {{ global_index.movil }}
+- Email: {{ global_index.email }}
+- Horario: de lunes a viernes, de 9:00 a 20:00
+- Web: {{ global_index.url }}
+
+## Primera visita y financiación
+- Primera visita de revisión y presupuesto: 60 € (a cuenta del tratamiento).
+- Financiación sin intereses hasta 30 meses (promoción vigente hasta enero de 2027).
+- Financiación hasta 72 meses con gastos incluidos.
+
+## Especialidad en casos complejos
+Somos centro de referencia en implantología compleja en Cataluña: rehabilitaciones completas, maxilares con poco hueso, regeneración ósea e implantes personalizados a medida (incluidos diseños subperiósticos), trabajando con marcas como Avinent y Phibo.
+
+## Tratamientos
+{% for t in collections.tratamientos %}{% if t.data.seccion %}- [{{ t.data.metaTitle | default(t.data.seccion) }}]({{ global_index.url }}{{ t.url }})
+{% endif %}{% endfor %}
+
+## Páginas principales
+- [Inicio]({{ global_index.url }}/)
+- [La Clínica]({{ global_index.url }}/la-clinica/)
+- [Tratamientos]({{ global_index.url }}/tratamientos/)
+- [Contacto]({{ global_index.url }}/contacto/)
+- [Blog]({{ global_index.url }}/blog/)

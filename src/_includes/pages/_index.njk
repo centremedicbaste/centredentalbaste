@@ -389,6 +389,36 @@ colorHeader: has-light-menu
   </div>
 </section>
 
+{# ── Datos estructurados FAQPage de la home (para Google y buscadores de IA) ── #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cuánto cuesta la primera visita?",
+      "acceptedAnswer": { "@type": "Answer", "text": "La primera visita de revisión y presupuesto cuesta 60 €, importe que se descuenta del tratamiento si lo realizas con nosotros." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Ofrecéis financiación?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Sí. Financiamos sin intereses hasta 30 meses (promoción vigente hasta enero de 2027) y hasta 72 meses con gastos incluidos, para que cuidar tu sonrisa sea más fácil." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Dónde estáis y qué horario tenéis?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Estamos en Carrer Riera Basté, 18-20, Sant Boi de Llobregat (Barcelona). Atendemos de lunes a viernes; pide tu cita por teléfono o por el formulario." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Atendéis urgencias dentales?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Sí, disponemos de atención de urgencias. Llámanos y te daremos cita lo antes posible." }
+    }
+  ]
+}
+</script>
+
 <!-- ══ 11b · CTA FINAL CON FORMULARIO ════════════════════════════ -->
 <section class="home-cta-final front-section" data-scroll-section>
   <div class="container-global mx-auto">
