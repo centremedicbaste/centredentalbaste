@@ -1,0 +1,82 @@
+<!-- reels_testimonios.njk -->
+<!-- reels_testimonios.njk · testimonios en vídeo propios (reels verticales) -->
+{% if reels %}
+<section class="aof-reels front-section" data-scroll-section>
+  <div class="container-global mx-auto">
+    <div class="row mb-40">
+      <div class="col-xs-12 text-center">
+        <span class="aof-eyebrow">Resultados reales</span>
+        <h2 class="fluid-5-l">{{ reels_title | default('Opiniones de nuestros pacientes') }}</h2>
+        {% if reels_subtitle %}<p class="aof-reels__subtitle">{{ reels_subtitle }}</p>{% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="aof-reels__track" data-reels>
+    {% for r in reels %}
+    <figure class="aof-reel">
+      <div class="aof-reel__frame" data-reel role="button" tabindex="0"
+           aria-label="Reproducir el testimonio en vídeo de {{ r.nombre | default('un paciente') }}">
+        <video preload="none" playsinline poster="{{ r.poster }}">
+          <source src="{{ r.video }}" type="video/mp4">
+        </video>
+        <span class="aof-reel__meta">
+          <span class="aof-reel__name"><span class="aof-reel__dot"></span>{{ r.nombre | default('Paciente') }}</span>
+          {% if r.duracion %}<span class="aof-reel__dur">{{ r.duracion }}</span>{% endif %}
+        </span>
+        <span class="aof-reel__play" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M5 3v18l15-9z"></path></svg>
+        </span>
+      </div>
+    </figure>
+    {% endfor %}
+  </div>
+
+  <div class="container-global mx-auto">
+    <p class="text-center mt-24">
+      <a class="aof-link-line" href="https://g.page/r/centredentalbaste" target="_blank" rel="noopener">Ver todas las opiniones en Google</a>
+    </p>
+  </div>
+</section>
+
+<script>
+(function () {
+  var tracks = document.querySelectorAll('[data-reels]');
+  if (!tracks.length) return;
+  tracks.forEach(function (track) {
+    var frames = track.querySelectorAll('[data-reel]');
+    function play(frame) {
+      var v = frame.querySelector('video');
+      if (!v) return;
+      // pausa el resto
+      frames.forEach(function (f) {
+        if (f !== frame) {
+          var ov = f.querySelector('video');
+          if (ov) { ov.pause(); }
+          f.classList.remove('is-playing');
+          var oc = f.querySelector('video'); if (oc) oc.removeAttribute('controls');
+        }
+      });
+      if (v.paused) {
+        v.setAttribute('controls', '');
+        frame.classList.add('is-playing');
+        v.play();
+      } else {
+        v.pause();
+        frame.classList.remove('is-playing');
+      }
+    }
+    frames.forEach(function (frame) {
+      frame.addEventListener('click', function (e) {
+        // si ya está en modo controles, deja que el usuario use la barra nativa
+        if (frame.classList.contains('is-playing') && e.target.tagName === 'VIDEO') return;
+        play(frame);
+      });
+      frame.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); play(frame); }
+      });
+    });
+  });
+})();
+</script>
+{% endif %}

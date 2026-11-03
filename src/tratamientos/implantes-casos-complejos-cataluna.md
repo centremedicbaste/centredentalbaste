@@ -32,6 +32,34 @@ pasos:
   - title: Cirugía guiada y rehabilitación
     desc: Cirugía mínimamente invasiva guiada por ordenador y rehabilitación completa, con seguimiento personalizado hasta la prótesis definitiva.
 
+reels_title: "Casos reales de implantología compleja"
+reels_subtitle: "La mejor prueba de una rehabilitación de boca completa son las personas que vuelven a sonreír. Estos son algunos de nuestros pacientes."
+reels:
+  - nombre: "Antonio"
+    duracion: "0:52"
+    poster: /assets/static/testimonios/paciente1.jpg
+    video: /assets/static/video/testimonios/paciente1.mp4
+  - nombre: "Gregorio"
+    duracion: "0:58"
+    poster: /assets/static/testimonios/paciente3.jpg
+    video: /assets/static/video/testimonios/paciente3.mp4
+  - nombre: "Encarna"
+    duracion: "1:00"
+    poster: /assets/static/testimonios/paciente5.jpg
+    video: /assets/static/video/testimonios/paciente5.mp4
+  - nombre: "Luis Alberto"
+    duracion: "0:30"
+    poster: /assets/static/testimonios/paciente6.jpg
+    video: /assets/static/video/testimonios/paciente6.mp4
+  - nombre: "Paciente"
+    duracion: "2:16"
+    poster: /assets/static/testimonios/paciente2.jpg
+    video: /assets/static/video/testimonios/paciente2.mp4
+  - nombre: "Alfredo"
+    duracion: "3:42"
+    poster: /assets/static/testimonios/paciente04.jpg
+    video: /assets/static/video/testimonios/paciente04.mp4
+
 faq:
   - question: "Me han dicho que no tengo hueso suficiente para llevar implantes, ¿tengo solución?"
     answer: "En la gran mayoría de casos, sí. La falta de hueso dejó de ser un impedimento: disponemos de técnicas de regeneración ósea, elevación de seno maxilar, implantes personalizados a medida e implantes subperiósticos que se apoyan sobre el hueso en lugar de dentro de él. Muchos pacientes rechazados en otras clínicas sí tienen tratamiento. Pide una segunda opinión y lo valoramos con un TAC."
