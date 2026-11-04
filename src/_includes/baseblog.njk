@@ -65,7 +65,9 @@
   {% include 'components/header.njk' %}
   
   <div data-scroll-container>
-    {{ content | safe }}
+    <main id="contenido">
+      {{ content | safe }}
+    </main>
     {% include 'onepage/footer_2.njk' %}
   </div>
 

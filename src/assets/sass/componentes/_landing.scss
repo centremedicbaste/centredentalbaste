@@ -38,6 +38,16 @@
   .aof-hero--video .aof-hero__intro p strong {
     color: #fff;
   }
+  /* Panel oscuro translúcido tras el texto del hero con vídeo. El texto blanco
+     necesita contraste AA, pero axe resuelve el fondo como la crema del hero
+     (#f3f2f0) porque el vídeo y el overlay son hermanos, no ancestros del texto.
+     Un color rgba SÓLIDO (no degradado, que axe no sabe calcular) mezclado sobre
+     la crema da ~5,6:1 con el blanco y, de paso, mejora la legibilidad real. */
+  .aof-hero--video .aof-hero__intro {
+    background-color: rgba(18, 17, 16, 0.62);
+    padding: 28px 32px;
+    border-radius: 16px;
+  }
 }
 
 /* ── Home: hero con VÍDEO de fondo visible en móvil ──────────────
@@ -330,7 +340,9 @@
 
 .aof-eyebrow {
   display:block; font-size:12px; letter-spacing:3px; text-transform:uppercase;
-  color:var(--c-primary); margin-bottom:12px;
+  /* Marrón un punto más oscuro que --c-primary (#957059 → 4,0:1 sobre crema)
+     para que este texto pequeño en mayúsculas cumpla WCAG AA (4,58:1). */
+  color:#8a6650; margin-bottom:12px;
 }
 
 /* ── Listado de tratamientos (grid de tarjetas) ── */
