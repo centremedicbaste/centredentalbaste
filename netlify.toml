@@ -592,3 +592,70 @@ compress = true
   to = "https://centredentalbaste.com/:splat"
   status = 301
   force = true# Redirección del archivo de verificación de Google
+
+
+# =================================================================
+# Cabeceras: seguridad y caché
+#
+# Sin esto Netlify manda todo con "max-age=0, must-revalidate", o sea que el
+# navegador vuelve a preguntar por cada fichero en cada navegación. Aquí se le
+# dice cuánto puede guardarse cada cosa.
+#
+# El HTML se queda fuera a propósito: no lleva Cache-Control, así que sigue
+# revalidándose siempre y un despliegue se ve al momento.
+# =================================================================
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # El navegador respeta el Content-Type declarado y no lo adivina.
+    X-Content-Type-Options = "nosniff"
+    # Nadie puede meter el sitio en un iframe ajeno (clickjacking).
+    X-Frame-Options = "SAMEORIGIN"
+    # Al salir a otro dominio solo viaja el origen, nunca la ruta completa.
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    # El sitio no usa ninguna de estas APIs: se deniegan de forma explícita.
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+
+# Las fuentes no cambian jamás sin cambiar de nombre: un año e inmutables.
+[[headers]]
+  for = "/assets/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Las librerías llevan la versión en el nombre (jquery-3.6.0.min.js, gsap-3.12.5…),
+# así que una nueva versión es un fichero nuevo. Son 382 KB: un año.
+[[headers]]
+  for = "/assets/vendor/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Los vídeos pesan mucho y se sustituyen renombrando, nunca editando el mismo
+# fichero. Un año.
+[[headers]]
+  for = "/assets/static/video/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Imágenes, iconos y favicons: 30 días. Ojo: si sustituyes una imagen
+# conservando el nombre, quien ya la tenga tardará hasta un mes en ver la
+# nueva. Renómbrala y se ve al instante.
+[[headers]]
+  for = "/assets/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+# El CSS y el JS se reescriben con el MISMO nombre en cada despliegue, así que
+# no pueden ir a un año: quien lo tuviera guardado se quedaría con la versión
+# vieja. Una hora es el equilibrio: ahorra la revalidación de cada navegación
+# dentro de una visita y cualquier despliegue se corrige solo en 60 minutos.
+# Para subirlo a un año habría que añadir una huella a la URL (style.css?v=…).
+[[headers]]
+  for = "/assets/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/assets/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
