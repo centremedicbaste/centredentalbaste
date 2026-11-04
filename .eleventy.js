@@ -152,6 +152,12 @@ module.exports = function (eleventyConfig) {
     });
     return pages.length ? pages[0] : false;
   });
+  // Miles con punto, como se escriben los importes en espanol: 6900 -> 6.900.
+  eleventyConfig.addFilter("euros", function (n) {
+    if (typeof n !== "number" || !isFinite(n)) return n;
+    return n.toLocaleString("es-ES");
+  });
+
   eleventyConfig.addShortcode("image", function (src, alt, title, cla) {
     const dimensions = sizeOf(`./src/assets/static/images/${src}`);
     return `<img class="${cla}" src="/assets/static/images/${src}" alt="${alt}" title="${title}" width="${dimensions.width}" height="${dimensions.height}">`;

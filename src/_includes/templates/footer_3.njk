@@ -38,7 +38,8 @@
         <ul class=" list-clear ">
           {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
           {% for page in sortedPages %}
-            {% if page.data.seccion and page.data.seccion != 'home' %}
+            {# Igual que el menu: las paginas en noindex no se listan. #}
+            {% if page.data.seccion and page.data.seccion != 'home' and 'noindex' not in (page.data.metaRobots | default('')) %}
               <li>
                 <a href="{{ page.url }}"><span>{{ page.data.seccion }}</span></a>
               </li>
