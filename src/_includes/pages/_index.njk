@@ -64,9 +64,12 @@ colorHeader: has-light-menu
 <section class="aof-hero aof-hero--video front-section" data-scroll-section>
   <div class="aof-hero__bg">
     {% if global_index.home_video %}
-    <video class="aof-hero__video" autoplay muted loop playsinline preload="auto" poster="/assets/static/images/clinica-1.webp" aria-hidden="true">
-      <source src="{{ global_index.home_video }}" type="video/mp4">
-    </video>
+    {# Sin autoplay ni preload: el navegador no descarga nada hasta que el JS
+       le pone las fuentes, ya pintada la pagina. Hasta entonces se ve el
+       poster, que es el mismo que usa la version sin video. #}
+    <video class="aof-hero__video" muted loop playsinline preload="none" poster="/assets/static/images/clinica-1.webp" aria-hidden="true"
+           data-hero-video="{{ global_index.home_video }}"
+           {% if global_index.home_video_webm %}data-hero-video-webm="{{ global_index.home_video_webm }}"{% endif %}></video>
     {% else %}
     <img src="/assets/static/images/clinica-1.webp" alt="" aria-hidden="true">
     {% endif %}

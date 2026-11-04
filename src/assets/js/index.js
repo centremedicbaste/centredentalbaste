@@ -112,3 +112,63 @@ $({ Counter: 0 }).animate(
     },
   }
 );
+
+
+// Vídeo del hero de la portada: se carga cuando la página ya está pintada.
+//
+// Antes venía con autoplay y preload="auto" desde un dominio de terceros, así
+// que el navegador se bajaba 8 MB en cada visita antes de enseñar nada. Ahora
+// el <video> llega vacío: el src se le pone aquí, en el primer hueco libre
+// después del load, y mientras tanto se ve el poster. Quien navega con ahorro
+// de datos, con 2G o con el movimiento reducido activado se queda con el
+// poster y no descarga el vídeo.
+(function () {
+  var video = document.querySelector("[data-hero-video]");
+  if (!video) return;
+
+  var con = navigator.connection || {};
+  var lenta = con.saveData === true || /2g/.test(con.effectiveType || "");
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches || lenta) return;
+
+  var cargar = function () {
+    if (video.dataset.cargado) return;
+    video.dataset.cargado = "1";
+
+    var mp4 = video.getAttribute("data-hero-video");
+    var webm = video.getAttribute("data-hero-video-webm");
+    if (!mp4 && !webm) return;
+
+    // El webm primero: el navegador que no lo entienda se queda con el mp4.
+    [[webm, "video/webm"], [mp4, "video/mp4"]].forEach(function (par) {
+      if (!par[0]) return;
+      var source = document.createElement("source");
+      source.src = par[0];
+      source.type = par[1];
+      video.appendChild(source);
+    });
+
+    // El relevo del poster al vídeo se funde para que no sea un corte seco.
+    video.style.opacity = "0";
+    video.style.transition = "opacity .6s ease";
+    video.addEventListener("playing", function () {
+      video.style.opacity = "1";
+    }, { once: true });
+
+    video.load();
+    var p = video.play();
+    if (p && p.catch) {
+      p.catch(function () {
+        // Reproducción denegada: se deja el poster, que es lo que había.
+        video.style.opacity = "1";
+      });
+    }
+  };
+
+  var cuandoHayaHueco = function () {
+    if ("requestIdleCallback" in window) requestIdleCallback(cargar, { timeout: 2500 });
+    else setTimeout(cargar, 1200);
+  };
+
+  if (document.readyState === "complete") cuandoHayaHueco();
+  else window.addEventListener("load", cuandoHayaHueco, { once: true });
+})();
