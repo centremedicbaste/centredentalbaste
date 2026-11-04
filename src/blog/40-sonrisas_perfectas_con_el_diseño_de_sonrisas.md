@@ -32,7 +32,7 @@ Psicológicamente tendemos a relacionar una bonita sonrisa con una persona salud
 Técnicas para el diseño de sonrisas
 
 
-Cada persona necesita unas determinadas técnicas para un buen diseño de sonrisa. Unos pueden necesitar un blanqueamiento, unas carillas, una eliminación de calzas negras, una ortodoncia u otros tratamientos.
+Cada persona necesita unas determinadas técnicas para un buen [diseño de sonrisa](/tratamientos/carillas-dentales/). Unos pueden necesitar un blanqueamiento, unas carillas, una eliminación de calzas negras, una ortodoncia u otros tratamientos.
 
 Para esto hace falta un buen odontólogo profesional que tenga experiencia y que nos haga un diagnóstico correcto de lo que necesitamos. Para encontrar uno de estos profesionales no hace falta ir muy lejos.
 
@@ -42,7 +42,7 @@ En Sant Boi de LLobregat tenemos la oportunidad que los profesionales de la Clí
 ## Consejos de nuestro odontólogo en Sant Boi
 
 
-Con la experiencia de nuestros odontólogos vas a conseguir esa sonrisa con la que has soñado. Una sonrisa que sea el centro de tu expresión y que diga mucho de ti. Una sonrisa que no sea sólo un blanqueamiento dental, sino una serie de actuaciones para conseguir una dentadura armónica y que se integre con el resto de tu rostro.
+Con la experiencia de nuestros odontólogos vas a conseguir esa sonrisa con la que has soñado. Una sonrisa que sea el centro de tu expresión y que diga mucho de ti. Una sonrisa que no sea sólo un [blanqueamiento dental](/tratamientos/blanqueamiento-dental/), sino una serie de actuaciones para conseguir una dentadura armónica y que se integre con el resto de tu rostro.
 
 Una dentadura que no sólo sea estética sino funcional. Es decir, que realice sus funciones de forma eficaz y saludable. En nuestras clínicas los precios están acordes con nuestra calidad. Las técnicas empleadas son las más vanguardistas, pero nuestros precios son contenidos. Es necesario que nuestro odontólogo estudie tu caso concreto para poder darte un presupuesto adecuado a cada caso.
 

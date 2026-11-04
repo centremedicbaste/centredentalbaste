@@ -15,7 +15,7 @@ imageAlt: "Blanqueamiento dental en Sant Boi de Llobregat"
 
 ---
 
-El blanqueamiento dental es una forma efectiva de mejorar la apariencia de tu sonrisa. En Centre Dental Basté, ofrecemos este tratamiento en Sant Boi de Llobregat, asegurando resultados visibles y duraderos. Descubre cómo puedes obtener una sonrisa más brillante con nuestro blanqueamiento dental.
+El [blanqueamiento dental](/tratamientos/blanqueamiento-dental/) es una forma efectiva de mejorar la apariencia de tu sonrisa. En Centre Dental Basté, ofrecemos este tratamiento en Sant Boi de Llobregat, asegurando resultados visibles y duraderos. Descubre cómo puedes obtener una sonrisa más brillante con nuestro blanqueamiento dental.
 
 >¿Necesita más información?
 >info@centredentalbaste.com

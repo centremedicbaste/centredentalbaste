@@ -24,7 +24,7 @@ En **Centre Dental Basté**, tu **dentista en Sant Boi de Llobregat**, queremos 
 ## ¿Le preocupa su salud dental?  
 ### Le invitamos a pedir cita con su dentista en Sant Boi de Llobregat
 
-Los expertos recomiendan acudir una vez al año al dentista. Una buena **higiene bucodental** y una **alimentación equilibrada y variada** son dos aspectos esenciales para prevenir las enfermedades de la boca. Una consulta anual con nuestros **dentistas en Sant Boi de Llobregat** le servirá para asegurarse de que tiene sus dientes en perfecto estado.  
+Los expertos recomiendan acudir una vez al año al dentista. Una buena **[higiene bucodental](/tratamientos/odontologia-dental/)** y una **alimentación equilibrada y variada** son dos aspectos esenciales para prevenir las enfermedades de la boca. Una consulta anual con nuestros **dentistas en Sant Boi de Llobregat** le servirá para asegurarse de que tiene sus dientes en perfecto estado.  
 El sarro, la caries, el sangrado de la encía, los dientes apiñados, la encía retraída… son síntomas que deben ser tratados por nuestros **dentistas en Sant Boi de Llobregat**. Con una completa y minuciosa exploración, detectarán cualquier anomalía y aplicarán el tratamiento más adecuado y eficaz en cada caso.
 
 ![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat-2.webp "Dentista en Sant Boi de Llobregat")
@@ -48,6 +48,6 @@ Garantizamos a nuestros pacientes, adultos y niños, excelentes resultados a un 
 
 La **Centre Dental Basté** lleva más de **25 años** trabajando como **dentista en Sant Boi de Llobregat** para que sus pacientes tengan siempre **el mejor tratamiento dental**. Excelencia dental, tradición e innovación distinguen a nuestra clínica odontológica. Ubicada en la calle Riera Basté 18-20 de Sant Boi de Llobregat, nuestra clínica dental acumula experiencia, conocimiento y tecnología. Además, contamos con **excelentes especialistas** en sus respectivos campos.
 
-En nuestra **clínica dental en Sant Boi de Llobregat** cuidamos el detalle y el trabajo bien hecho. Buscamos la **perfección** como objetivo y para ello contamos con un equipo de profesionales en continua formación: nuestro **compromiso** con nuestros pacientes es máximo.
+En nuestra **[clínica dental en Sant Boi de Llobregat](/la-clinica/)** cuidamos el detalle y el trabajo bien hecho. Buscamos la **perfección** como objetivo y para ello contamos con un equipo de profesionales en continua formación: nuestro **compromiso** con nuestros pacientes es máximo.
 
 ![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat.webp "Dentista en Sant Boi de Llobregat")

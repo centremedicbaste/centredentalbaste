@@ -27,7 +27,7 @@ Per evitar aquesta situació, al centre de Sant Boi de Llobregat iniciem una cam
 
 
 
-Aquesta proposta inclou el pressupost tancat i un pla de Tractament que garanteix l’atenció bucodental amb el menor nombre de visites possibles al centre. El Centre d’Implantologia i Ortodòncia Basté disposa de protocols molt estrictes de protecció front la COVID-19, inclús superiors a la normativa exigida en totes les àrees de la clínica, ja que la nostra activitat acumula l’expertesa de la prevenció i la màxima higiene.
+Aquesta proposta inclou el pressupost tancat i un pla de Tractament que garanteix l’atenció bucodental amb el menor nombre de visites possibles al centre. El Centre d’[Implantologia](/tratamientos/implantes-dentales-sant-boi-de-llobregat/) i Ortodòncia Basté disposa de protocols molt estrictes de protecció front la COVID-19, inclús superiors a la normativa exigida en totes les àrees de la clínica, ja que la nostra activitat acumula l’expertesa de la prevenció i la màxima higiene.
 
 
 

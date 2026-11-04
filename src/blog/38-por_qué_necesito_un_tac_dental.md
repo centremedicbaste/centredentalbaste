@@ -51,9 +51,9 @@ Una de los mayores avances que supone el tac dental frente a la radiografía es 
 Tac dental: ¿Cuándo se recomienda?
 
 
-**El TAC dental que trabajamos en nuestra clínica de** Sant Boi de Llobregat (Barcelona) lo aplicamos siempre que el tratamiento exige mayor precisión en el diagnóstico. Es muy común su utilización ante tratamientos de ortodoncia.
+**El TAC dental que trabajamos en nuestra clínica de** Sant Boi de Llobregat (Barcelona) lo aplicamos siempre que el tratamiento exige mayor precisión en el diagnóstico. Es muy común su utilización ante tratamientos de [ortodoncia](/tratamientos/ortodoncia-dental/).
 
-No obstante, el tac dental resulta un sistema de gran utilidad y eficacia clínica cuando nos encontramos con **dientes impactados**, si la actuación requiere una **evaluación de las mandíbulas** y el resto de agentes intervinientes para ejecutar un correcto **implante dental**, e incluso para problemas de salud más graves como pueden ser:
+No obstante, el tac dental resulta un sistema de gran utilidad y eficacia clínica cuando nos encontramos con **dientes impactados**, si la actuación requiere una **evaluación de las mandíbulas** y el resto de agentes intervinientes para ejecutar un correcto **[implante dental](/tratamientos/implantes-dentales-sant-boi-de-llobregat/)**, e incluso para problemas de salud más graves como pueden ser:
 
 - Desordenes articulares
 

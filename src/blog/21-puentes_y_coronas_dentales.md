@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-Las **coronas y los puentes dentales** son un tipo de prótesis que se coloca de manera fija, cementando directamente sobre los dientes o sobre cualquier otro implante que ya exista y que tan sólo un dentista autorizado puede encargarse de su extracción.
+Las **coronas y los [puentes dentales](/tratamientos/protesis/)** son un tipo de prótesis que se coloca de manera fija, cementando directamente sobre los dientes o sobre cualquier otro implante que ya exista y que tan sólo un dentista autorizado puede encargarse de su extracción.
 
 **¿Qué son y cómo funcionan las coronas dentales?**
 -------

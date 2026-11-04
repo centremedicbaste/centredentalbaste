@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-Gracias a la higiene dental podemos eliminar el sarro por encima de las encías. Se realiza con ultrasonidos, que no dañan ni rallan el diente.
+Gracias a la [higiene dental](/tratamientos/odontologia-dental/) podemos eliminar el sarro por encima de las encías. Se realiza con ultrasonidos, que no dañan ni rallan el diente.
 
  
 Beneficios y ventajas de la higiene dental:
@@ -60,7 +60,7 @@ La importancia de la higiene dental en Sant Boi de Llobregat:
 ---------
 
 
-La **higiene dental** es el primer paso en muchos tratamientos (raspajes radiculares, blanqueamientos, tratamientos desensibilizantes, etc. ) y es un medio preventivo de muchas otras enfermedades.
+La **higiene dental** es el primer paso en muchos tratamientos (raspajes radiculares, [blanqueamientos](/tratamientos/blanqueamiento-dental/), tratamientos desensibilizantes, etc. ) y es un medio preventivo de muchas otras enfermedades.
 
 En realidad la higiene dental diaria, meticulosa y constante de los dientes y mucosas es el mejor tratamiento preventivo para la mayoría de las patologías bucales, y se debe hacer por parte del paciente.
 

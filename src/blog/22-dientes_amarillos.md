@@ -44,7 +44,7 @@ Es por esta razón por lo que, antes de tomar cualquier tipo de medicamento en c
 
 Por mucho que tengamos en cuenta todos los factores anteriores, el propio tiempo también es capaz de hacer que nuestros clientes se vuelven amarillos.
 
-Si tienes dientes amarillos, ponte en contacto con nuestra clínica para que te demos una solución.
+Si tienes dientes amarillos, el [blanqueamiento dental](/tratamientos/blanqueamiento-dental/) suele ser la solución: ponte en contacto con nuestra clínica para que te demos una solución.
 
  
 

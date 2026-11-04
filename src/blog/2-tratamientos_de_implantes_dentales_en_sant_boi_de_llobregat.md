@@ -22,7 +22,7 @@ En **Centre Dental Basté** ponemos a tu alcance la última tecnología para rea
 
 La [cirugía oral y maxilofacial](http://www.blog.agendasalud.cl/que-hace-un-cirujano-maxilofacial/) es una **especialidad quirúrgica** que incluye el diagnóstico, cirugía y tratamientos, sea cual sea la afección, relacionados con los aspectos estéticos y funcionales de la **boca**, **dientes** y **cara**.
 
-Ponemos a su disposición un **experimentado equipo** de profesionales para dar solución a las dolencias o problemas que puedan presentarse, ya sea falta de hueso maxilar o mandibular, enfermedades en la mucosa oral, patologías de la articulación temporomandibular o traumatismos faciales, por ejemplo.
+Ponemos a su disposición un **experimentado equipo** de profesionales para dar solución a las dolencias o problemas que puedan presentarse, ya sea [falta de hueso](/tratamientos/implantes-casos-complejos-cataluna/) maxilar o mandibular, enfermedades en la mucosa oral, patologías de la articulación temporomandibular o traumatismos faciales, por ejemplo.
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.webp)
 
@@ -41,7 +41,7 @@ Para poder realizar este tratamiento en 1 solo día, es necesario que el pacient
 
 
 La existencia de poco hueso maxilar, dificulta la colocación de implantes de forma convencional.
-A continuación les mostramos técnicas de implantología específicamente diseñadas para pacientes en esa situación.
+A continuación les mostramos técnicas de [implantología](/tratamientos/implantes-dentales-sant-boi-de-llobregat/) específicamente diseñadas para pacientes en esa situación.
 
  
 **1. Implantes cigomáticos**
@@ -49,7 +49,7 @@ A continuación les mostramos técnicas de implantología específicamente dise�
 
 Se basa en un concepto innovador que permite ofrecer un gran número de ventajas a los pacientes con poco hueso. Es una técnica avanzada que consiste en colocar unos implantes largos en el **hueso cigomático** (área del pómulo) para eliminar la necesidad de injertos óseos.
 
-El mismo día de la intervención, se coloca una prótesis fija sobre los implantes, que ofrece óptimas prestaciones estéticas y funcionales de manera inmediata.
+El mismo día de la intervención, se coloca una [prótesis](/tratamientos/protesis/) fija sobre los implantes, que ofrece óptimas prestaciones estéticas y funcionales de manera inmediata.
 
 Los [implantes cigomáticos](http://www.scielo.org.co/pdf/ceso/v29n2/v29n2a06.pdf) son una solución que aporta seguridad, confort y estética. Así pues, devuelven a los pacientes una **calidad de vida** de la que hacía años que no disfrutaban y que creían no poder recuperar.
 

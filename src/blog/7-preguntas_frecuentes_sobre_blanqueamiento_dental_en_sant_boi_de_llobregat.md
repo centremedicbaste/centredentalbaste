@@ -19,7 +19,7 @@ imageAlt:
 ¿Cómo funciona el blanqueamiento dental?
 
 
-Esta técnica no consiste en un blanqueamiento del diente propiamente dicho, sino en un **aclaramiento**, ya que no se altera el color propio del diente.
+Esta técnica no consiste en un [blanqueamiento](/tratamientos/blanqueamiento-dental/) del diente propiamente dicho, sino en un **aclaramiento**, ya que no se altera el color propio del diente.
 
 El color de un diente viene determinado, desde que nacemos, por la **tonalidad del núcleo** del diente (dentina) y por la **transparencia** y **capacidad de refracción de la luz** por el esmalte.
 
@@ -51,7 +51,7 @@ Los estudios demuestran que lo más efectivo es **combinar ambos tratamientos** 
 En una **primera visita** se realizan unas réplicas de la boca del paciente, a partir de las cuales se confeccionarán unos **moldes de plástico transparentes**, que se adaptarán a los dientes y albergarán el gel blanqueador.
 Una vez hechos los moldes, el **blanqueamiento dental en Sant Boi de Llobregat** se realiza en **2 fases**, una fase en la consulta y otra en casa:
 
-**FASE 1:** En esta primera sesión se realiza un **pulido de la superficie** de los dientes para eliminar impurezas. A continuación se aplica un gel para proteger las encías y posteriormente el gel de **peróxido de hidrógeno** al 35% **durante 30 minutos**.
+**FASE 1:** En esta primera sesión se realiza un **pulido de la superficie** de los dientes para eliminar impurezas. A continuación se aplica un gel para proteger las [encías](/tratamientos/tratamiento-encias/) y posteriormente el gel de **peróxido de hidrógeno** al 35% **durante 30 minutos**.
 El blanqueamiento dental con una **lámpara de luz fría** activa las moléculas de este **gel blanqueador**, que se aplica sobre los dientes del paciente. La luz fría de la lámpara acelera la liberación de las moléculas blanqueadoras del peróxido de hidrógeno. Esto produce un **aclaramiento** inicial importante.
 Si el **blanqueamiento dental en Sant Boi de Llobregat** realizado en la clínica se combina con el **blanqueamiento en casa**, los resultados serán mejores, ya que está comprobado que un **blanqueamiento dental mixto** puede aclarar hasta diez tonos el color de los dientes del paciente.
 

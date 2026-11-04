@@ -26,7 +26,7 @@ Es todo un arte. En esta etapa es recomendable realizarla, pues los huesos se en
 Un buen diagnóstico
 
 
-**Es aconsejable que acudas a tu dentista en Sant Boi de Llobregat sin esperar a que a tu hijo le desaparezcan los dientes de leche**. La Sociedad Española de Ortodoncia (SEPO) recomienda una revisión por el ortodoncista a los **seis años**. Es cuando empiezan a salir los primeros dientes definitivos.
+**Es aconsejable que acudas a tu dentista en Sant Boi de Llobregat sin esperar a que a tu hijo le desaparezcan los dientes de leche**. La Sociedad Española de [Ortodoncia](/tratamientos/ortodoncia-dental/) (SEPO) recomienda una revisión por el ortodoncista a los **seis años**. Es cuando empiezan a salir los primeros dientes definitivos.
 
 
 **La detección temprana es una baza a tu favor.** Permite un diagnóstico y tratamiento a tiempo y sus resultados son más eficaces en la etapa infantil. Durante el crecimiento es más sencillo modificar los defectos óseos y los dientes que se encuentran en mala posición.

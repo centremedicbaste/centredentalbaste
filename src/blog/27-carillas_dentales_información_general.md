@@ -20,7 +20,7 @@ El uso de carillas dentales se ha vuelto muy popular en el campo de los tratami
 Te contamos qué son las carillas dentales
 
 
-Podemos calificar las carillas dentales como unos tratamientos estéticos, ya que sus usos principales consisten en**devolver a los dientes desgastados las apariencias que tuvieron un día**. El material con el que están fabricadas recubre los dientes originales y da como resultado una sonrisa más atractiva y luminosa.
+Podemos calificar las [carillas dentales](/tratamientos/carillas-dentales/) como unos tratamientos estéticos, ya que sus usos principales consisten en**devolver a los dientes desgastados las apariencias que tuvieron un día**. El material con el que están fabricadas recubre los dientes originales y da como resultado una sonrisa más atractiva y luminosa.
 
 Como norma general, están fabricadas en cerámica. Aunque también se pueden encontrar carillas de otros materiales, como la resina o vitrocerámica, cuyas apariencias y durezas son similares a las de los dientes normales.
 

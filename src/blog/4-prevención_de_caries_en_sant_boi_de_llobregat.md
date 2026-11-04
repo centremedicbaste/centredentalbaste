@@ -55,7 +55,7 @@ Las medidas a aplicar incluyen:
 
 Durante la etapa infantil, los padres han de asumir la responsabilidad de la **higiene bucal** hasta que el niño adquiera suficiente destreza. Es muy importante que adultos y niños se **cepillen los dientes después de cada comida** y a poder ser, después de tomar bebidas azucaradas.
 
-Para la higiene dental diaria se emplearán dos técnicas básicas:
+Para la [higiene dental](/tratamientos/odontologia-dental/) diaria se emplearán dos técnicas básicas:
 * **Cepillado dental:**Debe iniciarse tan pronto como aparezcan los primeros dientes. Se utilizará un cepillo dental apropiado para niños y se seguirá una técnica correcta. No es recomendable emplear pasta dental fluorada en menores de 5-6 años, por la tendencia a tragarla que tienen los niños a esas edades. Para los adultos, es necesario invertir el suficiente tiempo para cepillarse (al menos 2 minutos) y realizarlo con los movimientos adecuandos. Pregunte a su odontólogo cuál es la mejor técnica de cepillado para sus dientes.
 * **Hilo dental:**Es muy útil para eliminar la placa bacteriana interdental y ayuda en gran medida a la prevención de caries que puede aparecer entre los dientes.
 

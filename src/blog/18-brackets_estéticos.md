@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-Cuando hablamos de **Brackets estéticos** nos referimos a un tipo de corrector dental que tiene la propiedad de camuflarse en nuestros incisivos para no ser visible a simple vista pero, además, conservar la función correctora en perfecto estado, ayudando a la alineación de nuestros clientes, además de tratar ciertos problemas relacionados.
+Cuando hablamos de **[Brackets](/tratamientos/ortodoncia-dental/) estéticos** nos referimos a un tipo de corrector dental que tiene la propiedad de camuflarse en nuestros incisivos para no ser visible a simple vista pero, además, conservar la función correctora en perfecto estado, ayudando a la alineación de nuestros clientes, además de tratar ciertos problemas relacionados.
 
 Con este tipo de aparatología dental se utilizan brackets que tienen la particularidad de ser transparentes (como aquellos que han sido fabricados con zafiro) intentando encontrar aquellos que más se parezcan al color de nuestros clientes. De esta manera, a no ser que el resto del mundo se fije con mucho detenimiento, ni tan siquiera sabrá que los llevamos puestos.
 **Brackets estéticos vs brackets metálicos**

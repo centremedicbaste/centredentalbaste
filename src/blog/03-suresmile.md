@@ -17,12 +17,12 @@ imageAlt:
 
 
 ## La sonrisa perfecta a tu alcance  
-¡Felicidades! Este es el primer paso para convertirte en una **nueva versión de ti mismo**. El tratamiento de ortodoncia con los alineadores **SureSmile® Aligner** te ayudará a lograr la sonrisa perfecta de la manera más rápida, sencilla y discreta que puedas imaginar.
+¡Felicidades! Este es el primer paso para convertirte en una **nueva versión de ti mismo**. El tratamiento de [ortodoncia](/tratamientos/ortodoncia-dental/) con los alineadores **SureSmile® Aligner** te ayudará a lograr la sonrisa perfecta de la manera más rápida, sencilla y discreta que puedas imaginar.
 
 
 
 ## Diseñados para adaptarse a tu estilo de vida  
-Los alineadores **SureSmile® Aligner** están compuestos por un conjunto de alineadores transparentes, prácticamente invisibles y removibles, diseñados para enderezar tus dientes de forma progresiva hasta ubicarlos en la posición perfecta.
+Los alineadores **[SureSmile® Aligner](/invisalign-sant-boi-llobregat-barcelona/)** están compuestos por un conjunto de alineadores transparentes, prácticamente invisibles y removibles, diseñados para enderezar tus dientes de forma progresiva hasta ubicarlos en la posición perfecta.
 
 - **Prácticamente invisibles**  
 - **Cómodos**  

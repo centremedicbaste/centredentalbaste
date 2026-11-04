@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-Las **carillas dentales sin rebajar el diente** en nuestra clínica **Centre Dental Basté**, son la manera más eficaz de solucionar problemas de estética dental. Están especialmente indicadas para personas que buscan **tratamientos muy poco agresivos** y en **una sola sesión**. Para tener éxito en el resultado, **Centre Dental Basté** **personaliza el tratamiento** a sus necesidades, es decir, se trata de un tratamiento que no se puede aplicar igual a todas las personas, por lo que es imprescindible un **diagnóstico previo** para ver cuál es el procedimiento más adecuado en cada caso.
+Las **[carillas dentales](/tratamientos/carillas-dentales/) sin rebajar el diente** en nuestra clínica **Centre Dental Basté**, son la manera más eficaz de solucionar problemas de estética dental. Están especialmente indicadas para personas que buscan **tratamientos muy poco agresivos** y en **una sola sesión**. Para tener éxito en el resultado, **Centre Dental Basté** **personaliza el tratamiento** a sus necesidades, es decir, se trata de un tratamiento que no se puede aplicar igual a todas las personas, por lo que es imprescindible un **diagnóstico previo** para ver cuál es el procedimiento más adecuado en cada caso.
 
 ![Carillas dentales sin rebajar el diente en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/carillas-antes-despues.webp)
 

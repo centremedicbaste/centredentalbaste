@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-En **Centro Dental Basté** te ofrecemos la **ortodoncia en Sant Boi del Llobregat** de alto nivel.
+En **Centro Dental Basté** te ofrecemos la **[ortodoncia en Sant Boi del Llobregat](/tratamientos/ortodoncia-dental/)** de alto nivel.
 
 Te realizaremos un **estudio completo previo** para un diagnóstico apurado.
 
@@ -72,7 +72,7 @@ Consiste en el uso de brackets cerámicos de color similar al diente, por lo que
 ## Ortodoncia Invisible tipo Invisalign (SureSmile)
 
 
-Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición. En Centre Dental Basté trabajamos con **SureSmile**, nuestro sistema de alineadores invisibles.
+Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición. En Centre Dental Basté trabajamos con **[SureSmile](/invisalign-sant-boi-llobregat-barcelona/)**, nuestro sistema de alineadores invisibles.
 
 ![ortodoncia invisible SureSmile Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisalign.webp)
 

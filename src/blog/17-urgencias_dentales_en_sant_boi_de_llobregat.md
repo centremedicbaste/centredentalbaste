@@ -23,7 +23,7 @@ A **Centre Dental Basté** le complace presentar nuestro servicio de **urgencias
 >
 Nuestra clínica dental, con unas instalaciones de última generación, le ofrece la mejor **atención odontológica** y un **equipo de profesionales especializados** en cada área que podrá atender cualquier situación de urgencia dental que se necesite en Sant Boi de Llobregat.
 
-Las mayores **solicitudes** en Sant Boi de Llobregat tienen que ver con: fuerte dolor, infección aguda, muelas del juicio, fracturas dentales, aftas bucales y sangrado de encías. Para todos estos casos disponemos de los mejores profesionales en cada especialidad.
+Las mayores **solicitudes** en Sant Boi de Llobregat tienen que ver con: fuerte dolor, infección aguda, muelas del juicio, fracturas dentales, aftas bucales y sangrado de [encías](/tratamientos/tratamiento-encias/). Para todos estos casos disponemos de los mejores profesionales en cada especialidad.
 
 ![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-dentales.webp)
 

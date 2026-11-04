@@ -27,7 +27,7 @@ En **Centre Dental Basté** ponemos a tu alcance la última tecnolgía para real
 
 La cirugía oral y maxilofacial es una **especialidad quirúrgica** que incluye el diagnóstico, cirugía y tratamientos, sea cual sea la afección, relacionados con los aspectos estéticos y funcionales de la **boca**, **dientes** y **cara**.
 
-Ponemos a su disposición un **experimentado equipo** de profesionales para dar solución a las dolencias o problemas que puedan presentarse, ya sea falta de hueso maxilar o mandibular, enfermedades en la mucosa oral, patologías de la articulación temporomandibular o traumatismos faciales, por ejemplo.
+Ponemos a su disposición un **experimentado equipo** de profesionales para dar solución a las dolencias o problemas que puedan presentarse, ya sea [falta de hueso](/tratamientos/implantes-casos-complejos-cataluna/) maxilar o mandibular, enfermedades en la mucosa oral, patologías de la articulación temporomandibular o traumatismos faciales, por ejemplo.
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.webp)
 
@@ -39,7 +39,7 @@ Ponemos a su disposición un **experimentado equipo** de profesionales para dar 
 
 Es la técnica **implantológica de carga inmediata.**Se realizará la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes y colocamos los dientes nuevos. El paciente termina su tratamiento y sale de la clínica con sus dientes provisionales “fijos” colocados **en el mismo día**.
 
-Para poder realizar este tratamiento en 1 solo día, es necesario que el paciente se realice un **TAC 3D** previamente, ya que esta información se usará en el software para guiar la la cirugía y crear las prótesis dentales a medida.
+Para poder realizar este tratamiento en 1 solo día, es necesario que el paciente se realice un **TAC 3D** previamente, ya que esta información se usará en el software para guiar la la cirugía y crear las [prótesis dentales](/tratamientos/protesis/) a medida.
 
 ![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-1dia.webp)
 
@@ -51,7 +51,7 @@ Para poder realizar este tratamiento en 1 solo día, es necesario que el pacient
 
 
 La existencia de poco hueso maxilar, dificulta la colocación de implantes de forma convencional.
-A continuación les mostramos técnicas de implantología específicamente diseñadas para pacientes en esa situación.
+A continuación les mostramos técnicas de [implantología](/tratamientos/implantes-dentales-sant-boi-de-llobregat/) específicamente diseñadas para pacientes en esa situación.
 
 
 **1. Implantes cigomáticos**

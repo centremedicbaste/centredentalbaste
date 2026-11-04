@@ -13,9 +13,9 @@ image: 5-implantologia-dental-5.webp
 
 ## Implantología dental
 
-La **implantología dental** es la disciplina de la odontología que estudia los materiales no orgánicos dentro o sobre los huesos maxilares para apoyar una **rehabilitación dental**. Su objetivo es **sustituir dientes perdidos** mediante la colocación de un implante dental en el hueso maxilar.
+La **[implantología dental](/tratamientos/implantes-dentales-sant-boi-de-llobregat/)** es la disciplina de la odontología que estudia los materiales no orgánicos dentro o sobre los huesos maxilares para apoyar una **rehabilitación dental**. Su objetivo es **sustituir dientes perdidos** mediante la colocación de un implante dental en el hueso maxilar.
 
-La **implantología dental en Sant Boi de Llobregat** utiliza opciones variadas en tipos, tamaños, superficies y materiales para el implante dental, sobre los cuales se colocan las prótesis dentales.
+La **implantología dental en Sant Boi de Llobregat** utiliza opciones variadas en tipos, tamaños, superficies y materiales para el implante dental, sobre los cuales se colocan las [prótesis dentales](/tratamientos/protesis/).
 
 ![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/5-implantologia-dental-5.webp)
 

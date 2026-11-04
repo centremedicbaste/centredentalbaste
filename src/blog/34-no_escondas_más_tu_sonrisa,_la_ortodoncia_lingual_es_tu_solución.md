@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-*Un estudio personalizado y piezas realizadas exclusivamente para cada paciente marcan la diferencia entre la ortodoncia lingual y la tradicional.*
+*Un estudio personalizado y piezas realizadas exclusivamente para cada paciente marcan la diferencia entre la [ortodoncia](/tratamientos/ortodoncia-dental/) lingual y la tradicional.*
 
 Esta técnica, cada día más solicitada en Barcelona, satisface a miles de clientes que buscan un método invisible. Ahora, transformar tu sonrisa y evitar el complejo, cuando los demás ven los brackets metálicos, ya es posible. **Cómodo, eficaz y estético** son las tres claves de su éxito.
 
@@ -40,7 +40,7 @@ Tras el diagnóstico por parte de un profesional de los problemas dentales a res
 
 Una vez colocados, se harán revisiones mensuales en las que el dentista ajustará o añadirá recursos (manteniendo siempre la estética), según se vayan moviendo las piezas dentales. El **tiempo del tratamiento** depende de cada caso clínico, pero la media **suele rondar los dos años**.
 
-Una vez que se ha llegado a la posición final que deben ocupar los dientes, se retiran los arcos y los brackets. Después, se colocan unos dispositivos fijos o removibles con el fin de que las piezas dentales no vuelvan a su posición original (como retenedores invisibles o carillas estéticas, entre otros). Además, **el odontólogo establece revisiones periódicas** para comprobar que los resultados se mantienen.
+Una vez que se ha llegado a la posición final que deben ocupar los dientes, se retiran los arcos y los brackets. Después, se colocan unos dispositivos fijos o removibles con el fin de que las piezas dentales no vuelvan a su posición original (como retenedores invisibles o [carillas](/tratamientos/carillas-dentales/) estéticas, entre otros). Además, **el odontólogo establece revisiones periódicas** para comprobar que los resultados se mantienen.
 
  
 **Ventajas y desventajas**

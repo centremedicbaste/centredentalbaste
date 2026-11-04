@@ -18,7 +18,7 @@ imageAlt:
 
 ## Tipos de prótesis dentales: claves para una sonrisa excelente
 
-**Sant Boi de Llobregat alberga a tu profesional de la estética dental.** Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de prótesis dentales: básicamente, fijas y removibles.**  
+**Sant Boi de Llobregat alberga a tu profesional de la estética dental.** Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de [prótesis dentales](/tratamientos/protesis/): básicamente, fijas y removibles.**  
 **Luciréis una gran sonrisa y mejoraréis vuestra función bucal, tras un tratamiento personalizado.**
 
 
@@ -51,7 +51,7 @@ Tu dentista en Sant Boi de Llobregat sabrá cuál emplear para mejorar tu dentad
 - **Porcelana pura**: más estética.  
 - **Cerámica metal**: aconsejable para molares superiores e inferiores, debido a su mayor firmeza.
 
-**También pueden ir atornilladas a tu mandíbula.** Una práctica que se ejecuta cuando el diente no existe del todo. Tu dentista primero colocará un implante dental o tornillo y, sobre él, la corona.
+**También pueden ir atornilladas a tu mandíbula.** Una práctica que se ejecuta cuando el diente no existe del todo. Tu dentista primero colocará un [implante dental](/tratamientos/implantes-dentales-sant-boi-de-llobregat/) o tornillo y, sobre él, la corona.
 
 ### 2. Puente dental
 
@@ -63,7 +63,7 @@ Su función radica en sustituir uno o más dientes. Los dientes de cada lado de 
 Sus ventajas pasan por una **mayor durabilidad** (puede coexistir hasta 30 años), **perdurabilidad en el color** y **aguante al desgaste**.
 
 Has de tener presente una **buena higiene** para mantener tu puente dental.  
-De lo contrario, puede traerte problemas de gingivitis que, si no se trata, conllevará la pérdida de tus piezas dentales.
+De lo contrario, puede traerte problemas de [gingivitis](/tratamientos/tratamiento-encias/) que, si no se trata, conllevará la pérdida de tus piezas dentales.
 
 ![prótesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-removible-sant-boi-llobregat.webp "Prótesis dental removible - Sant Boi de Llobregat")
 

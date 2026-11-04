@@ -19,7 +19,7 @@ imageAlt:
 ## ¿Qué es una endodoncia?
 
 
-En **Centre Dental Basté en Sant Boi de Llobregat**, ofrecemos **tratamientos especializados en endodoncia en Sant Boi de Llobregat**.  Popularmente conocida como **desvitalización** o “**matar el nervio**”, la endodoncia es el tratamiento dental que elimina del interior del diente los tejidos dañados (tejido pulpar), limpiando primero los conductos de la raíz y rellenándolos después con una sustancia que evita la permanencia de gérmenes en su interior. Una vez realizada la endodoncia, hay que restaurar el diente con un empaste o con una corona, dependiendo del caso.
+En **Centre Dental Basté en Sant Boi de Llobregat**, ofrecemos **tratamientos especializados en [endodoncia en Sant Boi de Llobregat](/tratamientos/endodoncia-dental/)**.  Popularmente conocida como **desvitalización** o “**matar el nervio**”, la endodoncia es el tratamiento dental que elimina del interior del diente los tejidos dañados (tejido pulpar), limpiando primero los conductos de la raíz y rellenándolos después con una sustancia que evita la permanencia de gérmenes en su interior. Una vez realizada la endodoncia, hay que restaurar el diente con un empaste o con una corona, dependiendo del caso.
 
 En **Centre Dental Basté**, contamos con profesionales **especialistas en endodoncia**, entrenados para realizar el procedimiento más adecuado para cada paciente.
 

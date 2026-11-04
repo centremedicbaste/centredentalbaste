@@ -19,7 +19,7 @@ imageAlt:
 ¿Qué es la odontopediatría?
 
 
-La odontopediatría es la rama de la odontología encargada de **tratar a los niños**, es decir, **odontología infantil**. Nuestros odontopediatras de **Centre Dental Basté** te ayudarán a mantener la **salud dental** de tu hijo. Es muy importante controlar los dientes temporales o de leche, ya que de la correcta salud de los mismos dependerá en gran medida la salud de los dientes definitivos que utilizará el paciente el resto de su vida, es por esto que la **odontología infantil en Sant Boi de Llobregat** desempeña un papel imprescindible.
+La [odontopediatría](/tratamientos/odontologia-infantil-sant-boi-de-llobregat/) es la rama de la odontología encargada de **tratar a los niños**, es decir, **odontología infantil**. Nuestros odontopediatras de **Centre Dental Basté** te ayudarán a mantener la **salud dental** de tu hijo. Es muy importante controlar los dientes temporales o de leche, ya que de la correcta salud de los mismos dependerá en gran medida la salud de los dientes definitivos que utilizará el paciente el resto de su vida, es por esto que la **odontología infantil en Sant Boi de Llobregat** desempeña un papel imprescindible.
 Recomendaciones para los niños
 
 

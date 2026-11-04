@@ -16,9 +16,9 @@ imageAlt:
 ---
 
 
-Las **enfermedades periodontales** son un conjunto de enfermedades que afectan a los tejidos que rodean y sujetan a los dientes en los maxilares (encías y hueso). Son enfermedades de naturaleza inflamatoria y de causa infecciosa, producidas por **bacterias**.
+Las **[enfermedades periodontales](/tratamientos/periodoncia/)** son un conjunto de enfermedades que afectan a los tejidos que rodean y sujetan a los dientes en los maxilares (encías y hueso). Son enfermedades de naturaleza inflamatoria y de causa infecciosa, producidas por **bacterias**.
 
-La **gingivitis** es una reacción inflamatoria de la encía y se percibe de forma clara por el color rojo intenso de ésta, es fácilmente visible a la inspección. Es la forma más frecuente de las **enfermedades periodontales** y se presenta en todas las edades. Si la gingivitis no es tratada, podría evolucionar y progresar hasta convertirse en **periodontitis**, causando **problemas de encías en Sant Boi de Llobregat**.
+La **[gingivitis](/tratamientos/tratamiento-encias/)** es una reacción inflamatoria de la encía y se percibe de forma clara por el color rojo intenso de ésta, es fácilmente visible a la inspección. Es la forma más frecuente de las **enfermedades periodontales** y se presenta en todas las edades. Si la gingivitis no es tratada, podría evolucionar y progresar hasta convertirse en **periodontitis**, causando **problemas de encías en Sant Boi de Llobregat**.
 
  
 ## La periodontitis

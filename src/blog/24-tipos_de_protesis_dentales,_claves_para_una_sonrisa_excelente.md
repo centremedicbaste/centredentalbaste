@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-**Sant Boi de Llobregat alberga a tu profesional de la estética dental**. Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de protesis dentales: básicamente, fijas y removibles.** **Luciréis una gran sonrisa y mejoraréis vuestra función bucal, tras un tratamiento personalizado**.
+**Sant Boi de Llobregat alberga a tu profesional de la estética dental**. Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de [protesis dentales](/tratamientos/protesis/): básicamente, fijas y removibles.** **Luciréis una gran sonrisa y mejoraréis vuestra función bucal, tras un tratamiento personalizado**.
 
 ## La estética y funcionalidad de tu boca, en buenas manos
 
@@ -43,7 +43,7 @@ Se trata del tipo más habitual de prótesis fija. Obtendremos resultados satisf
 
 La de **porcelana pura** es **más estética**. Mientras, la de **cerámica metal** es aconsejable para molares superiores e inferiores, a causa de su mayor firmeza.
 
-**También pueden ir atornilladas a tu mandíbula**. Una práctica que se ejecuta cuando el diente no existe del todo. Tu dentista primero colocará un implante dental o tornillo y, sobre él, la corona.
+**También pueden ir atornilladas a tu mandíbula**. Una práctica que se ejecuta cuando el diente no existe del todo. Tu dentista primero colocará un [implante dental](/tratamientos/implantes-dentales-sant-boi-de-llobregat/) o tornillo y, sobre él, la corona.
 
 **2. El puente dental**: Su función radica en sustituir uno o más dientes. Los dientes de cada lado de la pieza que te falta hacen las veces de pilares. Por otra parte, está el vano, un diente suspendido ensamblado a los pilares.
 
@@ -51,7 +51,7 @@ El exterior de tu puente será siempre de cerámica. Mientras, el interior será
 
 Sus ventajas pasan por una **mayor durabilidad** (puede coexistir hasta 30 años), **perdurabilidad en el color** y **aguante al desgaste**.
 
-Has de tener presente una **buena higiene para mantener tu puente dental**. Si no lo haces, puede traerte problemas de gingivitis. Esta, si no se trata, conllevará la pérdida de tus piezas dentales.
+Has de tener presente una **buena higiene para mantener tu puente dental**. Si no lo haces, puede traerte problemas de [gingivitis](/tratamientos/tratamiento-encias/). Esta, si no se trata, conllevará la pérdida de tus piezas dentales.
 
 ![protesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-removible-sant-boi-llobregat.webp)
 Prótesis removibles, de quita y pon

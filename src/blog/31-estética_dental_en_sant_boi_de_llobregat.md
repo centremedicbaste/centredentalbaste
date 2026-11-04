@@ -17,9 +17,9 @@ imageAlt:
 ---
 
 
-La **estética dental**, como su nombre lo sugiere, cubre todo aquello que tenga que ver con la belleza, la estética o el embellecimiento de sus dientes, en sus muy distintas formas y posibilidades.
+La **[estética dental](/tratamientos/estetica-dental-sant-boi-de-llobregat/)**, como su nombre lo sugiere, cubre todo aquello que tenga que ver con la belleza, la estética o el embellecimiento de sus dientes, en sus muy distintas formas y posibilidades.
 
-En este campo odontológico, existen varios tratamientos para embellecer la sonrisa, de entre los cuales destacan tres: **carillas dentales**, **blanqueamiento dental** y **fundas o coronas de zirconio**.
+En este campo odontológico, existen varios tratamientos para embellecer la sonrisa, de entre los cuales destacan tres: **[carillas dentales](/tratamientos/carillas-dentales/)**, **blanqueamiento dental** y **fundas o coronas de zirconio**.
 
 ![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.webp)
 
@@ -69,7 +69,7 @@ El color de un diente viene determinado, desde que nacemos, por la **tonalidad d
 
 El color del núcleo no se altera, sin embargo, con el tiempo el esmalte se va tiñendo a base de **sustancias colorantes** como pueden ser el tabaco, los pintalabios, el café, el té, el tomate, etc.
 
-En consecuencia, el blanqueamiento consiste en eliminar del esmalte, por medio de **sustancias químicas**, todas aquellas partículas que alteran su color original, consiguiendo así, una **estética dental en Sant Boi de Llobregat** de alta calidad.
+En consecuencia, el [blanqueamiento](/tratamientos/blanqueamiento-dental/) consiste en eliminar del esmalte, por medio de **sustancias químicas**, todas aquellas partículas que alteran su color original, consiguiendo así, una **estética dental en Sant Boi de Llobregat** de alta calidad.
 
 ![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-1024x600.webp)
 

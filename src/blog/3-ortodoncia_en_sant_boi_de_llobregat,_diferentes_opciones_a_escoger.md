@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-Somos una de las clínicas más completas de la ciudad en caso de que necesites realizar algún tratamiento de ortodoncia en Sant Boi de Llobregat.
+Somos una de las clínicas más completas de la ciudad en caso de que necesites realizar algún tratamiento de [ortodoncia en Sant Boi de Llobregat](/tratamientos/ortodoncia-dental/).
 
  
 ## ¿Qué es la ortodoncia?
@@ -58,7 +58,7 @@ Constan de un bracket, botón metálico pegado al diente, y un arco metálico qu
 
 ![ortodoncia en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-convencional.webp)
 
-Seguro que has pensado alguna vez en colocarte bien tus dientes pero lo has visto como un problema a nivel estético, ahora te podemos ofrecer opciones de **ortodoncia estética en Sant Boi de Llobregat** como son los brackets de zafiro, la ortodoncia lingual o la más innovadora ortodoncia invisible tipo Invisalign con alineadores **SureSmile**.
+Seguro que has pensado alguna vez en colocarte bien tus dientes pero lo has visto como un problema a nivel estético, ahora te podemos ofrecer opciones de **ortodoncia estética en Sant Boi de Llobregat** como son los brackets de zafiro, la ortodoncia lingual o la más innovadora [ortodoncia invisible](/invisalign-sant-boi-llobregat-barcelona/) tipo Invisalign con alineadores **SureSmile**.
 
  
 Brackets de zafiro

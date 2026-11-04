@@ -41,6 +41,6 @@ Si tiene cualquier incidencia dental no dude en llamarnos, ya sea un paciente o 
 
 ![dentista de urgencias en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-urgencia-absceso.webp)
 
-Cuando llegue a nuestra clínica, el **dentista de urgencias en Sant Boi de Llobregat** hará todo lo posible para detener cualquier tipo de sangrado o dolor. Esto puede ser que sea una reparación dental temporal o en el caso de una llaga dental o de encías, drenar y limpiar el área a fondo. Una vez que hayamos observado la emergencia y puesto una solución, planificaremos una cita para usted tan pronto como sea posible para completar el tratamiento y asegurarnos de que salga con una sonrisa saludable y feliz.
+Cuando llegue a nuestra clínica, el **dentista de urgencias en Sant Boi de Llobregat** hará todo lo posible para detener cualquier tipo de sangrado o dolor. Esto puede ser que sea una reparación dental temporal o en el caso de una llaga dental o de [encías](/tratamientos/tratamiento-encias/), drenar y limpiar el área a fondo. Una vez que hayamos observado la emergencia y puesto una solución, planificaremos una cita para usted tan pronto como sea posible para completar el tratamiento y asegurarnos de que salga con una sonrisa saludable y feliz.
 
 ![dentista de urgencias en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-urgencias.webp)

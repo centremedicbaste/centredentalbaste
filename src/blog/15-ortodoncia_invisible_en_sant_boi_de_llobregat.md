@@ -16,7 +16,7 @@ imageAlt:
 ---
 
 
-La ortodoncia es una rama de la Odontología, que se especializa en el diagnóstico, prevención y tratamiento de las **irregularidades dentofaciales** o **mal oclusión** (mala mordida). Persigue la **perfecta colocación de los dientes**, con sus beneficios estéticos y de salud, así como la normal **coordinación de los maxilares**, consiguiendo una armonía facial. Dientes sanos que funcionan bien, y una cara equilibrada que agrada al que la contempla, repercuten en la **autoestima** del paciente y en su aceptación social.
+La [ortodoncia](/tratamientos/ortodoncia-dental/) es una rama de la Odontología, que se especializa en el diagnóstico, prevención y tratamiento de las **irregularidades dentofaciales** o **mal oclusión** (mala mordida). Persigue la **perfecta colocación de los dientes**, con sus beneficios estéticos y de salud, así como la normal **coordinación de los maxilares**, consiguiendo una armonía facial. Dientes sanos que funcionan bien, y una cara equilibrada que agrada al que la contempla, repercuten en la **autoestima** del paciente y en su aceptación social.
 
  
 Estudio cefalométrico previo
@@ -52,7 +52,7 @@ Ventajas de la ortodoncia invisible
 
 
 
-Las ventajas de la **ortodoncia invisible en Sant Boi de Llobregat** a nivel estético es que sus alineadores son imperceptibles a una distancia de medio metro. Apenas nadie los notará. Los alineadores son **transparentes**, lo que hace que se adapten sin problemas a tu estilo de vida y a tu relación diaria con los demás.
+Las ventajas de la **[ortodoncia invisible en Sant Boi de Llobregat](/invisalign-sant-boi-llobregat-barcelona/)** a nivel estético es que sus alineadores son imperceptibles a una distancia de medio metro. Apenas nadie los notará. Los alineadores son **transparentes**, lo que hace que se adapten sin problemas a tu estilo de vida y a tu relación diaria con los demás.
 * ### Comodidad:
 
 

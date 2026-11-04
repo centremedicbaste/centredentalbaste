@@ -33,7 +33,7 @@ Si, ya por sí, visitar esta ciudad es un placer, más lo es ahora como centro 
 
 
 
-Hay una larga lista de argumentos para que visites Barcelona, en cualquier época del año, mientras aprovechas tu estancia para realizar un tratamiento dental en alguna de las numerosas clínicas de estas características de la Ciudad Condal. Desde **su oferta cultural**, una de las más importantes del Viejo Continente, a sus propuestas gastronómicas.
+Hay una larga lista de argumentos para que visites Barcelona, en cualquier época del año, mientras aprovechas tu estancia para realizar un [tratamiento dental](/tratamientos/) en alguna de las numerosas clínicas de estas características de la Ciudad Condal. Desde **su oferta cultural**, una de las más importantes del Viejo Continente, a sus propuestas gastronómicas.
 
 Dentro de este contexto general, se configura como uno de los principales alicientes para que acudas a la capital catalana en los próximos meses. **Será la excusa perfecta para visitar los lugares de mayor interés**. El Parque Güell, el Gran Teatro del Liceo o quizás una parada en el reconocido Mercado de la Boquería. Aunque, desde luego, no habrá mayor placer que un pequeño paseo por sus Ramblas o subir en funicular al monte del Tibidabo. Propuestas no te faltarán, en ningún momento, durante tu estancia en una de las capitales más cosmopolitas y activas de Europa.
 **Destino del turismo dental**

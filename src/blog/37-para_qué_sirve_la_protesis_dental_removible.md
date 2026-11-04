@@ -49,4 +49,4 @@ Entre las ventajas principales:
 * Si tu dentadura se agrieta o se afloja, consulta cuanto antes con el especialista.
 * Cuando no tengas la prótesis puesta, es bueno realizar masajes en las encías para mejorar el riego sanguíneo y procurar que la reabsorción de los tejidos sea menor.
 
-Sin duda, una **prótesis dental removible** es una muy buena opción. Animamos a todos los vecinos de Sant Boi de Llobregat a que visiten una clínica y se informen. Les alegrará mucho haber elegido esta opción.
+Sin duda, una **[prótesis dental](/tratamientos/protesis/) removible** es una muy buena opción. Animamos a todos los vecinos de Sant Boi de Llobregat a que visiten una clínica y se informen. Les alegrará mucho haber elegido esta opción.

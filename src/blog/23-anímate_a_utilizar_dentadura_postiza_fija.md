@@ -26,11 +26,11 @@ Ya no existen excusas para lucir una sonrisa bonita y masticar, hablar y reír c
 
 Gracias a la innovación de la técnica odontológica, atrás quedaron la pasta de fijación y las dentaduras postizas *"de quita y pon"*.
 
-La **dentadura postiza fija** es una prótesis artificial de uso permanente, de *fácil instalación* y que *mejora* la *masticación* y la *calidad de vida* del usuario.
+La **[dentadura postiza](/tratamientos/protesis/) fija** es una prótesis artificial de uso permanente, de *fácil instalación* y que *mejora* la *masticación* y la *calidad de vida* del usuario.
 
-Los dientes a implantar pueden ser de *porcelana* o de *resina*, se fijan mediante tornillos de titanio al maxilar y, como norma general, se emplea la técnica de **"All-on-4"** (4 implantes) para la parte inferior y **"All-on-6"** (6 implantes) para la arcada superior.
+Los dientes a implantar pueden ser de *porcelana* o de *resina*, se fijan mediante tornillos de titanio al maxilar y, como norma general, se emplea la técnica de **"[All-on-4](/tratamientos/all-on-4-sant-boi-de-llobregat/)"** (4 implantes) para la parte inferior y **"All-on-6"** (6 implantes) para la arcada superior.
 
-Es una técnica apta incluso para aquellas personas con poco hueso, ya que para estos casos existen distintas soluciones:
+Es una técnica apta incluso para aquellas personas con [poco hueso](/tratamientos/implantes-casos-complejos-cataluna/), ya que para estos casos existen distintas soluciones:
 
 1. El empleo de un injerto óseo en el maxilar para ampliarlo y ejecutar así la intervención con normalidad.
 

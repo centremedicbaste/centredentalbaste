@@ -17,7 +17,7 @@ imageAlt:
 ---
 
 
-Si necesita restaurar su dentadura completamente (1 o 2 arcadas dentales), en **Centre Dental Basté** ponemos a su alcance los últimos avances para realizar tratamientos de **dentadura fijada con implantes dentales** con total precisión.
+Si necesita restaurar su dentadura completamente (1 o 2 arcadas dentales), en **Centre Dental Basté** ponemos a su alcance los últimos avances para realizar tratamientos de **dentadura fijada con [implantes dentales](/tratamientos/implantes-dentales-sant-boi-de-llobregat/)** con total precisión.
 
 ![dentadura fijada con implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentadura-fijada-implantes.webp)
 Le explicamos en primer lugar qué son los [implantes dentales](#):
@@ -37,7 +37,7 @@ El tratamiento con implantes es necesario cuando faltan piezas dentales, ya que
 01. Dentadura completa fijada con 6/8 implantes dentales:
 
 
-Si no está cómodo con su **dentadura postiza actual** y el adhesivo para dentaduras es una molestia, puede que nuestra solución de **dentadura fijada con implantes dentales en Sant Boi de Llobregat** sea la más adecuada para usted.
+Si no está cómodo con su **[dentadura postiza](/tratamientos/protesis/) actual** y el adhesivo para dentaduras es una molestia, puede que nuestra solución de **dentadura fijada con implantes dentales en Sant Boi de Llobregat** sea la más adecuada para usted.
 
 La dentadura fija es un tipo de [dentadura soportada](https://es.wikipedia.org/wiki/Pr%C3%B3tesis_implantosoportada_(dental)) por 6 u 8 implantes dentales. A diferencia de la [dentadura postiza](https://medlineplus.gov/spanish/dentures.html) removible actual, esta dentadura está **fijada a su maxilar** por nuestros implantólogos de Sant Boi de Llobregat y, de este modo, evita tener que viajar a otras poblaciones. También elimina la necesidad de utilizar adhesivos para dentaduras que no siempre funcionan correctamente. Gracias a esta sujeción total, usted mejorará su capacidad de hablar y masticar, dándole además un aspecto más joven y natural.
 
@@ -72,7 +72,7 @@ Esta técnica avanzada, como explicamos en el siguiente punto, tiene la posibili
 Y además: Implantes dentales de carga inmediata o dientes en 1 día:
 --
 
-Le ofrecemos la posibilidad de realizarse su **dentadura fijada con implantes dentales en Sant Boi de Llobregat** con la técnica implantológica de **carga inmediata** o **dientes colocados en un día**, siempre según el criterio del profesional.
+Le ofrecemos la posibilidad de realizarse su **dentadura fijada con implantes dentales en Sant Boi de Llobregat** con la técnica implantológica de **[carga inmediata](/tratamientos/all-on-4-sant-boi-de-llobregat/)** o **dientes colocados en un día**, siempre según el criterio del profesional.
 Para este tratamiento se realiza la extracción de las piezas dañadas (en el caso de que existan), a continuación se insertan los implantes dentales y se colocan los dientes nuevos. El paciente termina su tratamiento y sale de la clínica dental con sus dientes provisionales “fijos” colocados en el mismo día.
 
 Para poder realizar este tratamiento en 1 sólo día, es necesario que el paciente se realice un [**TAC 3D**](https://www.radiologyinfo.org/sp/info.cfm?pg=dentalconect) previamente, ya que esta información se usará en el software para guiar la cirugía y crear las prótesis dentales a medida.
