@@ -531,3 +531,164 @@
   .aof-reel { width: 200px; }
   .aof-reels { padding: 48px 0; }
 }
+
+/* ── Página de precios ──────────────────────────────────────────────────────
+   La tabla se sirve como <table> de verdad, no como rejilla de divs: es un
+   dato tabular y así un lector de pantalla puede recorrerla por filas y
+   columnas. En móvil no se parte en tarjetas porque son solo dos columnas y
+   caben. */
+.aof-precios__lead {
+  max-width: 62ch;
+  margin: 16px auto 0;
+  color: #666;
+  line-height: 1.7;
+}
+.aof-precios__destacado {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #e9e6e1;
+  border-radius: 8px;
+  padding: 32px;
+}
+.aof-precios__cifra {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.aof-precios__importe {
+  font-size: 48px;
+  line-height: 1;
+  color: var(--c-primary);
+}
+.aof-precios__aviso,
+.aof-precios__nota {
+  max-width: 70ch;
+  color: #666;
+  font-size: 15px;
+  line-height: 1.7;
+}
+.aof-precios__grupo { margin-top: 48px; }
+.aof-precios__grupo-nombre {
+  font-size: 20px;
+  color: var(--c-secondary);
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--c-primary);
+}
+.aof-precios__tabla {
+  width: 100%;
+  border-collapse: collapse;
+}
+.aof-precios__tabla thead th {
+  text-align: left;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #8a8279;
+  padding: 16px 0 8px;
+  font-weight: 400;
+}
+.aof-precios__tabla thead th:last-child { text-align: right; }
+.aof-precios__tabla tbody th {
+  text-align: left;
+  font-weight: 400;
+  padding: 18px 16px 18px 0;
+  border-bottom: 1px solid #e9e6e1;
+  color: var(--c-secondary);
+}
+.aof-precios__tabla tbody td {
+  text-align: right;
+  vertical-align: top;
+  padding: 18px 0;
+  border-bottom: 1px solid #e9e6e1;
+  white-space: nowrap;
+}
+.aof-precios__tabla tbody th a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
+.aof-precios__tabla tbody th a:hover { color: var(--c-primary); }
+.aof-precios__detalle {
+  display: block;
+  font-size: 14px;
+  color: #8a8279;
+  margin-top: 4px;
+}
+.aof-precios__desde { font-size: 20px; color: var(--c-primary); }
+.aof-precios__unidad {
+  display: block;
+  font-size: 13px;
+  color: #8a8279;
+  white-space: normal;
+}
+.aof-precios__consultar { font-size: 15px; color: #8a8279; }
+
+/* Simulador de cuota */
+.aof-precios__simulador {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  align-items: flex-end;
+  border: 1px solid #e9e6e1;
+  border-radius: 8px;
+  padding: 24px;
+  margin: 24px 0;
+}
+.aof-precios__campo { display: flex; flex-direction: column; gap: 8px; }
+.aof-precios__campo label {
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #8a8279;
+}
+.aof-precios__campo input,
+.aof-precios__campo select {
+  border: 1px solid #d9d4cd;
+  border-radius: 4px;
+  padding: 12px 14px;
+  font-size: 16px;          /* 16px evita que Safari en iOS haga zoom al enfocar */
+  background: #fff;
+  color: var(--c-secondary);
+  min-width: 180px;
+}
+.aof-precios__resultado { flex: 1 1 240px; margin: 0; }
+.aof-precios__cuota {
+  display: block;
+  font-size: 32px;
+  line-height: 1.2;
+  color: var(--c-primary);
+}
+.aof-precios__cuota-pie {
+  display: block;
+  font-size: 14px;
+  color: #666;
+  margin-top: 6px;
+  line-height: 1.6;
+}
+
+.aof-precios__factores {
+  display: grid;
+  gap: 24px;
+  margin: 24px 0;
+}
+@media (min-width: 768px) {
+  .aof-precios__factores { grid-template-columns: repeat(2, 1fr); gap: 32px; }
+}
+.aof-precios__factores h3 {
+  font-size: 18px;
+  color: var(--c-secondary);
+  margin-bottom: 8px;
+}
+.aof-precios__factores p { color: #666; line-height: 1.7; }
+
+/* Texto solo para lectores de pantalla: el <caption> de cada tabla dice de qué
+   grupo es, que si no se pierde al saltar de tabla en tabla. */
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}

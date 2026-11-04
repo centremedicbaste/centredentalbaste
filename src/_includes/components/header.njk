@@ -22,7 +22,9 @@
             <ul class="menu-desktop list-clear list-inline">
                 {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
                 {% for page in sortedPages %}
-                    {% if page.data.seccion and page.data.seccion != 'home' %}
+                    {# Una pagina en noindex no va en el menu: si no queremos que la
+                       encuentren en Google, tampoco toca ofrecerla aqui. #}
+                    {% if page.data.seccion and page.data.seccion != 'home' and 'noindex' not in (page.data.metaRobots | default('')) %}
                         <li class="{% if page.data.seccion == 'Tratamientos' %}menu-item-has-children{% endif %}">
                             <a href="{{ page.url }}">
                                 <span>{{ page.data.seccion }}</span>
@@ -66,7 +68,9 @@
     <ul class="menu-mobile-list list-clear fluid-7-r ttu">
         {% set sortedPages = collections.pages | sort(attribute='data.orden') %}
         {% for page in sortedPages %}
-            {% if page.data.seccion and page.data.seccion != 'home' %}
+            {# Una pagina en noindex no va en el menu: si no queremos que la
+               encuentren en Google, tampoco toca ofrecerla aqui. #}
+            {% if page.data.seccion and page.data.seccion != 'home' and 'noindex' not in (page.data.metaRobots | default('')) %}
                 {% if page.data.seccion == 'Tratamientos' %}
                 <li class="menu-mobile-item-has-children pb-16">
                     <button type="button" class="menu-mobile-toggle" aria-expanded="false" aria-controls="menu-mobile-tratamientos" data-menu-mobile-toggle>

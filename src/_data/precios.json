@@ -1,0 +1,74 @@
+{
+  "_como_rellenar": [
+    "Pon el precio de partida de cada tratamiento en 'desde' (solo el numero, en euros).",
+    "Lo que dejes en null sale en la pagina como 'Segun valoracion', nunca como una cifra inventada.",
+    "Mientras no haya al menos 6 precios puestos, la pagina se publica con noindex y fuera del",
+    "sitemap: una pagina de precios sin precios perjudica mas que ayuda. Al llegar a 6 se indexa sola.",
+    "'nota' es la letra pequena de esa fila (que incluye, por unidad, etc.). Puede quedar vacia.",
+    "Revisa 'vigenteHasta' de la financiacion cuando caduque la promocion."
+  ],
+  "moneda": "EUR",
+  "actualizado": "2026-11-04",
+  "primeraVisita": {
+    "precio": 60,
+    "incluye": "Revisión clínica, radiografía y presupuesto sin compromiso",
+    "nota": "El importe se descuenta del tratamiento si lo realizas con nosotros"
+  },
+  "financiacion": {
+    "mesesSinIntereses": 30,
+    "vigenteHasta": "enero de 2027",
+    "mesesMaximo": 72,
+    "notaMaximo": "con gastos incluidos"
+  },
+  "recomendacion": { "descuento": 20 },
+  "grupos": [
+    {
+      "nombre": "Implantes y dientes fijos",
+      "url": "/tratamientos/implantes-dentales-sant-boi-de-llobregat/",
+      "items": [
+        { "tratamiento": "Implante dental unitario", "desde": null, "unidad": "por implante", "nota": "", "url": "/tratamientos/implantes-dentales-sant-boi-de-llobregat/" },
+        { "tratamiento": "All-on-4: arcada completa sobre 4 implantes", "desde": null, "unidad": "por arcada", "nota": "Dientes fijos en 24-48 h", "url": "/tratamientos/all-on-4-sant-boi-de-llobregat/" },
+        { "tratamiento": "All-on-6: arcada completa sobre 6 implantes", "desde": null, "unidad": "por arcada", "nota": "", "url": "/tratamientos/all-on-4-sant-boi-de-llobregat/" },
+        { "tratamiento": "Implantes en casos complejos y falta de hueso", "desde": null, "unidad": "", "nota": "Implantes subperiósticos a medida; el precio depende del caso", "url": "/tratamientos/implantes-casos-complejos-cataluna/" },
+        { "tratamiento": "Regeneración ósea", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/regeneracion-osea-periodontal/" },
+        { "tratamiento": "Prótesis fija, removible o sobre implantes", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/protesis/" }
+      ]
+    },
+    {
+      "nombre": "Ortodoncia",
+      "url": "/tratamientos/ortodoncia-dental/",
+      "items": [
+        { "tratamiento": "Ortodoncia con brackets", "desde": null, "unidad": "tratamiento completo", "nota": "", "url": "/tratamientos/ortodoncia-dental/" },
+        { "tratamiento": "Ortodoncia invisible SureSmile", "desde": null, "unidad": "tratamiento completo", "nota": "Alineadores transparentes y removibles", "url": "/invisalign-sant-boi-llobregat-barcelona/" }
+      ]
+    },
+    {
+      "nombre": "Estética dental",
+      "url": "/tratamientos/estetica-dental-sant-boi-de-llobregat/",
+      "items": [
+        { "tratamiento": "Blanqueamiento dental", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/blanqueamiento-dental/" },
+        { "tratamiento": "Carilla de porcelana", "desde": null, "unidad": "por diente", "nota": "", "url": "/tratamientos/carillas-dentales/" },
+        { "tratamiento": "Carilla de composite", "desde": null, "unidad": "por diente", "nota": "", "url": "/tratamientos/carillas-dentales/" }
+      ]
+    },
+    {
+      "nombre": "Odontología general",
+      "url": "/tratamientos/odontologia-dental/",
+      "items": [
+        { "tratamiento": "Higiene dental", "desde": null, "unidad": "sesión", "nota": "", "url": "/tratamientos/odontologia-dental/" },
+        { "tratamiento": "Empaste", "desde": null, "unidad": "por pieza", "nota": "", "url": "/tratamientos/odontologia-dental/" },
+        { "tratamiento": "Endodoncia", "desde": null, "unidad": "por pieza", "nota": "El precio varía según el número de conductos", "url": "/tratamientos/endodoncia-dental/" },
+        { "tratamiento": "Odontopediatría", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/odontologia-infantil-sant-boi-de-llobregat/" }
+      ]
+    },
+    {
+      "nombre": "Encías",
+      "url": "/tratamientos/periodoncia/",
+      "items": [
+        { "tratamiento": "Raspado y curetaje", "desde": null, "unidad": "por cuadrante", "nota": "", "url": "/tratamientos/raspado-diente-curetaje-dental/" },
+        { "tratamiento": "Tratamiento de encías", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/tratamiento-encias/" },
+        { "tratamiento": "Microcirugía periodontal", "desde": null, "unidad": "", "nota": "", "url": "/tratamientos/microcirugia-periodontal/" }
+      ]
+    }
+  ]
+}

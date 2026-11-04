@@ -11,6 +11,9 @@
         <ul class="list-clear list-inline p3  ">
           <li><a href="/">Inicio</a></li>
           <li><a href="/tratamientos/">Tratamientos</a></li>
+          {# El enlace aparece a la vez que la pagina se indexa: mientras no
+             haya precios en precios.json no tiene sentido mandar a nadie alli. #}
+          {% if preciosEstado.listo %}<li><a href="/precios/">Precios</a></li>{% endif %}
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/coctel-medicina-estetica/">Cóctel de medicina estética</a></li>
           <li><a href="/contacto/">Contacto</a></li>

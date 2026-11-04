@@ -1,0 +1,248 @@
+---
+layout: layout/base.njk
+colorHeader: has-light-menu
+---
+{# Página de precios. La tabla no se escribe aquí: sale de src/_data/precios.json,
+   para que actualizar tarifas sea tocar un fichero y no diecisiete plantillas.
+   Un tratamiento sin precio en ese fichero sale como "Según valoración"; nunca
+   se inventa una cifra. #}
+
+{%- set conPrecio = [] -%}
+{%- for g in precios.grupos %}{% for i in g.items %}{% if i.desde %}{% set _ = conPrecio.push(i) %}{% endif %}{% endfor %}{% endfor -%}
+
+{# Schema. Solo se declara como oferta la primera visita, que es el único precio
+   firme y publicado. Marcar como Offer un tratamiento sin precio sería declarar
+   algo que no está en la página, que es justo lo que Google penaliza. #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "{{ global_index.url }}{{ page.url | url }}",
+  "name": {{ metaTitle | dump | safe }},
+  "description": {{ metaDescription | dump | safe }},
+  "isPartOf": { "@id": "{{ global_index.url }}/#organization" },
+  "about": {
+    "@type": "Service",
+    "name": "Primera visita de revisión y presupuesto",
+    "provider": { "@id": "{{ global_index.url }}/#organization" },
+    "areaServed": { "@type": "City", "name": "Sant Boi de Llobregat" },
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ precios.primeraVisita.precio }}",
+      "priceCurrency": "{{ precios.moneda }}",
+      "description": {{ (precios.primeraVisita.incluye ~ ". " ~ precios.primeraVisita.nota) | dump | safe }},
+      "availability": "https://schema.org/InStock",
+      "url": "{{ global_index.url }}{{ page.url | url }}"
+    }
+  }
+}
+</script>
+{% if faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | dump | safe }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | dump | safe }} }
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+<div class="main-article">
+
+  <section class="aof-listing-hero" data-scroll-section>
+    <div class="container-global mx-auto">
+      <span class="aof-eyebrow">Precios y financiación</span>
+      <h1 class="fluid-3-l c-accent">Cuánto cuesta tratarte en Centre Dental Basté</h1>
+      <p class="aof-precios__lead">
+        En odontología no hay dos bocas iguales, así que un precio cerrado solo
+        se puede dar después de verte. Lo que sí podemos decirte antes de que
+        vengas es cuánto cuesta esa primera visita, de qué depende el precio de
+        cada tratamiento y cómo puedes pagarlo.
+      </p>
+    </div>
+  </section>
+
+  {# La primera visita es el único precio cerrado que podemos publicar, y es
+     justo el dato que la gente busca antes de llamar. #}
+  <section class="section front-section bg-clear" data-scroll-section>
+    <div class="container-global mx-auto">
+      <div class="aof-precios__destacado">
+        <div>
+          <h2 class="fluid-5-l">Primera visita: revisión y presupuesto</h2>
+          <p>{{ precios.primeraVisita.incluye }}.</p>
+          <p class="aof-precios__nota">{{ precios.primeraVisita.nota }}.</p>
+        </div>
+        <div class="aof-precios__cifra">
+          <span class="aof-precios__importe">{{ precios.primeraVisita.precio | euros }} €</span>
+          <a class="btn btn-primary" href="/contacto/">Pedir cita</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section front-section bg-light" data-scroll-section>
+    <div class="container-global mx-auto">
+      <h2 class="fluid-4-l mb-24">Precios por tratamiento</h2>
+      <p class="aof-precios__aviso">
+        Son precios de partida: el tuyo sale del presupuesto por escrito que te
+        damos en la primera visita, sin compromiso. Lo que ves aquí no incluye
+        pruebas ni tratamientos previos que tu caso pueda necesitar.
+      </p>
+
+      {% for grupo in precios.grupos %}
+      <div class="aof-precios__grupo">
+        <h3 class="aof-precios__grupo-nombre">{{ grupo.nombre }}</h3>
+        <table class="aof-precios__tabla">
+          <caption class="visually-hidden">Precios de {{ grupo.nombre | lower }} en Centre Dental Basté</caption>
+          <thead>
+            <tr><th scope="col">Tratamiento</th><th scope="col">Desde</th></tr>
+          </thead>
+          <tbody>
+            {% for item in grupo.items %}
+            <tr>
+              <th scope="row">
+                {% if item.url %}<a href="{{ item.url }}">{{ item.tratamiento }}</a>{% else %}{{ item.tratamiento }}{% endif %}
+                {% if item.nota %}<span class="aof-precios__detalle">{{ item.nota }}</span>{% endif %}
+              </th>
+              <td>
+                {% if item.desde %}
+                  <span class="aof-precios__desde">{{ item.desde | euros }} €</span>
+                  {% if item.unidad %}<span class="aof-precios__unidad">{{ item.unidad }}</span>{% endif %}
+                {% else %}
+                  <span class="aof-precios__consultar">Según valoración</span>
+                {% endif %}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  {# Simulador. Funciona sin saber el precio de ningún tratamiento, porque parte
+     del importe que escribe el usuario: sirve igual con presupuesto en mano. #}
+  <section class="section front-section bg-clear" id="financiacion" data-scroll-section>
+    <div class="container-global mx-auto">
+      <h2 class="fluid-4-l mb-24">Cómo pagarlo</h2>
+      <p>
+        Financiamos sin intereses hasta {{ precios.financiacion.mesesSinIntereses }} meses
+        (promoción vigente hasta {{ precios.financiacion.vigenteHasta }}) y hasta
+        {{ precios.financiacion.mesesMaximo }} meses {{ precios.financiacion.notaMaximo }}.
+      </p>
+
+      <div class="aof-precios__simulador">
+        <div class="aof-precios__campo">
+          <label for="sim-importe">Importe del tratamiento</label>
+          <input type="number" id="sim-importe" min="120" max="30000" step="50" value="2000" inputmode="numeric">
+        </div>
+        <div class="aof-precios__campo">
+          <label for="sim-meses">Plazo</label>
+          <select id="sim-meses">
+            <option value="12">12 meses</option>
+            <option value="24">24 meses</option>
+            <option value="30" selected>30 meses (sin intereses)</option>
+            <option value="48">48 meses</option>
+            <option value="60">60 meses</option>
+            <option value="72">72 meses</option>
+          </select>
+        </div>
+        <p class="aof-precios__resultado">
+          <span class="aof-precios__cuota" id="sim-cuota">—</span>
+          <span class="aof-precios__cuota-pie" id="sim-pie"></span>
+        </p>
+      </div>
+      <p class="aof-precios__nota">
+        Es una estimación orientativa, no una oferta: el plazo sin intereses llega
+        hasta {{ precios.financiacion.mesesSinIntereses }} meses y, por encima,
+        la cuota depende de las condiciones de la financiera. Te damos la cifra
+        exacta junto con el presupuesto.
+      </p>
+      {% if precios.recomendacion.descuento %}
+      <p>
+        Si nos recomiendas, regalamos {{ precios.recomendacion.descuento }} € de
+        descuento a quien venga de tu parte en cualquiera de nuestros tratamientos.
+      </p>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="section front-section bg-light" data-scroll-section>
+    <div class="container-global mx-auto">
+      <h2 class="fluid-4-l mb-24">Por qué dos presupuestos del mismo tratamiento no se parecen</h2>
+      <div class="aof-precios__factores">
+        <div><h3>El estado de partida</h3><p>Una muela con caries profunda y otra con el nervio afectado se ven igual en el espejo y no cuestan lo mismo. Hasta la radiografía no se sabe.</p></div>
+        <div><h3>Lo que hay que hacer antes</h3><p>Unas encías inflamadas o la falta de hueso obligan a tratarlas primero. Ese paso previo suele ser la diferencia entre dos presupuestos.</p></div>
+        <div><h3>Los materiales</h3><p>No cuesta lo mismo una corona de metal-porcelana que una de zirconio, ni un implante de marca con garantía que uno sin trazabilidad.</p></div>
+        <div><h3>Cuántas piezas</h3><p>El precio por implante o por carilla baja cuando se trata la boca entera, porque buena parte del trabajo de planificación es el mismo.</p></div>
+      </div>
+      <p class="aof-precios__nota">
+        Desconfía de un precio cerrado por teléfono: para darlo hay que haber
+        visto la boca y la radiografía.
+      </p>
+    </div>
+  </section>
+
+  {% if faq %}
+  <section class="section front-section bg-clear" data-scroll-section>
+    <div class="container-global mx-auto">
+      <h2 class="fluid-4-l mb-24">Preguntas frecuentes sobre precios</h2>
+      <div class="aof-faq">
+        {% for item in faq %}
+        <details class="aof-faq__item">
+          <summary class="aof-faq__q">{{ item.q }}</summary>
+          <div class="aof-faq__a"><p>{{ item.a }}</p></div>
+        </details>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  {% include "onepage/contacta_6.njk" %}
+</div>
+
+<script>
+  // Simulador de cuota. Hasta el plazo sin intereses la cuota es el importe
+  // partido por los meses; por encima aplicamos un TIN orientativo y lo decimos,
+  // porque la cifra real la pone la financiera con el presupuesto delante.
+  (function () {
+    var importe = document.getElementById('sim-importe');
+    var meses = document.getElementById('sim-meses');
+    var cuota = document.getElementById('sim-cuota');
+    var pie = document.getElementById('sim-pie');
+    if (!importe || !meses || !cuota) return;
+    var SIN_INTERESES = {{ precios.financiacion.mesesSinIntereses }};
+    var TIN = 0.0895;
+    var euros = function (n) {
+      return n.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
+    };
+    var calcular = function () {
+      var p = parseFloat(importe.value);
+      var n = parseInt(meses.value, 10);
+      if (!p || p <= 0 || !n) { cuota.textContent = '—'; pie.textContent = ''; return; }
+      if (n <= SIN_INTERESES) {
+        cuota.textContent = euros(p / n) + '/mes';
+        pie.textContent = n + ' meses sin intereses. Devuelves ' + euros(p) + ', ni un euro más.';
+      } else {
+        var i = TIN / 12;
+        var c = p * i / (1 - Math.pow(1 + i, -n));
+        cuota.textContent = euros(c) + '/mes';
+        pie.textContent = n + ' meses. Estimación con un TIN orientativo del ' +
+          (TIN * 100).toFixed(2).replace('.', ',') + ' %; la cifra exacta te la damos con el presupuesto.';
+      }
+    };
+    importe.addEventListener('input', calcular);
+    meses.addEventListener('change', calcular);
+    calcular();
+  })();
+</script>
