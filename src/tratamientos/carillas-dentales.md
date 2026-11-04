@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/8-carillas-dentales.jpg
+listado_image: /assets/static/images/blog/8-carillas-dentales.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/carillas-dentales.gif
 permalink: /tratamientos/carillas-dentales/
 tags: ["tratamientos"]
@@ -13,7 +13,7 @@ metaKeywords: carillas dentales, porcelana, composite, diseño de sonrisa, Sant 
 metaRobots: index, follow
 
 introCta_title: CARILLAS DENTALES
-introCta_image: /blog/27-carillas-dentales-sant-boi-llobregat-barcelona.jpg
+introCta_image: /blog/27-carillas-dentales-sant-boi-llobregat-barcelona.webp
 
 introtitle_title: CARILLAS DENTALES EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Diseño digital de tu nueva sonrisa
@@ -63,7 +63,7 @@ Nos especializamos en tratamientos de carillas de porcelana o de carillas compos
 - No se manchan
 
 
-![carillas dentales en Centre Dental Basté](/assets/static/images/blog/blog-inner/carillas-1024x600.jpg)
+![carillas dentales en Centre Dental Basté](/assets/static/images/blog/blog-inner/carillas-1024x600.webp)
 
 ### Carillas de composite
 

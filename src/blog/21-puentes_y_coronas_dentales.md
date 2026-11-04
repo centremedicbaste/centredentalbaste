@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-01-24T14:30:01+00:00
 fecha: 2021-01-24T14:30:01+00:00
 tags: [post]
-image: puente-dental.jpg
+image: puente-dental.webp
 imageAlt: 
 
 ---
@@ -28,7 +28,7 @@ La corona se puede colocar también sobre un determinado implante para hacer que
 
 También existen otros materiales como aleaciones metálicas, cerámicas, acrílicas o incluso, el propio oro, que ayudan a conseguir una resistencia mucho más característica a la hora de implantar una corona dental… Pero también entraña el hecho de que el coste de la intervención sea más elevada.
 
-![implantes barcelona](/assets/static/images/blog/blog-inner/implantes-barcelona.png)
+![implantes barcelona](/assets/static/images/blog/blog-inner/implantes-barcelona.webp)
 ### **¿Cuándo te recomendará nuestro dentista una corona dental?**
 
 

@@ -65,13 +65,13 @@
         {% if imagemini %}
         <div class="rat-16-9">
           <div class="rat-content">
-            <img class="video-cover" width="100%" height="auto" src="{{ imagemini }}" alt="{{ imageAlt }}" />
+            <img class="video-cover" width="100%" height="auto" src="{{ imagemini }}" alt="{{ imageAlt or title or 'Centre Dental Basté en Sant Boi de Llobregat' }}" />
           </div>
         </div>
         {% elseif image %}
         <div class="rat-16-9">
           <div class="rat-content">
-            <img class="video-cover" width="100%" height="auto" src=" {{ image }}" alt="{{ imageAlt }}" />
+            <img class="video-cover" width="100%" height="auto" src=" {{ image }}" alt="{{ imageAlt or title or 'Centre Dental Basté en Sant Boi de Llobregat' }}" />
           </div>
         </div>
         {% endif %}

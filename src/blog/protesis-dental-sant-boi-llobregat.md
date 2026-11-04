@@ -6,7 +6,7 @@ descripcion: "Conoce las claves para una sonrisa excelente con prótesis dental 
 metaTitle: "Prótesis Dental en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Descubre las claves para una sonrisa excelente con prótesis dental en Sant Boi de Llobregat."
 metaKeywords: "prótesis dental, Sant Boi de Llobregat, sonrisa excelente"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

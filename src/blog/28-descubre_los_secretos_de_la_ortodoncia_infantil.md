@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-11-21T14:18:58+00:00
 fecha: 2021-11-21T14:18:58+00:00
 tags: [post]
-image: 28-ortodoncia-infantil-sant-boi-llobregat-barcelona.jpg
+image: 28-ortodoncia-infantil-sant-boi-llobregat-barcelona.webp
 imageAlt: 
 
 ---
@@ -48,7 +48,7 @@ En concreto, algunos hábitos de tu hijo pueden provocar dichas malformaciones:
 
 
 
-![diagnostico ortodoncia infantil sant boi de llobregat barcelona](/assets/static/images/blog/blog-inner/diagnostico-ortodoncia-infantil-sant-boi-llobregat-barcelona.jpg)
+![diagnostico ortodoncia infantil sant boi de llobregat barcelona](/assets/static/images/blog/blog-inner/diagnostico-ortodoncia-infantil-sant-boi-llobregat-barcelona.webp)
 
 
 La ortodoncia de tu pequeño, todo un arte
@@ -75,7 +75,7 @@ Por ello, insistimos en la importancia de la visita a tu ortodoncista a estas ed
 **Las relaciones que establecen entre sí los diferentes componentes faciales son determinantes en la ortodoncia**. Dependen de cada clase de cara y de que los distintos patrones del rostro se encuentren más adelantados o retrasados, más abiertos o cerrados, más arriba o más abajo o más o menos movidos.
 
 
-![Presupuesto ortodoncia infantil sant boi de llobregat](/assets/static/images/blog/blog-inner/presupuesto-ortodoncia-infantil-sant-boi-llobregat-barcelona.png)
+![Presupuesto ortodoncia infantil sant boi de llobregat](/assets/static/images/blog/blog-inner/presupuesto-ortodoncia-infantil-sant-boi-llobregat-barcelona.webp)
 
 
 Aparatos removibles y fijos para tus hijos

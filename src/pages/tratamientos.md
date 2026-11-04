@@ -19,7 +19,7 @@ hero_title: ADMINISTRADORES
 hero_btn: CONTACTA
 
 introCta_title: Tratamientos
-introCta_image: /tratamientos/tratamientos2.jpg
+introCta_image: /tratamientos/tratamientos2.webp
 
 tratamiento1_url: /tratamientos/odontologia-dental/
 tratamiento1_title: Odontología

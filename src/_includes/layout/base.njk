@@ -20,12 +20,12 @@
   <meta property="og:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or global_index.seo_description or '' }}" />
   <meta property="og:url" content="{{ global_index.url }}{{ (page.url | url) | lower }}" />
-  <meta property="og:image" content="{{ global_index.url }}/assets/static/images/clinica-1.jpg" />
+  <meta property="og:image" content="{{ global_index.url }}/assets/static/images/clinica-1.webp" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ metaTitle }}" />
   <meta name="twitter:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or global_index.seo_description or '' }}" />
-  <meta name="twitter:image" content="{{ global_index.url }}/assets/static/images/clinica-1.jpg" />
+  <meta name="twitter:image" content="{{ global_index.url }}/assets/static/images/clinica-1.webp" />
   <link rel="icon" type="image/png" href="{{ global_index.url }}/assets/static/favicons/favicon-32x32.png" />
   <!-- Estilos CSS nuevos-->
 
@@ -66,9 +66,9 @@
     "url": "{{ global_index.url }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ global_index.url }}/assets/static/images/logos/logo.png"
+      "url": "{{ global_index.url }}/assets/static/images/logos/logo.webp"
     },
-    "image": "{{ global_index.url }}/assets/static/images/clinica-1.jpg",
+    "image": "{{ global_index.url }}/assets/static/images/clinica-1.webp",
     "telephone": "{{ global_index.telefono }}",
     "email": "{{ global_index.email }}",
     "address": {
@@ -96,13 +96,6 @@
       { "@type": "AdministrativeArea", "name": "Cataluña" }
     ],
     "priceRange": "$$",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "879",
-      "bestRating": "5",
-      "worstRating": "1"
-    },
     "medicalSpecialty": "Dentistry",
     "dateModified": "{{ builddate }}",
     "knowsAbout": [
@@ -226,10 +219,10 @@
   {% include 'components/cookie-banner.njk' %}
 
 
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="/assets/vendor/js/jquery-3.6.0.min.js"></script>
+  <script src="/assets/vendor/js/gsap-3.12.5.min.js"></script>
 
-  <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
+  <script src="/assets/vendor/js/locomotive-scroll-4.1.4.min.js"></script>
   <script type="module" src="/assets/js/index.js"></script>
   <script type="module" src="/assets/js/scroll.js"></script>
   <script type="module" src="/assets/js/inview.js"></script>

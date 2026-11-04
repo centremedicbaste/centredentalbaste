@@ -28,9 +28,9 @@ introtitle_subtitle: En Centre Dental Basté, tu dentista en Sant Boi de Llobreg
 whytitle0_title: BIENVENIDOS A CENTRE DENTAL BASTÉ
 whytitle0_subtitle: TU DENTISTA EN SANT BOI DE LLOBREGAT
 whytitle0_description: En Centre Dental Basté, tu dentista en Sant Boi de Llobregat, nos enorgullece ofrecer tecnología avanzada y modernas instalaciones para tratamientos dentales de calidad. Nuestro equipo de dentistas profesionales está comprometido con tu salud bucodental, brindando un servicio personalizado y cercano. ¡Visítanos y transforma tu sonrisa hoy mismo!
-whytitle0_img: clinica-2.jpg
+whytitle0_img: clinica-2.webp
 
-content_6_image: clinica-3.jpg
+content_6_image: clinica-3.webp
 
 whytitle1_title: ¿Quiénes somos?
 whytitle1_subtitle: DESCUBRE TU MEJOR SONRISA...
@@ -38,7 +38,7 @@ whytitle1_description: Plan Amigo
 
 
 
-whytitle4_img: ofertas.jpg
+whytitle4_img: ofertas.webp
 
 whytitle4_title: Nuestras Ofertas
 whytitle4_subtitle: Plan Amigo

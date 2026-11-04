@@ -33,10 +33,10 @@ colorHeader: has-light-menu
       {% for item in faq %}
       {
         "@type": "Question",
-        "name": "{{ item.question }}",
+        "name": {{ item.question | dump | safe }},
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "{{ item.answer }}"
+          "text": {{ item.answer | dump | safe }}
         }
       }{% if not loop.last %},{% endif %}
       {% endfor %}
@@ -45,7 +45,7 @@ colorHeader: has-light-menu
 }
 </script>
 
-{% set heroBg = heroImage if heroImage else (('/assets/static/images' + introCta_image) if introCta_image else '/assets/static/images/clinica-1.jpg') %}
+{% set heroBg = heroImage if heroImage else (('/assets/static/images' + introCta_image) if introCta_image else '/assets/static/images/clinica-1.webp') %}
 
 <!-- ══ 1 · HERO ══════════════════════════════════════════════════ -->
 <section class="aof-hero front-section" data-scroll-section>
@@ -204,7 +204,7 @@ colorHeader: has-light-menu
       </div>
     </div>
     <div class="aof-team__card">
-      <img class="aof-team__photo" src="/assets/static/images/clinica-1.jpg" alt="Equipo de Centre Dental Basté">
+      <img class="aof-team__photo" src="/assets/static/images/clinica-1.webp" alt="Equipo de Centre Dental Basté">
       <h3 class="fluid-7-m mb-8">Centre Dental Basté</h3>
       <p class="text-14-r c-gray mb-16">Sant Boi de Llobregat</p>
       <p class="text-14-r">Más de 25 años cuidando la salud bucodental de nuestros pacientes con tecnología avanzada y un trato cercano y personalizado.</p>

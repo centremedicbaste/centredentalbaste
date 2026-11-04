@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2022-03-27T11:19:45+00:00
 fecha: 2022-03-27T11:19:45+00:00
 tags: [post]
-image: 31-sonrisa-digital.jpg
+image: 31-sonrisa-digital.webp
 imageAlt: 
 
 
@@ -21,7 +21,7 @@ La **estética dental**, como su nombre lo sugiere, cubre todo aquello que tenga
 
 En este campo odontológico, existen varios tratamientos para embellecer la sonrisa, de entre los cuales destacan tres: **carillas dentales**, **blanqueamiento dental** y **fundas o coronas de zirconio**.
 
-![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg)
+![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.webp)
 
 *sonrisa perfecta*
 
@@ -48,7 +48,7 @@ Algunas de las **ventajas más destacadas** de las carillas dentales son:
 
 
 
-![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/carillas-1024x600.jpg)
+![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/carillas-1024x600.webp)
 
 *carillas de porcelana*
 
@@ -71,7 +71,7 @@ El color del núcleo no se altera, sin embargo, con el tiempo el esmalte se va t
 
 En consecuencia, el blanqueamiento consiste en eliminar del esmalte, por medio de **sustancias químicas**, todas aquellas partículas que alteran su color original, consiguiendo así, una **estética dental en Sant Boi de Llobregat** de alta calidad.
 
-![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-1024x600.jpg)
+![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/blanqueamiento-1024x600.webp)
 
 *blanqueamiento*
 
@@ -86,7 +86,7 @@ También sirven para **reemplazar antiguas prótesis** que dejan ver la parte me
 
 Ofrecen una gran estética y naturalidad, comodidad y funcionalidad, un nivel óptimo de translucidez y son muy resistentes al desgaste.
 
-![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/zirconio-1024x600.jpg)
+![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/zirconio-1024x600.webp)
 
 *coronas de zirconio translúcido*
 
@@ -99,7 +99,7 @@ Para **diagnosticar** los posibles problemas de **estética dental en Sant Bo
 
 Comentarte que en Centre Dental Basté ponemos a tu disposición un **equipo integral de estética** compuesto por **especialistas** en estética dental, ortodoncistas, prostodoncistas, periodoncistas, etc. , así como la **última tecnología** en odontología y software digital 3D.
 
-![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sonrisa-digital-1024x600.jpg)
+![Estética dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/sonrisa-digital-1024x600.webp)
 
 *estudio digital de sonrisa*
 

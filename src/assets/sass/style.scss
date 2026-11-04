@@ -147,6 +147,10 @@ a {
 /**********************ELENVENTY*************************/
 img {
   max-width: initial;
+  // Las <img> llevan width y height reales inyectados en build para que el
+  // navegador reserve el hueco y la pagina no de saltos. Sin este height:auto
+  // esos atributos fijarian la altura y deformarian la imagen al escalarse.
+  height: auto;
 }
 .fill {
   object-fit: cover;

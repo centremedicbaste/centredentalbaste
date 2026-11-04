@@ -6,7 +6,7 @@ descripcion: "Descubre la calidad y confianza de los implantes dentales en Barce
 metaTitle: "Implantes Dentales en Barcelona | Centre Dental Basté"
 metaDescription: "Explora la calidad y confianza de los implantes dentales en Barcelona para una sonrisa renovada."
 metaKeywords: "implantes dentales, calidad, confianza, Barcelona"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

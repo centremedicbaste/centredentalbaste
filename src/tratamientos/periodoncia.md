@@ -1,8 +1,8 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/12-problemas-encias.jpg
+listado_image: /assets/static/images/blog/12-problemas-encias.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/periodoncia-raspado-bolsas-encias.gif
-ilustracion_procedimiento: /assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg
+ilustracion_procedimiento: /assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.webp
 permalink: /tratamientos/periodoncia/
 tags: ["tratamientos"]
 
@@ -15,7 +15,7 @@ metaRobots: index, follow
 
 
 introCta_title: PERIODONCIA
-introCta_image: /blog/12-problemas-encias.jpg
+introCta_image: /blog/12-problemas-encias.webp
 
 introtitle_title: PERIODONCIA EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Tratamientos de periodoncia para prevenir y tratar enfermedades de las encías

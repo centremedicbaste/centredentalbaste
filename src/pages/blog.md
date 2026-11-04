@@ -16,7 +16,7 @@ whytitle1: blog whytitle1
 whytitle2: blog whytitle2
 whytitle3: blog whytitle3
 
-image: /assets/static/images/clinica-1.jpg
+image: /assets/static/images/clinica-1.webp
 content_2: blog content_2
 eleventyComputed:
   metaTitle: Blog | Centre Dental Basté - Artículos y Recursos

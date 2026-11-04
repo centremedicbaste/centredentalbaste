@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-10-10T15:13:46+00:00
 fecha: 2021-10-10T15:13:46+00:00
 tags: [post]
-image: 32-brackets-esteticos-sant-boi-llobregat-barcelona.jpg
+image: 32-brackets-esteticos-sant-boi-llobregat-barcelona.webp
 imageAlt: 
 
 ---
@@ -25,7 +25,7 @@ Tipos de brackets por su tamaño
 
 Si te estás planteando acudir al dentista para colocar brackets en tus dientes, **debes saber que existen de varios tamaños: estándar y mini.** Más allá del tamaño de los brackets, la principal diferencia existente entre ambos es que el bracket mini es más cómodo para el paciente, aunque tiene una desventaja respecto a los de tamaño estándar: la capacidad de control de los dientes es inferior, por lo que el tiempo de duración del tratamiento podría alargarse.
 
-![ortodoncia mini bracket barcelona](/assets/static/images/blog/blog-inner/ortodoncia-mini-bracket-barcelona-barata.jpg)
+![ortodoncia mini bracket barcelona](/assets/static/images/blog/blog-inner/ortodoncia-mini-bracket-barcelona-barata.webp)
 Según su tipo
 
 
@@ -37,7 +37,7 @@ Apreciarás los beneficios de utilizar este sistema desde el principio. Para emp
 
  
 
-![ortodoncia invisible SureSmile barcelona](/assets/static/images/blog/blog-inner/invisalign-barcelona-barato.jpg)
+![ortodoncia invisible SureSmile barcelona](/assets/static/images/blog/blog-inner/invisalign-barcelona-barato.webp)
 Ven a vernos
 
 

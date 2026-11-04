@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/28-ortodoncia-infantil-sant-boi-llobregat-barcelona.jpg
+listado_image: /assets/static/images/blog/28-ortodoncia-infantil-sant-boi-llobregat-barcelona.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/odontopediatria-nino-diente.gif
 permalink: /tratamientos/odontologia-infantil-sant-boi-de-llobregat/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: ODONTOPEDIATRÍA
-introCta_image: /blog/blog-inner/odontologia-infantil-1024x600.jpg
+introCta_image: /blog/blog-inner/odontologia-infantil-1024x600.webp
 
 introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Cuidado dental para niños
@@ -79,7 +79,7 @@ Se debe tener presente lo importante que es la primera visita al dentista. Segú
 - A partir del primer año y hasta los 8 años, se recomienda un mínimo de 2 cepillados al día supervisados por el papá o la mamá.
 
 
-![Odontopediatría en Centre Dental Basté](/assets/static/images/blog/blog-inner/odontologia-infantil-1024x600.jpg)
+![Odontopediatría en Centre Dental Basté](/assets/static/images/blog/blog-inner/odontologia-infantil-1024x600.webp)
 
 ## ¿Qué diferencias hay de la odontología general?
 

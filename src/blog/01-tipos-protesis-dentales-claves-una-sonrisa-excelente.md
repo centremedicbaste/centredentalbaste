@@ -10,13 +10,13 @@ metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00
 fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
-image: 6-dentista-urgencias-clinica.jpg
+image: 6-dentista-urgencias-clinica.webp
 imageAlt: 
 
 ---
 
 
-# Tipos de prótesis dentales: claves para una sonrisa excelente
+## Tipos de prótesis dentales: claves para una sonrisa excelente
 
 **Sant Boi de Llobregat alberga a tu profesional de la estética dental.** Los santboianos podéis disfrutar de una clínica donde encontrar los **diversos tipos de prótesis dentales: básicamente, fijas y removibles.**  
 **Luciréis una gran sonrisa y mejoraréis vuestra función bucal, tras un tratamiento personalizado.**
@@ -28,7 +28,7 @@ imageAlt:
 
 **Existen dos tipos básicos de prótesis dentales: fijas y removibles.** Tu dentista en Sant Boi de Llobregat hará un diagnóstico personalizado y te brindará la que mejor se adapte a tu situación y necesidades.
 
-![tipos de ortodoncia clinica dental sant boi de llobregat](/assets/static/images/blog/blog-inner/tipos-ortodoncia-clinica-dental-sant-boi-llobregat.png "Tipos de ortodoncia - Clínica Dental Sant Boi de Llobregat")
+![tipos de ortodoncia clinica dental sant boi de llobregat](/assets/static/images/blog/blog-inner/tipos-ortodoncia-clinica-dental-sant-boi-llobregat.webp "Tipos de ortodoncia - Clínica Dental Sant Boi de Llobregat")
 
 ---
 
@@ -65,7 +65,7 @@ Sus ventajas pasan por una **mayor durabilidad** (puede coexistir hasta 30 años
 Has de tener presente una **buena higiene** para mantener tu puente dental.  
 De lo contrario, puede traerte problemas de gingivitis que, si no se trata, conllevará la pérdida de tus piezas dentales.
 
-![prótesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-removible-sant-boi-llobregat.jpg "Prótesis dental removible - Sant Boi de Llobregat")
+![prótesis dental removible sant boi de llobregat](/assets/static/images/blog/blog-inner/protesis-dental-removible-sant-boi-llobregat.webp "Prótesis dental removible - Sant Boi de Llobregat")
 
 ---
 

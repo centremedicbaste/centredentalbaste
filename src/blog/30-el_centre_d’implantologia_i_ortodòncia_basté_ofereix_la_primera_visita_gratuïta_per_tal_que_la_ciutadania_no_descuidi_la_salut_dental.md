@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2020-07-21T10:35:30+00:00
 fecha: 2020-07-21T10:35:30+00:00
 tags: [post]
-image: 30-implantes-removibles-baratos-sant-boi-llobregat-barcelona.jpg
+image: 30-implantes-removibles-baratos-sant-boi-llobregat-barcelona.webp
 imageAlt: 
 
 ---

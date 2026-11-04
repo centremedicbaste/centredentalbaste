@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/puente-dental.jpg
+listado_image: /assets/static/images/blog/puente-dental.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/puente-dental.gif
 permalink: /tratamientos/protesis/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: PRÓTESIS
-introCta_image: /blog/protesis-dental-removible-sant-boi-llobregat.jpg
+introCta_image: /blog/protesis-dental-removible-sant-boi-llobregat.webp
 
 introtitle_title: PRÓTESIS DENTALES EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Mejora la estética y función de tu boca con nuestras prótesis dentales
@@ -67,7 +67,7 @@ Las prótesis fijas, como las coronas y los puentes, se cementan de manera perma
 [Más información sobre prótesis fijas](#)
 
 
-![prótesis en Centre Dental Basté](/assets/static/images/blog/blog-inner/protesis-dental-fija-sant-boi-llobregat.jpg)
+![prótesis en Centre Dental Basté](/assets/static/images/blog/blog-inner/protesis-dental-fija-sant-boi-llobregat.webp)
 
 ### 2. Prótesis Removibles
 

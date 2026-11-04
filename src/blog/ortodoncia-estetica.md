@@ -6,7 +6,7 @@ descripcion: "Conoce la ortodoncia estética en Sant Boi de Llobregat, una soluc
 metaTitle: "Ortodoncia Estética en Sant Boi de Llobregat | Centre Dental Basté"
 metaDescription: "Descubre la ortodoncia estética en Sant Boi de Llobregat, combinando funcionalidad y belleza para tu sonrisa."
 metaKeywords: "ortodoncia estética, Sant Boi de Llobregat"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

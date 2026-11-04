@@ -6,7 +6,7 @@ descripcion: "Ortodoncia invisible tipo Invisalign en Barcelona a precios asequi
 metaTitle: "Invisalign en Barcelona Barato | Alineadores SureSmile - Centre Dental Basté"
 metaDescription: "Ortodoncia invisible tipo Invisalign en Barcelona a precios asequibles. Trabajamos con SureSmile, alineadores transparentes de última generación."
 metaKeywords: "Invisalign Barcelona, SureSmile, ortodoncia invisible barata, alineadores transparentes"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

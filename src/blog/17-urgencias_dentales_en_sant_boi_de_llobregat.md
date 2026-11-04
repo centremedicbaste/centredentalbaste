@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2022-02-16T11:11:44+00:00
 fecha: 2022-02-16T11:11:44+00:00
 tags: [post]
-image: 17-urgencias-dentales.jpg
+image: 17-urgencias-dentales.webp
 imageAlt: 
 
 ---
@@ -25,7 +25,7 @@ Nuestra clínica dental, con unas instalaciones de última generación, le ofrec
 
 Las mayores **solicitudes** en Sant Boi de Llobregat tienen que ver con: fuerte dolor, infección aguda, muelas del juicio, fracturas dentales, aftas bucales y sangrado de encías. Para todos estos casos disponemos de los mejores profesionales en cada especialidad.
 
-![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-dentales.jpg)
+![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-dentales.webp)
 
 *urgencias dentales en Sant Boi de Llobregat*
 
@@ -55,7 +55,7 @@ El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar
 
 
 
-![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-inflamacion.jpg)
+![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-inflamacion.webp)
 
 *urgencias dentales por infecciones*
 
@@ -75,7 +75,7 @@ El servicio de **urgencias dentales en Sant Boi de Llobregat** está para tratar
 * **Luxación mandibular**, debido a una excesiva apertura bucal o por un impacto, puede haber daños en la articulación temporomandibular (ATM). Esto puede provocar dolor, debilidad e incluso desviación o aumento del volumen facial.
 
 
-![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-traumatismos.jpg)
+![urgencias dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/urgencias-traumatismos.webp)
 
 *urgencias dentales por traumatismos*
 

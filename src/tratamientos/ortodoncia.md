@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/3-ortodoncia-chicos.jpg
+listado_image: /assets/static/images/blog/3-ortodoncia-chicos.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/ortodoncia-brackets.gif
 permalink: /tratamientos/ortodoncia-dental/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: ORTODONCIA
-introCta_image: /blog/blog-inner/ortodoncia-convencional.jpg
+introCta_image: /blog/blog-inner/ortodoncia-convencional.webp
 
 
 introtitle_title: ORTODONCIA EN SANT BOI DE LLOBREGAT
@@ -87,7 +87,7 @@ Los Brackets reducen el tiempo del tratamiento permitiendo que el arco se deslic
 La ortodoncia estética consiste en el uso de brackets de zafiro transparentes, dan como resultado un tratamiento casi invisible, siendo una solución muy estética. Este tipo de brackets transparentes no se tiñen ni se manchan a lo largo de todo el tratamiento. Son una de las opciones más habituales y populares en el mundo de la ortodoncia estética.
 
 
-![ortodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/ortodoncia-estudio-1024x600.jpg)
+![ortodoncia en Centre Dental Basté](/assets/static/images/blog/blog-inner/ortodoncia-estudio-1024x600.webp)
 
 ## Ortodoncia Invisible / Lingual
 

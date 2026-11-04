@@ -64,11 +64,11 @@ colorHeader: has-light-menu
 <section class="aof-hero aof-hero--video front-section" data-scroll-section>
   <div class="aof-hero__bg">
     {% if global_index.home_video %}
-    <video class="aof-hero__video" autoplay muted loop playsinline preload="auto" poster="/assets/static/images/clinica-1.jpg" aria-hidden="true">
+    <video class="aof-hero__video" autoplay muted loop playsinline preload="auto" poster="/assets/static/images/clinica-1.webp" aria-hidden="true">
       <source src="{{ global_index.home_video }}" type="video/mp4">
     </video>
     {% else %}
-    <img src="/assets/static/images/clinica-1.jpg" alt="" aria-hidden="true">
+    <img src="/assets/static/images/clinica-1.webp" alt="" aria-hidden="true">
     {% endif %}
   </div>
   <div class="container-global mx-auto">
@@ -136,7 +136,7 @@ colorHeader: has-light-menu
       {% if t.data.seccion and loop.index <= 8 %}
       <a class="aof-card-item" href="{{ t.url }}">
         <div class="aof-card-item__img">
-          <img src="{{ ('/assets/static/images' + t.data.introCta_image) if t.data.introCta_image else '/assets/static/images/clinica-1.jpg' }}"
+          <img src="{{ ('/assets/static/images' + t.data.introCta_image) if t.data.introCta_image else '/assets/static/images/clinica-1.webp' }}"
                alt="{{ t.data.seccion | title }} en Sant Boi de Llobregat" loading="lazy">
         </div>
         <div class="aof-card-item__body">
@@ -162,7 +162,7 @@ colorHeader: has-light-menu
     <div class="row align-middle smmax:reverse">
       <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
         <div class="home-feature__img">
-          <img src="/assets/static/images/blog/blog-inner/implantes-dentales-1dia.jpg" alt="Implantes dentales All-on-4 en Sant Boi de Llobregat" loading="lazy">
+          <img src="/assets/static/images/blog/blog-inner/implantes-dentales-1dia.webp" alt="Implantes dentales All-on-4 en Sant Boi de Llobregat" loading="lazy">
         </div>
       </div>
       <div class="col-xs-12 col-md-6">
@@ -193,10 +193,10 @@ colorHeader: has-light-menu
       </div>
     </div>
     <div class="home-gallery">
-      <div class="home-gallery__item"><img src="/assets/static/images/clinica-1.jpg" alt="Instalaciones de Centre Dental Basté" loading="lazy"></div>
-      <div class="home-gallery__item"><img src="/assets/static/images/clinica-2.jpg" alt="Gabinete dental en Sant Boi de Llobregat" loading="lazy"></div>
-      <div class="home-gallery__item"><img src="/assets/static/images/clinica-3.jpg" alt="Clínica dental en Sant Boi de Llobregat" loading="lazy"></div>
-      <div class="home-gallery__item"><img src="/assets/static/images/clinica.jpeg" alt="Recepción de Centre Dental Basté" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-1.webp" alt="Instalaciones de Centre Dental Basté" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-2.webp" alt="Gabinete dental en Sant Boi de Llobregat" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica-3.webp" alt="Clínica dental en Sant Boi de Llobregat" loading="lazy"></div>
+      <div class="home-gallery__item"><img src="/assets/static/images/clinica.webp" alt="Recepción de Centre Dental Basté" loading="lazy"></div>
     </div>
   </div>
 </section>
@@ -220,7 +220,7 @@ colorHeader: has-light-menu
       </div>
       <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
         <div class="home-feature__img">
-          <img src="/assets/static/images/blog/blog-inner/ortodoncia-invisible-1024x600.jpg" alt="Ortodoncia invisible en Sant Boi de Llobregat" loading="lazy">
+          <img src="/assets/static/images/blog/blog-inner/ortodoncia-invisible-1024x600.webp" alt="Ortodoncia invisible en Sant Boi de Llobregat" loading="lazy">
         </div>
       </div>
     </div>
@@ -236,7 +236,7 @@ colorHeader: has-light-menu
     <div class="row align-middle smmax:reverse">
       <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
         <div class="home-feature__img">
-          <img src="/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg" alt="Estética dental y diseño de sonrisa en Sant Boi de Llobregat" loading="lazy">
+          <img src="/assets/static/images/blog/blog-inner/estetica-dental-1024x653.webp" alt="Estética dental y diseño de sonrisa en Sant Boi de Llobregat" loading="lazy">
         </div>
       </div>
       <div class="col-xs-12 col-md-6">
@@ -273,21 +273,21 @@ colorHeader: has-light-menu
     </p>
     <div class="home-team__grid">
       <div class="home-team__card">
-        <div class="home-team__photo"><img src="/assets/static/images/clinica-1.jpg" alt="Dr. Oriol — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-1.webp" alt="Dr. Oriol — Centre Dental Basté" loading="lazy"></div>
         <div class="home-team__body">
           <h3 class="home-team__name">Dr. Oriol</h3>
           <p class="home-team__role">Especialista en implantología y cirugía oral. All-on-4 y rehabilitación sobre implantes.</p>
         </div>
       </div>
       <div class="home-team__card">
-        <div class="home-team__photo"><img src="/assets/static/images/clinica-2.jpg" alt="Dra. Fabiola — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-2.webp" alt="Dra. Fabiola — Centre Dental Basté" loading="lazy"></div>
         <div class="home-team__body">
           <h3 class="home-team__name">Dra. Fabiola</h3>
           <p class="home-team__role">Especialista en odontología general, estética dental y odontopediatría.</p>
         </div>
       </div>
       <div class="home-team__card">
-        <div class="home-team__photo"><img src="/assets/static/images/clinica-3.jpg" alt="Dr. Sergi — Centre Dental Basté" loading="lazy"></div>
+        <div class="home-team__photo"><img src="/assets/static/images/clinica-3.webp" alt="Dr. Sergi — Centre Dental Basté" loading="lazy"></div>
         <div class="home-team__body">
           <h3 class="home-team__name">Dr. Sergi</h3>
           <p class="home-team__role">Especialista en ortodoncia y alineadores invisibles para alinear tu sonrisa.</p>
@@ -304,7 +304,7 @@ colorHeader: has-light-menu
     <div class="row align-middle smmax:reverse">
       <div class="col-xs-12 col-md-6 mb-32 md:mb-0">
         <div class="home-ig__img">
-          <img src="/assets/static/images/clinica-2.jpg" alt="Centre Dental Basté en Instagram" loading="lazy">
+          <img src="/assets/static/images/clinica-2.webp" alt="Centre Dental Basté en Instagram" loading="lazy">
         </div>
       </div>
       <div class="col-xs-12 col-md-6">
@@ -340,7 +340,7 @@ colorHeader: has-light-menu
       {% if loop.index <= 3 %}
       <a class="home-blog__card" href="{{ p.url }}">
         <div class="home-blog__img">
-          <img src="{% if p.data.image %}/assets/static/images/blog/{{ p.data.image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"
+          <img src="{% if p.data.image %}/assets/static/images/blog/{{ p.data.image }}{% else %}/assets/static/images/clinica-1.webp{% endif %}"
                alt="{{ p.data.title }}" loading="lazy">
         </div>
         <div class="home-blog__body">

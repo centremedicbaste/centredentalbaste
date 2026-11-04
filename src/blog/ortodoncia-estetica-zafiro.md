@@ -6,7 +6,7 @@ descripcion: "Conoce la ortodoncia estética de zafiro en Sant Boi de Llobregat,
 metaTitle: "Ortodoncia de zafiro en Sant Boi | Centre Dental Basté"
 metaDescription: "Descubre la ortodoncia estética de zafiro en Sant Boi de Llobregat, combinando belleza y funcionalidad para tu sonrisa."
 metaKeywords: "ortodoncia estética, zafiro, Sant Boi de Llobregat"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

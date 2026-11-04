@@ -26,7 +26,7 @@ colorHeader: has-light-menu
         <div class="aof-card-item__img">
           {% set illus = t.data.ilustracion %}
           {% set illusEsDibujo = illus and 'tratamientos-ilustraciones' in illus %}
-          <img src="{% if t.data.listado_image %}{{ t.data.listado_image }}{% elif t.data.heroImage %}{{ t.data.heroImage }}{% elif t.data.introCta_image %}/assets/static/images{{ t.data.introCta_image }}{% elif illus and not illusEsDibujo %}{{ illus }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"
+          <img src="{% if t.data.listado_image %}{{ t.data.listado_image }}{% elif t.data.heroImage %}{{ t.data.heroImage }}{% elif t.data.introCta_image %}/assets/static/images{{ t.data.introCta_image }}{% elif illus and not illusEsDibujo %}{{ illus }}{% else %}/assets/static/images/clinica-1.webp{% endif %}"
                alt="{{ t.data.seccion | title }} en Sant Boi de Llobregat" loading="lazy">
         </div>
         <div class="aof-card-item__body">

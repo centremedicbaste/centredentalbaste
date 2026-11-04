@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg
+listado_image: /assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/anatomia-molar-encias-hueso.gif
 permalink: /tratamientos/tratamiento-encias/
 tags: ["tratamientos"]
@@ -13,7 +13,7 @@ metaKeywords: tratamiento encías, gingivitis, periodontitis, estética gingival
 metaRobots: index, follow
 
 introCta_title: TRATAMIENTO DE ENCÍAS
-introCta_image: /blog/blog-inner/encias-retraccion-1024x600.jpg
+introCta_image: /blog/blog-inner/encias-retraccion-1024x600.webp
 
 introtitle_title: TRATAMIENTO DE ENCÍAS EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Soluciones para la salud y estética de tus encías
@@ -62,7 +62,7 @@ Inflamación de las encías causada por acumulación de placa bacteriana. Se car
 Enfermedad más avanzada que afecta los tejidos de soporte de los dientes, incluyendo el hueso.
 
 
-![tratamiento de encías en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.jpg)
+![tratamiento de encías en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.webp)
 
 ### Estética gingival
 

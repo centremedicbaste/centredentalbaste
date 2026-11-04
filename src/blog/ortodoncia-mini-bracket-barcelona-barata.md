@@ -6,7 +6,7 @@ descripcion: "Descubre la ortodoncia mini bracket en Barcelona, una opción econ
 metaTitle: "Ortodoncia Mini Bracket en Barcelona | Centre Dental Basté"
 metaDescription: "Explora la ortodoncia mini bracket en Barcelona, una opción económica y efectiva para alinear tus dientes."
 metaKeywords: "ortodoncia mini bracket, Barcelona, brackets económicos"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

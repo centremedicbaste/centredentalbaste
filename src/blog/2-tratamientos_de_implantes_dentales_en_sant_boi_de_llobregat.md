@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2022-10-04T10:43:37+00:00
 fecha: 2022-10-04T10:43:37+00:00
 tags: [post]
-image: 2-implantes-dentales.jpg
+image: 2-implantes-dentales.webp
 imageAlt: 
 
 ---
@@ -24,7 +24,7 @@ La [cirugía oral y maxilofacial](http://www.blog.agendasalud.cl/que-hace-un-cir
 
 Ponemos a su disposición un **experimentado equipo** de profesionales para dar solución a las dolencias o problemas que puedan presentarse, ya sea falta de hueso maxilar o mandibular, enfermedades en la mucosa oral, patologías de la articulación temporomandibular o traumatismos faciales, por ejemplo.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.webp)
 
  
 ## **Boca completa en 1 día**
@@ -34,7 +34,7 @@ Es la técnica **[implantológica de carga inmediata](https://es.wikipedia.org/w
 
 Para poder realizar este tratamiento en 1 solo día, es necesario que el paciente se realice un [**TAC 3D**](https://es.wikipedia.org/wiki/Tomografía_axial_computarizada) previamente, ya que esta información se usará en el software para guiar la la cirugía y crear las prótesis dentales a medida.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-1dia.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-1dia.webp)
 
  
 ## 5 soluciones en **implantes dentales en Sant Boi de Llobregat** para personas con poco hueso:
@@ -53,7 +53,7 @@ El mismo día de la intervención, se coloca una prótesis fija sobre los implan
 
 Los [implantes cigomáticos](http://www.scielo.org.co/pdf/ceso/v29n2/v29n2a06.pdf) son una solución que aporta seguridad, confort y estética. Así pues, devuelven a los pacientes una **calidad de vida** de la que hacía años que no disfrutaban y que creían no poder recuperar.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cigomaticos.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cigomaticos.webp)
 
  
 **2. Implantes cortos**
@@ -63,7 +63,7 @@ La principal ventaja del implante corto es precisamente evitar el injerto de hue
 
 Otra ventaja respecto a las técnicas injertivas es el **postoperatorio**, prácticamente inexistente – incluso menor que en un implante normal – al tratarse de una pieza muy pequeña y por tanto es una [**técnica mínimamente invasiva**].
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cortos.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cortos.webp)
 
  
 **3. Injerto óseo**
@@ -71,7 +71,7 @@ Otra ventaja respecto a las técnicas injertivas es el **postoperatorio**, prác
 
 El [injerto óseo](https://es.wikipedia.org/wiki/Injerto_%C3%B3seo) es un **material de relleno** (artificial o autólogo) que se coloca en los maxilares cuando, por diferentes patologías, este hueso se ha perdido y es necesario restablecerlo. Lo que se pretende con este relleno es inducir la **regeneración del hueso** existente entrando directamente en las zonas afectadas que requieren soporte para un tratamiento posterior.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-injerto.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-injerto.webp)
 
  
 **4. Lateralización del nervio dentario**
@@ -81,7 +81,7 @@ Durante muchos años, la rehabilitación **implantológica en Sant Boi de Llobre
 
 En la actualidad, esta limitación ha podido ser resuelta gracias al desarrollo de técnicas denominadas de **cirugía implantológica avanzada** entre las que se encuentra la [movilización del nervio dentario inferior](http://www.libreriaserviciomedico.com/files/12912). Dicha técnica aporta una serie de ventajas frente a otro tipo de procedimientos como los injertos de hueso autólogo, la distracción o la colocación de implantes cortos, ya que permite una mayor longitud del implante, lo que aportará una **bicorticalización** y una mejor **estabilidad** primaria, eliminará la morbilidad de la zona donante en el caso de injertos y proporcionará una mayor **protección** del paquete neurovascular dentario durante la colocación del implante.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-nervio.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-nervio.webp)
 
  
 **5. Mini-implantes**
@@ -89,7 +89,7 @@ En la actualidad, esta limitación ha podido ser resuelta gracias al desarrollo 
 
 Se trata de [fijadores](https://implantedental1.wordpress.com/2011/10/13/conociendo-los-mini-implantes-dentales/) que puede usar en su dentadura postiza actual **sin cirugía** y **sin puntos**. La colocación es muy sencilla, **sin molestias postoperatorias** y con un tiempo de colocación menor a diez minutos.
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-minimplantes.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-minimplantes.webp)
 
  
 #### Aplicamos la última tecnología en **implantes dentales en Sant Boi de Llobregat** con la que ayudamos a nuestros implantólogos y pacientes.

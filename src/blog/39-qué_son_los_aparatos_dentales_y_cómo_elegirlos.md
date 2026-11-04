@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-09-17T04:25:21+00:00
 fecha: 2021-09-17T04:25:21+00:00
 tags: [post]
-image: 32-ortodoncia.jpg
+image: 32-ortodoncia.webp
 imageAlt: 
 
 ---

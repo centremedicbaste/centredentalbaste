@@ -10,13 +10,13 @@ metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00
 fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
-image: 6-dentista-urgencias-clinica.jpg
+image: 6-dentista-urgencias-clinica.webp
 imageAlt: "Dentista en Sant Boi de Llobregat - Centre Dental Basté" 
 
 ---
 
 
-# Dentista en Sant Boi de Llobregat
+## Dentista en Sant Boi de Llobregat
 
 En **Centre Dental Basté**, tu **dentista en Sant Boi de Llobregat**, queremos brindarle nuestra gran **experiencia** al servicio de nuestros pacientes. Ofrecemos todos los tratamientos odontológicos para mejorar la salud dental de todo el conjunto familiar.
 
@@ -27,7 +27,7 @@ En **Centre Dental Basté**, tu **dentista en Sant Boi de Llobregat**, queremos 
 Los expertos recomiendan acudir una vez al año al dentista. Una buena **higiene bucodental** y una **alimentación equilibrada y variada** son dos aspectos esenciales para prevenir las enfermedades de la boca. Una consulta anual con nuestros **dentistas en Sant Boi de Llobregat** le servirá para asegurarse de que tiene sus dientes en perfecto estado.  
 El sarro, la caries, el sangrado de la encía, los dientes apiñados, la encía retraída… son síntomas que deben ser tratados por nuestros **dentistas en Sant Boi de Llobregat**. Con una completa y minuciosa exploración, detectarán cualquier anomalía y aplicarán el tratamiento más adecuado y eficaz en cada caso.
 
-![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat-2.jpg "Dentista en Sant Boi de Llobregat")
+![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat-2.webp "Dentista en Sant Boi de Llobregat")
 
 
 
@@ -50,4 +50,4 @@ La **Centre Dental Basté** lleva más de **25 años** trabajando como **dentist
 
 En nuestra **clínica dental en Sant Boi de Llobregat** cuidamos el detalle y el trabajo bien hecho. Buscamos la **perfección** como objetivo y para ello contamos con un equipo de profesionales en continua formación: nuestro **compromiso** con nuestros pacientes es máximo.
 
-![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat.jpg "Dentista en Sant Boi de Llobregat")
+![Dentista en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat.webp "Dentista en Sant Boi de Llobregat")

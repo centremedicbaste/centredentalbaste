@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-01-24T14:45:41+00:00
 fecha: 2021-01-24T14:45:41+00:00
 tags: [post]
-image: 20-sedacion-consciente-dentista-sant-boi-llobregat-barcelona.jpg
+image: 20-sedacion-consciente-dentista-sant-boi-llobregat-barcelona.webp
 imageAlt: 
 
 ---
@@ -35,7 +35,7 @@ Sin embargo, en el caso de que estemos hablando de tratamientos dentales muy lar
 
 Este tipo de sedación también suele ser muy requerida por los padres de aquellos pacientes que pueden experimentar cierta discapacidad. Gracias a la técnica de la sedación se le puede tratar sin que la situación se puede dejar a agravar.
 
-![especialista en sedacion consciente en sant boi de llobregat](/assets/static/images/blog/blog-inner/especialista-sedacion-consciente-sant-boi-llobregat.png)
+![especialista en sedacion consciente en sant boi de llobregat](/assets/static/images/blog/blog-inner/especialista-sedacion-consciente-sant-boi-llobregat.webp)
 ### **Algunas consideraciones previas sobre la sedación consciente**
 
 

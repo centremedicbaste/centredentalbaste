@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-01-24T14:55:16+00:00
 fecha: 2021-01-24T14:55:16+00:00
 tags: [post]
-image: 22-tratamiento-dientes-amarillos-sant-boi-llobregat-barcelona-1.jpg
+image: 22-tratamiento-dientes-amarillos-sant-boi-llobregat-barcelona-1.webp
 imageAlt: 
 
 ---

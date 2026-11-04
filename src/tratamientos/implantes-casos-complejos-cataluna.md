@@ -14,10 +14,10 @@ metaKeywords: "implantes casos complejos, implantes sin hueso, implantes persona
 procedureType: "http://schema.org/SurgicalProcedure"
 
 introCta_title: CASOS COMPLEJOS
-heroImage: /assets/static/images/blog/5-implantologia-dental-5.jpg
-listado_image: /assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.png
-ilustracion: /assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.png
-introCta_image: /blog/5-implantologia-dental-5.jpg
+heroImage: /assets/static/images/blog/5-implantologia-dental-5.webp
+listado_image: /assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.webp
+ilustracion: /assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.webp
+introCta_image: /blog/5-implantologia-dental-5.webp
 
 introtitle_title: IMPLANTES PARA CASOS COMPLEJOS EN CATALUÑA
 introtitle_subtitle: ¿Te han dicho que no puedes llevar implantes por falta de hueso? Tienes solución. Somos centro de referencia en implantología compleja. Pide una segunda opinión.
@@ -37,27 +37,27 @@ reels_subtitle: "La mejor prueba de una rehabilitación de boca completa son las
 reels:
   - nombre: "Antonio"
     duracion: "0:52"
-    poster: /assets/static/testimonios/paciente1.jpg
+    poster: /assets/static/testimonios/paciente1.webp
     video: /assets/static/video/testimonios/paciente1.mp4
   - nombre: "Gregorio"
     duracion: "0:58"
-    poster: /assets/static/testimonios/paciente3.jpg
+    poster: /assets/static/testimonios/paciente3.webp
     video: /assets/static/video/testimonios/paciente3.mp4
   - nombre: "Encarna"
     duracion: "1:00"
-    poster: /assets/static/testimonios/paciente5.jpg
+    poster: /assets/static/testimonios/paciente5.webp
     video: /assets/static/video/testimonios/paciente5.mp4
   - nombre: "Luis Alberto"
     duracion: "0:30"
-    poster: /assets/static/testimonios/paciente6.jpg
+    poster: /assets/static/testimonios/paciente6.webp
     video: /assets/static/video/testimonios/paciente6.mp4
   - nombre: "Paciente"
     duracion: "2:16"
-    poster: /assets/static/testimonios/paciente2.jpg
+    poster: /assets/static/testimonios/paciente2.webp
     video: /assets/static/video/testimonios/paciente2.mp4
   - nombre: "Alfredo"
     duracion: "3:42"
-    poster: /assets/static/testimonios/paciente04.jpg
+    poster: /assets/static/testimonios/paciente04.webp
     video: /assets/static/video/testimonios/paciente04.mp4
 
 faq:

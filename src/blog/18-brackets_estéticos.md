@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-01-24T15:01:58+00:00
 fecha: 2021-01-24T15:01:58+00:00
 tags: [post]
-image: 18-ortodoncia-invisible-barcelona-sant-boi-llobregat.jpg
+image: 18-ortodoncia-invisible-barcelona-sant-boi-llobregat.webp
 imageAlt: 
 
 ---

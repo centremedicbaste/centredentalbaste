@@ -24,9 +24,9 @@
       {% if not noheroimage %}
       <div class="col-xs-12 col-sm-4">
         {% if imagemini %}
-        <img class="video-cover" width="100%" height="auto" src="{{ imagemini }}" alt="{{ imageAlt }}" />
+        <img class="video-cover" width="100%" height="auto" src="{{ imagemini }}" alt="{{ imageAlt or title or 'Centre Dental Basté en Sant Boi de Llobregat' }}" />
         {% elseif image %}
-        <img class="" width="100%" height="auto" src="{{ image }}" alt="{{ imageAlt }}" />
+        <img class="" width="100%" height="auto" src="{{ image }}" alt="{{ imageAlt or title or 'Centre Dental Basté en Sant Boi de Llobregat' }}" />
         {% endif %}
       </div>
       {% endif %}

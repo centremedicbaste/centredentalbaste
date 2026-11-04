@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-10-10T15:21:25+00:00
 fecha: 2021-10-10T15:21:25+00:00
 tags: [post]
-image: 38-tac-dental-barcelona.jpg
+image: 38-tac-dental-barcelona.webp
 imageAlt: 
 
 ---
@@ -23,7 +23,7 @@ Tac dental: ¿Qué es?
 
 TAC dental es la técnica radiográfica que utiliza la **exploración mediante rayos X para ofrecer al profesional una imagen tridimensional de las áreas dentomaxilares** a intervenir.
 
-![Imagenes panoramicas en 2d y 3d en clinica dental](/assets/static/images/blog/blog-inner/imagenes-panoramicas-en-2d-clinica-dental.png)
+![Imagenes panoramicas en 2d y 3d en clinica dental](/assets/static/images/blog/blog-inner/imagenes-panoramicas-en-2d-clinica-dental.webp)
 ### ¿Cómo se aplica el tac dental?
 
 
@@ -33,7 +33,7 @@ Este barrido genera las imágenes digitales con las que **construimos una proyec
 
  
 
-![Mejor tratamiento clinica dental](/assets/static/images/blog/blog-inner/molde-dental.png)
+![Mejor tratamiento clinica dental](/assets/static/images/blog/blog-inner/molde-dental.webp)
 ### Ventajas del Tac dental para los tratamientos bucodentales
 
 
@@ -47,7 +47,7 @@ Una de los mayores avances que supone el tac dental frente a la radiografía es 
 
 - Ante una actuación operatoria nos ofrece una evaluación más pormenorizada para mejorar la información y las previsiones de cualquier pre-operatorio.
 
-![mejor diagnositco y tratamiento](/assets/static/images/blog/blog-inner/mejor-diagnostico-tratamiento.png)
+![mejor diagnositco y tratamiento](/assets/static/images/blog/blog-inner/mejor-diagnostico-tratamiento.webp)
 Tac dental: ¿Cuándo se recomienda?
 
 

@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-10-10T14:55:19+00:00
 fecha: 2021-10-10T14:55:19+00:00
 tags: [post]
-image: 40-carillas-dentales-sant-boi-llobregat-barcelona.jpg
+image: 40-carillas-dentales-sant-boi-llobregat-barcelona.webp
 imageAlt: 
 
 ---
@@ -28,7 +28,7 @@ La boca es una de las partes del cuerpo que primero miramos de una persona. Una 
 
 Psicológicamente tendemos a relacionar una bonita sonrisa con una persona saludable, sana, con fortaleza, con éxito. Esto es fundamental en las relaciones sociales, personales y profesionales.
 
-![carillas dentales baratas precio en barcelona sant boi de llobrgat](/assets/static/images/blog/blog-inner/carillas-dentales-barcelona-sant-boi-llobregat-barato-precio.jpg)
+![carillas dentales baratas precio en barcelona sant boi de llobrgat](/assets/static/images/blog/blog-inner/carillas-dentales-barcelona-sant-boi-llobregat-barato-precio.webp)
 Técnicas para el diseño de sonrisas
 
 
@@ -50,4 +50,4 @@ Probablemente se necesite aplicar varios tratamientos, por eso, el diseño de so
 
 Depende de ti: cambia tu sonrisa y cambiará tu vida, serás una persona nueva y los demás te verán de forma totalmente distinta.
 
-![blanqueamiento dental en barcelona](/assets/static/images/blog/blog-inner/blanqueamiento-dental-barcelona-1024x485.jpg)
+![blanqueamiento dental en barcelona](/assets/static/images/blog/blog-inner/blanqueamiento-dental-barcelona-1024x485.webp)

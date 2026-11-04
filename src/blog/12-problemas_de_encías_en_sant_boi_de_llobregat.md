@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2022-09-26T14:41:32+00:00
 fecha: 2022-09-26T14:41:32+00:00
 tags: [post]
-image: 12-problemas-encias.jpg
+image: 12-problemas-encias.webp
 imageAlt: 
 
 ---
@@ -28,7 +28,7 @@ Hoy en día sabemos que si bien todas las periodontitis se inician con una gingi
 
 Clínicamente la periodontitis se caracteriza por la presencia de alteraciones de color, textura, forma de la encía y también por sangrado, retracción de las encías con exposición de la raíz dental. Los efectos más avanzados de **problemas de encías en Sant Boi de Llobregat** pueden desarrollar movilidad dental o supuración, pudiendo llegar a producirse la pérdida de la pieza dental.
 
-![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.jpg)
+![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-retraccion-1024x600.webp)
 
 *Problemas de encías en Sant Boi de Llobregat*
 
@@ -42,7 +42,7 @@ La **periodoncia** es la especialidad odontológica que estudia la prevención, 
 
 Para solucionar la periodontitis se realiza una **limpieza en profundidad** del diente, la encía y la zona dental bajo la encía, con el objetivo de eliminar toda la **placa bacteriana**. Al finalizar el tratamiento, la encía vuelve a adherirse a los dientes.
 
-![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg)
+![Problemas de encías en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.webp)
 ### Si tiene o cree tener algún problema de encías en Sant Boi de Llobregat, no dude en consultarnos y pedir cita a nuestra clínica dental.
 Es importante actuar lo más rápido posible.
 

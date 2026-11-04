@@ -6,7 +6,7 @@ descripcion: "Descubre los precios y beneficios de los implantes de carga inmedi
 metaTitle: "Implantes carga inmediata en Sant Boi | Centre Dental Basté"
 metaDescription: "Explora los precios y beneficios de los implantes de carga inmediata en Sant Boi de Llobregat para una sonrisa renovada."
 metaKeywords: "implantes de carga inmediata, precios, Sant Boi de Llobregat"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

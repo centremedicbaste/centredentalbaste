@@ -6,7 +6,7 @@ descripcion: "Ortodoncia invisible tipo Invisalign en Sant Boi de Llobregat. En 
 metaTitle: "Ortodoncia Invisalign en Sant Boi | Alineadores SureSmile - Centre Dental Basté"
 metaDescription: "Ortodoncia invisible tipo Invisalign en Sant Boi de Llobregat. En Centre Dental Basté utilizamos SureSmile, alineadores transparentes y removibles para una sonrisa perfecta."
 metaKeywords: "ortodoncia Invisalign, SureSmile, Sant Boi de Llobregat, alineadores invisibles, ortodoncia invisible"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

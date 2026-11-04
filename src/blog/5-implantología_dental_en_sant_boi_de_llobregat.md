@@ -2,12 +2,13 @@
 subtitle: ""
 title: "Implantología dental en Sant Boi de Llobregat"
 permalink: /blog/implantologia-dental-en-sant-boi-de-llobregat/
+tags: [post]
 descripcion: ""
 metaTitle: "Implantología dental en Sant Boi de Llobregat"
 metaDescription: "Implantología dental en Sant Boi de Llobregat con técnicas avanzadas. Soluciones personalizadas para reemplazar dientes perdidos. Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"
-image: 5-implantologia-dental-5.jpg
+image: 5-implantologia-dental-5.webp
 ---
 
 ## Implantología dental
@@ -16,17 +17,17 @@ La **implantología dental** es la disciplina de la odontología que estudia los
 
 La **implantología dental en Sant Boi de Llobregat** utiliza opciones variadas en tipos, tamaños, superficies y materiales para el implante dental, sobre los cuales se colocan las prótesis dentales.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/5-implantologia-dental-5.jpg)
+![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/5-implantologia-dental-5.webp)
 
 La implantología dental en Sant Boi de Llobregat se basa en los conceptos de **Per-Ingvar Brånemark** y en los **implantes dentales de titanio** desde 1981, revolucionando los principios biológicos de integración tisular. Actualmente, los implantes dentales oseointegrados son una opción para reemplazar dientes perdidos, dejando atrás prótesis removibles y fijas plurales.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.jpg)
+![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.webp)
 
 Un paciente que ha perdido uno o más dientes debe considerar los implantes dentales, ya que además de la estética, previenen complicaciones asociadas como el desgaste de otras piezas, problemas mandibulares y dolores en cabeza, cuello y hombros.
 
 Los implantes dentales son **raíces artificiales** en los maxilares, que permiten reemplazar con naturalidad una pieza dental perdida, restaurando la función masticatoria y la estética bucal. En **Centre Dental Basté** desarrollamos la **implantología dental en Sant Boi de Llobregat** con técnicas avanzadas, predecibles y mínimamente invasivas.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-injerto.jpg)
+![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-injerto.webp)
 
 ### ¿Qué es la densidad ósea y por qué es importante?
 
@@ -36,7 +37,7 @@ La densidad ósea mide la cantidad de minerales en los huesos, como calcio y fó
 
 Un implante correctamente colocado puede durar más que un diente natural, siempre que soporte una carga adecuada y esté en la posición correcta.
 
-![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.jpg)
+![Implantología dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/implantes-dentales-cirugia.webp)
 
 ### ¿Cómo seleccionamos los implantes para cada paciente?
 

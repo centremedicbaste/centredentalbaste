@@ -6,11 +6,11 @@ descripcion: ""
 metaTitle: "Tu clínica dental en Sant Boi de Llobregat"
 metaDescription: "Centre Dental Basté en Sant Boi de Llobregat. Estética dental, implantes, ortodoncia. Última tecnología y equipo de especialistas experimentados."
 metaKeywords: ""
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2022-10-24T14:36:27+00:00
 fecha: 2022-10-24T14:36:27+00:00
 tags: [empty]
-image: 13-sant-boi-llobregat.jpg
+image: 13-sant-boi-llobregat.webp
 imageAlt: 
 
 ---
@@ -19,7 +19,7 @@ imageAlt:
 
 Si buscas una **clínica dental en Sant Boi de Llobregat**, **Centre Dental Basté** es la solución que estabas buscando. Somos una clínica dental con todos los especialistas y cubrimos todos los tratamientos **en el mismo centro**.
 
-![clínica dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/clinica-dental-sant-boi-llobregat-6-1024x600.jpg)
+![clínica dental en Sant Boi de Llobregat](/assets/static/images/blog/blog-inner/clinica-dental-sant-boi-llobregat-6-1024x600.webp)
 
 *exterior*
 
@@ -45,7 +45,7 @@ Además, si te pones nervioso al venir al dentista o dispones de poco tiempo, te
 
  
 
-![clínica dental en Sant Boi de Llobregat](/assets/static/images/blog/clinica.jpg)
+![clínica dental en Sant Boi de Llobregat](/assets/static/images/blog/clinica.webp)
 
 En **Centre Dental Basté** tenemos un **equipo de profesionales** unidos por una misma visión de la odontología, que desarrollamos en nuestra **clínica dental en Sant Boi de Llobregat**.
 

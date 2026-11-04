@@ -1,7 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
 preparacion: true
-listado_image: /assets/static/images/blog/2-implantes-dentales.jpg
+listado_image: /assets/static/images/blog/2-implantes-dentales.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/implante-dental-anclaje-en-hueso.gif
 permalink: /tratamientos/implantes-dentales-sant-boi-de-llobregat/
 tags: ["tratamientos"]
@@ -15,7 +15,7 @@ metaRobots: index, follow
 metaKeywords: "implantes dentales, implantología, Sant Boi de Llobregat, implantes titanio, prótesis sobre implantes, dentadura fija"
 
 introCta_title: IMPLANTOLOGÍA
-introCta_image: /blog/5-implantologia-dental-5.jpg
+introCta_image: /blog/5-implantologia-dental-5.webp
 
 introtitle_title: IMPLANTES DENTALES EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Descubre las opciones de implantes dentales en Sant Boi de Llobregat. Soluciones efectivas para la pérdida de piezas dentales
@@ -71,14 +71,14 @@ El éxito de la oseointegración, depende en gran parte de una correcta realizac
 ## Diferentes opciones para implantes dentales en Sant Boi de Llobregat
 
 
-![implantología en Centre Dental Basté](/assets/static/images/blog/2-implantes-dentales.jpg)
+![implantología en Centre Dental Basté](/assets/static/images/blog/2-implantes-dentales.webp)
 
 Según el número de piezas a reponer y las necesidades de cada paciente, la rehabilitación sobre implantes puede ser **fija**, **semifija** (removible para facilitar la higiene) o **unitaria** (una sola pieza). En la primera visita valoramos cuál es la mejor opción para tu caso.
 
 ### Implantes unitarios:
 
 
-![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-unitario.jpg)
+![implantes dentales en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-unitario.webp)
 
 Raíz artificial de titanio que sustituye las raíces naturales de los dientes. Se inserta en el hueso maxilar y, pasado el tiempo de osteointegración, se coloca la corona o prótesis, imitando nuestro diente perdido.
 
@@ -88,13 +88,13 @@ Dentadura completa fijada totalmente con 4, 6 u 8 implantes dentales. Con este s
 
 ### Dentadura extraíble:
 
-![dentadura extraíble sobre implantes en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.jpg)
+![dentadura extraíble sobre implantes en Sant Boi de Llobregat](/assets/static/images/implantes-dentales-extraible.webp)
 
 Dentadura completa fijada con 2, 4 o 6 implantes dentales. Se puede extraer para su limpieza o reparación. Sistema sencillo y económico. Es la opción mixta, que se sujeta sobre bolas o barras ancladas a los implantes.
 
 ### Implantes personalizados a medida:
 
-![implante subperióstico personalizado Avinent en Sant Boi de Llobregat](/assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.png)
+![implante subperióstico personalizado Avinent en Sant Boi de Llobregat](/assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.webp)
 
 Para casos complejos, con pérdida importante de hueso, disponemos de **implantes personalizados fabricados a medida** para la anatomía de cada paciente (incluidos diseños subperiósticos). Trabajamos con marcas de referencia como **Avinent** y **Phibo**, que permiten planificar y fabricar el implante específico para tu caso.
 

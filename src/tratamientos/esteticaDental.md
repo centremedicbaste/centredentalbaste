@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/31-sonrisa-digital.jpg
+listado_image: /assets/static/images/blog/31-sonrisa-digital.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/blanqueamiento-dental-sonrisa.gif
 permalink: /tratamientos/estetica-dental-sant-boi-de-llobregat/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: ESTÉTICA DENTAL
-introCta_image: /blog/40-carillas-dentales-sant-boi-llobregat-barcelona.jpg
+introCta_image: /blog/40-carillas-dentales-sant-boi-llobregat-barcelona.webp
 
 introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Logra una sonrisa radiante con nuestros tratamientos de blanqueamiento, carillas y más.
@@ -67,7 +67,7 @@ Con nuestro servicio de blanqueamiento dental nos encargaremos de la eliminació
 [Más información sobre blanqueamiento dental](https://centredentalbaste.com/tratamientos/blanqueamiento-dental/)
 
 
-![estética-dental en Centre Dental Basté](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.jpg)
+![estética-dental en Centre Dental Basté](/assets/static/images/blog/blog-inner/estetica-dental-1024x653.webp)
 
 ## Tratamiento de encías
 

@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-10-31
 fecha: 2021-10-31
 tags: [post, ortodoncia, salud, estética]
-image: clinica-dental-sant-boi-llobregat-6.jpg
+image: clinica-dental-sant-boi-llobregat-6.webp
 imageAlt: 
 
 ---
@@ -20,7 +20,7 @@ En **Centro Dental Basté** te ofrecemos la **ortodoncia en Sant Boi del Llobreg
 
 Te realizaremos un **estudio completo previo** para un diagnóstico apurado.
 
-![ortodoncia estudio](/assets/static/images/blog/blog-inner/ortodoncia-estudio.jpg)
+![ortodoncia estudio](/assets/static/images/blog/blog-inner/ortodoncia-estudio.webp)
 
 *estudio previo*
 
@@ -34,7 +34,7 @@ Ortodoncia de zafiro
 
 Actualmente la ortodoncia con brackets de mayor calidad. Son transparentes y no se amarillean con el tiempo, alimentos o tabaco.
 
-![ortodoncia estetica zafiro Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estetica-zafiro.jpg)
+![ortodoncia estetica zafiro Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estetica-zafiro.webp)
 
 *ortodoncia estetica zafiro*
 
@@ -44,7 +44,7 @@ Actualmente la ortodoncia con brackets de mayor calidad. Son transparentes y no 
 
 Los brackets van pegados en la cara interna de los dientes. Permiten un excelente control del movimiento dental y no afectan al hablar ni interfieren en la vida diaria.
 
-![ortodoncia lingual Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-lingual.jpg)
+![ortodoncia lingual Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-lingual.webp)
 
 *ortodoncia lingual*
 
@@ -54,7 +54,7 @@ Los brackets van pegados en la cara interna de los dientes. Permiten un excelent
 
 Es el tipo de ortodoncia más difundido y conocido. Se colocan los brackets en la cara visible del diente. Cada bracket color plateado se adhiere al diente en su superficie sin rodearlo.
 
-![ortodoncia convencional Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-convencional.jpg)
+![ortodoncia convencional Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-convencional.webp)
 
 *ortodoncia convencional*
 
@@ -64,7 +64,7 @@ Es el tipo de ortodoncia más difundido y conocido. Se colocan los brackets en l
 
 Consiste en el uso de brackets cerámicos de color similar al diente, por lo que disimulan bastante el uso de la ortodoncia, haciéndola confortable, agradable y poco visible.
 
-![ortodoncia estetica Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estetica.jpg)
+![ortodoncia estetica Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-estetica.webp)
 
 *ortodoncia estética*
 
@@ -74,7 +74,7 @@ Consiste en el uso de brackets cerámicos de color similar al diente, por lo que
 
 Se trata de alineadores que colocados de forma progresiva van moviendo los dientes hasta la situación deseada. Estas férulas van aplicando fuerzas sobre los dientes para variar su posición. En Centre Dental Basté trabajamos con **SureSmile**, nuestro sistema de alineadores invisibles.
 
-![ortodoncia invisible SureSmile Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisalign.jpg)
+![ortodoncia invisible SureSmile Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-invisalign.webp)
 
 *ortodoncia invisible SureSmile*
 
@@ -84,7 +84,7 @@ Se trata de alineadores que colocados de forma progresiva van moviendo los dient
 
 Se coloca la ortodoncia convencional con la posiblidad de que el niño escoja las gomas de sujeción de los brackets de sus colores favoritos, para así hacer más llevadero el tiempo de uso de la ortodoncia.
 
-![ortodoncia infantil Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-infantil.jpg)
+![ortodoncia infantil Sant Boi del Llobregat](/assets/static/images/blog/blog-inner/ortodoncia-infantil.webp)
 
 *ortodoncia infantil*
 

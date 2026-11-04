@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/clinica-dental-sant-boi-llobregat-6.jpg
+listado_image: /assets/static/images/blog/clinica-dental-sant-boi-llobregat-6.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/revision-dental-exploracion.gif
 permalink: /tratamientos/odontologia-dental/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: ODONTOLOGIA
-introCta_image: /blog/blog-inner/dentista-en-sant-boi-llobregat.jpg
+introCta_image: /blog/blog-inner/dentista-en-sant-boi-llobregat.webp
 
 introtitle_title: HIGIENE DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Mantén una sonrisa saludable con nuestros servicios de higiene dental
@@ -43,7 +43,7 @@ La limpieza dental consiste en la eliminación de la placa bacteriana, depósito
 
 
 
-![Odontología en Centre Dental Basté](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat.jpg)
+![Odontología en Centre Dental Basté](/assets/static/images/blog/blog-inner/dentista-en-sant-boi-llobregat.webp)
 
 ## ¿Qué hacer?
 

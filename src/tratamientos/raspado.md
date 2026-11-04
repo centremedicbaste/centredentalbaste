@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/16-higiene-dental-cepillo2.jpg
+listado_image: /assets/static/images/blog/16-higiene-dental-cepillo2.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/higiene-dental-molar-limpio.gif
 permalink: /tratamientos/raspado-diente-curetaje-dental/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaRobots: index, follow
 
 
 introCta_title: RASPADO DE DIENTE
-introCta_image: /blog/blog-inner/higiene-dental-ultrasonidos-1024x600.jpg
+introCta_image: /blog/blog-inner/higiene-dental-ultrasonidos-1024x600.webp
 
 introtitle_title: RASPADO DE DIENTE
 introtitle_subtitle: Combate la periodontitis
@@ -54,7 +54,7 @@ Un raspado de diente o curetaje dental es un tipo de técnica dental que se ejec
 Si la gingivitis no se trata a tiempo, la inflamación será capaz de extenderse hasta llegar a la propia raíz del diente, provocando el temido problema de la periodontal. En el interior de esta bolsa podemos encontrar toda una serie de bacterias que han sabido adaptarse al medio, y que han encontrado las condiciones perfectas para poder sobrevivir y afectar a nuestra salud, tanto vocal, como del organismo en general. Desde nuestra clínica nos encargaremos de determinar cuál es la magnitud del problema, y ejecutar una técnica de raspado de diente o curetaje dental en el caso de que sea necesaria.
 
 
-![raspado en Centre Dental Basté](/assets/static/images/blog/blog-inner/higiene-dental-ultrasonidos-1024x600.jpg)
+![raspado en Centre Dental Basté](/assets/static/images/blog/blog-inner/higiene-dental-ultrasonidos-1024x600.webp)
 
 ## ¿En qué consiste una intervención de raspado de diente o curetaje dental?
 El objetivo de estas intervenciones consiste en raspar las superficies de las raíces de los propios incisivos utilizando unos instrumentos específicos que reciben el nombre de curetas. Este traspaso tiene como objetivo principal encargarse de la eliminación del sarro que se puede haber quedado contenido en diferentes superficies de nuestros en progreso dientes: en el momento en el que se ha completado este primer procedimiento, también se alisará para eliminar cualquier tipo de impureza contenida.

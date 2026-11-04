@@ -20,12 +20,12 @@
   <meta property="og:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or global_index.seo_description or '' }}" />
   <meta property="og:url" content="{{ global_index.url }}{{ (page.url | url) | lower }}" />
-  <meta property="og:image" content="{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}" />
+  <meta property="og:image" content="{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.webp{% endif %}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ metaTitle }}" />
   <meta name="twitter:description"
     content="{{ metaDescription or eleventyComputed.metaDescription or global_index.seo_description or '' }}" />
-  <meta name="twitter:image" content="{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}" />
+  <meta name="twitter:image" content="{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.webp{% endif %}" />
   <link rel="icon" type="image/png" href="{{ global_index.url }}/assets/static/favicons/favicon-32x32.png" />
   <!-- Estilos CSS -->
 
@@ -50,8 +50,8 @@
 
 
   <link rel="stylesheet" href="/assets/css/style.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.css">
+  <link rel="stylesheet" href="/assets/vendor/css/swiper-9-bundle.min.css">
+  <link rel="stylesheet" href="/assets/vendor/css/photoswipe-4.1.3.min.css">
   <!-- SEO y Open Graph -->
   <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />
   {% set cfg = global_index %}
@@ -71,12 +71,12 @@
 
   {% include 'components/cookie-banner.njk' %}
   <!-- Scripts -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.3/photoswipe-ui-default.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
+  <script src="/assets/vendor/js/jquery-3.6.0.min.js"></script>
+  <script src="/assets/vendor/js/gsap-3.12.5.min.js"></script>
+  <script src="/assets/vendor/js/swiper-9-bundle.min.js"></script>
+  <script src="/assets/vendor/js/photoswipe-4.1.3.min.js"></script>
+  <script src="/assets/vendor/js/photoswipe-ui-default-4.1.3.min.js"></script>
+  <script src="/assets/vendor/js/locomotive-scroll-4.1.4.min.js"></script>
   <script type="module" src="/assets/js/index.js"></script>
   <script type="module" src="/assets/js/scroll.js"></script>
   <script type="module" src="/assets/js/inview.js"></script>

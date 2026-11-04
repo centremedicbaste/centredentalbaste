@@ -1,6 +1,6 @@
 ---
 layout: pages/_tratamiento.njk
-listado_image: /assets/static/images/blog/7-blanqueamiento-guia.jpg
+listado_image: /assets/static/images/blog/7-blanqueamiento-guia.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/blanqueamiento-dental-sonrisa.gif
 permalink: /tratamientos/blanqueamiento-dental/
 tags: ["tratamientos"]
@@ -13,7 +13,7 @@ metaKeywords: blanqueamiento dental, dientes blancos, Sant Boi de Llobregat, est
 metaRobots: index, follow
 
 introCta_title: BLANQUEAMIENTO DENTAL
-introCta_image: /blog/blog-inner/blanqueamiento-antes-despues.jpg
+introCta_image: /blog/blog-inner/blanqueamiento-antes-despues.webp
 
 introtitle_title: BLANQUEAMIENTO DENTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Recupera el color natural de tus dientes
@@ -62,7 +62,7 @@ El blanqueamiento dental es un procedimiento muy simple que se usa con técnicas
 Realizado por nuestros profesionales con tecnología LED de última generación. Proceso rápido y efectivo que se realiza en una sola sesión.
 
 
-![blanqueamiento dental en Centre Dental Basté](/assets/static/images/blog/blog-inner/blanqueamiento-dental-barcelona-1024x485.jpg)
+![blanqueamiento dental en Centre Dental Basté](/assets/static/images/blog/blog-inner/blanqueamiento-dental-barcelona-1024x485.webp)
 
 ### Blanqueamiento ambulatorio
 

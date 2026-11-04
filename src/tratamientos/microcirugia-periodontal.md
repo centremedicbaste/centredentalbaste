@@ -1,7 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
 preparacion: true
-listado_image: /assets/static/images/blog/blog-inner/encias-retraccion-1024x600.jpg
+listado_image: /assets/static/images/blog/blog-inner/encias-retraccion-1024x600.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/molar-seccion-encias-hueso.gif
 permalink: /tratamientos/microcirugia-periodontal/
 tags: ["tratamientos"]
@@ -14,7 +14,7 @@ metaKeywords: microcirugía periodontal, periodontitis, Sant Boi de Llobregat, c
 metaRobots: index, follow
 
 introCta_title: MICROCIRUGÍA PERIODONTAL
-introCta_image: /blog/blog-inner/encias-retraccion-1024x600.jpg
+introCta_image: /blog/blog-inner/encias-retraccion-1024x600.webp
 
 introtitle_title: MICROCIRUGÍA PERIODONTAL EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Tratamiento avanzado para casos complejos de periodontitis
@@ -64,7 +64,7 @@ Este procedimiento se realiza con técnicas de microcirugía que permiten:
 - Recuperación más rápida del paciente
 
 
-![microcirugía periodontal en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.jpg)
+![microcirugía periodontal en Centre Dental Basté](/assets/static/images/blog/blog-inner/encias-periodoncia-1024x600.webp)
 
 ## Ventajas de la microcirugía periodontal
 

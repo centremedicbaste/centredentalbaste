@@ -6,7 +6,7 @@ descripcion: "Explora las carillas dentales de porcelana y composite en Sant Boi
 metaTitle: "Carillas de porcelana y composite en Sant Boi | Centre Dental Basté"
 metaDescription: "Conoce las carillas dentales de porcelana y composite en Sant Boi de Llobregat, Barcelona, para una sonrisa perfecta."
 metaKeywords: "carillas dentales, porcelana, composite, Sant Boi de Llobregat, Barcelona"
-metaRobots: "index, follow"
+metaRobots: "noindex, follow"
 date: 2020-10-10T09:00:23+00:00
 fecha: 2020-10-10T09:00:23+00:00
 tags: [empty]

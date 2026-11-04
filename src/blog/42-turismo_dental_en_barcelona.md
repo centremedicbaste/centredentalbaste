@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-09-17T04:21:49+00:00
 fecha: 2021-09-17T04:21:49+00:00
 tags: [post]
-image: 42-turismo-dental-barcelona.jpg
+image: 42-turismo-dental-barcelona.webp
 imageAlt: 
 
 ---
@@ -26,7 +26,7 @@ Si, ya por sí, visitar esta ciudad es un placer, más lo es ahora como centro 
 > Barcelona se ha convertido en un destino imprescindible del turismo dental. Son muchos los factores que han llevado objetivamente a este estatus a la capital mediterránea. Su ubicación es uno de ellos, a través de una **fácil comunicación con otros destinos** no solamente nacionales, sino también internacionales. No en vano, es uno de los principales centros de afluencia de visitantes de diferentes nacionalidades.
 
 
-![endodoncia](/assets/static/images/blog/blog-inner/turismo-dental-barcelona-1200x480.jpg)
+![endodoncia](/assets/static/images/blog/blog-inner/turismo-dental-barcelona-1200x480.webp)
 
 
 ## Barcelona: una ciudad con infinidad de propuestas

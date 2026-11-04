@@ -14,10 +14,10 @@ metaRobots: "index, follow"
 procedureType: "http://schema.org/SurgicalProcedure"
 
 introCta_title: ALL-ON-4
-heroImage: /assets/static/images/all-on-4-hero.jpg
-listado_image: /assets/static/images/blog/1-all-on-four-baste-scaled.jpg
-ilustracion: /assets/static/images/blog/blog-inner/dentadura-fijada-implantes-allonfour.jpg
-introCta_image: /blog/1-all-on-four-baste-scaled.jpg
+heroImage: /assets/static/images/all-on-4-hero.webp
+listado_image: /assets/static/images/blog/1-all-on-four-baste-scaled.webp
+ilustracion: /assets/static/images/blog/blog-inner/dentadura-fijada-implantes-allonfour.webp
+introCta_image: /blog/1-all-on-four-baste-scaled.webp
 
 introtitle_title: ALL-ON-4 Y ALL-ON-6 EN SANT BOI DE LLOBREGAT
 introtitle_subtitle: Dientes fijos en 24-48 horas con solo 4 o 6 implantes. Recupera toda tu sonrisa en una sola intervención

@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-11-21T15:14:44+00:00
 fecha: 2021-11-21T15:14:44+00:00
 tags: [post]
-image: 23-dentadura-postiza-sant-boi-llobregat.jpg
+image: 23-dentadura-postiza-sant-boi-llobregat.webp
 imageAlt: 
 
 ---
@@ -46,7 +46,7 @@ Es una técnica indolora, ya que se emplea anestesia local.
 
 Se obtienen los *beneficios en* un periodo de *tiempo corto*, ya que la intervención dura no más de 2 horas, y en 1 o 2 días se realiza el implante del "puente fijo provisional", que al cabo de los 6 meses-1 año, cuando ya está completamente consolidado, se reemplaza por el definitivo.
 
-![dentadura postiza sant boi de llobregat](/assets/static/images/blog/blog-inner/dentadura-postiza-sant-boi-llobregat-barcelona.jpg)
+![dentadura postiza sant boi de llobregat](/assets/static/images/blog/blog-inner/dentadura-postiza-sant-boi-llobregat-barcelona.webp)
 ### Ventajas e inconvenientes de la dentadura postiza fija
 
 

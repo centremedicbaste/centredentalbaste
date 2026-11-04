@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2021-09-17T04:20:21+00:00
 fecha: 2021-09-17T04:20:21+00:00
 tags: [post]
-image: 33-precio-implantes-dentales-en-barcelona-sant-boi-de-llobregat.jpg
+image: 33-precio-implantes-dentales-en-barcelona-sant-boi-de-llobregat.webp
 imageAlt: 
 
 ---

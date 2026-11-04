@@ -1,13 +1,26 @@
 ---
 layout: baseblog.njk
 ---
+{# Migas del articulo. Antes solo las tenian las paginas de tratamiento, asi
+   que Google no sabia que un post colgaba del blog. #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "{{ global_index.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ global_index.url }}/blog/" },
+    { "@type": "ListItem", "position": 3, "name": {{ title | dump | safe }} }
+  ]
+}
+</script>
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": "{{ title }}",
     "description": "{{ metaDescription or descripcion or '' }}",
-    "image": ["{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.jpg{% endif %}"],
+    "image": ["{{ global_index.url }}{% if image %}/assets/static/images/blog/{{ image }}{% else %}/assets/static/images/clinica-1.webp{% endif %}"],
     "author": {
       "@type": "Organization",
       "@id": "{{ global_index.url }}/#organization",
@@ -25,7 +38,7 @@ layout: baseblog.njk
       "name": "{{ global_index.title }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ global_index.url }}/assets/static/images/logos/logo.png"
+        "url": "{{ global_index.url }}/assets/static/images/logos/logo.webp"
       }
     }
   }

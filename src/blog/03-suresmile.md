@@ -10,7 +10,7 @@ metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00
 fecha: 2022-05-31T09:00:23+00:00
 tags: [post]
-image: 6-dentista-urgencias-clinica.jpg
+image: 6-dentista-urgencias-clinica.webp
 imageAlt: 
 
 ---
@@ -55,4 +55,4 @@ Puedes confiar en que este planeamiento personalizado está completamente adapta
 ## Da el primer paso hacia una sonrisa más saludable y segura  
 Consulta a tu dentista acerca de los alineadores **SureSmile® Aligner** hoy mismo y descubre cómo puedes **transformar tu sonrisa** con un tratamiento efectivo, cómodo y poco invasivo.
 
-![Pareja sonriendo al aire libre](/assets/static/images/blog/blog-inner/Folleto-Alineadores-SureSmile-Paciente-2-1536x1125.png "Ortodoncia invisible para una sonrisa perfecta")
+![Pareja sonriendo al aire libre](/assets/static/images/blog/blog-inner/Folleto-Alineadores-SureSmile-Paciente-2-1536x1125.webp "Ortodoncia invisible para una sonrisa perfecta")

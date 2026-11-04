@@ -1,7 +1,7 @@
 ---
 layout: pages/_tratamiento.njk
 preparacion: true
-listado_image: /assets/static/images/blog/endodoncia-2.jpg
+listado_image: /assets/static/images/blog/endodoncia-2.webp
 ilustracion: /assets/static/images/tratamientos-ilustraciones/endodoncia-camara-pulpar.gif
 permalink: /tratamientos/endodoncia-dental/
 tags: ["tratamientos"]
@@ -15,7 +15,7 @@ metaRobots: index, follow
 
 
 introCta_title: ENDODONCIA
-introCta_image: /blog/blog-inner/endodoncia-1.jpg
+introCta_image: /blog/blog-inner/endodoncia-1.webp
 introtitle_title: ENDODONCIA EN BARCELONA
 introtitle_subtitle: Descubre en qué consiste la endodoncia, sus objetivos y cómo se realiza
 
@@ -74,7 +74,7 @@ La endodoncia pretende limpiar cada conducto y dejar el diente apto para su post
 4. Se consigue un cierre biológico: los cementoblasts del muñón periodontal producirán cemento que cerrará el ápice, lo cual significa el éxito de la endodoncia.
 
 
-![endodoncia en Centre Dental Basté](/assets/static/images/blog/endodoncia-2.jpg)
+![endodoncia en Centre Dental Basté](/assets/static/images/blog/endodoncia-2.webp)
 
 ## ¿Cómo se detecta la necesidad de hacerse una endodoncia?
 
