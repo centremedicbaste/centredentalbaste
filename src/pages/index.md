@@ -11,7 +11,7 @@ orden: 1
 
 
 metaTitle: Dentista en Sant Boi de Llobregat | Centre Dental Basté
-metaDescription: "Tu dentista en Sant Boi de Llobregat. +25 años cuidando sonrisas. Implantes, ortodoncia, estética dental. 1ª visita con revisión y presupuesto: 60 € a cuenta del tratamiento. Pide cita al 936 354 025."
+metaDescription: "Tu dentista en Sant Boi de Llobregat. +25 años en implantes, ortodoncia y estética dental. 1ª visita 60 € a cuenta del tratamiento. Tel. 936 354 025."
 metaKeywords: dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona
 metaRobots: index, follow
 

@@ -3,7 +3,7 @@ subtitle: "Dentadura Postiza en Sant Boi de Llobregat"
 title: "Dentadura Postiza: Soluciones Fijas en Sant Boi de Llobregat"
 permalink: /blog/dentadura-postiza-sant-boi-llobregat/
 descripcion: "Explora las opciones de dentadura postiza fija en Sant Boi de Llobregat para una sonrisa segura y funcional."
-metaTitle: "Dentadura Postiza en Sant Boi de Llobregat | Centre Dental Basté"
+metaTitle: "Dentadura postiza en Sant Boi de Llobregat"
 metaDescription: "Conoce las soluciones de dentadura postiza fija en Sant Boi de Llobregat, diseñadas para mejorar tu calidad de vida."
 metaKeywords: "dentadura postiza, fija, Sant Boi de Llobregat"
 metaRobots: "noindex, follow"

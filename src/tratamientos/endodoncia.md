@@ -8,7 +8,7 @@ tags: ["tratamientos"]
 
 seccion: endodoncia
 
-metaTitle: Endodoncia en Sant Boi de Llobregat | Salva tu Diente - Centre Dental Basté
+metaTitle: "Endodoncia en Sant Boi de Llobregat | Centre Basté"
 metaDescription: Endodoncia profesional en Sant Boi de Llobregat. Tratamiento indoloro para salvar tu diente. Tecnología avanzada y especialistas con +25 años de experiencia.
 metaKeywords: endodoncia, tratamiento dental, limpieza conductos, restauración dental, Barcelona
 metaRobots: index, follow

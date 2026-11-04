@@ -3,8 +3,8 @@ subtitle: ""
 title: "Existen muchos tipos de brackets, entre ellos, los brackets invisibles"
 permalink: /blog/existen-muchos-tipos-de-brackets,-entre-ellos,-los-brackets-invisibles/
 descripcion: "" 
-metaTitle: "Brackets invisibles en Sant Boi de Llobregat | Centre Dental Basté"
-metaDescription: "Descubre los diferentes tipos de brackets, incluyendo los brackets invisibles, en Sant Boi de Llobregat. Aprende cómo funcionan y elige el mejor para ti. ¡Visítanos y consigue la sonrisa perfecta!"
+metaTitle: "Brackets invisibles en Sant Boi de Llobregat"
+metaDescription: "Tipos de brackets, incluidos los invisibles: cómo funciona cada uno y cuál elegir. Ortodoncia en Sant Boi de Llobregat, Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2021-10-10T15:13:46+00:00

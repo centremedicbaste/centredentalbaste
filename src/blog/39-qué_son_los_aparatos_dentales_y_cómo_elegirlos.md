@@ -4,7 +4,7 @@ title: "Qué son los aparatos dentales y cómo elegirlos"
 permalink: /blog/que-son-los-aparatos-dentales-y-como-elegirlos/
 descripcion: ""
 metaTitle: "Qué son los aparatos dentales y cómo elegirlos"
-metaDescription: "Descubre los diferentes tipos de aparatos dentales, sus beneficios e inconvenientes, y cómo elegir el mejor para ti en función de tu edad, gravedad del caso, estética y presupuesto. Información detallada sobre brackets metálicos, estéticos, linguales e Invisalign."
+metaDescription: "Brackets metálicos, estéticos, linguales e Invisalign: ventajas e inconvenientes de cada aparato y cómo elegir según edad, caso y presupuesto."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2021-09-17T04:25:21+00:00

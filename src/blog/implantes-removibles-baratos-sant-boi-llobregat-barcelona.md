@@ -3,7 +3,7 @@ subtitle: "Implantes Removibles en Sant Boi de Llobregat"
 title: "Implantes Removibles: Opciones Asequibles en Sant Boi de Llobregat, Barcelona"
 permalink: /blog/implantes-removibles-baratos-sant-boi-llobregat-barcelona/
 descripcion: "Explora las opciones asequibles de implantes removibles en Sant Boi de Llobregat, Barcelona."
-metaTitle: "Implantes Removibles en Sant Boi de Llobregat | Centre Dental Basté"
+metaTitle: "Implantes removibles en Sant Boi de Llobregat"
 metaDescription: "Conoce las opciones asequibles de implantes removibles en Sant Boi de Llobregat, Barcelona, para una sonrisa renovada."
 metaKeywords: "implantes removibles, asequibles, Sant Boi de Llobregat, Barcelona"
 metaRobots: "noindex, follow"

@@ -1,6 +1,7 @@
 ---
 metaRobots: "index, follow"
-metaTitle:  Legal | Política de privacidad
+metaTitle: "Política de privacidad | Centre Dental Basté"
+metaDescription: "Política de privacidad de Centre Dental Basté: qué datos recogemos, con qué fin los tratamos y cómo ejercer tus derechos conforme al RGPD."
 
 layout: legal/_legales
 title: Políticas de privacidad

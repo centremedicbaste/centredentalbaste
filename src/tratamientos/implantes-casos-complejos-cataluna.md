@@ -6,8 +6,8 @@ tags: ["tratamientos"]
 
 seccion: Implantología compleja
 
-metaTitle: "Implantes en Casos Complejos en Cataluña | ¿Te han dicho que no puedes?"
-metaDescription: "¿Te han dicho que no puedes llevar implantes por falta de hueso? Somos centro de referencia en implantología compleja en Cataluña: regeneración ósea, implantes a medida (subperiósticos) y rehabilitación completa. Pide una segunda opinión sin compromiso."
+metaTitle: "Implantes en casos complejos de falta de hueso"
+metaDescription: "¿Te han dicho que no puedes llevar implantes por falta de hueso? Regeneración ósea e implantes subperiósticos a medida. Pide una segunda opinión."
 metaRobots: "index, follow"
 metaKeywords: "implantes casos complejos, implantes sin hueso, implantes personalizados a medida, implante subperióstico, regeneración ósea, rehabilitación completa, segunda opinión implantes, Cataluña, Barcelona, Sant Boi de Llobregat"
 

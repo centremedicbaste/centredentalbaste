@@ -8,8 +8,8 @@ tags: ["tratamientos"]
 
 seccion: implantología
 
-metaTitle: "Implantes Dentales en Sant Boi de Llobregat | Financiación y +25 Años"
-metaDescription: "Implantes dentales en Sant Boi de Llobregat: All-on-4, carga inmediata y prótesis fija sobre implantes. Financiación a medida. 1ª visita (revisión y presupuesto) 60 € a cuenta del tratamiento."
+metaTitle: "Implantes dentales en Sant Boi | Centre Dental Basté"
+metaDescription: "Implantes dentales en Sant Boi de Llobregat: All-on-4, carga inmediata y prótesis fija. Financiación a medida. 1ª visita 60 € a cuenta."
 
 metaRobots: index, follow
 metaKeywords: "implantes dentales, implantología, Sant Boi de Llobregat, implantes titanio, prótesis sobre implantes, dentadura fija"

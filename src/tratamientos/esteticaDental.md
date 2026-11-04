@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: estética-dental
 
-metaTitle: Estética Dental en Sant Boi de Llobregat | Blanqueamiento y Carillas
-metaDescription: Tratamientos de estética dental en Sant Boi de Llobregat. Blanqueamiento, carillas de porcelana y diseño de sonrisa. Resultados visibles desde la 1a sesión. Pide cita.
+metaTitle: "Estética dental en Sant Boi de Llobregat | Basté"
+metaDescription: "Estética dental en Sant Boi de Llobregat: blanqueamiento, carillas de porcelana y diseño de sonrisa. Resultados desde la primera sesión."
 metaKeywords: estética dental, Sant Boi de Llobregat, blanqueamiento dental, carillas, encías
 metaRobots: index, follow
 

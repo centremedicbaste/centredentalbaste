@@ -1,6 +1,7 @@
 ---
 metaRobots: "index, follow"
-metaTitle:  Legal | Aviso Legal
+metaTitle: "Aviso legal | Centre Dental Basté"
+metaDescription: "Aviso legal de Centre Dental Basté: titular del sitio, condiciones de uso, propiedad intelectual y responsabilidad. Sant Boi de Llobregat."
 
 layout: legal/_legales
 title: Aviso legal

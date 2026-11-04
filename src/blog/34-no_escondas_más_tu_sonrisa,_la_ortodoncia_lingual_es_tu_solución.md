@@ -3,8 +3,8 @@ subtitle: ""
 title: "No escondas más tu sonrisa, la ortodoncia lingual es tu solución"
 permalink: /blog/no-escondas-mas-tu-sonrisa,-la-ortodoncia-lingual-es-tu-solucion/
 descripcion: ""
-metaTitle: "Ortodoncia lingual en Sant Boi de Llobregat | Centre Dental Basté"
-metaDescription: "Descubre la ortodoncia lingual en Sant Boi de Llobregat | Un método invisible y eficaz para alinear tus dientes sin que nadie lo note | Ideal para corregir mordidas y maloclusiones con comodidad y estética | ¡Transforma tu sonrisa hoy mismo!"
+metaTitle: "Ortodoncia lingual en Sant Boi de Llobregat"
+metaDescription: "La ortodoncia lingual alinea los dientes por dentro, sin que se vea. Para qué casos sirve y cómo se lleva. Sant Boi de Llobregat."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2021-11-21T14:42:14+00:00

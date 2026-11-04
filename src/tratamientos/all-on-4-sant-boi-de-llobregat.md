@@ -6,8 +6,8 @@ tags: ["tratamientos"]
 
 seccion: All-on-4
 
-metaTitle: "All-on-4 en Sant Boi de Llobregat (Barcelona) | Centre Dental Basté"
-metaDescription: "Técnica All-on-4 y All-on-6 en Sant Boi de Llobregat: dientes fijos en 24-48 h con solo 4 o 6 implantes. Financiación sin intereses hasta 30 meses. 1ª visita 60 € a cuenta del tratamiento."
+metaTitle: "All-on-4 en Sant Boi: dientes fijos en 24-48 h"
+metaDescription: "All-on-4 y All-on-6 en Sant Boi: dientes fijos en 24-48 h con 4 o 6 implantes. Financiación sin intereses hasta 30 meses."
 metaKeywords: "all-on-4, all on four, all-on-6, all on six, implantes carga inmediata, dientes fijos en un día, arcada completa sobre implantes, prótesis fija sobre implantes, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
 

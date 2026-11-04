@@ -3,8 +3,8 @@ subtitle: ""
 title: "Dentista en sant boi de llobregat"
 permalink: /blog/dentista-en-sant-boi-de-llobregat/
 descripcion: "Un dentista en Sant Boi de Llobregat para toda la vida. En Centre Dental Basté queremos brindarle nuestra experiencia al servicio de nuestros pacientes."
-metaTitle: "Dentista en Sant Boi de Llobregat | Centre Dental Basté"
-metaDescription: "Dentista en Sant Boi de Llobregat con más de 25 años de experiencia. Tratamientos dentales completos: implantes, ortodoncia, estética. 1ª visita revisión y presupuesto 60 € (a cuenta del tratamiento)." 
+metaTitle: "Cómo elegir dentista en Sant Boi de Llobregat"
+metaDescription: "Qué mirar al elegir dentista en Sant Boi de Llobregat. En Basté, +25 años y 1ª visita con revisión y presupuesto por 60 € a cuenta del tratamiento."
 metaKeywords: "dentista Sant Boi, dentista en Sant Boi de Llobregat, clínica dental Sant Boi, odontólogo Sant Boi, dentista Barcelona, dentista cerca de mí"
 metaRobots: "index, follow"
 date: 2022-05-31T09:00:23+00:00

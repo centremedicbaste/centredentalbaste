@@ -3,7 +3,7 @@ subtitle: ""
 permalink: /blog/ortodoncia-en-sant-boi-de-llobregat/
 title: "3-Ortodoncia en Sant Boi de Llobregat, diferentes opciones a escoger"
 descripcion: ""
-metaTitle: "Ortodoncia en Sant Boi: opciones a escoger | Centre Dental Basté"
+metaTitle: "Ortodoncia en Sant Boi: qué opción elegir"
 metaDescription: "Ortodoncia en Sant Boi de Llobregat para corregir malposición dental. Tratamientos personalizados para todas las edades. Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"

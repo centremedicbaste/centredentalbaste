@@ -1,7 +1,8 @@
 ---
 
 metaRobots: "index, follow"
-metaTitle:  Legal | Política de Cookies 
+metaTitle: "Política de cookies | Centre Dental Basté"
+metaDescription: "Política de cookies de Centre Dental Basté: qué cookies usamos, para qué sirven y cómo aceptarlas, rechazarlas o borrarlas en tu navegador."
 
 
 layout: legal/_legales

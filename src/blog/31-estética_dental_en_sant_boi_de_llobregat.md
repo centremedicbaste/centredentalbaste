@@ -3,8 +3,8 @@ subtitle: ""
 title: "Estética dental en Sant Boi de Llobregat"
 permalink: /blog/estetica-dental-en-sant-boi-de-llobregat/
 descripcion: "descripcion"
-metaTitle: "Estética dental en Sant Boi | Centre Dental Basté"
-metaDescription: "Descubre los mejores tratamientos de estética dental en Sant Boi de Llobregat. Carillas dentales, blanqueamiento y coronas de zirconio para una sonrisa perfecta. ¡Visítanos y transforma tu sonrisa hoy mismo!"
+metaTitle: "Estética dental: qué tratamientos hay y para qué"
+metaDescription: "Tratamientos de estética dental en Sant Boi de Llobregat: carillas, blanqueamiento y coronas de zirconio. Pide cita en Centre Dental Basté."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2022-03-27T11:19:45+00:00

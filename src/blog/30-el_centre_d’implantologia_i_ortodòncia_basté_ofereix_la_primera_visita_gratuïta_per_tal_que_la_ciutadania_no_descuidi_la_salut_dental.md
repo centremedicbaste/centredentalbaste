@@ -4,7 +4,7 @@ title: "El Centre d’Implantología i Ortodòncia Basté ofereix la primera vis
 permalink: /blog/el-centre-dimplantologia-i-ortodòncia-basté-ofereix-la-primera-visita-gratuïta-per-tal-que-la-ciutadania-no-descuidi-la-salut-dental/
 descripcion: ""     
 metaTitle: "Centre Dental Basté | Primera visita gratuïta | Sant Boi"
-metaDescription: "El Centre d’Implantología i Ortodòncia Basté a Sant Boi de Llobregat ofereix una primera visita gratuïta per ajudar a la ciutadania a mantenir la seva salut dental durant la pandèmia de COVID-19. Descobreix els nostres protocols de seguretat i atenció personalitzada."
+metaDescription: "El Centre d'Implantologia i Ortodòncia Basté de Sant Boi ofereix primera visita gratuïta i protocols de seguretat per no descuidar la salut dental."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2020-07-21T10:35:30+00:00

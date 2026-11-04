@@ -3,7 +3,7 @@ subtitle: "Ortodoncia Mini Bracket en Barcelona"
 title: "Ortodoncia Mini Bracket en Barcelona: Una Opción Económica"
 permalink: /blog/ortodoncia-mini-bracket-barcelona-barata/
 descripcion: "Descubre la ortodoncia mini bracket en Barcelona, una opción económica para mejorar tu sonrisa."
-metaTitle: "Ortodoncia Mini Bracket en Barcelona | Centre Dental Basté"
+metaTitle: "Ortodoncia con mini brackets en Barcelona"
 metaDescription: "Explora la ortodoncia mini bracket en Barcelona, una opción económica y efectiva para alinear tus dientes."
 metaKeywords: "ortodoncia mini bracket, Barcelona, brackets económicos"
 metaRobots: "noindex, follow"

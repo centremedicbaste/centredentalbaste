@@ -7,7 +7,7 @@ tags: ["tratamientos"]
 
 seccion: carillas dentales
 
-metaTitle: Carillas Dentales en Sant Boi de Llobregat - Centre Dental Basté
+metaTitle: "Carillas dentales en Sant Boi de Llobregat"
 metaDescription: Carillas dentales de porcelana y composite en Sant Boi de Llobregat. Diseño digital de sonrisa con resultados naturales y duraderos.
 metaKeywords: carillas dentales, porcelana, composite, diseño de sonrisa, Sant Boi de Llobregat
 metaRobots: index, follow

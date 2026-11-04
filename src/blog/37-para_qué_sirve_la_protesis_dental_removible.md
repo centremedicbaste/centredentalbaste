@@ -4,7 +4,7 @@ title: "¿Para qué sirve la prótesis dental removible?"
 permalink: /blog/para-que-sirve-la-protesis-dental-removible/
 descripcion: ""
 metaTitle: "¿Para qué sirve la prótesis dental removible?"
-metaDescription: "Descubre las ventajas de la prótesis dental removible en Sant Boi de Llobregat | Mejora tu estética y funcionalidad dental con soluciones cómodas y asequibles | Información completa y consejos útiles para el cuidado de tu dentadura postiza"
+metaDescription: "Para qué sirve una prótesis dental removible, qué resuelve en estética y masticación y cómo cuidarla. Sant Boi de Llobregat."
 metaKeywords: ""
 metaRobots: "index, follow"
 date: 2021-10-10T15:26:47+00:00
