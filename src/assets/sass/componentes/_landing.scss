@@ -16,8 +16,12 @@
 }
 /* Imagen de fondo del hero */
 .aof-hero__bg { position: absolute; inset: 0; z-index: 0; }
+/* Imagen (póster/LCP) y vídeo apilados en el mismo hueco. */
 .aof-hero__bg img,
-.aof-hero__bg video { width: 100%; height: 100%; object-fit: cover; object-position: center right; display: block; }
+.aof-hero__bg video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center right; display: block; }
+/* El vídeo entra transparente y se funde a opaco cuando reproduce (index.js),
+   dejando ver el póster debajo hasta entonces. */
+.aof-hero--video .aof-hero__video { opacity: 0; }
 .aof-hero__bg::after {
   content: '';
   position: absolute;

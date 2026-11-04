@@ -53,6 +53,14 @@
        tipografía). "golden" = titulares del hero; "font-regular" (Satoshi) = cuerpo. -->
   <link rel="preload" href="/assets/fonts/goldenlight/goldenbook_light.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/assets/fonts/satoshi/Satoshi-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  {% if page.url == '/' %}
+  <!-- Precarga de la imagen del hero (LCP) en la home: que el navegador la pida
+       cuanto antes y la pinte sin esperar al CSS ni al JS. -->
+  <link rel="preload" as="image" href="/assets/static/images/clinica-1.webp" fetchpriority="high">
+  {% endif %}
+  <!-- Adelanta el handshake con los dominios de analítica (GA/GTM) y del mapa. -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://www.google.com">
   <link rel="stylesheet" href="/assets/css/style.css" />
   <!-- SEO y Open Graph -->
   <link rel="canonical" href="{{ global_index.url }}{{ (page.url | url) | lower }}" />

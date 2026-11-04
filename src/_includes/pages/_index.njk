@@ -63,15 +63,16 @@ colorHeader: has-light-menu
 <!-- ══ 1 · HERO ══════════════════════════════════════════════════ -->
 <section class="aof-hero aof-hero--video front-section" data-scroll-section>
   <div class="aof-hero__bg">
+    {# El LCP es esta imagen, no el vídeo: se pinta de inmediato y va precargada
+       en el <head> con fetchpriority alta. El <video> se superpone encima y se
+       funde cuando arranca (index.js), sin descargar nada hasta después del
+       load; con ahorro de datos o movimiento reducido se queda esta imagen. #}
+    <img class="aof-hero__poster" src="/assets/static/images/clinica-1.webp" alt=""
+         width="1295" height="864" fetchpriority="high" decoding="async" aria-hidden="true">
     {% if global_index.home_video %}
-    {# Sin autoplay ni preload: el navegador no descarga nada hasta que el JS
-       le pone las fuentes, ya pintada la pagina. Hasta entonces se ve el
-       poster, que es el mismo que usa la version sin video. #}
-    <video class="aof-hero__video" muted loop playsinline preload="none" poster="/assets/static/images/clinica-1.webp" aria-hidden="true"
+    <video class="aof-hero__video" muted loop playsinline preload="none" aria-hidden="true"
            data-hero-video="{{ global_index.home_video }}"
            {% if global_index.home_video_webm %}data-hero-video-webm="{{ global_index.home_video_webm }}"{% endif %}></video>
-    {% else %}
-    <img src="/assets/static/images/clinica-1.webp" alt="" aria-hidden="true">
     {% endif %}
   </div>
   <div class="container-global mx-auto">
