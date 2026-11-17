@@ -26,7 +26,7 @@ Mediante este documento y en cumplimiento de lo previsto en la Ley 34/2002 de 11
 
 ## Titularidad del dominio
 
-{{global_index.legal_nombre_titular}} con NIF {{global_index.legal_nif_titular}}, domiciliada en la {{global_index.legal_nombre_titular_direccion}}, es la titular del dominio [{{global_index.website}}]({{global_index.website}}) y de su contenido.
+{{global_index.legal_nombre_titular}} con NIF {{global_index.legal_nif_titular}}, domiciliada en la {{global_index.legal_nombre_titular_direccion}}, es la titular del dominio [{{global_index.website}}]({{global_index.url}}/) y de su contenido.
 
 Dicha sociedad presta servicios odontológicos integrales, incluyendo tratamientos preventivos, estéticos, de ortodoncia e implantología, así como la prestación de todos los servicios asociados al principal.
 
