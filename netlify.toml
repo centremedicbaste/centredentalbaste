@@ -30,6 +30,14 @@ compress = true
 # =================================================================
 
 # /contacta/ era el antiguo enlace del botón "Pide tu cita"
+# Landing del cóctel (3.er aniversario, 24/04/2026) retirada tras el evento.
+# Su señal se consolida en el hub de tratamientos de Centre Mèdic Basté.
+[[redirects]]
+  from = "/coctel-medicina-estetica/"
+  to = "https://centremedicbaste.com/tratamientos/"
+  status = 301
+  force = true
+
 [[redirects]]
   from = "/contacta/"
   to = "/agenda/"
