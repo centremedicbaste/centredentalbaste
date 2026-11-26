@@ -6,8 +6,8 @@ tags: ["pages"]
 seccion: Tratamientos
 orden: 4
 
-metaTitle: "Tratamientos dentales en Sant Boi de Llobregat"
-metaDescription: "Todos nuestros tratamientos dentales en Sant Boi de Llobregat: implantes, ortodoncia, blanqueamiento, carillas y más. Financiación sin intereses. Pide cita."
+metaTitle: "Tratamientos dentales en Sant Boi | Centre Dental Basté"
+metaDescription: "Consulta los tratamientos dentales de Centre Dental Basté en Sant Boi: implantes, ortodoncia, estética dental, endodoncia, periodoncia y más."
 metaKeywords: tratamientos dentales, odontología, implantología, Sant Boi, Barcelona
 metaRobots: index, follow
 

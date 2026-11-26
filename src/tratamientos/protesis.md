@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: prótesis
 
-metaTitle: "Prótesis dentales en Sant Boi: fijas y removibles"
-metaDescription: "Prótesis dentales en Sant Boi de Llobregat: fijas, removibles y sobre implantes. Recupera masticación y sonrisa con financiación a medida."
+metaTitle: "Prótesis dentales en Sant Boi | Centre Dental Basté"
+metaDescription: "Prótesis dentales fijas, removibles y sobre implantes en Sant Boi de Llobregat, con opciones orientadas a mejorar la masticación y la comodidad."
 metaKeywords: prótesis dentales, Sant Boi de Llobregat, prótesis fijas, prótesis removibles, estética dental
 metaRobots: index, follow
 
@@ -16,7 +16,7 @@ metaRobots: index, follow
 introCta_title: PRÓTESIS
 introCta_image: /blog/protesis-dental-removible-sant-boi-llobregat.webp
 
-introtitle_title: PRÓTESIS DENTALES EN SANT BOI DE LLOBREGAT
+introtitle_title: "Prótesis dentales en Sant Boi de Llobregat"
 introtitle_subtitle: Mejora la estética y función de tu boca con nuestras prótesis dentales
 
 

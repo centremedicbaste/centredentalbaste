@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: Odontopediatría
 
-metaTitle: "Dentista infantil en Sant Boi de Llobregat"
-metaDescription: "Dentista infantil en Sant Boi de Llobregat. Especialistas en niños y ambiente adaptado, sin miedo. 1ª visita 60 € a cuenta del tratamiento."
+metaTitle: "Odontopediatra en Sant Boi | Centre Dental Basté"
+metaDescription: "Odontopediatría en Sant Boi para cuidar la salud bucodental de niños y adolescentes en un entorno adaptado. Pide una primera visita en la clínica."
 metaKeywords: odontología infantil, Sant Boi de Llobregat, cuidado dental, niños, salud bucal
 metaRobots: index, follow
 
@@ -16,7 +16,7 @@ metaRobots: index, follow
 introCta_title: ODONTOPEDIATRÍA
 introCta_image: /blog/blog-inner/odontologia-infantil-1024x600.webp
 
-introtitle_title: ODONTOLOGÍA INFANTIL EN SANT BOI DE LLOBREGAT
+introtitle_title: "Odontopediatra en Sant Boi de Llobregat"
 introtitle_subtitle: Cuidado dental para niños
 
 

@@ -8,15 +8,15 @@ tags: ["tratamientos"]
 
 seccion: microcirugía periodontal
 
-metaTitle: Microcirugía periodontal en Sant Boi | Centre Dental Basté
-metaDescription: Tratamiento de microcirugía periodontal en Sant Boi de Llobregat para casos avanzados de periodontitis. Técnicas mínimamente invasivas.
+metaTitle: "Injerto de encía en Sant Boi | Centre Dental Basté"
+metaDescription: "Injerto de encía y microcirugía periodontal en Sant Boi para abordar retracciones gingivales cuando estén indicados. Consulta tu caso con el equipo."
 metaKeywords: microcirugía periodontal, periodontitis, Sant Boi de Llobregat, cirugía de encías
 metaRobots: index, follow
 
 introCta_title: MICROCIRUGÍA PERIODONTAL
 introCta_image: /blog/blog-inner/encias-retraccion-1024x600.webp
 
-introtitle_title: MICROCIRUGÍA PERIODONTAL EN SANT BOI DE LLOBREGAT
+introtitle_title: "Injerto de encía y microcirugía periodontal en Sant Boi"
 introtitle_subtitle: Tratamiento avanzado para casos complejos de periodontitis
 
 content_1_title: ""

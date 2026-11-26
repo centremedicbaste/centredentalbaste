@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: ortodoncia
 
-metaTitle: Ortodoncia en Sant Boi de Llobregat | Brackets e Invisalign
-metaDescription: "Ortodoncia en Sant Boi de Llobregat para adultos y niños: brackets, Invisalign y ortodoncia invisible. Financiación sin intereses."
+metaTitle: "Ortodoncia en Sant Boi | Centre Dental Basté"
+metaDescription: "Ortodoncia en Sant Boi para adultos y niños, con brackets metálicos, estéticos y otras opciones adaptadas a cada caso. Solicita una valoración."
 metaKeywords: ortodoncia, Sant Boi de Llobregat, brackets, alineadores, sonrisa
 metaRobots: index, follow
 
@@ -17,7 +17,7 @@ introCta_title: ORTODONCIA
 introCta_image: /blog/blog-inner/ortodoncia-convencional.webp
 
 
-introtitle_title: ORTODONCIA EN SANT BOI DE LLOBREGAT
+introtitle_title: "Ortodoncia en Sant Boi de Llobregat"
 introtitle_subtitle: Soluciones de ortodoncia para una sonrisa alineada y saludable
 
 

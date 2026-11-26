@@ -7,15 +7,15 @@ tags: ["tratamientos"]
 
 seccion: blanqueamiento dental
 
-metaTitle: "Blanqueamiento dental en Sant Boi de Llobregat"
-metaDescription: Blanqueamiento dental profesional en Sant Boi de Llobregat. Hasta 8 tonos más blancos en una sesión. Seguro e indoloro. Pide cita al 936 354 025.
+metaTitle: "Blanqueamiento dental en Sant Boi | Centre Dental Basté"
+metaDescription: "Blanqueamiento dental profesional en Sant Boi de Llobregat para mejorar el tono de los dientes con un tratamiento adaptado. Pide una valoración."
 metaKeywords: blanqueamiento dental, dientes blancos, Sant Boi de Llobregat, estética dental
 metaRobots: index, follow
 
 introCta_title: BLANQUEAMIENTO DENTAL
 introCta_image: /blog/blog-inner/blanqueamiento-antes-despues.webp
 
-introtitle_title: BLANQUEAMIENTO DENTAL EN SANT BOI DE LLOBREGAT
+introtitle_title: "Blanqueamiento dental en Sant Boi de Llobregat"
 introtitle_subtitle: Recupera el color natural de tus dientes
 
 content_1_title: ""

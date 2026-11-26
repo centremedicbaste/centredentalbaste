@@ -6,8 +6,8 @@ tags: ["tratamientos"]
 
 seccion: All-on-4
 
-metaTitle: "All-on-4 en Sant Boi: dientes fijos en 24-48 h"
-metaDescription: "All-on-4 y All-on-6 en Sant Boi: dientes fijos en 24-48 h con 4 o 6 implantes. Financiación sin intereses hasta 30 meses."
+metaTitle: "All-on-4 en Sant Boi | Centre Dental Basté"
+metaDescription: "All-on-4 y All-on-6 en Sant Boi para rehabilitar una arcada completa. En casos indicados, puede colocarse una prótesis fija provisional en 24-48 horas."
 metaKeywords: "all-on-4, all on four, all-on-6, all on six, implantes carga inmediata, dientes fijos en un día, arcada completa sobre implantes, prótesis fija sobre implantes, Sant Boi de Llobregat, Barcelona"
 metaRobots: "index, follow"
 

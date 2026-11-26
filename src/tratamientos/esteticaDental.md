@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: estética-dental
 
-metaTitle: "Estética dental en Sant Boi de Llobregat | Basté"
-metaDescription: "Estética dental en Sant Boi de Llobregat: blanqueamiento, carillas de porcelana y diseño de sonrisa. Resultados desde la primera sesión."
+metaTitle: "Estética dental en Sant Boi | Centre Dental Basté"
+metaDescription: "Estética dental en Sant Boi con diseño de sonrisa, carillas y blanqueamiento. El equipo valora qué tratamiento se ajusta a tus necesidades."
 metaKeywords: estética dental, Sant Boi de Llobregat, blanqueamiento dental, carillas, encías
 metaRobots: index, follow
 
@@ -16,7 +16,7 @@ metaRobots: index, follow
 introCta_title: ESTÉTICA DENTAL
 introCta_image: /blog/40-carillas-dentales-sant-boi-llobregat-barcelona.webp
 
-introtitle_title: ESTÉTICA DENTAL EN SANT BOI DE LLOBREGAT
+introtitle_title: "Estética dental en Sant Boi de Llobregat"
 introtitle_subtitle: Logra una sonrisa radiante con nuestros tratamientos de blanqueamiento, carillas y más.
 
 

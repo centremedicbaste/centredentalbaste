@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: Odontología
 
-metaTitle: Higiene Dental en Sant Boi de Llobregat - Cuida tu Sonrisa
-metaDescription: Mantén una sonrisa saludable con nuestros servicios de higiene dental en Sant Boi de Llobregat. Prevención y cuidado bucal.
+metaTitle: "Limpieza e higiene dental en Sant Boi | Centre Dental Basté"
+metaDescription: "Limpieza e higiene dental profesional en Sant Boi para eliminar placa y sarro, cuidar las encías y prevenir problemas bucodentales. Pide cita."
 metaKeywords: higiene dental, Sant Boi de Llobregat, limpieza dental, prevención, salud bucal
 metaRobots: index, follow
 
@@ -16,7 +16,7 @@ metaRobots: index, follow
 introCta_title: ODONTOLOGIA
 introCta_image: /blog/blog-inner/dentista-en-sant-boi-llobregat.webp
 
-introtitle_title: HIGIENE DENTAL EN SANT BOI DE LLOBREGAT
+introtitle_title: "Limpieza e higiene dental en Sant Boi de Llobregat"
 introtitle_subtitle: Mantén una sonrisa saludable con nuestros servicios de higiene dental
 
 

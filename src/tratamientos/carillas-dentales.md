@@ -7,15 +7,15 @@ tags: ["tratamientos"]
 
 seccion: carillas dentales
 
-metaTitle: "Carillas dentales en Sant Boi de Llobregat"
-metaDescription: Carillas dentales de porcelana y composite en Sant Boi de Llobregat. Diseño digital de sonrisa con resultados naturales y duraderos.
+metaTitle: "Carillas dentales en Sant Boi | Centre Dental Basté"
+metaDescription: "Carillas dentales de porcelana y composite en Sant Boi de Llobregat para mejorar forma, color y proporción de la sonrisa. Solicita una valoración."
 metaKeywords: carillas dentales, porcelana, composite, diseño de sonrisa, Sant Boi de Llobregat
 metaRobots: index, follow
 
 introCta_title: CARILLAS DENTALES
 introCta_image: /blog/27-carillas-dentales-sant-boi-llobregat-barcelona.webp
 
-introtitle_title: CARILLAS DENTALES EN SANT BOI DE LLOBREGAT
+introtitle_title: "Carillas dentales en Sant Boi de Llobregat"
 introtitle_subtitle: Diseño digital de tu nueva sonrisa
 
 content_1_title: ""

@@ -7,8 +7,8 @@ tags: ["tratamientos"]
 
 seccion: raspado
 
-metaTitle: Raspado y curetaje dental en Sant Boi | Centre Dental Basté
-metaDescription: Tratamiento de raspado de diente y curetaje dental en Sant Boi de Llobregat para combatir la periodontitis. Técnicas profesionales para la salud de tus encías.
+metaTitle: "Curetaje dental en Sant Boi | Centre Dental Basté"
+metaDescription: "Curetaje dental y raspado radicular en Sant Boi como parte del tratamiento periodontal cuando están indicados. El equipo valorará tus encías."
 metaKeywords: raspado dental, curetaje dental, periodontitis, Sant Boi de Llobregat, tratamiento de encías
 metaRobots: index, follow
 
@@ -16,7 +16,7 @@ metaRobots: index, follow
 introCta_title: RASPADO DE DIENTE
 introCta_image: /blog/blog-inner/higiene-dental-ultrasonidos-1024x600.webp
 
-introtitle_title: RASPADO DE DIENTE
+introtitle_title: "Curetaje dental en Sant Boi de Llobregat"
 introtitle_subtitle: Combate la periodontitis
 
 

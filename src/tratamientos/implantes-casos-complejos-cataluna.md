@@ -6,8 +6,8 @@ tags: ["tratamientos"]
 
 seccion: Implantología compleja
 
-metaTitle: "Implantes en casos complejos de falta de hueso"
-metaDescription: "¿Te han dicho que no puedes llevar implantes por falta de hueso? Regeneración ósea e implantes subperiósticos a medida. Pide una segunda opinión."
+metaTitle: "Implantes para casos complejos | Centre Dental Basté"
+metaDescription: "Opciones para casos complejos con poco hueso, como implantes cigomáticos o subperiósticos. El equipo valorará qué alternativa puede estar indicada."
 metaRobots: "index, follow"
 metaKeywords: "implantes casos complejos, implantes sin hueso, implantes personalizados a medida, implante subperióstico, regeneración ósea, rehabilitación completa, segunda opinión implantes, Cataluña, Barcelona, Sant Boi de Llobregat"
 
@@ -19,7 +19,7 @@ listado_image: /assets/static/images/implante-personalizado-subperiostico-avinen
 ilustracion: /assets/static/images/implante-personalizado-subperiostico-avinent-sant-boi-llobregat.webp
 introCta_image: /blog/5-implantologia-dental-5.webp
 
-introtitle_title: IMPLANTES PARA CASOS COMPLEJOS EN CATALUÑA
+introtitle_title: "Implantes para casos complejos con falta de hueso"
 introtitle_subtitle: ¿Te han dicho que no puedes llevar implantes por falta de hueso? Tienes solución. Somos centro de referencia en implantología compleja. Pide una segunda opinión.
 
 pasos:

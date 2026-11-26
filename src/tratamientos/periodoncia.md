@@ -8,8 +8,8 @@ tags: ["tratamientos"]
 
 seccion: periodoncia
 
-metaTitle: Periodoncia en Sant Boi de Llobregat - Cuidado de Encías
-metaDescription: Tratamientos de periodoncia en Sant Boi de Llobregat para prevenir y tratar enfermedades de las encías.
+metaTitle: "Periodoncia en Sant Boi | Centre Dental Basté"
+metaDescription: "Tratamientos de periodoncia en Sant Boi para prevenir y tratar gingivitis, periodontitis y otros problemas de encías. Solicita una valoración."
 metaKeywords: periodoncia, Sant Boi de Llobregat, encías, gingivitis, periodontitis
 metaRobots: index, follow
 
@@ -17,7 +17,7 @@ metaRobots: index, follow
 introCta_title: PERIODONCIA
 introCta_image: /blog/12-problemas-encias.webp
 
-introtitle_title: PERIODONCIA EN SANT BOI DE LLOBREGAT
+introtitle_title: "Periodoncia en Sant Boi de Llobregat"
 introtitle_subtitle: Tratamientos de periodoncia para prevenir y tratar enfermedades de las encías
 
 
